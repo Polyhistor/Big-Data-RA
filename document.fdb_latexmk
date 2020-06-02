@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex document"] 1591056188 "document.aux" "document.bbl" "document" 1591057623
+["bibtex document"] 1591071499 "document.aux" "document.bbl" "document" 1591071501
   "D:/MikTex/bibtex/bst/bibtex/plain.bst" 1291861136 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "document.aux" 1591056189 1492 2b98cb62cec6152f011f67a224e48231 "pdflatex"
+  "document.aux" 1591071500 1870 abd1cbf8defb9f10a6bb44add6db17f3 "pdflatex"
   "test.bib" 1591057622 569 19f843b356fa00dcf9af25b2e9a0696e ""
   (generated)
-  "document.blg"
   "document.bbl"
-["pdflatex"] 1591056188 "c:/Users/Admin/OneDrive - AUT University/PHD Journey/document.tex" "c:/Users/Admin/OneDrive - AUT University/PHD Journey/document.pdf" "document" 1591057623
+  "document.blg"
+["pdflatex"] 1591071500 "c:/Users/Admin/OneDrive - AUT University/PHD Journey/document.tex" "c:/Users/Admin/OneDrive - AUT University/PHD Journey/document.pdf" "document" 1591071501
   "C:/Users/Admin/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1590990996 11548 e44175093b45ca6e570e355bbd17abed ""
   "C:/Users/Admin/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1591001589 10002695 3ddb406a357cf5f72ce241aa362eebce ""
   "C:/Users/Admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1591050781 77580 0902bf85dfadfdef13ad4bb0cb98be38 ""
@@ -31,6 +31,7 @@
   "D:/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "D:/MikTex/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "D:/MikTex/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
+  "D:/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "D:/MikTex/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "D:/MikTex/tex/context/base/mkii/supp-pdf.mkii" 1580386558 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "D:/MikTex/tex/generic/iftex/iftex.sty" 1583519800 6501 4011d89d9621e0b0901138815ba5ff29 ""
@@ -48,15 +49,16 @@
   "D:/MikTex/tex/latex/graphics/keyval.sty" 1580742942 2677 e3b24ff953e5b58d924f163d25380312 ""
   "D:/MikTex/tex/latex/graphics/trig.sty" 1580742942 4093 d7fa7d81d2870d509d25b17d0245e735 ""
   "D:/MikTex/tex/latex/l3backend/l3backend-pdfmode.def" 1588833310 25681 ff44b84000da696ec5fec7018b319c95 ""
-  "c:/Users/Admin/OneDrive - AUT University/PHD Journey/document.aux" 1591056189 1492 2b98cb62cec6152f011f67a224e48231 ""
-  "c:/Users/Admin/OneDrive - AUT University/PHD Journey/document.tex" 1591056185 2361 bba61bc88b3506439846735befc32408 ""
-  "document.aux" 1591056189 1492 2b98cb62cec6152f011f67a224e48231 "pdflatex"
-  "document.bbl" 1591056188 396 bf0bd61851bfba918e518d1c7d69af40 "bibtex document"
-  "document.tex" 1591056185 2361 bba61bc88b3506439846735befc32408 ""
+  "c:/Users/Admin/OneDrive - AUT University/PHD Journey/document.aux" 1591071500 1870 abd1cbf8defb9f10a6bb44add6db17f3 ""
+  "c:/Users/Admin/OneDrive - AUT University/PHD Journey/document.tex" 1591071498 2558 54cb33f9ab8b028ff24a1b488ef4b6ce ""
+  "document.aux" 1591071500 1870 abd1cbf8defb9f10a6bb44add6db17f3 "pdflatex"
+  "document.bbl" 1591071500 396 bf0bd61851bfba918e518d1c7d69af40 "bibtex document"
+  "document.tex" 1591071498 2558 54cb33f9ab8b028ff24a1b488ef4b6ce ""
   "latex.png" 1591047746 44982 3ab361abf8655bc56c8d7c9ba516a46e ""
+  "module.tex" 1591071402 58 8ec4a83488b04e5dfc26554e0eb2b6ef ""
   (generated)
-  "document.log"
-  "document.pdf"
   "c:/Users/Admin/OneDrive - AUT University/PHD Journey/document.log"
   "c:/Users/Admin/OneDrive - AUT University/PHD Journey/document.pdf"
   "document.aux"
+  "document.pdf"
+  "document.log"

@@ -60,6 +60,8 @@ INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\latex.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\latex.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\latex.png
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\module.tex
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\module.tex
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\document.bbl
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\document.bbl
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\document.aux
@@ -79,5 +81,7 @@ INPUT D:\MikTex\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT D:\MikTex\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT D:\MikTex\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT D:\MikTex\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT D:\MikTex\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT D:\MikTex\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT D:\MikTex\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT D:\MikTex\fonts\type1\public\amsfonts\cm\cmti10.pfb
