@@ -3,6 +3,8 @@
 % Packages
 \usepackage[margin=1in]{geometry}
 \usepackage{graphicx}
+\usepackage{cleveref}
+
 
 \title{ Big data reference architecture in the domain of e-commerce }
 \author{ Pouya Ataei }
@@ -88,9 +90,24 @@ $\underline{test underline}$
 
 you can see my table at Table \ref{tab:grades}
 
-\section{image}
+\section{Float: Figure environment}
 
-Some visual stuff to get the point across
+\begin{figure}[htbp]
+	\begin{center}
+		\includegraphics[width=10cm]{latex.png}
+		\caption{this is a banana}
+		\label{fig:banana}
+	\end{center}
+\end{figure}
+
+Some visual stuff to get the point across.
+
+any ? \Cref{fig:banana}
+
+\section{Referencing}
+
+I read a book~\cite{Bill2010}. 2 is ~\cite{latex}. 3 is ~\cite{Tom1980}
+
 
 \section{Conclusion}
 
@@ -104,4 +121,6 @@ strange things I noticed. `single quote' ``double quote"
 
 I'm having fun learning \LaTeX.
 
+\bibliographystyle{plain}
+\bibliography{test}
 \end{document}
