@@ -1,0 +1,5198 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+\APACciteatitle {Advocates Overcoming {IT} Resistance To {W}eb 2.0}}{%
+\APACciteatitle {Advocates Overcoming {IT} Resistance To {W}eb 2.0}}{%
+{\protect \APACyear {2007}}%
+}]{%
+Havenstein2007a}
+\APACinsertmetastar {%
+Havenstein2007a}%
+{\BBOQ}\APACrefatitle {Advocates Overcoming {IT} Resistance To {W}eb 2.0}
+  {Advocates overcoming {IT} resistance to {W}eb 2.0}.{\BBCQ}
+\newblock
+\APACrefYearMonthDay{2007}{Oct}{1}.
+\newblock
+\APACjournalVolNumPages{Computerworld}{41}{40}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Allen%
+}{%
+Allen%
+}{%
+{\protect \APACyear {1984}}%
+}]{%
+Allen1984}
+\APACinsertmetastar {%
+Allen1984}%
+\begin{APACrefauthors}%
+Allen, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1984}{July}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Towards a general theory of action and time} {Towards a
+  general theory of action and time}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Artificial Intelligence}{23}{2}{123--154}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/0004-3702(84)90008-0} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Alter%
+}{%
+Alter%
+}{%
+{\protect \APACyear {2001}}%
+}]{%
+Alter2001}
+\APACinsertmetastar {%
+Alter2001}%
+\begin{APACrefauthors}%
+Alter, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{April}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Which {L}ife {C}ycle --- {W}ork {S}ystem, {I}nformation
+  {S}ystem, {S}oftware?} {Which {L}ife {C}ycle --- {W}ork {S}ystem,
+  {I}nformation {S}ystem, {S}oftware?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Communications of the {AIS}}{5}{11}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Alter%
+}{%
+Alter%
+}{%
+{\protect \APACyear {2002}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+Alter2002}
+\APACinsertmetastar {%
+Alter2002}%
+\begin{APACrefauthors}%
+Alter, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2002{\protect \BCnt {1}}}.
+\newblock
+\APACrefbtitle {Information {S}ystems: the Foundation of e-business}
+  {Information {S}ystems: the foundation of e-business}\ (\PrintOrdinal{4th}\
+  \BEd).
+\newblock
+\APACaddressPublisher{Upper Saddle River}{Pearson Education}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Alter%
+}{%
+Alter%
+}{%
+{\protect \APACyear {2002}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+Alter2002a}
+\APACinsertmetastar {%
+Alter2002a}%
+\begin{APACrefauthors}%
+Alter, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002{\protect \BCnt {2}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The {W}ork {S}ystem method for understanding
+  {I}nformation {S}ystems and {I}nformation {S}ystem {R}esearch} {The {W}ork
+  {S}ystem method for understanding {I}nformation {S}ystems and {I}nformation
+  {S}ystem {R}esearch}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Communications of AIS}{9}{6}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Alter%
+}{%
+Alter%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+Alter2003}
+\APACinsertmetastar {%
+Alter2003}%
+\begin{APACrefauthors}%
+Alter, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{January}{6--9}.
+\newblock
+{\BBOQ}\APACrefatitle {Pervasive Real-time {IT} as a disruptive technology for
+  the {IS} field} {Pervasive real-time {IT} as a disruptive technology for the
+  {IS} field}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {36th {H}awaii {I}nternational {C}onference on {S}ystem
+  {S}ciences.} {36th {H}awaii {I}nternational {C}onference on {S}ystem
+  {S}ciences.}
+\newblock
+\APACaddressPublisher{Big Island, Hawaii, US}{IEEE}.
+\newblock
+\APAChowpublished {CDROM}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Alter%
+}{%
+Alter%
+}{%
+{\protect \APACyear {2004}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+Alter2004}
+\APACinsertmetastar {%
+Alter2004}%
+\begin{APACrefauthors}%
+Alter, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004{\protect \BCnt {1}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Making {W}ork {S}ystem {P}rinciples Visible and Usable
+  in {S}ystems {A}nalysis and {D}esign} {Making {W}ork {S}ystem {P}rinciples
+  visible and usable in {S}ystems {A}nalysis and {D}esign}.{\BBCQ}
+\newblock
+\BIn{} C.~Bullen\ \BBA {} E.~Stohr\ (\BEDS), \APACrefbtitle {Tenth {A}mericas
+  {C}onference on {I}nformation {S}ystems} {Tenth {A}mericas {C}onference on
+  {I}nformation {S}ystems}\ (\BPGS\ 4257---4267).
+\newblock
+\APACaddressPublisher{New York, New York}{Association for Information Systems}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Alter%
+}{%
+Alter%
+}{%
+{\protect \APACyear {2004}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+Alter2004a}
+\APACinsertmetastar {%
+Alter2004a}%
+\begin{APACrefauthors}%
+Alter, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004{\protect \BCnt {2}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Partial {I}nheritance in {S}ysperanto, an Ontology of
+  {I}nformation {S}ystems} {Partial {I}nheritance in {S}ysperanto, an ontology
+  of {I}nformation {S}ystems}.{\BBCQ}
+\newblock
+\BIn{} C.~Bullen\ \BBA {} E.~Stohr\ (\BEDS), \APACrefbtitle {Tenth {A}mericas
+  {C}onference on {I}nformation {S}ystems} {Tenth {A}mericas {C}onference on
+  {I}nformation {S}ystems}\ (\BPGS\ 4257--4267).
+\newblock
+\APACaddressPublisher{New York, New York}{Association for Information Systems}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Alter%
+}{%
+Alter%
+}{%
+{\protect \APACyear {2004}}%
+{\protect \APACexlab {{\protect \BCnt {3}}}}}]{%
+Alter2004b}
+\APACinsertmetastar {%
+Alter2004b}%
+\begin{APACrefauthors}%
+Alter, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004{\protect \BCnt {3}}}{August}{17}.
+\newblock
+{\BBOQ}\APACrefatitle {Possibilities for cross-fertilization between
+  interpretive approaches and other methods for analyzing information systems}
+  {Possibilities for cross-fertilization between interpretive approaches and
+  other methods for analyzing information systems}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{European Journal of Information
+  Systems}{13}{3}{173--185}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Alter%
+}{%
+Alter%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+Alter2005}
+\APACinsertmetastar {%
+Alter2005}%
+\begin{APACrefauthors}%
+Alter, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{January}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Architecture of {S}ysperanto: A Model-Based Ontology of
+  the \textsc{is} Field} {Architecture of {S}ysperanto: A model-based ontology
+  of the \textsc{is} field}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Communications of the {A}ssociation for {I}nformation
+  {S}ystems}{15}{1}{}.
+\newblock
+\begin{APACrefURL} [{16 April, 2008}]\url{www.stevenalter.com/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Alter%
+}{%
+Alter%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+Alter2006}
+\APACinsertmetastar {%
+Alter2006}%
+\begin{APACrefauthors}%
+Alter, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Work {S}ystems and {IT} Artifacts --- Does the
+  Definition Matter?} {Work {S}ystems and {IT} artifacts --- does the
+  definition matter?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Communications of the {AIS}.}{17}{14}{299--313}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Alter%
+\ \BBA {} Dennis%
+}{%
+Alter%
+\ \BBA {} Dennis%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+AlterDennis2002}
+\APACinsertmetastar {%
+AlterDennis2002}%
+\begin{APACrefauthors}%
+Alter, S.%
+\BCBT {}\ \BBA {} Dennis, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Selecting Research Topics: Personal Experiences and
+  Speculations for the Future} {Selecting research topics: Personal experiences
+  and speculations for the future}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Communications of the AIS}{8}{21}{314--329}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Anderson%
+}{%
+Anderson%
+}{%
+{\protect \APACyear {1964}}%
+}]{%
+Anderson1964}
+\APACinsertmetastar {%
+Anderson1964}%
+\begin{APACrefauthors}%
+Anderson, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1964}.
+\newblock
+\APACrefbtitle {Dimensions of Work: The Sociology of a Work Culture}
+  {Dimensions of work: The sociology of a work culture}.
+\newblock
+\APACaddressPublisher{New York}{David McKay Co.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Auer%
+, Jungmann%
+\BCBL {}\ \BBA {} Sch\"o{}nefeld%
+}{%
+Auer%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+Auer2007}
+\APACinsertmetastar {%
+Auer2007}%
+\begin{APACrefauthors}%
+Auer, S.%
+, Jungmann, B.%
+\BCBL {}\ \BBA {} Sch\"o{}nefeld, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{September}{3--7}.
+\newblock
+{\BBOQ}\APACrefatitle {Semantic Wiki Representations for Building an Enterprise
+  Knowledge Base} {Semantic wiki representations for building an enterprise
+  knowledge base}.{\BBCQ}
+\newblock
+\BIn{} G.~Antoniou\ \BOthers {.}\ (\BEDS), \APACrefbtitle {Reasoning Web 2007}
+  {Reasoning web 2007}\ (\BVOL\ 4636, \BPGS\ 330--333).
+\newblock
+\APACaddressPublisher{Berlin}{Springer-Verlag}.
+\newblock
+\APACrefnote{Lecture presented at the Reasoning Web Third International Summer
+  School 2007, Dresden, Germany}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Avineri%
+}{%
+Avineri%
+}{%
+{\protect \APACyear {1974}}%
+}]{%
+Avineri1974}
+\APACinsertmetastar {%
+Avineri1974}%
+\begin{APACrefauthors}%
+Avineri, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1974}.
+\newblock
+\APACrefbtitle {Hegel's theory of the modern state} {Hegel's theory of the
+  modern state}.
+\newblock
+\APACaddressPublisher{New York}{Cambridge University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Barenberg%
+}{%
+Barenberg%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+Barenberg1994}
+\APACinsertmetastar {%
+Barenberg1994}%
+\begin{APACrefauthors}%
+Barenberg, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Democracy and Domination in the Law of Workplace
+  Cooperation: From Bureaucratic to Flexible Production} {Democracy and
+  domination in the law of workplace cooperation: From bureaucratic to flexible
+  production}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Columbia Law Review}{94}{3}{753--983}.
+\newblock
+\begin{APACrefURL} [{17 October, 2010}]\url{http://www.jstor.org/
+  stable/1123248} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bell%
+, Ludwig%
+\BCBL {}\ \BBA {} Lycett%
+}{%
+Bell%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+Bell2007}
+\APACinsertmetastar {%
+Bell2007}%
+\begin{APACrefauthors}%
+Bell, D.%
+, Ludwig, S\BPBI A.%
+\BCBL {}\ \BBA {} Lycett, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Enterprise application reuse: Semantic discovery of
+  business grid services} {Enterprise application reuse: Semantic discovery of
+  business grid services}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Information Technology and Management}{8}{3}{223--239}.
+\newblock
+\APAChowpublished {Retrieved April 16, 2008, from ABI/INFORM Global database}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Ben Mokhtar}%
+, Preuveneers%
+, Georgantas%
+, Issarny%
+\BCBL {}\ \BBA {} Berbers%
+}{%
+{Ben Mokhtar}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+BenMokhtar2008}
+\APACinsertmetastar {%
+BenMokhtar2008}%
+\begin{APACrefauthors}%
+{Ben Mokhtar}, S.%
+, Preuveneers, D.%
+, Georgantas, N.%
+, Issarny, V.%
+\BCBL {}\ \BBA {} Berbers, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{May}{}.
+\newblock
+{\BBOQ}\APACrefatitle {\textsc{easy}: {E}fficient sem{A}ntic {S}ervice
+  discover{Y} in pervasive computing environments with {QoS} and context
+  support.} {\textsc{easy}: {E}fficient sem{A}ntic {S}ervice discover{Y} in
+  pervasive computing environments with {QoS} and context support.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Systems and Software}{81}{5}{785--808}.
+\newblock
+\begin{APACrefURL} [{16 April, 2008}]\url{http://search.ebsco host.com}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bentham%
+}{%
+Bentham%
+}{%
+{\protect \APACyear {1823}}%
+}]{%
+Bentham1823}
+\APACinsertmetastar {%
+Bentham1823}%
+\begin{APACrefauthors}%
+Bentham, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1823}.
+\newblock
+\APACrefbtitle {Principles of morals and legislation} {Principles of morals and
+  legislation}.
+\newblock
+\APACaddressPublisher{London}{Clarendon Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Berelson%
+, Lazarsfeld%
+\BCBL {}\ \BBA {} McPhee%
+}{%
+Berelson%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1954}}%
+}]{%
+Berelson1954}
+\APACinsertmetastar {%
+Berelson1954}%
+\begin{APACrefauthors}%
+Berelson, B\BPBI R.%
+, Lazarsfeld, P\BPBI F.%
+\BCBL {}\ \BBA {} McPhee, W\BPBI N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1954}.
+\newblock
+\APACrefbtitle {Voting} {Voting}.
+\newblock
+\APACaddressPublisher{Chicago}{University of Chicago Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Berners-Lee%
+}{%
+Berners-Lee%
+}{%
+{\protect \APACyear {1998}}%
+}]{%
+BernersLee1998}
+\APACinsertmetastar {%
+BernersLee1998}%
+\begin{APACrefauthors}%
+Berners-Lee, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998}{September}{}.
+\newblock
+\APACrefbtitle {Semantic Web Road map} {Semantic web road map}\ [Internet web
+  page].
+\newblock
+\APACaddressPublisher{{MIT}}{W3C}.
+\newblock
+\begin{APACrefURL} [{20 April, 2008}]\url{http://www.w3.org/DesignIss
+  ues/Semantic.html} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Berthoud%
+}{%
+Berthoud%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Berthoud2007}
+\APACinsertmetastar {%
+Berthoud2007}%
+\begin{APACrefauthors}%
+Berthoud, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The notion of work in the {E}mile of {J.J.} {R}ousseau}
+  {The notion of work in the {E}mile of {J.J.} {R}ousseau}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cahiers d'\'e{}conomie Politique}{}{53}{17--26}.
+\newblock
+\begin{APACrefURL} \url{http://ideas.repec.o
+  rg/a/cpo/journl/y2007i53p17-26.html} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Blumer%
+}{%
+Blumer%
+}{%
+{\protect \APACyear {1986}}%
+}]{%
+Blumer1986}
+\APACinsertmetastar {%
+Blumer1986}%
+\begin{APACrefauthors}%
+Blumer, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1986}.
+\newblock
+\APACrefbtitle {Symbolic {I}nteractionism, perspective and method} {Symbolic
+  {I}nteractionism, perspective and method}.
+\newblock
+\APACaddressPublisher{Berkely}{University of California Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bohman%
+}{%
+Bohman%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+Bohman2010}
+\APACinsertmetastar {%
+Bohman2010}%
+\begin{APACrefauthors}%
+Bohman, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{June}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Participation through publics: Did {D}ewey answer
+  {L}ippmann} {Participation through publics: Did {D}ewey answer
+  {L}ippmann}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Contemporary Pragmatism}{7}{1}{49--68}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bostrom%
+\ \BBA {} Heinen%
+}{%
+Bostrom%
+\ \BBA {} Heinen%
+}{%
+{\protect \APACyear {1979}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+BostromHeinen1979a}
+\APACinsertmetastar {%
+BostromHeinen1979a}%
+\begin{APACrefauthors}%
+Bostrom, R.%
+\BCBT {}\ \BBA {} Heinen, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1979{\protect \BCnt {1}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {\textsc{mis} Problems and Failures: A Socio-Technical
+  Perspective. {Part II}: The Application of Socio-Technical Theory}
+  {\textsc{mis} problems and failures: A socio-technical perspective. {Part
+  II}: The application of socio-technical theory}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{MIS Quarterly}{1}{4}{11--28}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bostrom%
+\ \BBA {} Heinen%
+}{%
+Bostrom%
+\ \BBA {} Heinen%
+}{%
+{\protect \APACyear {1979}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+BostromHeinen1979}
+\APACinsertmetastar {%
+BostromHeinen1979}%
+\begin{APACrefauthors}%
+Bostrom, R.%
+\BCBT {}\ \BBA {} Heinen, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1979{\protect \BCnt {2}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {\textsc{mis} Problems and Failures: A Socio-Technical
+  Perspective. {Part I}: The Causes} {\textsc{mis} problems and failures: A
+  socio-technical perspective. {Part I}: The causes}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{MIS Quarterly}{1}{3}{17--32}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bowman%
+\ \BBA {} West%
+}{%
+Bowman%
+\ \BBA {} West%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Bowman2007}
+\APACinsertmetastar {%
+Bowman2007}%
+\begin{APACrefauthors}%
+Bowman, J\BPBI S.%
+\BCBT {}\ \BBA {} West, J\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Lord {A}cton and Employment Doctrines: Absolute Power
+  and the Spread of At-Will Employment} {Lord {A}cton and employment doctrines:
+  Absolute power and the spread of at-will employment}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Business Ethics}{74}{2}{119--130}.
+\newblock
+\begin{APACrefURL} [{17 October, 2010}]\url{http://dx.doi.org
+  /10.1007/s10551-006-9224-0} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s10551-006-9224-0} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bra\"u{}ner%
+}{%
+Bra\"u{}ner%
+}{%
+{\protect \APACyear {2006/2008}}%
+}]{%
+Brauner2008}
+\APACinsertmetastar {%
+Brauner2008}%
+\begin{APACrefauthors}%
+Bra\"u{}ner, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{January}{24}.
+\newblock
+\APACrefbtitle {Hybrid Logic.} {Hybrid logic.}
+\newblock
+\APACaddressPublisher{Stanford, California}{Stanford University}.
+\newblock
+\begin{APACrefURL} [{20 December, 2010}]\url{http://plato.stanford.ed
+  u/entries/logic-hybrid/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Butler%
+}{%
+Butler%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+Butler2000}
+\APACinsertmetastar {%
+Butler2000}%
+\begin{APACrefauthors}%
+Butler, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Transforming information systems development through
+  computer-aided systems engineering ({CASE}): lessons from practice}
+  {Transforming information systems development through computer-aided systems
+  engineering ({CASE}): lessons from practice}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Information Systems Journal}{}{10}{167--193}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Butler%
+}{%
+Butler%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+Butler2003}
+\APACinsertmetastar {%
+Butler2003}%
+\begin{APACrefauthors}%
+Butler, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An institutional perspective on developing and
+  implementing intranet- and internet- based information systems} {An
+  institutional perspective on developing and implementing intranet- and
+  internet- based information systems}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Information Systems Journal}{}{13}{209--231}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Cameron, J. (Director/Writer)}%
+, {Hurd, G. A. (Writer/Producer)}%
+\BCBL {}\ \BBA {} {Ellison, H. (Writer)}%
+}{%
+{Cameron, J. (Director/Writer)}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1984}}%
+}]{%
+Cameron1984}
+\APACinsertmetastar {%
+Cameron1984}%
+\begin{APACrefauthors}%
+{Cameron, J. (Director/Writer)}%
+, {Hurd, G. A. (Writer/Producer)}%
+\BCBL {}\ \BBA {} {Ellison, H. (Writer)}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1984}{October}{26}.
+\newblock
+\APACrefbtitle {The {T}erminator} {The {T}erminator}\ [Motion Picture].
+\newblock
+\APACaddressPublisher{LA, US}{Orion Pictures Corporation}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Castro-Leon%
+, Jackson%
+\BCBL {}\ \BBA {} Chang%
+}{%
+Castro-Leon%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+Castro2007}
+\APACinsertmetastar {%
+Castro2007}%
+\begin{APACrefauthors}%
+Castro-Leon, E.%
+, Jackson%
+\BCBL {}\ \BBA {} Chang, H\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{June}{19--20}.
+\newblock
+{\BBOQ}\APACrefatitle {Scaling Down \textsc{soa} to Small Businesses} {Scaling
+  down \textsc{soa} to small businesses}{\BBCQ}\ [Conference proceedings].
+\newblock
+\BIn{} \APACrefbtitle {\textsc{ieee} International Conference on
+  Service-Oriented Computing and Applications} {\textsc{ieee} international
+  conference on service-oriented computing and applications}\ (\BPGS\ 99--106).
+\newblock
+\APACaddressPublisher{Los Alamitos, California}{\textsc{ieee} Computer
+  Society}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Chaplin, C. (Director/Producer/Writer)}%
+}{%
+{Chaplin, C. (Director/Producer/Writer)}%
+}{%
+{\protect \APACyear {1936}}%
+}]{%
+Chaplin1936}
+\APACinsertmetastar {%
+Chaplin1936}%
+\begin{APACrefauthors}%
+{Chaplin, C. (Director/Producer/Writer)}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1936}{February}{25}.
+\newblock
+\APACrefbtitle {Modern Times} {Modern times}\ [Motion Picture].
+\newblock
+\APACaddressPublisher{USA}{Charles Chaplin Productions}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Checkland%
+}{%
+Checkland%
+}{%
+{\protect \APACyear {1997}}%
+}]{%
+Checkland1997}
+\APACinsertmetastar {%
+Checkland1997}%
+\begin{APACrefauthors}%
+Checkland, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1997}.
+\newblock
+\APACrefbtitle {Information, Systems, and Information Systems} {Information,
+  systems, and information systems}.
+\newblock
+\APACaddressPublisher{Chichester, UK}{John Wiley}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Checkland%
+}{%
+Checkland%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+Checkland1999}
+\APACinsertmetastar {%
+Checkland1999}%
+\begin{APACrefauthors}%
+Checkland, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1999}.
+\newblock
+\APACrefbtitle {Soft Systems Thinking, Systems practice} {Soft systems
+  thinking, systems practice}.
+\newblock
+\APACaddressPublisher{Chichester, England}{John Wiley \& Sons}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cherns%
+}{%
+Cherns%
+}{%
+{\protect \APACyear {1987}}%
+}]{%
+Cherns1987}
+\APACinsertmetastar {%
+Cherns1987}%
+\begin{APACrefauthors}%
+Cherns, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1987}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Principles of sociotechnical design revisited}
+  {Principles of sociotechnical design revisited}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Human {R}elations}{}{40}{153--162}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Constantinides%
+\ \BBA {} Fountain%
+}{%
+Constantinides%
+\ \BBA {} Fountain%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Constantinides2008}
+\APACinsertmetastar {%
+Constantinides2008}%
+\begin{APACrefauthors}%
+Constantinides, E.%
+\BCBT {}\ \BBA {} Fountain, S\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{January}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Web 2.0: Conceptual foundations and marketing issues}
+  {Web 2.0: Conceptual foundations and marketing issues}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of {D}irect, {D}ata and {D}igital {M}arketing
+  {P}ractice: Special Issue: Web 2.0}{9}{3}{231--244}.
+\newblock
+\APAChowpublished {Retrieved April 16, 2008, from ABI/INFORM Global database}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Davis%
+\ \BBA {} Taylor%
+}{%
+Davis%
+\ \BBA {} Taylor%
+}{%
+{\protect \APACyear {1979}}%
+}]{%
+DavisTaylor1979}
+\APACinsertmetastar {%
+DavisTaylor1979}%
+\begin{APACrefauthors}%
+Davis, L.%
+\BCBT {}\ \BBA {} Taylor, J.%
+\end{APACrefauthors}%
+\ (\BEDS).
+\unskip\
+\newblock
+\APACrefYear{1979}.
+\newblock
+\APACrefbtitle {Design of Jobs} {Design of jobs}.
+\newblock
+\APACaddressPublisher{Santa Monica, CA}{Goodyear Publishing Company}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dennison%
+}{%
+Dennison%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Dennison2007}
+\APACinsertmetastar {%
+Dennison2007}%
+\begin{APACrefauthors}%
+Dennison, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{November}{12}.
+\newblock
+\APACrefbtitle {{BT} 2.0 Case Study} {{BT} 2.0 case study}\ [Internet web
+  page].
+\newblock
+\APAChowpublished {Republished article from \emph{Employee Engagement Today}}.
+\newblock
+\APACaddressPublisher{}{Richard Dennison, Wordpress.com}.
+\newblock
+\begin{APACrefURL} [{6 September, 2010}]\url{http://richarddenniso
+  n.wordpress.com} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Derrida%
+}{%
+Derrida%
+}{%
+{\protect \APACyear {1978}}%
+}]{%
+Derrida1978}
+\APACinsertmetastar {%
+Derrida1978}%
+\begin{APACrefauthors}%
+Derrida, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1978}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Structure, {S}ign, and {P}lay in the discourse of the
+  human sciences} {Structure, {S}ign, and {P}lay in the discourse of the human
+  sciences}.{\BBCQ}
+\newblock
+\BIn{} A.~Bess\ (\BTRANS), \APACrefbtitle {Writing and Difference.} {Writing
+  and difference.}
+\newblock
+\APACaddressPublisher{Chicago}{University of Chicago Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dewey%
+}{%
+Dewey%
+}{%
+{\protect \APACyear {1891}}%
+}]{%
+Dewey1891}
+\APACinsertmetastar {%
+Dewey1891}%
+\begin{APACrefauthors}%
+Dewey, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1891}{January}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Moral theory and practice} {Moral theory and
+  practice}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Journal of Ethics}{1}{2}{186--203}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dewey%
+}{%
+Dewey%
+}{%
+{\protect \APACyear {1938}}%
+}]{%
+Dewey1938}
+\APACinsertmetastar {%
+Dewey1938}%
+\begin{APACrefauthors}%
+Dewey, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1938}{February}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Does human nature change?} {Does human nature
+  change?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Rotarian}{52}{8}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dewey%
+}{%
+Dewey%
+}{%
+{\protect \APACyear {1939}}%
+}]{%
+Dewey1939}
+\APACinsertmetastar {%
+Dewey1939}%
+\begin{APACrefauthors}%
+Dewey, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1939}.
+\newblock
+\APACrefbtitle {Intelligence in the modern world} {Intelligence in the modern
+  world}.
+\newblock
+\APACaddressPublisher{New York}{Random House}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dewey%
+}{%
+Dewey%
+}{%
+{\protect \APACyear {1948}}%
+}]{%
+Dewey1948}
+\APACinsertmetastar {%
+Dewey1948}%
+\begin{APACrefauthors}%
+Dewey, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1948}.
+\newblock
+\APACrefbtitle {Reconstruction in philosophy} {Reconstruction in philosophy}.
+\newblock
+\APACaddressPublisher{New York}{Beacon}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dewey%
+}{%
+Dewey%
+}{%
+{\protect \APACyear {1927/1981--1991}}%
+}]{%
+Dewey1927}
+\APACinsertmetastar {%
+Dewey1927}%
+\begin{APACrefauthors}%
+Dewey, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1981--1991}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The {P}ublic and its problems} {The {P}ublic and its
+  problems}.{\BBCQ}
+\newblock
+\BIn{} J\BPBI A.~Bodston\ (\BED), \APACrefbtitle {The later works of {J}ohn
+  {D}ewey} {The later works of {J}ohn {D}ewey}\ (\BVOL~3, \BPG~276).
+\newblock
+\APACaddressPublisher{Carbondale}{Southern Illinois University Press}.
+\newblock
+\APACorigyearnote{1927}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dietrich%
+\ \BBA {} Jones%
+}{%
+Dietrich%
+\ \BBA {} Jones%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Dietrich2007}
+\APACinsertmetastar {%
+Dietrich2007}%
+\begin{APACrefauthors}%
+Dietrich, J.%
+\BCBT {}\ \BBA {} Jones, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{April}{10--13}.
+\newblock
+{\BBOQ}\APACrefatitle {Using Social Networking and Semantic Web Technology in
+  Software Engineering --- Use Cases, Patterns, and a Case Study} {Using social
+  networking and semantic web technology in software engineering --- use cases,
+  patterns, and a case study}{\BBCQ}\ [Conference proceedings].
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 2007 {A}ustralian Software
+  Engineering Conference} {Proceedings of the 2007 {A}ustralian software
+  engineering conference}\ (\BPGS\ 129--136).
+\newblock
+\APACaddressPublisher{Australia}{\textsc{ieee} Computer Society}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+DiNucci%
+}{%
+DiNucci%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+DiNucci1999}
+\APACinsertmetastar {%
+DiNucci1999}%
+\begin{APACrefauthors}%
+DiNucci, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Fragmented Future} {Fragmented future}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Print}{53}{4}{32 and 221}.
+\newblock
+\begin{APACrefURL} [{7 September,
+  2010}]\url{http://www.cole20.com/web-20-history-fragm ented-future-recovered}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dunning%
+}{%
+Dunning%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Dunning2008}
+\APACinsertmetastar {%
+Dunning2008}%
+\begin{APACrefauthors}%
+Dunning, J\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2008}.
+\newblock
+\APACrefbtitle {Multinational Enterprises And The Global Economy}
+  {Multinational enterprises and the global economy}\ (\PrintOrdinal{2nd}\
+  \BEd).
+\newblock
+\APACaddressPublisher{Cheltenham, Gloucestershire UK}{Edward Elgar}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dupr\'e{}%
+\ \BBA {} Gagnier%
+}{%
+Dupr\'e{}%
+\ \BBA {} Gagnier%
+}{%
+{\protect \APACyear {1996}}%
+}]{%
+DupreGagnier1996}
+\APACinsertmetastar {%
+DupreGagnier1996}%
+\begin{APACrefauthors}%
+Dupr\'e{}, J.%
+\BCBT {}\ \BBA {} Gagnier, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1996}{June}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A brief history of work} {A brief history of
+  work}{\BBCQ}\ [Proceedings Paper].
+\newblock
+\APACjournalVolNumPages{Journal of Economic Issues}{30}{2}{553--559}.
+\newblock
+\APACrefnote{Presented at the Annual Meeting of the Association for
+  Evolutionary Economics, San Francisco, CA, in January 5--7, 1996}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Eckstein%
+}{%
+Eckstein%
+}{%
+{\protect \APACyear {1966}}%
+}]{%
+Eckstein1966}
+\APACinsertmetastar {%
+Eckstein1966}%
+\begin{APACrefauthors}%
+Eckstein, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1966}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A theory of stable democracy} {A theory of stable
+  democracy}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Division and cohesion in democracy.} {Division and
+  cohesion in democracy.}
+\newblock
+\APACaddressPublisher{New Jersey}{Princeton University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Evans-Greenwood%
+}{%
+Evans-Greenwood%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Evans2007}
+\APACinsertmetastar {%
+Evans2007}%
+\begin{APACrefauthors}%
+Evans-Greenwood, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{January}{}.
+\newblock
+{\BBOQ}\APACrefatitle {\textsc{soa} versus {W}eb 2.0: cage match} {\textsc{soa}
+  versus {W}eb 2.0: cage match}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Information Management \&{} Consulting}{22}{1}{49--50}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Evers%
+\ \BBA {} Lakomski%
+}{%
+Evers%
+\ \BBA {} Lakomski%
+}{%
+{\protect \APACyear {1996}}%
+}]{%
+Evers1996}
+\APACinsertmetastar {%
+Evers1996}%
+\begin{APACrefauthors}%
+Evers, C\BPBI W.%
+\BCBT {}\ \BBA {} Lakomski, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1996}{August}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Science in educational administration: A postpositivist
+  conception} {Science in educational administration: A postpositivist
+  conception}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Educational Administration Quarterly}{32}{3}{379--402}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Evola%
+}{%
+Evola%
+}{%
+{\protect \APACyear {1961/2003}}%
+}]{%
+Evola2003}
+\APACinsertmetastar {%
+Evola2003}%
+\begin{APACrefauthors}%
+Evola, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2003}.
+\newblock
+\APACrefbtitle {Ride the Tiger: A Survival Manual for the Aristocrats of the
+  Soul} {Ride the tiger: A survival manual for the aristocrats of the soul}\
+  (J.~Godwin\ \BBA {} C.~Fontana, \BTRANSS{}).
+\newblock
+\APACaddressPublisher{Rochester, Vermont}{Inner Traditions}.
+\newblock
+\APACorigyearnote{1961}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Falcon%
+}{%
+Falcon%
+}{%
+{\protect \APACyear {2006/2008}}%
+}]{%
+Falcon2008}
+\APACinsertmetastar {%
+Falcon2008}%
+\begin{APACrefauthors}%
+Falcon, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{April}{22nd}.
+\newblock
+{\BBOQ}\APACrefatitle {Aristotle on Causality} {Aristotle on causality}{\BBCQ}\
+  [Internet web page].
+\newblock
+\BIn{} \APACrefbtitle {The {S}tanford Encyclopedia of Philosophy.} {The
+  {S}tanford encyclopedia of philosophy.}
+\newblock
+\APACaddressPublisher{Stanford, California}{Stanford University}.
+\newblock
+\begin{APACrefURL} [{18 November, 2010}]\url{http://plato.stanford.edu/ent
+  ries/aristotle-causality} \end{APACrefURL}
+\newblock
+\APACorigyearnote{2006}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Flynn%
+}{%
+Flynn%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Flynn2008}
+\APACinsertmetastar {%
+Flynn2008}%
+\begin{APACrefauthors}%
+Flynn, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+\APACrefbtitle {Beyond the {F}lynn {E}ffect: Solution to all outstanding
+  problems --- except enhancing wisdom} {Beyond the {F}lynn {E}ffect: Solution
+  to all outstanding problems --- except enhancing wisdom}\ [Internet web
+  site].
+\newblock
+\APACaddressPublisher{Cambridge, England}{The Psychometrics Centre, University
+  of Cambridge}.
+\newblock
+\begin{APACrefURL} [{19 May,
+  2011}]\url{http://www.psychometrics.ppsis.cam.ac.uk/page/109/bey
+  ond-the-flynn-effect.htm} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Fojt%
+}{%
+Fojt%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+Fojt2009}
+\APACinsertmetastar {%
+Fojt2009}%
+\begin{APACrefauthors}%
+Fojt, M\BPBI M.%
+\end{APACrefauthors}%
+\ (\BED).
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Social networking and the workplace; Making the most of
+  {W}eb 2.0 technologies} {Social networking and the workplace; making the most
+  of {W}eb 2.0 technologies}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Strategic Direction}{25}{8}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Galton%
+}{%
+Galton%
+}{%
+{\protect \APACyear {1999/2008}}%
+}]{%
+Galton2008}
+\APACinsertmetastar {%
+Galton2008}%
+\begin{APACrefauthors}%
+Galton, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{February}{7}.
+\newblock
+\APACrefbtitle {Temporal Logic.} {Temporal logic.}
+\newblock
+\APACaddressPublisher{Stanford, California}{Stanford University}.
+\newblock
+\begin{APACrefURL} [{17 December, 2010}]\url{http://plato.stanford.edu
+  /entries/logic-temporal/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gane%
+\ \BBA {} Sarson%
+}{%
+Gane%
+\ \BBA {} Sarson%
+}{%
+{\protect \APACyear {1979}}%
+}]{%
+GaneSarson1979}
+\APACinsertmetastar {%
+GaneSarson1979}%
+\begin{APACrefauthors}%
+Gane, C.%
+\BCBT {}\ \BBA {} Sarson, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1979}.
+\newblock
+\APACrefbtitle {Structured Systems Analysis: Tools and techniques} {Structured
+  systems analysis: Tools and techniques}.
+\newblock
+\APACaddressPublisher{Englewood Cliffs, New Jersey}{Prentice Hall}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Garland%
+\ \BBA {} Haymes%
+}{%
+Garland%
+\ \BBA {} Haymes%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Garland2008}
+\APACinsertmetastar {%
+Garland2008}%
+\begin{APACrefauthors}%
+Garland, D\BPBI W.%
+\BCBT {}\ \BBA {} Haymes, K\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{March}{17}.
+\newblock
+{\BBOQ}\APACrefatitle {What are employers to do about the new social media}
+  {What are employers to do about the new social media}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{New Jersey Law Journal}{}{}{}.
+\newblock
+\APAChowpublished {Retrieved 20 April, 2008 from Expanded Academic ASAP via
+  Gale}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Garson%
+}{%
+Garson%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+Garson2009}
+\APACinsertmetastar {%
+Garson2009}%
+\begin{APACrefauthors}%
+Garson, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{October}{2}.
+\newblock
+\APACrefbtitle {Modal logic} {Modal logic}\ [Internet web page].
+\newblock
+\APACaddressPublisher{Stanford, California}{Stanford University}.
+\newblock
+\begin{APACrefURL} [{12 December, 2010}]\url{http://plato.sta
+  nford.edu/entries/logic-modal} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Geach%
+}{%
+Geach%
+}{%
+{\protect \APACyear {1969}}%
+}]{%
+Geach1969}
+\APACinsertmetastar {%
+Geach1969}%
+\begin{APACrefauthors}%
+Geach, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1969}.
+\newblock
+\APACrefbtitle {God and the Soul} {God and the soul}.
+\newblock
+\APACaddressPublisher{London}{Routledge}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Goh%
+, Lee%
+, He%
+\BCBL {}\ \BBA {} Tan%
+}{%
+Goh%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+Goh2007}
+\APACinsertmetastar {%
+Goh2007}%
+\begin{APACrefauthors}%
+Goh, C\BPBI M.%
+, Lee, S\BPBI P.%
+, He, W.%
+\BCBL {}\ \BBA {} Tan, P\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{September}{25--28}.
+\newblock
+{\BBOQ}\APACrefatitle {Web 2.0 Concepts and Technologies for Dynamic {B2B}
+  Integration} {Web 2.0 concepts and technologies for dynamic {B2B}
+  integration}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {\textsc{ieee} Conference on Emerging Technologies \&{}
+  Factory Automation} {\textsc{ieee} conference on emerging technologies \&{}
+  factory automation}\ (\BPGS\ 315--321).
+\newblock
+\APACaddressPublisher{Patras}{\textsc{ieee}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Goodin%
+\ \BBA {} Pettit%
+}{%
+Goodin%
+\ \BBA {} Pettit%
+}{%
+{\protect \APACyear {1995}}%
+}]{%
+Goodin1995}
+\APACinsertmetastar {%
+Goodin1995}%
+\begin{APACrefauthors}%
+Goodin, R\BPBI E.%
+\BCBT {}\ \BBA {} Pettit, P.%
+\end{APACrefauthors}%
+\ (\BEDS).
+\unskip\
+\newblock
+\APACrefYear{1995}.
+\newblock
+\APACrefbtitle {A Companion to Contemporary political philosophy} {A companion
+  to contemporary political philosophy}.
+\newblock
+\APACaddressPublisher{Carlton, Victoria, Australia}{Blackwell}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Grace%
+}{%
+Grace%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+Grace2009}
+\APACinsertmetastar {%
+Grace2009}%
+\begin{APACrefauthors}%
+Grace, T\BPBI P\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Wikis as a knowledge management tool} {Wikis as a
+  knowledge management tool}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Knowledge Management}{13}{4}{64--74}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Graham%
+}{%
+Graham%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+Graham2005}
+\APACinsertmetastar {%
+Graham2005}%
+\begin{APACrefauthors}%
+Graham, D\BPBI W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{July}{5th}.
+\newblock
+\APACrefbtitle {Heraclitus (fl. c.500 {BCE})} {Heraclitus (fl. c.500 {BCE})}\
+  [Internet Web page].
+\newblock
+\APACaddressPublisher{Martin, Tennessee}{IEP}.
+\newblock
+\begin{APACrefURL} [{15 November, 2010}]\url{http://www.iep.utm. edu/heraclit/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gripaldo%
+}{%
+Gripaldo%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+Gripaldo2003}
+\APACinsertmetastar {%
+Gripaldo2003}%
+\begin{APACrefauthors}%
+Gripaldo, R\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{August}{8--9}.
+\newblock
+{\BBOQ}\APACrefatitle {The Person As Individual And Social Being} {The person
+  as individual and social being}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {An International Conference on The Dialogue Of Cultural
+  Traditions : Global Perspective.} {An international conference on the
+  dialogue of cultural traditions : Global perspective.}
+\newblock
+\APACaddressPublisher{Istanbul, Turkey}{Council for Research in Values and
+  Philosophy}.
+\newblock
+\begin{APACrefURL} [{10 November, 2010}]\url{http://www.crvp.org/conf
+  /Istanbul/abstracts/Rolando M. Gripaldo.htm} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gruber%
+}{%
+Gruber%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Gruber2008}
+\APACinsertmetastar {%
+Gruber2008}%
+\begin{APACrefauthors}%
+Gruber, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{February}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Collective knowledge systems: Where the social web meets
+  the semantic web} {Collective knowledge systems: Where the social web meets
+  the semantic web}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of web semantics}{6}{1}{4--13}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Guirand%
+}{%
+Guirand%
+}{%
+{\protect \APACyear {1987}}%
+}]{%
+Larousse1987}
+\APACinsertmetastar {%
+Larousse1987}%
+\begin{APACrefauthors}%
+Guirand, F.%
+\end{APACrefauthors}%
+\ (\BED).
+\unskip\
+\newblock
+\APACrefYear{1987}.
+\newblock
+\APACrefbtitle {The new {L}arousse encyclopaedia of mythology} {The new
+  {L}arousse encyclopaedia of mythology}\ (R.~Aldington\ \BBA {} D.~Ames,
+  \BTRANSS{}).
+\newblock
+\APACaddressPublisher{London}{Crescent Books}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gustafson%
+}{%
+Gustafson%
+}{%
+{\protect \APACyear {1986}}%
+}]{%
+Gustafson1986}
+\APACinsertmetastar {%
+Gustafson1986}%
+\begin{APACrefauthors}%
+Gustafson, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1986}.
+\newblock
+\APACrefbtitle {From the cradle to the grave} {From the cradle to the grave}.
+\newblock
+\APACaddressPublisher{Auckland}{Reed Methuen}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hackman%
+}{%
+Hackman%
+}{%
+{\protect \APACyear {1990}}%
+}]{%
+Hackman1990}
+\APACinsertmetastar {%
+Hackman1990}%
+\begin{APACrefauthors}%
+Hackman, J\BPBI R.%
+\end{APACrefauthors}%
+\ (\BED).
+\unskip\
+\newblock
+\APACrefYear{1990}.
+\newblock
+\APACrefbtitle {Groups that work (and those that don't): Creating conditions
+  for effective team-work} {Groups that work (and those that don't): Creating
+  conditions for effective team-work}.
+\newblock
+\APACaddressPublisher{San Francisco, US}{Jossey-Bass}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hauben%
+}{%
+Hauben%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+Hauben1994}
+\APACinsertmetastar {%
+Hauben1994}%
+\begin{APACrefauthors}%
+Hauben, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{December}{20th}.
+\newblock
+\APACrefbtitle {History of {ARPANET}} {History of {ARPANET}}\ [Internet web
+  site].
+\newblock
+\APACaddressPublisher{Porto, Portugal}{Instituto Superior de Engnharia do
+  Porto, Departmento De Engenharia Inform\'{a}tica}.
+\newblock
+\begin{APACrefURL} [{23 November, 2010}]\url{http://www.dei.isep.i
+  pp.pt/\texttildelow{}acc/docs/arpa.html} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+He%
+, Tan%
+, Goh%
+, Lee%
+\BCBL {}\ \BBA {} Lee%
+}{%
+He%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+He2007}
+\APACinsertmetastar {%
+He2007}%
+\begin{APACrefauthors}%
+He, W.%
+, Tan, P\BPBI S.%
+, Goh, C\BPBI M.%
+, Lee, S\BPBI P.%
+\BCBL {}\ \BBA {} Lee, E\BPBI W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{September}{25--28}.
+\newblock
+{\BBOQ}\APACrefatitle {An Investigative Approach on Improving {B2B}
+  Interactions and Communication Capabilities for Enterprise Integration using
+  {W}eb 2.0 Technologies} {An investigative approach on improving {B2B}
+  interactions and communication capabilities for enterprise integration using
+  {W}eb 2.0 technologies}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {\textsc{ieee} Conference on Emerging Technologies \&{}
+  Factory Automation} {\textsc{ieee} conference on emerging technologies \&{}
+  factory automation}\ (\BPGS\ 330--335).
+\newblock
+\APACaddressPublisher{Patras}{\textsc{ieee}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Heidegger%
+}{%
+Heidegger%
+}{%
+{\protect \APACyear {1931/1981}}%
+}]{%
+Heidegger1981}
+\APACinsertmetastar {%
+Heidegger1981}%
+\begin{APACrefauthors}%
+Heidegger, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1981}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Aristolese: Metaphysik} {Aristolese: Metaphysik}.{\BBCQ}
+\newblock
+\BIn{} H.~H\"u{}ni\ (\BED), \APACrefbtitle {Gesamtausgabe} {Gesamtausgabe}\
+  (\BVOLS\ 1--3).
+\newblock
+\APACaddressPublisher{Frankfurt am Main}{Vittorio Klostermann}.
+\newblock
+\APACorigyearnote{1931}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Heidegger%
+}{%
+Heidegger%
+}{%
+{\protect \APACyear {1993}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+Heidegger1993book}
+\APACinsertmetastar {%
+Heidegger1993book}%
+\begin{APACrefauthors}%
+Heidegger, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1993{\protect \BCnt {1}}}.
+\newblock
+\APACrefbtitle {Basic Writings} {Basic writings}\ (D\BPBI F.~Krell, \BED{}).
+\newblock
+\APACaddressPublisher{San Francisco}{Harper Collins}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Heidegger%
+}{%
+Heidegger%
+}{%
+{\protect \APACyear {1972/1993}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+Heidegger1972}
+\APACinsertmetastar {%
+Heidegger1972}%
+\begin{APACrefauthors}%
+Heidegger, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1993{\protect \BCnt {2}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Being and Time} {Being and time}.{\BBCQ}
+\newblock
+\BIn{} D\BPBI F.~Krell\ (\BED), \APACrefbtitle {Basic Writings} {Basic
+  writings}\ (\BPGS\ 41--87).
+\newblock
+\APACaddressPublisher{San Francisco}{Harper Collins}.
+\newblock
+\APACorigyearnote{1972}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Heidegger%
+}{%
+Heidegger%
+}{%
+{\protect \APACyear {1954/1993}}%
+{\protect \APACexlab {{\protect \BCnt {3}}}}}]{%
+Heidegger1954}
+\APACinsertmetastar {%
+Heidegger1954}%
+\begin{APACrefauthors}%
+Heidegger, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1993{\protect \BCnt {3}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The question concerning technology} {The question
+  concerning technology}.{\BBCQ}
+\newblock
+\BIn{} D\BPBI F.~Krell\ (\BED), \APACrefbtitle {Basic Writings} {Basic
+  writings}\ (\BPGS\ 311--341).
+\newblock
+\APACaddressPublisher{San Francisco}{Harper Collins}.
+\newblock
+\APACorigyearnote{1954}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hendricks%
+}{%
+Hendricks%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+Hendricks2006}
+\APACinsertmetastar {%
+Hendricks2006}%
+\begin{APACrefauthors}%
+Hendricks, V\BPBI F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2006}.
+\newblock
+\APACrefbtitle {Mainstream and Formal Epistemology} {Mainstream and formal
+  epistemology}.
+\newblock
+\APACaddressPublisher{New York}{Cambridge University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Henham%
+}{%
+Henham%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+Henham2000}
+\APACinsertmetastar {%
+Henham2000}%
+\begin{APACrefauthors}%
+Henham, R\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {On the Philosophical and Theoretical Implications of
+  Judicial Decision Support Systems} {On the philosophical and theoretical
+  implications of judicial decision support systems}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Review of Law Computers \&{}
+  Technology}{14}{3}{283--296}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hj\o{}rland%
+}{%
+Hj\o{}rland%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+Hjorland2005}
+\APACinsertmetastar {%
+Hjorland2005}%
+\begin{APACrefauthors}%
+Hj\o{}rland, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Library and information science and the philosophy of
+  science} {Library and information science and the philosophy of
+  science}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Documentation}{61}{1}{5--10}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hj\o{}rland%
+\ \BBA {} Nicolaisen%
+}{%
+Hj\o{}rland%
+\ \BBA {} Nicolaisen%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+Hjorland2006}
+\APACinsertmetastar {%
+Hjorland2006}%
+\begin{APACrefauthors}%
+Hj\o{}rland, B.%
+\BCBT {}\ \BBA {} Nicolaisen, J.%
+\end{APACrefauthors}%
+\ (\BEDS).
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{January}{11}.
+\newblock
+\APACrefbtitle {Pragmatism} {Pragmatism}\ [Internet web page].
+\newblock
+\APAChowpublished {An article in The Epistemological Lifeboat: Epistemology and
+  Philosophy of Science for Information Scientists}.
+\newblock
+\APACaddressPublisher{}{Royal School of Library and Information Science}.
+\newblock
+\begin{APACrefURL} [{20 October, 2006}]\url{http://www.db.dk/
+  jni/lifeboat/Positions/Pragmatism.htm} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hofweber%
+}{%
+Hofweber%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+Hofweber2011}
+\APACinsertmetastar {%
+Hofweber2011}%
+\begin{APACrefauthors}%
+Hofweber, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+\APACrefbtitle {Logic and Ontology} {Logic and ontology}\ (\PrintOrdinal{Fall
+  2011}\ \BEd)\ [Internet web page].
+\newblock
+\APAChowpublished {The Stanford Encyclopedia of Philosophy}.
+\newblock
+\APACaddressPublisher{}{Stanford University}.
+\newblock
+\begin{APACrefURL} [{13 September,
+  2012}]\url{http://plato.stanford.edu/archives/fall2011/
+  entries/logic-ontology/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hoover%
+}{%
+Hoover%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Hoover2007}
+\APACinsertmetastar {%
+Hoover2007}%
+\begin{APACrefauthors}%
+Hoover, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{April}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Web 2.0 tools in business: proceed with caution} {Web
+  2.0 tools in business: proceed with caution}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Bank Systems + Technology}{44}{4}{41--3}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Huang%
+}{%
+Huang%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+Huang2006}
+\APACinsertmetastar {%
+Huang2006}%
+\begin{APACrefauthors}%
+Huang, S\BHBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{November}{3--9}.
+\newblock
+{\BBOQ}\APACrefatitle {A Semiotic View of Information: Semiotics as a
+  Foundation of \textsc{lis} Research in Information Behavior} {A semiotic view
+  of information: Semiotics as a foundation of \textsc{lis} research in
+  information behavior}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Information Realities: Shaping the Digital Future for
+  All.} {Information realities: Shaping the digital future for all.}
+\newblock
+\APACaddressPublisher{Austin, Texas}{American Society for Information Science
+  and Technology}.
+\newblock
+\begin{APACrefURL} \url{http://www.asis.org/ Conferences/AM06/papers/66.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Huber%
+}{%
+Huber%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Huber2010}
+\APACinsertmetastar {%
+Huber2010}%
+\begin{APACrefauthors}%
+Huber, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{October}{22}.
+\newblock
+\APACrefbtitle {Formal representations of belief} {Formal representations of
+  belief}\ [Internet web page].
+\newblock
+\APACaddressPublisher{Stanford, California}{Stanford University}.
+\newblock
+\begin{APACrefURL} [{17 December,
+  2010}]\url{http://plato.stanford.edu/entries/formal- belief} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hutton%
+}{%
+Hutton%
+}{%
+{\protect \APACyear {1995}}%
+}]{%
+Hutton1995}
+\APACinsertmetastar {%
+Hutton1995}%
+\begin{APACrefauthors}%
+Hutton, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1995}{December}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sentencing, rationality and computer technology}
+  {Sentencing, rationality and computer technology}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Law and Society}{22}{4}{549--570}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Iyer%
+\ \BBA {} Henderson%
+}{%
+Iyer%
+\ \BBA {} Henderson%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+IyerHenderson2010}
+\APACinsertmetastar {%
+IyerHenderson2010}%
+\begin{APACrefauthors}%
+Iyer, B.%
+\BCBT {}\ \BBA {} Henderson, J\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{June}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Preparing for the future: understanding the seven
+  capabilities of cloud computing} {Preparing for the future: understanding the
+  seven capabilities of cloud computing}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{MISQ Executive}{9}{2}{117--131}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+James%
+}{%
+James%
+}{%
+{\protect \APACyear {1909}}%
+}]{%
+James1909}
+\APACinsertmetastar {%
+James1909}%
+\begin{APACrefauthors}%
+James, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1909}.
+\newblock
+\APACrefbtitle {The meaning of truth: a sequel to pragmatism} {The meaning of
+  truth: a sequel to pragmatism}.
+\newblock
+\APACaddressPublisher{New York}{Longmans, Green, And Co.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+James%
+}{%
+James%
+}{%
+{\protect \APACyear {1907/2007}}%
+}]{%
+James2007}
+\APACinsertmetastar {%
+James2007}%
+\begin{APACrefauthors}%
+James, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2007}.
+\newblock
+\APACrefbtitle {Pragmatism: {A} new name for some old ways of thinking}
+  {Pragmatism: {A} new name for some old ways of thinking}.
+\newblock
+\APACaddressPublisher{\textsc{us}}{Filiquarian Publishing, \textsc{llc}}.
+\newblock
+\APACorigyearnote{1907}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Jones%
+}{%
+Jones%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Jones2008}
+\APACinsertmetastar {%
+Jones2008}%
+\begin{APACrefauthors}%
+Jones, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{April}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A Question of Semantics.} {A question of
+  semantics.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Scientific {A}merican}{298}{4}{14}.
+\newblock
+\begin{APACrefURL} [{16 April, 2008}]\url{http://search.ebscohost.com}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+J\"u{}nger%
+}{%
+J\"u{}nger%
+}{%
+{\protect \APACyear {1977/1994}}%
+}]{%
+Junger1977}
+\APACinsertmetastar {%
+Junger1977}%
+\begin{APACrefauthors}%
+J\"u{}nger, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1994}.
+\newblock
+\APACrefbtitle {Eumeswil} {Eumeswil}\ (J.~Neugroschel, \BTRANS{}).
+\newblock
+\APACaddressPublisher{New York}{Marsilio Publishers}.
+\newblock
+\APACorigyearnote{1977}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+J\"u{}nger%
+}{%
+J\"u{}nger%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+Junger2003}
+\APACinsertmetastar {%
+Junger2003}%
+\begin{APACrefauthors}%
+J\"u{}nger, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2003}.
+\newblock
+\APACrefbtitle {Storm of Steel} {Storm of steel}\ (\PrintOrdinal{6th}\ \BEd).
+\newblock
+\APACaddressPublisher{London}{Allen Lane}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+J\"u{}nger%
+}{%
+J\"u{}nger%
+}{%
+{\protect \APACyear {1932/2007}}%
+}]{%
+Junger2007}
+\APACinsertmetastar {%
+Junger2007}%
+\begin{APACrefauthors}%
+J\"u{}nger, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2007}.
+\newblock
+\APACrefbtitle {Der Arbeiter, Herrschaft und Gestalt [The workers, domination
+  and shaping]} {Der arbeiter, herrschaft und gestalt [the workers, domination
+  and shaping]}.
+\newblock
+\APACaddressPublisher{Stuttgart, Germany}{Klett-Cotta}.
+\newblock
+\APACorigyearnote{1932}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kane%
+\ \BBA {} Fichman%
+}{%
+Kane%
+\ \BBA {} Fichman%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+KaneFichman2009}
+\APACinsertmetastar {%
+KaneFichman2009}%
+\begin{APACrefauthors}%
+Kane, G.%
+\BCBT {}\ \BBA {} Fichman, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{March}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The shoemaker's children: Using {Wikis} for
+  {I}nformation {S}ystems teaching, research, and publication} {The shoemaker's
+  children: Using {Wikis} for {I}nformation {S}ystems teaching, research, and
+  publication}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{MISQ}{33}{1}{1--17}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kierkegaard%
+}{%
+Kierkegaard%
+}{%
+{\protect \APACyear {1985}}%
+}]{%
+Kierkegaard1985}
+\APACinsertmetastar {%
+Kierkegaard1985}%
+\begin{APACrefauthors}%
+Kierkegaard, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1985}.
+\newblock
+\APACrefbtitle {Philosophical Fragments} {Philosophical fragments}\ (E\BPBI
+  H.~Hong\ \BBA {} H\BPBI V.~Hong, \BEDS{} \BAnd{} \BTRANSS).
+\newblock
+\APACaddressPublisher{Princeton}{Princeton University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kim%
+, Yue%
+, Perkins-Hall%
+\BCBL {}\ \BBA {} Gates%
+}{%
+Kim%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2009}}%
+}]{%
+KimYuePerkinsHallGates2009}
+\APACinsertmetastar {%
+KimYuePerkinsHallGates2009}%
+\begin{APACrefauthors}%
+Kim, D\BPBI J.%
+, Yue, K\BHBI B.%
+, Perkins-Hall, S.%
+\BCBL {}\ \BBA {} Gates, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{June}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Global Diffusion of the Internet {XV}: Web 2.0
+  Technologies, Principles, and Applications: A Conceptual Framework from
+  Technology Push and Demand Pull Perspective} {Global diffusion of the
+  internet {XV}: Web 2.0 technologies, principles, and applications: A
+  conceptual framework from technology push and demand pull
+  perspective}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Communications of the Association for Information
+  Systems}{24}{38}{657--672}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kobielus%
+}{%
+Kobielus%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Kobielus2007}
+\APACinsertmetastar {%
+Kobielus2007}%
+\begin{APACrefauthors}%
+Kobielus, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{October}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Semantic Web --- Meaning And \textsc{soa}} {The
+  semantic web --- meaning and \textsc{soa}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Business Communications Review}{37}{10}{30--36}.
+\newblock
+\APAChowpublished {Retrieved April 16, 2008, from ABI/INFORM Global database}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Koch%
+, Richter%
+\BCBL {}\ \BBA {} Schlosser%
+}{%
+Koch%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+Koch2007}
+\APACinsertmetastar {%
+Koch2007}%
+\begin{APACrefauthors}%
+Koch, M.%
+, Richter, A.%
+\BCBL {}\ \BBA {} Schlosser, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{December}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Services and applications for \textsc{it}-supported
+  social networking in companies} {Services and applications for
+  \textsc{it}-supported social networking in companies}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Wirtschaftinformatik}{49}{6}{448--455}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kripke%
+}{%
+Kripke%
+}{%
+{\protect \APACyear {1963}}%
+}]{%
+Kripke1963}
+\APACinsertmetastar {%
+Kripke1963}%
+\begin{APACrefauthors}%
+Kripke, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1963}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Semantical Considerations on Modal Logic} {Semantical
+  considerations on modal logic}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Acta Philosophica Fennica}{16}{}{83--94}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lakatos%
+}{%
+Lakatos%
+}{%
+{\protect \APACyear {1970}}%
+}]{%
+Lakatos1970}
+\APACinsertmetastar {%
+Lakatos1970}%
+\begin{APACrefauthors}%
+Lakatos, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1970}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Falsification and the methodology of scientific research
+  programmes} {Falsification and the methodology of scientific research
+  programmes}.{\BBCQ}
+\newblock
+\BIn{} I.~Lakatos\ \BBA {} A.~Musgrave\ (\BEDS), \APACrefbtitle {Criticism and
+  the growth of knowledge.} {Criticism and the growth of knowledge.}
+\newblock
+\APACaddressPublisher{London}{Cambridge University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lammers%
+}{%
+Lammers%
+}{%
+{\protect \APACyear {1967}}%
+}]{%
+Lammers1967}
+\APACinsertmetastar {%
+Lammers1967}%
+\begin{APACrefauthors}%
+Lammers, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1967}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Power and participation in decision-making in Formal
+  organisations} {Power and participation in decision-making in formal
+  organisations}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{American Journal of Sociology}{73}{2}{201--216}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Land%
+}{%
+Land%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+Land2000}
+\APACinsertmetastar {%
+Land2000}%
+\begin{APACrefauthors}%
+Land, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Evaluation in a Socio-Technical Context} {Evaluation in
+  a socio-technical context}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{IFIP} {W.G.8.2} Working Conference 2000, {IS}2000: The
+  Social and Organizational Perspective on Research and Practice in
+  {I}nformation {S}ystems.} {{IFIP} {W.G.8.2} working conference 2000,
+  {IS}2000: The social and organizational perspective on research and practice
+  in {I}nformation {S}ystems.}
+\newblock
+\APACaddressPublisher{Aalberg, Denmark}{IFIP}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Lang, F. (Director/Writer)}%
+, {Pommer, E. (Producer)}%
+\BCBL {}\ \BBA {} {von Harbou, T. (Writer)}%
+}{%
+{Lang, F. (Director/Writer)}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1926}}%
+}]{%
+Lang1926}
+\APACinsertmetastar {%
+Lang1926}%
+\begin{APACrefauthors}%
+{Lang, F. (Director/Writer)}%
+, {Pommer, E. (Producer)}%
+\BCBL {}\ \BBA {} {von Harbou, T. (Writer)}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1926}{}{}.
+\newblock
+\APACrefbtitle {Metropolis} {Metropolis}\ [Motion Picture].
+\newblock
+\APACaddressPublisher{Germany}{Universum Film A.G.}
+\newblock
+\APACrefnote{Re-released Moroder, G. (Composer/Producer), 1984}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Laudon%
+\ \BBA {} Laudon%
+}{%
+Laudon%
+\ \BBA {} Laudon%
+}{%
+{\protect \APACyear {1991}}%
+}]{%
+Laudon1991}
+\APACinsertmetastar {%
+Laudon1991}%
+\begin{APACrefauthors}%
+Laudon, K\BPBI C.%
+\BCBT {}\ \BBA {} Laudon, J\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1991}.
+\newblock
+\APACrefbtitle {Management Information Systems: A Contemporary Perspective}
+  {Management information systems: A contemporary perspective}\
+  (\PrintOrdinal{2nd}\ \BEd).
+\newblock
+\APACaddressPublisher{New York}{Macmillan}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+L\'e{}ger%
+\ \protect \BOthers {.}}{%
+L\'e{}ger%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2006}}%
+}]{%
+Leger2006}
+\APACinsertmetastar {%
+Leger2006}%
+\begin{APACrefauthors}%
+L\'e{}ger, A.%
+, Heinecke, J.%
+, Nixon, L\BPBI J.%
+, Shvaiko, P.%
+, Charlet, J.%
+, Hobson, P.%
+\BCBL {}\ \BBA {} Goasdou\'e{}, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{September}{4--8}.
+\newblock
+{\BBOQ}\APACrefatitle {The {S}emantic {W}eb from an Industry Perspective} {The
+  {S}emantic {W}eb from an industry perspective}.{\BBCQ}
+\newblock
+\BIn{} P.~Barahona, F.~Bry, E.~Franconi, N.~Henze\BCBL {}\ \BBA {} U.~Sattler\
+  (\BEDS), \APACrefbtitle {Reasoning Web 2006} {Reasoning web 2006}\ (\BVOL\
+  4126, \BPGS\ 232--268).
+\newblock
+\APACaddressPublisher{Berlin}{Springer-Verlag}.
+\newblock
+\APACrefnote{Lecture presented at the Reasoning Web Second International Summer
+  School 2006, Lisbon, Portugal}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+C\BPBI I.~Lewis%
+}{%
+C\BPBI I.~Lewis%
+}{%
+{\protect \APACyear {1929/1956}}%
+}]{%
+Lewis1956}
+\APACinsertmetastar {%
+Lewis1956}%
+\begin{APACrefauthors}%
+Lewis, C\BPBI I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1956}.
+\newblock
+\APACrefbtitle {Mind and The World Order: an Outline of a Theory of Knowledge}
+  {Mind and the world order: an outline of a theory of knowledge}.
+\newblock
+\APACaddressPublisher{New York}{Dover Publications}.
+\newblock
+\APACorigyearnote{1929}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+C\BPBI S.~Lewis%
+}{%
+C\BPBI S.~Lewis%
+}{%
+{\protect \APACyear {1943/2002}}%
+}]{%
+Lewis1943}
+\APACinsertmetastar {%
+Lewis1943}%
+\begin{APACrefauthors}%
+Lewis, C\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2002}.
+\newblock
+\APACrefbtitle {The abolition of man} {The abolition of man}\ [Internet web
+  page].
+\newblock
+\APACaddressPublisher{Columbia University, New York}{The Augustine Club}.
+\newblock
+\begin{APACrefURL} [{19 November,
+  2010}]\url{http://www.columbia.edu/cu/augustine/arch/lewis/aboli tion1.htm}
+  \end{APACrefURL}
+\newblock
+\APACorigyearnote{1943}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lin%
+}{%
+Lin%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+Lin2006}
+\APACinsertmetastar {%
+Lin2006}%
+\begin{APACrefauthors}%
+Lin, K\BHBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{October}{24--26}.
+\newblock
+{\BBOQ}\APACrefatitle {Serving {W}eb 2.0 with \textsc{soa}: Providing the
+  Technology for Innovation and Specialization} {Serving {W}eb 2.0 with
+  \textsc{soa}: Providing the technology for innovation and
+  specialization}{\BBCQ}\ [Conference proceedings].
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the \textsc{ieee} International
+  Conference on e-Business Engineering} {Proceedings of the \textsc{ieee}
+  international conference on e-business engineering}\ (\BPG~3).
+\newblock
+\APACaddressPublisher{Shanghai, China}{\textsc{ieee} Computer Society}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Litchfield%
+, Baloch%
+\BCBL {}\ \BBA {} Cusack%
+}{%
+Litchfield%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+Litchfield2011}
+\APACinsertmetastar {%
+Litchfield2011}%
+\begin{APACrefauthors}%
+Litchfield, A\BPBI T.%
+, Baloch, F\BPBI K.%
+\BCBL {}\ \BBA {} Cusack, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{December}{4--8}.
+\newblock
+{\BBOQ}\APACrefatitle {Arguments for the adoption of a heuristic approach to
+  \textsc{is} Research} {Arguments for the adoption of a heuristic approach to
+  \textsc{is} research}{\BBCQ}\ [Conference Proceedings].
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the International Conference on
+  Information Systems, 2011.} {Proceedings of the international conference on
+  information systems, 2011.}
+\newblock
+\APACaddressPublisher{Shanghai, China}{AIS}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Locke%
+}{%
+Locke%
+}{%
+{\protect \APACyear {1690/1980}}%
+}]{%
+Locke1980}
+\APACinsertmetastar {%
+Locke1980}%
+\begin{APACrefauthors}%
+Locke, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1980}.
+\newblock
+\APACrefbtitle {Second Treatise of Government} {Second treatise of government}\
+  (C\BPBI B.~Macpherson, \BED{})\ [Reprint].
+\newblock
+\APACaddressPublisher{Indianapolis}{Hackett Publishing Co.}
+\newblock
+\APACorigyearnote{1690}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Lucas, G. (Director)}%
+\ \BBA {} {Copolla, F.F. (Executive Producer)}%
+}{%
+{Lucas, G. (Director)}%
+\ \BBA {} {Copolla, F.F. (Executive Producer)}%
+}{%
+{\protect \APACyear {1970/1998}}%
+}]{%
+Lucas1998}
+\APACinsertmetastar {%
+Lucas1998}%
+\begin{APACrefauthors}%
+{Lucas, G. (Director)}%
+\BCBT {}\ \BBA {} {Copolla, F.F. (Executive Producer)}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1998}.
+\newblock
+\APACrefbtitle {{THX1138}} {{THX1138}}\ [Motion Picture].
+\newblock
+\APACaddressPublisher{CA}{Warner Bros Pictures}.
+\newblock
+\APACorigyearnote{1970}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+MacGilvray%
+}{%
+MacGilvray%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+MacGilvray2010}
+\APACinsertmetastar {%
+MacGilvray2010}%
+\begin{APACrefauthors}%
+MacGilvray, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{June}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Dewey's {P}ublic} {Dewey's {P}ublic}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Contemporary Pragmatism}{7}{1}{31--47}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Maddock%
+}{%
+Maddock%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+Maddock1994}
+\APACinsertmetastar {%
+Maddock1994}%
+\begin{APACrefauthors}%
+Maddock, T\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Three dogmas of materialist pragmatism --- a critique of
+  a recent attempt to provide a science of educational administration} {Three
+  dogmas of materialist pragmatism --- a critique of a recent attempt to
+  provide a science of educational administration}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of educational administration}{32}{4}{5--28}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Majchrzak%
+, Cherbakov%
+\BCBL {}\ \BBA {} Ives%
+}{%
+Majchrzak%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2009}}%
+}]{%
+MajchrzakCherbakovIves2009}
+\APACinsertmetastar {%
+MajchrzakCherbakovIves2009}%
+\begin{APACrefauthors}%
+Majchrzak, A.%
+, Cherbakov, L.%
+\BCBL {}\ \BBA {} Ives, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{June}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Harnessing the power of the crowds with corporate social
+  networking tools: How {IBM} does it} {Harnessing the power of the crowds with
+  corporate social networking tools: How {IBM} does it}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{MISQ Executive}{8}{2}{103--108}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+March%
+}{%
+March%
+}{%
+{\protect \APACyear {1986}}%
+}]{%
+March1986}
+\APACinsertmetastar {%
+March1986}%
+\begin{APACrefauthors}%
+March, J\BPBI G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1986}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Bounded Rationality, Ambiguity, and the Engineering of
+  Choice} {Bounded rationality, ambiguity, and the engineering of
+  choice}.{\BBCQ}
+\newblock
+\BIn{} J.~Elster\ (\BED), \APACrefbtitle {Rational Choice} {Rational choice}\
+  (\BCHAP~6).
+\newblock
+\APACaddressPublisher{Oxford}{Basil Blackwell}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Margolis%
+\ \BBA {} Moreno-{Ria\~n{}o}%
+}{%
+Margolis%
+\ \BBA {} Moreno-{Ria\~n{}o}%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+Margolis2009}
+\APACinsertmetastar {%
+Margolis2009}%
+\begin{APACrefauthors}%
+Margolis, M.%
+\BCBT {}\ \BBA {} Moreno-{Ria\~n{}o}, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2009}.
+\newblock
+\APACrefbtitle {The prospect of {I}nternet democracy} {The prospect of
+  {I}nternet democracy}.
+\newblock
+\APACaddressPublisher{England}{Ashgate}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Martin%
+\ \BBA {} Sommerville%
+}{%
+Martin%
+\ \BBA {} Sommerville%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+Martin2004}
+\APACinsertmetastar {%
+Martin2004}%
+\begin{APACrefauthors}%
+Martin, D.%
+\BCBT {}\ \BBA {} Sommerville, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{March}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Patterns of Cooperative Interaction: Linking
+  Ethnomethodology and Design} {Patterns of cooperative interaction: Linking
+  ethnomethodology and design}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{{ACM} Transactions on Computer-Human
+  Interaction}{11}{1}{59--89}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Marx%
+\ \BBA {} Engels%
+}{%
+Marx%
+\ \BBA {} Engels%
+}{%
+{\protect \APACyear {1998}}%
+}]{%
+Marx1998}
+\APACinsertmetastar {%
+Marx1998}%
+\begin{APACrefauthors}%
+Marx, K.%
+\BCBT {}\ \BBA {} Engels, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1998}.
+\newblock
+\APACrefbtitle {The {C}ommunist manifesto: a modern edition} {The {C}ommunist
+  manifesto: a modern edition}.
+\newblock
+\APACaddressPublisher{London}{Verso}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Masaryk%
+}{%
+Masaryk%
+}{%
+{\protect \APACyear {1938/1971}}%
+}]{%
+Masaryk1971}
+\APACinsertmetastar {%
+Masaryk1971}%
+\begin{APACrefauthors}%
+Masaryk, T\BPBI G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1971}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The ideals of humanity and how to work} {The ideals of
+  humanity and how to work}.{\BBCQ}
+\newblock
+\BIn{} W\BPBI P.~Warren, M\BPBI J.~Kohn-Holo\v{c}ek\BCBL {}\ \BBA {}
+  H.~Kennedy\ (\BTRANSS), \APACrefbtitle {The {E}astern {E}urope {C}ollection.}
+  {The {E}astern {E}urope {C}ollection.}
+\newblock
+\APACaddressPublisher{New York}{Arno Press \&{} The New York Times}.
+\newblock
+\APACorigyearnote{1938}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Maslow%
+}{%
+Maslow%
+}{%
+{\protect \APACyear {1954}}%
+}]{%
+Maslow1954}
+\APACinsertmetastar {%
+Maslow1954}%
+\begin{APACrefauthors}%
+Maslow, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1954}.
+\newblock
+\APACrefbtitle {Motivation and Personality} {Motivation and personality}\
+  (\PrintOrdinal{3rd}\ \BEd).
+\newblock
+\APACaddressPublisher{New York}{Harper and Row Publishers}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Massa-Wirth%
+}{%
+Massa-Wirth%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+MassaWirth2006}
+\APACinsertmetastar {%
+MassaWirth2006}%
+\begin{APACrefauthors}%
+Massa-Wirth, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Institutionalism and Bargaining Power in Comparative
+  {IR}} {Institutionalism and bargaining power in comparative {IR}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{XII.} \textsc{lera} Refereed Papers: Dispute
+  Resolution, International And Comparative Industrial Relations, And Labor
+  Unions And Studies} {{XII.} \textsc{lera} refereed papers: Dispute
+  resolution, international and comparative industrial relations, and labor
+  unions and studies}\ (\BPGS\ 206--222).
+\newblock
+\APACaddressPublisher{University of Illinois at Urbana-Champaign}{Labor And
+  Employment Relations Association}.
+\newblock
+\begin{APACrefURL} [{19 October, 2010}]\url{http://www.press.uillinois.edu
+  /journals/irra/proceedings2006/massa-wirth.html} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mathews%
+}{%
+Mathews%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+Mathews2010}
+\APACinsertmetastar {%
+Mathews2010}%
+\begin{APACrefauthors}%
+Mathews, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{November}{15th}.
+\newblock
+\APACrefbtitle {The Social and Psychological Impact of Online Social
+  Networking} {The social and psychological impact of online social
+  networking}\ [Research report].
+\newblock
+\APACaddressPublisher{Sydney}{Australian Psychological Society}.
+\newblock
+\begin{APACrefURL} [{23 November, 2010}]\url{http://www.psychology.org.au/
+  Assets/Files/Social-and-Psychological-Impact-of-Socia l-Networking-Sites.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Maximilien%
+\ \BBA {} Ranabahu%
+}{%
+Maximilien%
+\ \BBA {} Ranabahu%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Maximilien2007}
+\APACinsertmetastar {%
+Maximilien2007}%
+\begin{APACrefauthors}%
+Maximilien, E\BPBI M.%
+\BCBT {}\ \BBA {} Ranabahu, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{September}{17--19}.
+\newblock
+{\BBOQ}\APACrefatitle {The Programmable Web: Agile, Social, and Grassroot
+  Computing} {The programmable web: Agile, social, and grassroot
+  computing}{\BBCQ}\ [Conference Proceedings].
+\newblock
+\BIn{} \APACrefbtitle {International Conference on Semantic Computing}
+  {International conference on semantic computing}\ (\BPGS\ 477--481).
+\newblock
+\APACaddressPublisher{Irvine, California}{\textsc{ieee} Computer Society}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+McGregor%
+}{%
+McGregor%
+}{%
+{\protect \APACyear {1960}}%
+}]{%
+McGregor1960}
+\APACinsertmetastar {%
+McGregor1960}%
+\begin{APACrefauthors}%
+McGregor, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1960}.
+\newblock
+\APACrefbtitle {The human side of enterprise} {The human side of enterprise}.
+\newblock
+\APACaddressPublisher{New York}{McGraw Hill}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+McKellar%
+}{%
+McKellar%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+McKeller2008}
+\APACinsertmetastar {%
+McKeller2008}%
+\begin{APACrefauthors}%
+McKellar, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{April}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The hurdles facing social computing} {The hurdles facing
+  social computing}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{KM World}{17}{4}{1--30}.
+\newblock
+\begin{APACrefURL} [{16 April, 2008}]\url{http://search.ebscohost.c om}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mead%
+}{%
+Mead%
+}{%
+{\protect \APACyear {1934}}%
+}]{%
+Mead1934}
+\APACinsertmetastar {%
+Mead1934}%
+\begin{APACrefauthors}%
+Mead, G\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1934}.
+\newblock
+\APACrefbtitle {Mind, self and society} {Mind, self and society}.
+\newblock
+\APACaddressPublisher{Chicago}{University of Chicago Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mell%
+\ \BBA {} Grance%
+}{%
+Mell%
+\ \BBA {} Grance%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+MellGrance2009}
+\APACinsertmetastar {%
+MellGrance2009}%
+\begin{APACrefauthors}%
+Mell, P.%
+\BCBT {}\ \BBA {} Grance, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{October}{7}.
+\newblock
+\APACrefbtitle {The {NIST} definition of cloud computing} {The {NIST}
+  definition of cloud computing}\ \APACbVolEdTR{}{\BTR{}}.
+\newblock
+\APACaddressInstitution{Gaithersburg, MD}{National Institute of Standards and
+  Technology, Information Technology Laboratory}.
+\newblock
+\begin{APACrefURL} [{7 September, 2010}]\url{http://csrc.nist.gov}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{Version 15}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mill%
+}{%
+Mill%
+}{%
+{\protect \APACyear {1963}}%
+}]{%
+Mill1963}
+\APACinsertmetastar {%
+Mill1963}%
+\begin{APACrefauthors}%
+Mill, J\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1963}.
+\newblock
+\APACrefbtitle {Essays on Politics and Culture} {Essays on politics and
+  culture}\ (G.~Himmelfarb, \BED{}).
+\newblock
+\APACaddressPublisher{New York}{Anchor Books}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mill%
+}{%
+Mill%
+}{%
+{\protect \APACyear {1965}}%
+}]{%
+Mill1965}
+\APACinsertmetastar {%
+Mill1965}%
+\begin{APACrefauthors}%
+Mill, J\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1965}.
+\newblock
+\APACrefbtitle {Collected Works} {Collected works}\ (J.~Robson, \BED{}).
+\newblock
+\APACaddressPublisher{Toronto}{University of Toronto Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Milojicic%
+}{%
+Milojicic%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Milojcic2007}
+\APACinsertmetastar {%
+Milojcic2007}%
+\begin{APACrefauthors}%
+Milojicic, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{December}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Trend Wars {W}eb 2.0 and Enterprise \textsc{it}} {Trend
+  wars {W}eb 2.0 and enterprise \textsc{it}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{\textsc{ieee} distributed systems online}{8}{12}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mitchell%
+\ \BBA {} Zmud%
+}{%
+Mitchell%
+\ \BBA {} Zmud%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+MitchellZmud1999}
+\APACinsertmetastar {%
+MitchellZmud1999}%
+\begin{APACrefauthors}%
+Mitchell, V.%
+\BCBT {}\ \BBA {} Zmud, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Effects of Coupling {IT} and Work Process Strategy
+  in Redesign Projects} {The effects of coupling {IT} and work process strategy
+  in redesign projects}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Organization Science}{10}{4}{424--438}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mortensen%
+}{%
+Mortensen%
+}{%
+{\protect \APACyear {2002/2006}}%
+}]{%
+Mortensen2006}
+\APACinsertmetastar {%
+Mortensen2006}%
+\begin{APACrefauthors}%
+Mortensen, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{December}{19th}.
+\newblock
+{\BBOQ}\APACrefatitle {Change} {Change}{\BBCQ}\ [Internet web page].
+\newblock
+\BIn{} \APACrefbtitle {The {S}tanford Encyclopedia of Philosophy.} {The
+  {S}tanford encyclopedia of philosophy.}
+\newblock
+\APACaddressPublisher{Stanford, California}{Stanford University}.
+\newblock
+\begin{APACrefURL} [{15 November, 2010}]\url{http://plato.stanford.edu/entries/
+  change} \end{APACrefURL}
+\newblock
+\APACorigyearnote{2002}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mumford%
+}{%
+Mumford%
+}{%
+{\protect \APACyear {1983}}%
+}]{%
+Mumford1983}
+\APACinsertmetastar {%
+Mumford1983}%
+\begin{APACrefauthors}%
+Mumford, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1983}.
+\newblock
+\APACrefbtitle {Designing human systems for new technology --- the
+  \textsc{ethics} method} {Designing human systems for new technology --- the
+  \textsc{ethics} method}.
+\newblock
+\APACaddressPublisher{Manchester}{Manchester Business School}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mumford%
+\ \BBA {} Weir%
+}{%
+Mumford%
+\ \BBA {} Weir%
+}{%
+{\protect \APACyear {1979}}%
+}]{%
+MumfordWeir1979}
+\APACinsertmetastar {%
+MumfordWeir1979}%
+\begin{APACrefauthors}%
+Mumford, E.%
+\BCBT {}\ \BBA {} Weir, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1979}.
+\newblock
+\APACrefbtitle {Computer systems in Work Design --- the \textsc{ethics} method}
+  {Computer systems in work design --- the \textsc{ethics} method}.
+\newblock
+\APACaddressPublisher{New York}{John Wiley \& Sons}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Murugesan%
+}{%
+Murugesan%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Murugesan2007}
+\APACinsertmetastar {%
+Murugesan2007}%
+\begin{APACrefauthors}%
+Murugesan, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Business Uses of {Web} 2.0: Potential and Prospects}
+  {Business uses of {Web} 2.0: Potential and prospects}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Business-IT Strategies Advisory Service}{10}{1}{1--28}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nietzsche%
+}{%
+Nietzsche%
+}{%
+{\protect \APACyear {1968}}%
+}]{%
+Nietzsche1968}
+\APACinsertmetastar {%
+Nietzsche1968}%
+\begin{APACrefauthors}%
+Nietzsche, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1968}.
+\newblock
+\APACrefbtitle {The Will to Power} {The will to power}.
+\newblock
+\APACaddressPublisher{New York}{Vintage Books}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nietzsche%
+}{%
+Nietzsche%
+}{%
+{\protect \APACyear {1883--1885/1978}}%
+}]{%
+Nietzsche1987}
+\APACinsertmetastar {%
+Nietzsche1987}%
+\begin{APACrefauthors}%
+Nietzsche, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1978}.
+\newblock
+\APACrefbtitle {Thus spake {Z}arathustra: a book for all and none} {Thus spake
+  {Z}arathustra: a book for all and none}\ (W.~Kaufmann, \BTRANS{}).
+\newblock
+\APACaddressPublisher{New York}{Penguin}.
+\newblock
+\APACorigyearnote{1883--1885}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Niles%
+}{%
+Niles%
+}{%
+{\protect \APACyear {1823}}%
+}]{%
+Niles1823}
+\APACinsertmetastar {%
+Niles1823}%
+\begin{APACrefauthors}%
+Niles, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1823}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Editorial} {Editorial}.{\BBCQ}
+\newblock
+\BIn{} H.~Niles, W\BPBI O.~Niles, J.~Hughes\BCBL {}\ \BBA {} G.~Beatty\
+  (\BEDS), \APACrefbtitle {Niles' Weekly Register} {Niles' weekly register}\
+  (\BVOL~25).
+\newblock
+\APACaddressPublisher{Baltimore}{William Ogden Niles, Franklin Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+O'Reilly%
+}{%
+O'Reilly%
+}{%
+{\protect \APACyear {2005/2009}}%
+}]{%
+Oreilly2005}
+\APACinsertmetastar {%
+Oreilly2005}%
+\begin{APACrefauthors}%
+O'Reilly, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{October}{}.
+\newblock
+\APACrefbtitle {What Is {Web} 2.0} {What is {Web} 2.0}\ [Internet Web page].
+\newblock
+\begin{APACrefURL} [{7 September,
+  2010}]\url{http://oreilly.com/web2/archive/what-is-we b-20.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Orlikowski%
+\ \BBA {} Iacono%
+}{%
+Orlikowski%
+\ \BBA {} Iacono%
+}{%
+{\protect \APACyear {2001}}%
+}]{%
+Orlikowski2001}
+\APACinsertmetastar {%
+Orlikowski2001}%
+\begin{APACrefauthors}%
+Orlikowski, W.%
+\BCBT {}\ \BBA {} Iacono, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{June}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Research Commentary: {D}esparately seeking the ``{IT}''
+  in {IT} research --- a call to theorizing the {IT} artifact?} {Research
+  commentary: {D}esparately seeking the ``{IT}'' in {IT} research --- a call to
+  theorizing the {IT} artifact?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Information Systems Research}{12}{2}{121--134}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Osegowitsch%
+\ \BBA {} Sammartino%
+}{%
+Osegowitsch%
+\ \BBA {} Sammartino%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Osegowitsch2008}
+\APACinsertmetastar {%
+Osegowitsch2008}%
+\begin{APACrefauthors}%
+Osegowitsch, T.%
+\BCBT {}\ \BBA {} Sammartino, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{January}{10}.
+\newblock
+{\BBOQ}\APACrefatitle {Reassessing (home-) regionalisation} {Reassessing
+  (home-) regionalisation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of International Business
+  Studies}{}{39}{184--196}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.managementmarketing.unimelb.edu.au/mm\_{}uplo
+  ads/WPROD\_{}Uploads/StaffAttachFile/12\_{}20090303\_{}C965D92 2.pdf}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1057/palgrave.jibs.8400345} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pateman%
+}{%
+Pateman%
+}{%
+{\protect \APACyear {1970}}%
+}]{%
+Pateman1970}
+\APACinsertmetastar {%
+Pateman1970}%
+\begin{APACrefauthors}%
+Pateman, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1970}.
+\newblock
+\APACrefbtitle {Participation and Democratic Theory} {Participation and
+  democratic theory}.
+\newblock
+\APACaddressPublisher{London}{Cambridge University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Peirce%
+}{%
+Peirce%
+}{%
+{\protect \APACyear {1878/1992--98}}%
+}]{%
+Peirce1992a}
+\APACinsertmetastar {%
+Peirce1992a}%
+\begin{APACrefauthors}%
+Peirce, C\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1992--98}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {How to make our ideas clear} {How to make our ideas
+  clear}.{\BBCQ}
+\newblock
+\BIn{} N.~Houser\ \BBA {} C.~Kloesel\ (\BEDS), \APACrefbtitle {The {E}ssential
+  {P}eirce: Selected philosophical writings (1867--1893)} {The {E}ssential
+  {P}eirce: Selected philosophical writings (1867--1893)}\ (\BVOL~1).
+\newblock
+\APACaddressPublisher{Bloomington}{Indiana University Press}.
+\newblock
+\APACorigyearnote{1878}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Peirce%
+}{%
+Peirce%
+}{%
+{\protect \APACyear {1998}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+Peirce1998}
+\APACinsertmetastar {%
+Peirce1998}%
+\begin{APACrefauthors}%
+Peirce, C\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1998{\protect \BCnt {1}}}.
+\newblock
+\APACrefbtitle {The {E}ssential {P}eirce: Selected philosophical writings
+  (1893--1913)} {The {E}ssential {P}eirce: Selected philosophical writings
+  (1893--1913)}\ (\BVOL~2; N.~Houser\ \BOthers {.}, \BEDS{}).
+\newblock
+\APACaddressPublisher{Bloomington}{Indiana University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Peirce%
+}{%
+Peirce%
+}{%
+{\protect \APACyear {1998}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+Peirce1992b}
+\APACinsertmetastar {%
+Peirce1992b}%
+\begin{APACrefauthors}%
+Peirce, C\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998{\protect \BCnt {2}}}{April}{}.
+\newblock
+{\BBOQ}\APACrefatitle {What {P}ragmatism is} {What {P}ragmatism is}.{\BBCQ}
+\newblock
+\BIn{} N.~Houser\ \BOthers {.}\ (\BEDS), \APACrefbtitle {The {E}ssential
+  {P}eirce: Selected philosophical writings (1893--1913)} {The {E}ssential
+  {P}eirce: Selected philosophical writings (1893--1913)}\ (\BVOL~2).
+\newblock
+\APACaddressPublisher{Bloomington}{Indiana University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Prichard%
+}{%
+Prichard%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+Prichard1999}
+\APACinsertmetastar {%
+Prichard1999}%
+\begin{APACrefauthors}%
+Prichard, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{July}{14--16}.
+\newblock
+{\BBOQ}\APACrefatitle {Identity work --- moving the `theory of the subject'
+  from `division' to `depth' in critical organizational analysis} {Identity
+  work --- moving the `theory of the subject' from `division' to `depth' in
+  critical organizational analysis}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the Critical Management Studies
+  Conference 1999.} {Proceedings of the critical management studies conference
+  1999.}
+\newblock
+\APACaddressPublisher{UMIST}{Manchester School of Management}.
+\newblock
+\begin{APACrefURL} [{19 October, 2010}]\url{http://www.mngt.
+  waikato.ac.nz/ejrot/cmsconference/proceedings.htm} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Quine%
+}{%
+Quine%
+}{%
+{\protect \APACyear {1953}}%
+}]{%
+Quine1953}
+\APACinsertmetastar {%
+Quine1953}%
+\begin{APACrefauthors}%
+Quine, W\BPBI V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1953}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Two dogma's of empiricism} {Two dogma's of
+  empiricism}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {From a logical point of view: Nine logico-philosophical
+  essays.} {From a logical point of view: Nine logico-philosophical essays.}
+\newblock
+\APACaddressPublisher{Cambridge}{Harvard University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Quine%
+}{%
+Quine%
+}{%
+{\protect \APACyear {1982}}%
+}]{%
+Quine1982}
+\APACinsertmetastar {%
+Quine1982}%
+\begin{APACrefauthors}%
+Quine, W\BPBI V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1982}.
+\newblock
+\APACrefbtitle {Methods of logic} {Methods of logic}.
+\newblock
+\APACaddressPublisher{Cambridge, Massachusetts}{Harvard University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rahwan%
+}{%
+Rahwan%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Rahwan2007}
+\APACinsertmetastar {%
+Rahwan2007}%
+\begin{APACrefauthors}%
+Rahwan, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{February}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Mass argumentation and the semantic web} {Mass
+  argumentation and the semantic web}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Web Semantics: Science, Services and Agents
+  on the World Wide Web}{6}{1}{29--37}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rasmussen%
+}{%
+Rasmussen%
+}{%
+{\protect \APACyear {1992}}%
+}]{%
+Rasmussen1992}
+\APACinsertmetastar {%
+Rasmussen1992}%
+\begin{APACrefauthors}%
+Rasmussen, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1992}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A taxonomy for analysis of cognitive work} {A taxonomy
+  for analysis of cognitive work}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{IEEE} Fifth Conference on Human Factors and Power
+  Plants} {{IEEE} fifth conference on human factors and power plants}\
+  (\BPG~41-50).
+\newblock
+\APACaddressPublisher{Monterrey, CA, USA}{IEEE}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ricardo%
+}{%
+Ricardo%
+}{%
+{\protect \APACyear {1821/1999}}%
+}]{%
+Ricardo1821}
+\APACinsertmetastar {%
+Ricardo1821}%
+\begin{APACrefauthors}%
+Ricardo, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1999}.
+\newblock
+\APACrefbtitle {On the Principles of Political Economy and Taxation} {On the
+  principles of political economy and taxation}\ (\PrintOrdinal{3rd}\ \BEd).
+\newblock
+\APACaddressPublisher{Indianapolis, IN}{Library of Economics and Liberty}.
+\newblock
+\begin{APACrefURL} [{19 August,
+  2011}]\url{http://www.econlib.org/library/Ricardo/ricP.html} \end{APACrefURL}
+\newblock
+\APACorigyearnote{1821}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rice%
+}{%
+Rice%
+}{%
+{\protect \APACyear {1958}}%
+}]{%
+Rice1958}
+\APACinsertmetastar {%
+Rice1958}%
+\begin{APACrefauthors}%
+Rice, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1958}.
+\newblock
+\APACrefbtitle {Productivity and social organisation: {T}he {A}hmedabad
+  experiment} {Productivity and social organisation: {T}he {A}hmedabad
+  experiment}.
+\newblock
+\APACaddressPublisher{London}{Tavistock}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rousseau%
+}{%
+Rousseau%
+}{%
+{\protect \APACyear {1762/1968}}%
+}]{%
+Rousseau1968}
+\APACinsertmetastar {%
+Rousseau1968}%
+\begin{APACrefauthors}%
+Rousseau, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1968}.
+\newblock
+\APACrefbtitle {The social contract} {The social contract}\ (M.~Cranston,
+  \BTRANS{}).
+\newblock
+\APACaddressPublisher{London}{Penguin books}.
+\newblock
+\APACorigyearnote{1762}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rowe%
+\ \BBA {} Drew%
+}{%
+Rowe%
+\ \BBA {} Drew%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+Rowe2006}
+\APACinsertmetastar {%
+Rowe2006}%
+\begin{APACrefauthors}%
+Rowe, D.%
+\BCBT {}\ \BBA {} Drew, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{October}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The impact of {W}eb 2.0 on enterprise strategy} {The
+  impact of {W}eb 2.0 on enterprise strategy}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cutter IT Journal}{19}{10}{6--13}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ryan%
+\ \BBA {} Bock%
+}{%
+Ryan%
+\ \BBA {} Bock%
+}{%
+{\protect \APACyear {1991}}%
+}]{%
+RyanBock1991}
+\APACinsertmetastar {%
+RyanBock1991}%
+\begin{APACrefauthors}%
+Ryan, T.%
+\BCBT {}\ \BBA {} Bock, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1991}{January}{8--11}.
+\newblock
+{\BBOQ}\APACrefatitle {Measurement of {W}ork {S}ystems flexibility as an
+  outcome variable for studies of emerging technologies in \textsc{mis}
+  research} {Measurement of {W}ork {S}ystems flexibility as an outcome variable
+  for studies of emerging technologies in \textsc{mis} research}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 24th {A}nnual {H}awaii
+  {I}nternational {C}onference on {S}ystem {S}ciences} {Proceedings of the 24th
+  {A}nnual {H}awaii {I}nternational {C}onference on {S}ystem {S}ciences}\
+  (\BVOL~iv, \BPGS\ 493--500).
+\newblock
+\APACaddressPublisher{Hawaii, US}{IEEE}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ryle%
+}{%
+Ryle%
+}{%
+{\protect \APACyear {1979}}%
+}]{%
+Ryle1979}
+\APACinsertmetastar {%
+Ryle1979}%
+\begin{APACrefauthors}%
+Ryle, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1979}.
+\newblock
+\APACrefbtitle {The concept of mind} {The concept of mind}.
+\newblock
+\APACaddressPublisher{Harmondsworth}{Penguin Books}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Santos%
+}{%
+Santos%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+Santos2009}
+\APACinsertmetastar {%
+Santos2009}%
+\begin{APACrefauthors}%
+Santos, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{{\protect \bibnodate {}}}.
+\newblock
+\APACrefbtitle {Toward another rhetoric: {W}eb 2.0, Levinas, and taking
+  responsibility for response ability} {Toward another rhetoric: {W}eb 2.0,
+  levinas, and taking responsibility for response ability}.
+\newblock
+Ph.d. dissertation, Indiana, United States.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sawtell%
+}{%
+Sawtell%
+}{%
+{\protect \APACyear {1968}}%
+}]{%
+Sawtell968}
+\APACinsertmetastar {%
+Sawtell968}%
+\begin{APACrefauthors}%
+Sawtell, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1968}.
+\newblock
+\APACrefbtitle {Sharing our industrial future?} {Sharing our industrial
+  future?}
+\newblock
+\APACaddressPublisher{London}{The Industrial Society}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Schneberger%
+\ \BBA {} Wade%
+}{%
+Schneberger%
+\ \BBA {} Wade%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+Schenberger2011}
+\APACinsertmetastar {%
+Schenberger2011}%
+\begin{APACrefauthors}%
+Schneberger, S.%
+\BCBT {}\ \BBA {} Wade, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+\APACrefbtitle {Theories Used in \IS{} Research Wiki} {Theories used in \is{}
+  research wiki}\ [Internet web site].
+\newblock
+\APACaddressPublisher{Toronto}{York University}.
+\newblock
+\begin{APACrefURL} [{18 May,
+  2011}]\url{http://www.fsc.yorku.ca/york/istheory/wiki/index.php}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Schumpeter%
+}{%
+Schumpeter%
+}{%
+{\protect \APACyear {1943}}%
+}]{%
+Schumpeter1943}
+\APACinsertmetastar {%
+Schumpeter1943}%
+\begin{APACrefauthors}%
+Schumpeter, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1943}.
+\newblock
+\APACrefbtitle {Capitalism, Socialism and Democracy} {Capitalism, socialism and
+  democracy}.
+\newblock
+\APACaddressPublisher{London}{George, Allen \&{} Unwin}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Shimazu%
+\ \BBA {} Koike%
+}{%
+Shimazu%
+\ \BBA {} Koike%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Shiumazu2007}
+\APACinsertmetastar {%
+Shiumazu2007}%
+\begin{APACrefauthors}%
+Shimazu, H.%
+\BCBT {}\ \BBA {} Koike, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{November}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{KM}2.0: Business Knowledge Sharing in the {W}eb 2.0
+  Age} {{KM}2.0: Business knowledge sharing in the {W}eb 2.0 age}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{{NEC} Technical Journal}{2}{2}{50--54}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+A.~Smith%
+}{%
+A.~Smith%
+}{%
+{\protect \APACyear {1776/1937}}%
+}]{%
+Smith1937}
+\APACinsertmetastar {%
+Smith1937}%
+\begin{APACrefauthors}%
+Smith, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1937}.
+\newblock
+\APACrefbtitle {An Inquiry into the Nature and Causes of The Wealth of Nations}
+  {An inquiry into the nature and causes of the wealth of nations}\ [Reprint].
+\newblock
+\APACaddressPublisher{New York}{Modern Library}.
+\newblock
+\APACorigyearnote{1776}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+G.~Smith%
+}{%
+G.~Smith%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+Smith2004}
+\APACinsertmetastar {%
+Smith2004}%
+\begin{APACrefauthors}%
+Smith, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{August}{3}.
+\newblock
+\APACrefbtitle {Folksonomy: social classification} {Folksonomy: social
+  classification}\ [Internet web page].
+\newblock
+\APAChowpublished {An article in Atomiq: A Weblog by Gene Smith}.
+\newblock
+\begin{APACrefURL} [{22 April,
+  2008}]\url{http://atomiq.org/archives/2004/08/folksonomy\textunderscore{}social\textunderscore{}
+  classification.html} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+H\BPBI A.~Smith%
+\ \BBA {} McKeen%
+}{%
+H\BPBI A.~Smith%
+\ \BBA {} McKeen%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+SmithMcKeen2008}
+\APACinsertmetastar {%
+SmithMcKeen2008}%
+\begin{APACrefauthors}%
+Smith, H\BPBI A.%
+\BCBT {}\ \BBA {} McKeen, J\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{June}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Creating a process-centric organization at {FCC}:
+  \textsc{soa} from the top down} {Creating a process-centric organization at
+  {FCC}: \textsc{soa} from the top down}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{MISQ Executive}{7}{2}{71--84}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Statistics \NZ{}}%
+}{%
+{Statistics \NZ{}}%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Census2006}
+\APACinsertmetastar {%
+Census2006}%
+\begin{APACrefauthors}%
+{Statistics \NZ{}}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{28 February}.
+\newblock
+\APACrefbtitle {Occupation ({NZSCO99} V1.0) for the employed census usually
+  resident population count aged 15 years and over, 2006 (revised 28 {F}ebruary
+  2007)} {Occupation ({NZSCO99} v1.0) for the employed census usually resident
+  population count aged 15 years and over, 2006 (revised 28 {F}ebruary 2007)}\
+  [Internet web page].
+\newblock
+\APACaddressPublisher{Wellington, \NZ{}}{Statistics \NZ{}}.
+\newblock
+\begin{APACrefURL} [{10 March, 2008}]\url{http://www.stats .govt.nz/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Steins%
+\ \BBA {} Stephens%
+}{%
+Steins%
+\ \BBA {} Stephens%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Steins2008}
+\APACinsertmetastar {%
+Steins2008}%
+\begin{APACrefauthors}%
+Steins, C.%
+\BCBT {}\ \BBA {} Stephens, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{April}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Building Cities in the Virtual World.} {Building cities
+  in the virtual world.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Planning}{74}{4}{32--37}.
+\newblock
+\begin{APACrefURL} [{16 April, 2008}]\url{http://search.ebsco host.com}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Stirner%
+}{%
+Stirner%
+}{%
+{\protect \APACyear {1845/1907}}%
+}]{%
+Stirner1845}
+\APACinsertmetastar {%
+Stirner1845}%
+\begin{APACrefauthors}%
+Stirner, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1907}.
+\newblock
+\APACrefbtitle {The Ego and its own} {The ego and its own}\ (S\BPBI
+  T.~Bynington, \BTRANS{}).
+\newblock
+\APACaddressPublisher{New York}{Benjamin R. Tucker}.
+\newblock
+\begin{APACrefURL} \url{http://www.nonserviam.com/egoist
+  archive/stirner/TheEgo.pdf} \end{APACrefURL}
+\newblock
+\APACorigyearnote{1845}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Strauss%
+\ \BBA {} Howe%
+}{%
+Strauss%
+\ \BBA {} Howe%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+Strauss2000}
+\APACinsertmetastar {%
+Strauss2000}%
+\begin{APACrefauthors}%
+Strauss, W.%
+\BCBT {}\ \BBA {} Howe, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2000}.
+\newblock
+\APACrefbtitle {Millennials rising: The next great generation} {Millennials
+  rising: The next great generation}.
+\newblock
+\APACaddressPublisher{New York}{Vintage Books}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Strawson%
+}{%
+Strawson%
+}{%
+{\protect \APACyear {1959}}%
+}]{%
+Strawson1959}
+\APACinsertmetastar {%
+Strawson1959}%
+\begin{APACrefauthors}%
+Strawson, P\BPBI F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1959}.
+\newblock
+\APACrefbtitle {Individuals} {Individuals}.
+\newblock
+\APACaddressPublisher{London}{Methuen}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Strong's {G}reek Dictionary}}{%
+\APACcitebtitle {Strong's {G}reek Dictionary}}{%
+{\protect \APACyear {2010}}%
+}]{%
+Biblos2010}
+\APACinsertmetastar {%
+Biblos2010}%
+\APACrefbtitle {Strong's {G}reek Dictionary} {Strong's {G}reek dictionary}\
+  [Internet website].
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+\APACaddressPublisher{Glassport, Philadelphia}{Biblos.com}.
+\newblock
+\begin{APACrefURL} [{4 November, 2010}]\url{http://strongsnumbers.c
+  om/greek/2041.htm} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sumner%
+\ \BBA {} Ryan%
+}{%
+Sumner%
+\ \BBA {} Ryan%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+SumnerRyan1994}
+\APACinsertmetastar {%
+SumnerRyan1994}%
+\begin{APACrefauthors}%
+Sumner, M.%
+\BCBT {}\ \BBA {} Ryan, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Impact of \textsc{case}: Can It Achieve critical
+  success factors?} {The impact of \textsc{case}: Can it achieve critical
+  success factors?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Systems Management}{45}{6}{16--21}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sundin%
+\ \BBA {} Johannisson%
+}{%
+Sundin%
+\ \BBA {} Johannisson%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+Sundin2005}
+\APACinsertmetastar {%
+Sundin2005}%
+\begin{APACrefauthors}%
+Sundin, O.%
+\BCBT {}\ \BBA {} Johannisson, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Pragmatism, neo-pragmatism and sociocultural theory:
+  Communicative participation as a perspective in {LIS}} {Pragmatism,
+  neo-pragmatism and sociocultural theory: Communicative participation as a
+  perspective in {LIS}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Documentation}{61}{1}{23--43}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sur%
+, Arsanjani%
+\BCBL {}\ \BBA {} Ramanthan%
+}{%
+Sur%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+Sur2007}
+\APACinsertmetastar {%
+Sur2007}%
+\begin{APACrefauthors}%
+Sur, A.%
+, Arsanjani, A.%
+\BCBL {}\ \BBA {} Ramanthan, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{July}{9--13}.
+\newblock
+{\BBOQ}\APACrefatitle {\textsc{soa} based Context Aware Services
+  Infrastructure} {\textsc{soa} based context aware services
+  infrastructure}{\BBCQ}\ [Conference proceedings].
+\newblock
+\BIn{} \APACrefbtitle {2007 \textsc{ieee} International Conference on Services
+  Computing} {2007 \textsc{ieee} international conference on services
+  computing}\ (\BPGS\ 688--689).
+\newblock
+\APACaddressPublisher{Salt Lake City, Utah}{\textsc{ieee} Computer Society}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sutcliffe%
+}{%
+Sutcliffe%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+Sutcliffe2000}
+\APACinsertmetastar {%
+Sutcliffe2000}%
+\begin{APACrefauthors}%
+Sutcliffe, A\BPBI G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Requirements analysis for socio-technical system design}
+  {Requirements analysis for socio-technical system design}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Inf. Syst.}{25}{3}{213--233}.
+\newblock
+\begin{APACrefDOI} \doi{http://dx.doi.org/10.1016/S0306-4379(00)00016-8}
+  \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sutter%
+}{%
+Sutter%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+Sutter2009}
+\APACinsertmetastar {%
+Sutter2009}%
+\begin{APACrefauthors}%
+Sutter, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{November}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Tutorial: Introduction to {Web} 2.0} {Tutorial:
+  Introduction to {Web} 2.0}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Communications of the Association for Information
+  Systems}{25}{40}{511--518}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Swisher%
+}{%
+Swisher%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Swisher2007}
+\APACinsertmetastar {%
+Swisher2007}%
+\begin{APACrefauthors}%
+Swisher, P\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The managed web: A look at the impact of {W}eb 2.0 on
+  media asset management for the enterprise} {The managed web: A look at the
+  impact of {W}eb 2.0 on media asset management for the enterprise}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Digital Asset Management}{3}{1}{32--42}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tannenbaum%
+}{%
+Tannenbaum%
+}{%
+{\protect \APACyear {1952}}%
+}]{%
+Tannenbaum1952}
+\APACinsertmetastar {%
+Tannenbaum1952}%
+\begin{APACrefauthors}%
+Tannenbaum, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1952}.
+\newblock
+\APACrefbtitle {A philosophy of labor} {A philosophy of labor}.
+\newblock
+\APACaddressPublisher{New York}{Alfred A. Knopf}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Taylor%
+}{%
+Taylor%
+}{%
+{\protect \APACyear {1911}}%
+}]{%
+Taylor1911}
+\APACinsertmetastar {%
+Taylor1911}%
+\begin{APACrefauthors}%
+Taylor, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1911}{}{}.
+\newblock
+\APACrefbtitle {The principles of {S}cientific {M}anagement.} {The principles
+  of {S}cientific {M}anagement.}
+\newblock
+\begin{APACrefURL} [{14 June,
+  2007}]\url{http://socserv.mcmaster.ca/econ/ugcm/3ll3/taylor/ sciman}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tenenbaum%
+}{%
+Tenenbaum%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+Tenenbaum2006}
+\APACinsertmetastar {%
+Tenenbaum2006}%
+\begin{APACrefauthors}%
+Tenenbaum, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{Winter}{}.
+\newblock
+{\BBOQ}\APACrefatitle {\textsc{ai} meets {W}eb 2.0: Building the web of
+  tomorrow today} {\textsc{ai} meets {W}eb 2.0: Building the web of tomorrow
+  today}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{\textsc{ai} Magazine}{}{}{47--68}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Toffler%
+}{%
+Toffler%
+}{%
+{\protect \APACyear {1972}}%
+}]{%
+Toffler1972}
+\APACinsertmetastar {%
+Toffler1972}%
+\begin{APACrefauthors}%
+Toffler, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1972}.
+\newblock
+\APACrefbtitle {Future Shock} {Future shock}.
+\newblock
+\APACaddressPublisher{New York}{Bantam Books}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Treffry%
+, Fergusson%
+\BCBL {}\ \BBA {} Isaacs%
+}{%
+Treffry%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2000}}%
+}]{%
+Times2000}
+\APACinsertmetastar {%
+Times2000}%
+\begin{APACrefauthors}%
+Treffry, D.%
+, Fergusson, S.%
+\BCBL {}\ \BBA {} Isaacs, A.%
+\end{APACrefauthors}%
+\ (\BEDS).
+\unskip\
+\newblock
+\APACrefYear{2000}.
+\newblock
+\APACrefbtitle {The {T}imes {E}nglish dictionary} {The {T}imes {E}nglish
+  dictionary}.
+\newblock
+\APACaddressPublisher{London}{Times Books}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Trist%
+}{%
+Trist%
+}{%
+{\protect \APACyear {1981}}%
+}]{%
+Trist1981}
+\APACinsertmetastar {%
+Trist1981}%
+\begin{APACrefauthors}%
+Trist, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1981}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Evolution of socio-Technical Systems: A Conceptual
+  Framework and an Action Research Program} {The evolution of socio-technical
+  systems: A conceptual framework and an action research program}.{\BBCQ}
+\newblock
+\BIn{} V.~de Ven\ \BBA {} W.~Joyce\ (\BEDS), \APACrefbtitle {Perspectives on
+  Organizational Design and Behavior.} {Perspectives on organizational design
+  and behavior.}
+\newblock
+\APACaddressPublisher{NY}{Wiley Interscience}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Trist%
+\ \BBA {} Bamforth%
+}{%
+Trist%
+\ \BBA {} Bamforth%
+}{%
+{\protect \APACyear {1951/2000}}%
+}]{%
+Trist2000}
+\APACinsertmetastar {%
+Trist2000}%
+\begin{APACrefauthors}%
+Trist, E.%
+\BCBT {}\ \BBA {} Bamforth, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Some social and psychological consequences of the
+  longwall method of coal-getting} {Some social and psychological consequences
+  of the longwall method of coal-getting}.{\BBCQ}
+\newblock
+\BIn{} D.~Preece, I.~McLoughlin\BCBL {}\ \BBA {} P.~Dawson\ (\BEDS),
+  \APACrefbtitle {Technology, Organizations, and Innovation: Critical
+  perspectives on business and management} {Technology, organizations, and
+  innovation: Critical perspectives on business and management}\ (\BVOL~1,
+  \BPGS\ 79--118).
+\newblock
+\APACaddressPublisher{London}{Routledge}.
+\newblock
+\APACorigjournalnote{1951}{Human Relations}{4}{1}{}{}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Vallas%
+}{%
+Vallas%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+Vallas1999}
+\APACinsertmetastar {%
+Vallas1999}%
+\begin{APACrefauthors}%
+Vallas, S\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{March}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Rethinking {P}ost-{F}ordism: The Meaning of Workplace
+  Flexibility} {Rethinking {P}ost-{F}ordism: The meaning of workplace
+  flexibility}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Sociological Theory}{17}{1}{68--101}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Virtue%
+}{%
+Virtue%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+Virtue2009}
+\APACinsertmetastar {%
+Virtue2009}%
+\begin{APACrefauthors}%
+Virtue, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{Oct}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Finding the Sweet Spot: {B}alancing the Risks and
+  Rewards of Social Networking Technologies in the Enterprise} {Finding the
+  sweet spot: {B}alancing the risks and rewards of social networking
+  technologies in the enterprise}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cutter IT Journal}{22}{10}{6 - 9}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Walker%
+}{%
+Walker%
+}{%
+{\protect \APACyear {1985}}%
+}]{%
+Walker1985}
+\APACinsertmetastar {%
+Walker1985}%
+\begin{APACrefauthors}%
+Walker, J\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1985}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Materialist Pragmatism and Sociology of Education}
+  {Materialist pragmatism and sociology of education}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{British Journal of Sociology of
+  Education}{6}{1}{55---74}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wertheim%
+}{%
+Wertheim%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Wertheim2007}
+\APACinsertmetastar {%
+Wertheim2007}%
+\begin{APACrefauthors}%
+Wertheim, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{15 June}{}.
+\newblock
+\APACrefbtitle {Historical Background of Organizational Behavior.} {Historical
+  background of organizational behavior.}
+\newblock
+\APACaddressPublisher{}{College of Business Administration, Northeastern
+  University, Boston, MA}.
+\newblock
+\begin{APACrefURL} [{15 June,
+  2007}]\url{http://web.cba.neu.edu/\textasciitilde{}ewerth
+  eim/introd/history.htm} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+C.~White%
+}{%
+C.~White%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+White2007}
+\APACinsertmetastar {%
+White2007}%
+\begin{APACrefauthors}%
+White, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{August}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Impact of Web 2.0} {The impact of web 2.0}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{DM Review}{17}{8}{14}.
+\newblock
+\APACrefnote{Retrieved April 20, 2008, from ProQuest Computing database}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+M\BPBI G.~White%
+}{%
+M\BPBI G.~White%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+White2002}
+\APACinsertmetastar {%
+White2002}%
+\begin{APACrefauthors}%
+White, M\BPBI G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2002}.
+\newblock
+\APACrefbtitle {A philosophy of culture: The scope of holistic pragmatism} {A
+  philosophy of culture: The scope of holistic pragmatism}.
+\newblock
+\APACaddressPublisher{41 William Street, Princeton, New Jersey, USA}{Princeton
+  University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+R\BPBI B.~White%
+}{%
+R\BPBI B.~White%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+White2006}
+\APACinsertmetastar {%
+White2006}%
+\begin{APACrefauthors}%
+White, R\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{Winter}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A Simple Automation of a {P}eircean Decision Procedure}
+  {A simple automation of a {P}eircean decision procedure}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Transactions of the Charles S. Peirce
+  Society}{42}{1}{117--132}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wilde%
+}{%
+Wilde%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Wilde2007}
+\APACinsertmetastar {%
+Wilde2007}%
+\begin{APACrefauthors}%
+Wilde, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{August}{15}.
+\newblock
+{\BBOQ}\APACrefatitle {Declarative {W}eb 2.0} {Declarative {W}eb 2.0}{\BBCQ}\
+  [Conference Proceedings].
+\newblock
+\BIn{} \APACrefbtitle {2007 \textsc{ieee} International Conference on
+  Information Reuse and Integration} {2007 \textsc{ieee} international
+  conference on information reuse and integration}\ (\BPGS\ 612--617).
+\newblock
+\APACaddressPublisher{Las Vegas, Nevada}{\textsc{ieee} \textsc{smc} Society}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+E.~Wilson%
+}{%
+E.~Wilson%
+}{%
+{\protect \APACyear {1998}}%
+}]{%
+Wilson1998}
+\APACinsertmetastar {%
+Wilson1998}%
+\begin{APACrefauthors}%
+Wilson, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1998}.
+\newblock
+\APACrefbtitle {Consilience, The unity of knowledge} {Consilience, the unity of
+  knowledge}.
+\newblock
+\APACaddressPublisher{New York}{Knopf}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+J\BPBI R.~Wilson%
+\ \BBA {} Whittington%
+}{%
+J\BPBI R.~Wilson%
+\ \BBA {} Whittington%
+}{%
+{\protect \APACyear {2001}}%
+}]{%
+WilsonWhittington2001}
+\APACinsertmetastar {%
+WilsonWhittington2001}%
+\begin{APACrefauthors}%
+Wilson, J\BPBI R.%
+\BCBT {}\ \BBA {} Whittington, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Self-managed Work Teams} {Self-managed work
+  teams}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {International encyclopedia of ergonomics and human
+  factors} {International encyclopedia of ergonomics and human factors}\
+  (\BVOL~II, \BPGS\ 1344--1346).
+\newblock
+\APACaddressPublisher{London}{Taylor \&{} Francis}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Winner%
+}{%
+Winner%
+}{%
+{\protect \APACyear {1986}}%
+}]{%
+Winner1986}
+\APACinsertmetastar {%
+Winner1986}%
+\begin{APACrefauthors}%
+Winner, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1986}.
+\newblock
+\APACrefbtitle {The whale and the reactor: A Search for Limits in an Age of
+  High Technology} {The whale and the reactor: A search for limits in an age of
+  high technology}.
+\newblock
+\APACaddressPublisher{Chicago, IL}{The University of Chicago Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Winner%
+}{%
+Winner%
+}{%
+{\protect \APACyear {1997}}%
+}]{%
+Winner1997}
+\APACinsertmetastar {%
+Winner1997}%
+\begin{APACrefauthors}%
+Winner, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1997}{}{}.
+\newblock
+\APACrefbtitle {Cyberlibertarian myths and the prospects for community.}
+  {Cyberlibertarian myths and the prospects for community.}
+\newblock
+\APACaddressPublisher{}{Rensselaer Polytechnic Institute}.
+\newblock
+\begin{APACrefURL} [{28 July, 2010}]\url{http://www.lang donwinner.org/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Yi%
+, Wang%
+, Liu%
+\BCBL {}\ \BBA {} Wen%
+}{%
+Yi%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2006}}%
+}]{%
+Yi2006}
+\APACinsertmetastar {%
+Yi2006}%
+\begin{APACrefauthors}%
+Yi, X.%
+, Wang, Y.%
+, Liu, J.%
+\BCBL {}\ \BBA {} Wen, Z.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{September}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Enterprise information system architecture based on
+  {W}eb 2.0} {Enterprise information system architecture based on {W}eb
+  2.0}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Wuhan {U}niversity {J}ournal of {N}atural
+  {S}ciences}{11}{5}{1398--1402}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Yukihiro%
+}{%
+Yukihiro%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Kazikawa2007}
+\APACinsertmetastar {%
+Kazikawa2007}%
+\begin{APACrefauthors}%
+Yukihiro, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {In-house Use of {W}eb 2.0: {E}nterprise 2.0} {In-house
+  use of {W}eb 2.0: {E}nterprise 2.0}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{{NEC} Technical Journal}{2}{2}{46--49}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zeleznikow%
+\ \BBA {} Hunter%
+}{%
+Zeleznikow%
+\ \BBA {} Hunter%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+Zeleznikow1994}
+\APACinsertmetastar {%
+Zeleznikow1994}%
+\begin{APACrefauthors}%
+Zeleznikow, J.%
+\BCBT {}\ \BBA {} Hunter, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Building Intelligent Legal Information Systems:
+  Representation and Reasoning in Law} {Building intelligent legal information
+  systems: Representation and reasoning in law}{\BBCQ}\ [Book series].
+\newblock
+\BIn{} \APACrefbtitle {Computer Law Series} {Computer law series}\ (\BVOL~13).
+\newblock
+\APACaddressPublisher{Dordrecht}{Kluwer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zim{\-}mer{\-}man%
+}{%
+Zim{\-}mer{\-}man%
+}{%
+{\protect \APACyear {1990}}%
+}]{%
+Zimmerman1990}
+\APACinsertmetastar {%
+Zimmerman1990}%
+\begin{APACrefauthors}%
+Zim{\-}mer{\-}man, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1990}.
+\newblock
+\APACrefbtitle {Heidegger's confrontation with modernity} {Heidegger's
+  confrontation with modernity}.
+\newblock
+\APACaddressPublisher{Bloomington}{Indiana University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

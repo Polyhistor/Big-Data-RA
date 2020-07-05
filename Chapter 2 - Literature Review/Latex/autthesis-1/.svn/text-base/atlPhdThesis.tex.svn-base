@@ -1,0 +1,268 @@
+% !TEX TS-program = pdflatex
+% !TEX encoding = UTF-8 Unicode
+
+%% This document uses the class muthesis1, which is modified from the 
+%% Manchester University muthesis. Refer the the class file for documentation
+%% on formatting for the class
+%%
+%%
+%% Copyright 2010, Alan T Litchfield
+
+
+
+\documentclass[12pt,PhD,doublespace]{autthesis}
+%\documentclass[12pt,PhD,doublespace,twoside]{autthesis}
+%\documentclass[12pt,PhD,twoside]{autthesis}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{times}
+%\usepackage{palatino}
+\usepackage[english,british]{babel}
+\usepackage{lgreek}
+%% Fancy Header
+%% Fancy Header Style Options
+    \pagestyle{fancy}                                  % Sets fancy header and footer
+    \fancyfoot{}                                       % Delete current footer settings
+    \renewcommand{\chaptermark}[1]{                    % Lower Case Chapter marker style
+      \markboth{\chaptername\ \thechapter.\ #1}{}}     %
+    \renewcommand{\sectionmark}[1]{                    % Lower case Section marker style
+      \markright{\thesection.\ #1}}                    %
+%    \fancyhead[LE,RO]{\mdseries\thepage}               % Page number (boldface) in left on even
+                                                                                         % pages and right on odd pages
+    \fancyhead[L,RO]{\mdseries\thepage}
+%    \fancyhead[RE]{\mdseries\rightmark}                % Chapter in the right on even pages
+%    \fancyhead[R]{\mdseries\rightmark}
+    \fancyhead[LO]{\mdseries\leftmark}                 % Section in the left on odd pages
+    \renewcommand{\headrulewidth}{0.25pt}               % Width of head rule
+     \renewcommand{\headheight}{30pt}               % depth of header
+
+\usepackage{microtype}	% provides a LATEX interface to the micro-typographic 
+					% extensions of pdf TEX
+\usepackage{xcolor,graphicx}
+\usepackage{graphics}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{MnSymbol}
+%\usepackage{pifont}
+%\usepackage{tabularx}
+\usepackage{apacite}                                   %references are in APA format, using the standard APA 5th style
+\usepackage{expdlist}
+\usepackage{varioref}
+%\usepackage{epic}
+%\usepackage{pstricks}
+%\usepackage{ecltree}
+%\usepackage{cancel}
+\usepackage{textcomp}
+%\usepackage{verbatim}                              % for code listings and so on
+%\usepackage{play}                                     % Used for interview transcripts
+\usepackage[pagewise]{lineno}                      % Used to number interview transcript lines, for 
+\modulolinenumbers[7]                                   % referencing in the body
+\renewcommand\linenumberfont{\normalfont\tiny\sffamily\textcolor{white}}
+\usepackage{longtable}                                % for tables that extend beyond a single page
+%\usepackage{subfig}                                   % putting more than one figure in a float
+%\usepackage{rotating}                                 % turning the float sideways on the page
+\usepackage{multicol, ragged2e}                       
+%\usepackage{relsize}
+%\usepackage{pdflscape}
+%\usepackage{array}
+\usepackage{booktabs}
+%\usepackage{multirow}
+%\usepackage{bigdelim}
+\usepackage{nextpage}
+%\usepackage{titleref}                                 % putting title text into cross-refs
+%\usepackage{upgreek}
+\usepackage{paralist}
+\usepackage[all]{xy}
+\usepackage{dashrule}
+\usepackage[rightbars,color]{changebar}
+\cbcolor{red}
+\nochangebars
+\usepackage[multiple]{footmisc}
+
+% Widow and orphan control. Max. value = 10000
+%\widowpenalty=600
+%\clubpenalty=600
+%\raggedbottom
+%\pagebreak[3] %option 0-4 with 4 more insistent
+
+% Macro for enforcing a blank page. Used at the beginning of the Appendices 
+% to create a bank page before the new part that starts there
+\newcommand{\clearemptydoublepage}{\strut\newpage{\pagestyle{empty}\cleardoublepage}}
+
+% Macros for special characters that are used frequently, and to improve readability in the code
+\newcommand{\NZ}{New\nobreakspace{}Zealand}          %Inserts no-breakspace into proper noun
+\newcommand{\nz}{New\nobreakspace{}Zealand}          %
+\newcommand{\NZer}{New\nobreakspace{}Zealander}      %
+\newcommand{\maori}{M\={a}ori}                       % adds macrons
+\newcommand{\whanau}{wh\={a}nau}
+\newcommand{\Whanau}{Wh\={a}nau}
+\newcommand{\hapu}{hap\={u}}
+\newcommand{\Hapu}{Hap\={u}}
+\newcommand{\kaumatua}{kaum\={a}tua}
+\newcommand{\tupuna}{t\={u}puna}
+\newcommand{\IS}{\textsc{is}}
+\newcommand{\is}{\textsc{is}}
+\newcommand{\Junger}{J\"unger}
+\newcommand{\IT}{\textsc{it}}
+\newcommand{\soa}{\textsc{soa}}
+
+% Macro for suppressing text, and maintaining suppressed text in the source
+\newcommand{\suppresstext}{\textless{}\ldots{}\textgreater{}}
+
+% Superscripted characters
+\newcommand{\st}{\raisebox{0.75ex}{\scriptsize{st}}}    % superscripts st in 1st
+\newcommand{\nd}{\raisebox{0.75ex}{\scriptsize{nd}}}    % same 2nd
+\newcommand{\rd}{\raisebox{0.75ex}{\scriptsize{rd}}}    % same 3rd
+\newcommand{\nth}{\raisebox{0.75ex}{\scriptsize{th}}}   % same for nth
+% \newcommand{\reg}{\raisebox{0.75ex}{{\scriptsize \Pisymbol{psy}{210}}}}
+% \newcommand{\tm}{\raisebox{0.75ex}{{\scriptsize \Pisymbol{psy}{212}}}
+\newcommand{\superscript}[1]{\raisebox{0.3ex}{\scriptsize{#1}}}    % superscript text
+\newcommand{\subscript}[1]{\raisebox{-0.3ex}{\scriptsize{#1}}}    % superscripts st in 1st
+
+%Change the colour of text to red/black
+%\newcommand{\ColourTextRed}[1]{\textcolor{red}{#1}}
+\newcommand{\ColourTextRed}[1]{#1}
+
+% Simplifies the use of greek characters
+%\newcommand\greektext[1]{{\localgreek{#1}}}
+
+% Miscellaneous symbols and characters
+% \newcommand{\rarrow}{\Pisymbol{psy}{222}}
+% \newcommand{\+}{\raisebox{0.75ex}{\scriptsize{+}}}
+
+% autthesis uses one and a half line spacing by default, to get line spacings in 
+% lists put an * at the end of the macro name, as below:
+\newenvironment{itemize*}%
+{\begin{itemize}%
+\setlength{\itemsep}{0pt}%
+\setlength{\parskip}{0pt}}%
+{\end{itemize}}
+
+\newenvironment{enumerate*}%
+{\begin{enumerate}%
+\setlength{\itemsep}{0pt}%
+\setlength{\parskip}{0pt}}%
+{\end{enumerate}}
+
+\newenvironment{description*}%
+{\begin{description}%
+\setlength{\itemsep}{0pt}%
+\setlength{\parskip}{0pt}}%
+{\end{description}}
+
+\newenvironment{quotation*}%
+{\begin{quotation}%
+\setlength{\itemsep}{0pt}%
+\setlength{\parskip}{0pt}}%
+{\end{quotation}}
+
+\newenvironment{quotation**}%
+{\begin{quotation}%
+\setlength{\itemsep}{-1pt}%
+\setlength{\parskip}{-1pt}}%
+{\end{quotation}}
+
+% hyphenation rules
+\hyphenation{Ko-tahi-tanga}
+\hyphenation{Her-kunft}
+\hyphenation{ma-ta-nga}
+\hyphenation{Ur-sp-rung}
+\hyphenation{Zim-mer-man}
+
+% Specify the graphics path
+\graphicspath{{images/}}
+
+%Changing the margin paragraph setting
+\let\margin\marginpar
+\newcommand\myMargin[1]{\margin{\raggedright%
+	\scriptsize%
+	\setlength{\itemsep}{0pt}%
+	\setlength{\parskip}{0pt} #1}}
+\renewcommand{\marginpar}[1]{\myMargin{#1}}
+
+
+\begin{document}
+\author{Alan Te Morenga Litchfield}
+\title{The Semantics of Work in a Work System: A Pragmatic Philosophy of Information Systems}
+\submitdate{November 2011}
+\dept{School of Computing and Mathematical Sciences}
+\principaladviser{Dr Brian Cusack, BSc, MA(Hons) Auck., PhD New England., AdvDipTchg.}
+\firstreader{Professor Ajit Narayanan, BSc, Aston, PhD. Exeter}
+\copyrightyear{2012}
+
+\acknowtext{%
+To my wife, Karol Wilczynska, I offer gratitude for the endless support and encouragement you have given while I worked to distraction on things that most of the time made no sense whatsoever to you. All this while you were also engaged in your own postgraduate study. It has been a long road to hoe. 
+
+Brian Cusack, my primary supervisor, whose encouragement at times when I have thought that I should never see the end of this work, kept me going. More so however in his not interfering with the process of creation and allowing me to find my voice in the crowd of competing theories.  To my secondary supervisor, Ajit Narayanan, the acknowledgement of the approach I intended to take formed for me the cornerstone of the investigation and gave me a platform from where I could begin and for supporting me in securing a Vice Chancellor's Scholarship and the valuable time that it allowed. 
+
+Professors Steve MacDonell and Albert Yeap, while they may not have been aware of it, challenged my approach to the subject, that allowed me to find clarity and consistency in my questioning and resulted in substantial alteration in core aspects of the study. And of course, to those whose voices have gone before and passed into the winds of historical significance. I honour your wisdom and knowledge.}
+
+\abstracttext{%
+The study is a philosophical investigation into the semantics of Work in the Work System. In the field of Information Systems the Work System concept that has been adopted as a model for the understanding, analysis, and improvement of systems in organisations has not been adequately or formally defined despite that the concept is seemingly accepted as \emph{a priori.} This view is challenged by asking the question: \emph{what are the semantics of Work in the Work System?}
+
+\textls[-15]{Work is fundamentally a human expression and a socio-cultural object. Work serves as a social good through the establishment of relations of various kinds. Further, that throughout human history, people have created technologies to facilitate Work but in the past three centuries, rather than technologies providing the means to facilitate the Work of people, people now provide the means to produce technology to Work. The Work System is regarded as a by-product of an essentially dystopian productionist world but recent technological developments such as Web 2.0 have served to challenge accepted notions of autocracy in the workplace. 
+
+The thesis follows a philosophically pragmatist path to address the question, but culminates in a series of semantic statements, that represent a systematic formal description of Work and the Work System as a formal ontology. Several cases are provided as real world counterbalances to theoretical discussions throughout the main body of the thesis. These illustrate uses and applications of Web 2.0 technologies of various kinds and varying degrees of success.}
+
+The idea that Work is a central concern in the life of the person, and how the person is affected by the need to Work in a productionist world, is discussed from the standpoint that the dystopian notion of productionism is a product of the industrialisation of the West (and now in the East). It is shown, that the human has become inculcated into the technological system and has become part of the technological system. In that discussion the person is presented as one who enters the system as a powerless being in the face of significant power asymmetries. The state of powerlessness is such that the person may see no other life than that which is provided by the technological system. However, such power asymmetries are assuaged through the use of modern technologies, here represented by Web 2.0. The effect of the adoption of new technologies on Work appear as a shift in the balance of power and that affects how an enterprise functions. This necessitates a redefinition of roles and the Work that is done and Work is subsequently redefined as an objective concept, wherein the relationship between worker and Work is reframed through the appearance of participatory democratic processes of decision making and socialisation in the workplace. Work is represented as a shift in attitude and intention in the worker. Thus, the technological human is represented as an agent of change both in itself and the worlds it occupies.
+
+Ultimately, the prior discussions lead to the establishment of an objective and representational description of the semantics of Work in the Work System. The descriptions provided are phrased in such a way that they are applicable and can be generalised. They provide a clearer understanding of Work in relation to the field of \IS{} and a foundation upon which theory can be built.}
+
+\pubstext{%
+\singlespacing{}
+\begin{tabular}{p{0.5\linewidth{}} p{0.5\linewidth{}}}
+\textit{{\RaggedRight The Semantics of Work in a Work System: A Pragmatic Philosophy of Information Systems}} & {\RaggedRight 18th Australasian Conference on Information Systems (ACIS), Doctoral Consortium. University of Southern Queensland, Toowoomba. 5--7 December, 2007} \\[12 pt]
+\textit{{\RaggedRight Holistic Pragmatism as a Philosophical Framework in Information Systems Research}} & {\RaggedRight 15th Americas Conference on Information Systems (AMCIS), San Francisco, California. 6--9 December, 2009} \\[12 pt]
+\textit{{\RaggedRight Democratisation of Work through the application of Web 2.0 technologies}} & {\RaggedRight 17th Americas Conference on Information Systems (AMCIS), Detroit, Michigan 4--7 August, 2011} \\[12 pt]
+\textit{{\RaggedRight Arguments for the adoption of a heuristic approach to \IS{} Research }} & {\RaggedRight 32nd International Conference on Information Systems (ICIS), Shanghai 2011. 4--8 December, 2011}
+\end{tabular} 
+\doublespacing{}}
+\acknowpagetrue{}
+\abstractpagetrue{}
+\copyrighttrue{}
+\declpagetrue{}
+\figurespagetrue{}
+\tablespagetrue{}
+\sigpagefalse{}
+\pubspagetrue{}
+\beforeabstract{}
+\afterabstract{}
+\afterpreface
+
+
+%\clearpage{}
+%\thispagestyle{empty}\strut
+%\clearpage{}
+
+\input{includes/intro}
+
+\input{includes/LitReview}
+
+\input{includes/Method}
+
+\input{includes/Cases}
+
+\input{includes/WorkConception}
+
+\input{includes/production}
+
+\input{includes/Democratisation}
+
+\input{includes/Socialisation}
+
+\input{includes/evolution}
+
+\input{includes/DefinitionOfWork}
+
+\input{includes/Conclusion}
+
+\renewcommand\bibname{References}
+\singlespacing
+\bibliographystyle{apacite}
+\bibliography{SemanticsOfWork}
+
+%\appendix
+%\doublespacing
+%\input{includes/AlterCritique}
+
+\end{document}

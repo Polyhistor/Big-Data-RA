@@ -1,0 +1,979 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.1)  5 JUL 2020 19:22
+entering extended mode
+**"c:/Users/Admin/OneDrive - AUT University/PHD Journey/Chapter 2 - Literature Review/Latex/autthesis-1/AUTThesis.tex"
+("c:/Users/Admin/OneDrive - AUT University/PHD Journey/Chapter 2 - Literature Review/Latex/autthesis-1/AUTThesis.tex"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-05-15> ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\autthesis.cls"
+Document Class: autthesis 2020/06/03 Thesis Class
+(D:\MikTex\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (D:\MikTex\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+\f@nch@headwidth=\skip47
+\f@nch@O@elh=\skip48
+\f@nch@O@erh=\skip49
+\f@nch@O@olh=\skip50
+\f@nch@O@orh=\skip51
+\f@nch@O@elf=\skip52
+\f@nch@O@erf=\skip53
+\f@nch@O@olf=\skip54
+\f@nch@O@orf=\skip55
+) (D:\MikTex\tex/latex/base\report.cls
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+(D:\MikTex\tex/latex/base\size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip56
+\belowcaptionskip=\skip57
+\bibindent=\dimen134
+) (D:\MikTex\tex/latex/base\inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+) (D:\MikTex\tex/latex/base\fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+) (D:\MikTex\tex/latex/psnfss\times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) (D:\MikTex\tex/generic/babel\babel.sty
+Package: babel 2020/05/13 3.44 The Babel package
+ (D:\MikTex\tex/generic/babel\babel.def
+File: babel.def 2020/05/13 3.44 Babel common definitions
+\babel@savecnt=\count176
+\U@D=\dimen135
+\l@babelnohyphens=\language79
+ (D:\MikTex\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count177
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\MikTex\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (D:\MikTex\tex/latex/babel-english\newzealand.ldf
+Language: newzealand 2017/06/06 v3.3r English support from the babel system
+ (D:\MikTex\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 108.
+))) (D:\MikTex\tex/latex/lgreek\lgreek.sty
+\vwl=\count178
+\acct=\count179
+Now handling font encoding LG ...
+... no UTF-8 mapping file for font encoding LG
+) (D:\MikTex\tex/latex/microtype\microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+ (D:\MikTex\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\MT@toks=\toks18
+\MT@count=\count180
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen136
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count181
+ (D:\MikTex\tex/latex/microtype\microtype-pdftex.def
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip58
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (D:\MikTex\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+)) (D:\MikTex\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (D:\MikTex\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+ (D:\MikTex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (D:\MikTex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (D:\MikTex\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (D:\MikTex\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (D:\MikTex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen137
+\Gin@req@width=\dimen138
+) (D:\MikTex\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip59
+
+For additional information on amsmath, use the `?' option.
+(D:\MikTex\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (D:\MikTex\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen139
+)) (D:\MikTex\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+) (D:\MikTex\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count182
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count183
+\leftroot@=\count184
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count185
+\DOTSCASE@=\count186
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count187
+\c@MaxMatrixCols=\count188
+\dotsspace@=\muskip16
+\c@parentequation=\count189
+\dspbrk@lvl=\count190
+\tag@help=\toks20
+\row@=\count191
+\column@=\count192
+\maxfields@=\count193
+\andhelp@=\toks21
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks22
+\multlinegap=\skip60
+\multlinetaggap=\skip61
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (D:\MikTex\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (D:\MikTex\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (D:\MikTex\tex/latex/mnsymbol\MnSymbol.sty
+Package: MnSymbol 2007/01/21 v1.4 support for the MnSymbol font
+ (D:\MikTex\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+LaTeX Info: Redefining \dagger on input line 84.
+LaTeX Info: Redefining \ddagger on input line 84.
+LaTeX Info: Redefining \mathparagraph on input line 84.
+LaTeX Info: Redefining \mathsection on input line 84.
+LaTeX Info: Redefining \mathdollar on input line 84.
+LaTeX Info: Redefining \mathsterling on input line 84.
+LaTeX Info: Redefining \yen on input line 84.
+LaTeX Info: Redefining \circledR on input line 84.
+LaTeX Info: Redefining \circledS on input line 84.
+LaTeX Info: Redefining \Re on input line 84.
+LaTeX Info: Redefining \Im on input line 84.
+LaTeX Info: Redefining \dotplus on input line 84.
+LaTeX Info: Redefining \thicksim on input line 84.
+LaTeX Info: Redefining \thickapprox on input line 84.
+LaTeX Info: Redefining \veebar on input line 84.
+LaTeX Info: Redefining \barwedge on input line 84.
+LaTeX Info: Redefining \doublebarwedge on input line 84.
+LaTeX Info: Redefining \centerdot on input line 84.
+LaTeX Info: Redefining \divideontimes on input line 84.
+\symMnSyA=\mathgroup6
+\symMnSyB=\mathgroup7
+\symMnSyC=\mathgroup8
+\symMnSyD=\mathgroup9
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 119.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/MnSymbolE/m/n on input line 119.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/MnSymbolE/m/n on input line 119.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 120.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> U/MnSymbolF/m/n on input line 120.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> U/MnSymbolF/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `MnSyA' in version `bold'
+(Font)                  U/MnSymbolA/m/n --> U/MnSymbolA/b/n on input line 121.
+LaTeX Font Info:    Overwriting symbol font `MnSyB' in version `bold'
+(Font)                  U/MnSymbolB/m/n --> U/MnSymbolB/b/n on input line 122.
+LaTeX Font Info:    Overwriting symbol font `MnSyC' in version `bold'
+(Font)                  U/MnSymbolC/m/n --> U/MnSymbolC/b/n on input line 123.
+LaTeX Font Info:    Overwriting symbol font `MnSyD' in version `bold'
+(Font)                  U/MnSymbolD/m/n --> U/MnSymbolD/b/n on input line 124.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/MnSymbolE/m/n --> OMX/MnSymbolE/b/n on input line 125.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  U/MnSymbolF/m/n --> U/MnSymbolF/b/n on input line 126.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 241.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  OMS/MnSymbolS/m/n --> OMS/MnSymbolS/b/n on input line 241.
+LaTeX Info: Redefining \longrightarrow on input line 548.
+LaTeX Info: Redefining \longleftarrow on input line 549.
+LaTeX Info: Redefining \longleftrightarrow on input line 550.
+LaTeX Info: Redefining \Longrightarrow on input line 551.
+LaTeX Info: Redefining \Longleftarrow on input line 552.
+LaTeX Info: Redefining \Longleftrightarrow on input line 553.
+LaTeX Info: Redefining \longmapsto on input line 554.
+LaTeX Info: Redefining \vdots on input line 868.
+LaTeX Font Info:    Redeclaring math symbol \braceld on input line 1721.
+LaTeX Font Info:    Redeclaring math symbol \bracelu on input line 1722.
+LaTeX Font Info:    Redeclaring math symbol \bracerd on input line 1723.
+LaTeX Font Info:    Redeclaring math symbol \braceru on input line 1724.
+LaTeX Info: Redefining \downbracefill on input line 1799.
+LaTeX Info: Redefining \upbracefill on input line 1800.
+LaTeX Info: Redefining \overbrace on input line 1819.
+LaTeX Info: Redefining \underbrace on input line 1820.
+LaTeX Info: Redefining \surd on input line 1843.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 1845.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 1846.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 1848.
+) (D:\MikTex\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+ (D:\MikTex\tex/latex/tools\array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen148
+\ar@mcellbox=\box47
+\extrarowheight=\dimen149
+\NC@list=\toks24
+\extratabsurround=\skip62
+\backup@length=\skip63
+\ar@cellbox=\box48
+)
+\TX@col@width=\dimen150
+\TX@old@table=\dimen151
+\TX@old@col=\dimen152
+\TX@target=\dimen153
+\TX@delta=\dimen154
+\TX@cols=\count194
+\TX@ftn=\toks25
+) (D:\MikTex\tex/latex/expdlist\expdlist.sty
+Document Substyle `EXPDLIST'. Released 22.09.1999 (V 2.4)
+English Documentation  22.09.99
+\listpartsep=\skip64
+) (D:\MikTex\tex/latex/tools\varioref.sty
+Package: varioref 2020/01/23 v1.6c package for extended references (FMi)
+\c@vrcnt=\count195
+) (D:\MikTex\tex/latex/tools\verbatim.sty
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks26
+\verbatim@line=\toks27
+\verbatim@in@stream=\read3
+) (D:\MikTex\tex/latex/tools\longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip65
+\LTright=\skip66
+\LTpre=\skip67
+\LTpost=\skip68
+\LTchunksize=\count196
+\LTcapwidth=\dimen155
+\LT@head=\box49
+\LT@firsthead=\box50
+\LT@foot=\box51
+\LT@lastfoot=\box52
+\LT@cols=\count197
+\LT@rows=\count198
+\c@LT@tables=\count199
+\c@LT@chunks=\count266
+\LT@p@ftn=\toks28
+) (D:\MikTex\tex/latex/subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+ (D:\MikTex\tex/latex/caption\caption.sty
+Package: caption 2020/05/10 v3.4j Customizing captions (AR)
+ (D:\MikTex\tex/latex/caption\caption3.sty
+Package: caption3 2020/05/10 v1.11 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen156
+\captionmargin@=\dimen157
+\captionwidth=\dimen158
+\caption@tempdima=\dimen159
+\caption@indent=\dimen160
+\caption@parindent=\dimen161
+\caption@hangindent=\dimen162
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count267
+\c@continuedfloat=\count268
+Package caption Info: longtable package is loaded.
+ (D:\MikTex\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
+))
+\c@KVtest=\count269
+\sf@farskip=\skip69
+\sf@captopadj=\dimen163
+\sf@capskip=\skip70
+\sf@nearskip=\skip71
+\c@subfigure=\count270
+\c@subfigure@save=\count271
+\c@lofdepth=\count272
+\c@subtable=\count273
+\c@subtable@save=\count274
+\c@lotdepth=\count275
+\sf@top=\skip72
+\sf@bottom=\skip73
+) (D:\MikTex\tex/latex/tools\multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count276
+\mult@box=\box53
+\multicol@leftmargin=\dimen164
+\c@unbalance=\count277
+\c@collectmore=\count278
+\doublecol@number=\count279
+\multicoltolerance=\count280
+\multicolpretolerance=\count281
+\full@width=\dimen165
+\page@free=\dimen166
+\premulticols=\dimen167
+\postmulticols=\dimen168
+\multicolsep=\skip74
+\multicolbaselineskip=\skip75
+\partial@page=\box54
+\last@line=\box55
+\maxbalancingoverflow=\dimen169
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@gfirstbox=\box58
+\mult@firstbox=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\c@minrows=\count282
+\c@columnbadness=\count283
+\c@finalcolumnbadness=\count284
+\last@try=\dimen170
+\multicolovershoot=\dimen171
+\multicolundershoot=\dimen172
+\mult@nat@firstbox=\box97
+\colbreak@box=\box98
+\mc@col@check@num=\count285
+) (D:\MikTex\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+ (D:\MikTex\tex/latex/ms\everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip76
+\RaggedLeftLeftskip=\skip77
+\RaggedRightLeftskip=\skip78
+\CenteringRightskip=\skip79
+\RaggedLeftRightskip=\skip80
+\RaggedRightRightskip=\skip81
+\CenteringParfillskip=\skip82
+\RaggedLeftParfillskip=\skip83
+\RaggedRightParfillskip=\skip84
+\JustifyingParfillskip=\skip85
+\CenteringParindent=\skip86
+\RaggedLeftParindent=\skip87
+\RaggedRightParindent=\skip88
+\JustifyingParindent=\skip89
+) (D:\MikTex\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen173
+\lightrulewidth=\dimen174
+\cmidrulewidth=\dimen175
+\belowrulesep=\dimen176
+\belowbottomsep=\dimen177
+\aboverulesep=\dimen178
+\abovetopsep=\dimen179
+\cmidrulesep=\dimen180
+\cmidrulekern=\dimen181
+\defaultaddspace=\dimen182
+\@cmidla=\count286
+\@cmidlb=\count287
+\@aboverulesep=\dimen183
+\@belowrulesep=\dimen184
+\@thisruleclass=\count288
+\@lastruleclass=\count289
+\@thisrulewidth=\dimen185
+) (D:\MikTex\tex/latex/paralist\paralist.sty
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip90
+\plpartopsep=\skip91
+\plitemsep=\skip92
+\plparsep=\skip93
+\pl@lab=\toks29
+) (D:\MikTex\tex/latex/dashrule\dashrule.sty
+Package: dashrule 2013/03/28 v1.3 Dashed rules
+ (D:\MikTex\tex/latex/ifmtarg\ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+)
+\c@hdr@segments=\count290
+) (D:\MikTex\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip94
+\enit@outerparindent=\dimen186
+\enit@toks=\toks30
+\enit@inbox=\box99
+\enit@count@id=\count291
+\enitdp@description=\count292
+) (D:\MikTex\tex/latex/footmisc\footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks31
+\footnotemargin=\dimen187
+\c@pp@next@reset=\count293
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924.
+) (D:\MikTex\tex/latex/tocvsec2\tocvsec2.sty
+Package: tocvsec2 2014/03/10 v1.3a variable ToC section entries
+ (D:\MikTex\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@max@tocdepth=\count294
+\c@max@secnumdepth=\count295
+) (D:\MikTex\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+ (D:\MikTex\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) (D:\MikTex\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) (D:\MikTex\tex/latex/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+ (D:\MikTex\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (D:\MikTex\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (D:\MikTex\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (D:\MikTex\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (D:\MikTex\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (D:\MikTex\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (D:\MikTex\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (D:\MikTex\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen188
+\Hy@linkcounter=\count296
+\Hy@pagecounter=\count297
+ (D:\MikTex\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (D:\MikTex\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (D:\MikTex\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count298
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count299
+ (D:\MikTex\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen189
+ (D:\MikTex\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (D:\MikTex\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count300
+\Field@Width=\dimen190
+\Fld@charsize=\dimen191
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+ (D:\MikTex\tex/generic/atbegshi\atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count301
+\c@Item=\count302
+\c@Hfootnote=\count303
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (D:\MikTex\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+ (D:\MikTex\tex/latex/atveryend\atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count304
+\c@bookmark@seq@number=\count305
+ (D:\MikTex\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (D:\MikTex\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip95
+)) (D:\MikTex\tex/latex/apacite\apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count306
+\bibleftmargin=\skip96
+\bibindent=\skip97
+\bibparsep=\skip98
+\bibitemsep=\skip99
+\biblabelsep=\skip100
+) (D:\MikTex\tex/latex/l3backend\l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-05-05 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count307
+\l__pdf_internal_box=\box100
+) ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.aux" ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/intro.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/LitReview.aux"
+
+LaTeX Warning: Label `sec:Introduction' multiply defined.
+
+) ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Method.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Analysis.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Discussion.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Conclusion.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Glossary.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/FirstAppendix.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/SecondAppendix.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/confidentialMaterial.aux"))
+\openout1 = `AUTThesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for LG/cmr/m/n on input line 56.
+LaTeX Font Info:    Trying to load font information for LG+cmr on input line 56.
+ (D:\MikTex\tex/latex/lgreek\lgcmr.fd
+File: LGcmr.fd 1995/04/22 v2.3f Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 56.
+ (D:\MikTex\tex/latex/psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+LaTeX Info: Redefining \microtypecontext on input line 56.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+LaTeX Info: Redefining \showhyphens on input line 56.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ (D:\MikTex\tex/latex/microtype\mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+) (D:\MikTex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count308
+\scratchdimen=\dimen192
+\scratchbox=\box101
+\nofMPsegments=\count309
+\nofMParguments=\count310
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count311
+\MPscratchDim=\dimen193
+\MPnumerator=\count312
+\makeMPintoPDFobject=\count313
+\everyMPtoPDFconversion=\toks33
+) (D:\MikTex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 56.
+\AtBeginShipoutBox=\box102
+Package hyperref Info: Link coloring OFF on input line 56.
+ (D:\MikTex\tex/latex/hyperref\nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ (D:\MikTex\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (D:\MikTex\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count314
+LaTeX Info: Redefining \Ref on input line 520.
+)
+LaTeX Info: Redefining \ref on input line 56.
+LaTeX Info: Redefining \pageref on input line 56.
+LaTeX Info: Redefining \nameref on input line 56.
+ ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.out") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.out")
+\@outlinefile=\write3
+\openout3 = `AUTThesis.out'.
+
+LaTeX Info: Redefining \Ref on input line 56.
+\c@maskedRefs=\count315
+ (D:\MikTex\tex/latex/apacite\english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+) [1
+
+{C:/Users/Admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+
+
+] ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.toc" (D:\MikTex\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
+ (D:\MikTex\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (D:\MikTex\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
+ (D:\MikTex\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (D:\MikTex\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+) [3
+
+])
+\tf@toc=\write4
+\openout4 = `AUTThesis.toc'.
+
+ [4] ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.lot")
+\tf@lot=\write5
+\openout5 = `AUTThesis.lot'.
+
+ [5
+
+] ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.lof")
+\tf@lof=\write6
+\openout6 = `AUTThesis.lof'.
+
+ [6
+
+]
+<signature.pdf, id=239, 216.81pt x 72.27pt>
+File: signature.pdf Graphic file (type pdf)
+<use signature.pdf>
+Package pdftex.def Info: signature.pdf  used on input line 139.
+(pdftex.def)             Requested size: 216.81pt x 72.2731pt.
+ [7
+
+ <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Chapter 2 - Literature Review/Latex/autthesis-1/signature.pdf>]
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 139.
+ (D:\MikTex\tex/latex/psnfss\t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `pcr' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [8
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 139.
+ (D:\MikTex\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [9
+
+] [10
+
+]
+\openout2 = `includes/intro.aux'.
+
+ ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/intro.tex"
+Chapter 1.
+<images/graphSample.pdf, id=305, 102.25403pt x 122.60907pt>
+File: images/graphSample.pdf Graphic file (type pdf)
+<use images/graphSample.pdf>
+Package pdftex.def Info: images/graphSample.pdf  used on input line 15.
+(pdftex.def)             Requested size: 123.77074pt x 148.41353pt.
+[11
+
+
+ <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Chapter 2 - Literature Review/Latex/autthesis-1/images/graphSample.pdf>]
+
+LaTeX Warning: Citation `Alter2002' undefined on input line 24.
+
+
+LaTeX Warning: Citation `Alter2002' undefined on input line 24.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]\T1/ptm/m/n/12 (+20) 2. Design po-ten-tial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]\T1/ptm/m/n/12 (+20) Use each Work Prin-ciple in turn as a lens for sum-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]\T1/ptm/m/n/12 (+20) Minimise ef-fort ab-sorbed by tech-no-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]\T1/ptm/m/n/12 (+20) Minimise un-in-ten-ded con-flicts and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]\T1/ptm/m/n/12 (+20) Maintain bal-ance between Work Sys-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+[]|\T1/ptm/m/n/12 (+20) Make a re-com-mend-a-tion that ad-dresses the prob-lem
+ []
+
+
+LaTeX Warning: Citation `Alter2004' undefined on input line 54.
+
+
+LaTeX Warning: Citation `Alter2004' undefined on input line 54.
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 84--84
+[]|\T1/ptm/b/n/12 11: \T1/ptm/m/n/12 (+20) Align par-ti-cipant in-cent-ives
+ []
+
+[12]
+
+LaTeX Warning: Citation `Bannon1997' undefined on input line 98.
+
+[13] [14] [15]
+
+LaTeX Warning: Citation `Quine2004' undefined on input line 144.
+
+
+LaTeX Warning: Citation `Peirce1992a' undefined on input line 144.
+
+[16] [17]) [18]
+\openout2 = `includes/LitReview.aux'.
+
+ ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/LitReview.tex"
+Chapter 2.
+[19
+
+
+
+] [20] [21]
+
+LaTeX Warning: Hyper reference `fig:theimage' on page 22 undefined on input line 60.
+
+
+LaTeX Warning: Reference `fig:theimage' on page 22 undefined on input line 60.
+
+
+LaTeX Warning: Reference `fig:theimage' on page 22 undefined on input line 60.
+
+[22] [23]) [24]
+\openout2 = `includes/Method.aux'.
+
+ ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Method.tex"
+Chapter 3.
+[25
+
+
+
+] [26]) [27]
+\openout2 = `includes/Analysis.aux'.
+
+ ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Analysis.tex"
+Chapter 4.
+[28
+
+
+
+]) [29] [30]
+\openout2 = `includes/Discussion.aux'.
+
+ ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Discussion.tex"
+Chapter 5.
+[31
+
+
+
+] [32] [33]) [34]
+\openout2 = `includes/Conclusion.aux'.
+
+ ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Conclusion.tex"
+Chapter 6.
+[35
+
+
+
+] [36] [37]) [38] ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.bbl") [39
+
+
+]
+\c@appendix=\count316
+\openout2 = `includes/Glossary.aux'.
+
+ ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Glossary.tex"
+Appendix A.
+) [40
+
+
+
+]
+\openout2 = `includes/FirstAppendix.aux'.
+
+ ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/FirstAppendix.tex"
+Appendix B.
+[41
+
+
+
+]) [42]
+\openout2 = `includes/SecondAppendix.aux'.
+
+ ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/SecondAppendix.tex"
+Appendix C.
+[43
+
+
+
+] [44]) [45]
+\openout2 = `includes/confidentialMaterial.aux'.
+
+ ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/confidentialMaterial.tex"
+Appendix D.
+)
+Overfull \hbox (62.63484pt too wide) in paragraph at lines 10--180
+[]$\T1/pcr/m/n/12 https :// www [] .aut [] .ac [] .nz / study [] -at [] -aut / postgraduate [] -study / postgraduate []
+ []
+
+[46
+
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 183.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 183.
+ ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.aux" ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/intro.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/LitReview.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Method.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Analysis.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Discussion.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Conclusion.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Glossary.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/FirstAppendix.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/SecondAppendix.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/confidentialMaterial.aux"))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 183.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 183.
+Package rerunfilecheck Info: File `AUTThesis.out' has not changed.
+(rerunfilecheck)             Checksum: A25034F570ACCB50E205BEA899F5CC67;2353.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 183.
+ ) 
+Here is how much of TeX's memory you used:
+ 15633 strings out of 480795
+ 235464 string characters out of 2913778
+ 536065 words of memory out of 3000000
+ 30974 multiletter control sequences out of 15000+200000
+ 596726 words of font info for 185 fonts, out of 3000000 for 9000
+ 1146 hyphenation exceptions out of 8191
+ 55i,12n,56p,1647b,531s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{cite.Peirce1992a} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Quine2004} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Bannon1997} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Alter2004} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Alter2002} has been referenced but does not exist, replaced by a fixed one
+
+{D:/MikTex/fonts/enc/dvips/base/8r.enc}<D:/MikTex/fonts/type1/urw/courier/ucrr8a.pfb><D:/MikTex/fonts/type1/urw/times/utmb8a.pfb><D:/MikTex/fonts/type1/urw/times/utmr8a.pfb><D:/MikTex/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.pdf" (46 pages, 978874 bytes).
+PDF statistics:
+ 562 PDF objects out of 1000 (max. 8388607)
+ 120 named destinations out of 1000 (max. 500000)
+ 27987 words of extra memory for PDF output out of 29859 (max. 10000000)
+

@@ -1,0 +1,3353 @@
+
+% -A- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@article{Allen1984,
+	Author = {James Allen},
+	Title = {Towards a general theory of action and time},
+	Journal = {Artificial Intelligence},
+	Year = {1984},
+	Month = {July},
+	Volume = {23},
+	Number = {2},
+	Pages = {123--154},
+	doi = {10.1016/0004-3702(84)90008-0}}
+
+@article{Alter2001,
+	Author = {Steven Alter},
+	Title = {Which {L}ife {C}ycle --- {W}ork {S}ystem, {I}nformation {S}ystem, {S}oftware?},
+	Journal = {Communications of the {AIS}},
+	Volume = {5},
+	Number = {11},
+	Year = {2001},
+	Month = {April} }
+
+@book{Alter2002,
+   Author = {Alter, Steven},
+   Title = {Information {S}ystems: the Foundation of e-business},
+   Publisher = {Pearson Education},
+   Address = {Upper Saddle River},
+   Edition = {4th},
+      Year = {2002} }
+      
+@article{Alter2002a,
+   Author = {Alter, Steven},
+   Title = {The {W}ork {S}ystem method for understanding {I}nformation {S}ystems and {I}nformation {S}ystem {R}esearch},
+   Journal = {Communications of AIS},
+   Volume = {9},
+   Number = {6},
+   Year = {2002}}
+      
+@inproceedings{Alter2003,
+	   Author = {Alter, Steven},
+	   Title = {Pervasive Real-time {IT} as a disruptive technology for the {IS} field},
+	   Booktitle = {36th {H}awaii {I}nternational {C}onference on {S}ystem {S}ciences},
+	   Publisher = {IEEE},
+	   Address = {Big Island, Hawaii, US},
+	   Howpublished = {CDROM},
+	   Day = {6--9},
+	   Month = {January},
+	   Year = {2003} }
+      
+
+@inproceedings{Alter2004,
+   Author = {Alter, Steven},
+   Title = {Making {W}ork {S}ystem {P}rinciples Visible and Usable in {S}ystems {A}nalysis and {D}esign},
+   BookTitle = {Tenth {A}mericas {C}onference on {I}nformation {S}ystems},
+   Editor = {Christine Bullen and Edward Stohr},
+   Publisher = {Association for Information Systems},
+   Address= {New York, New York},
+   Pages = {4257---4267},
+      Year = {2004} }
+
+
+
+@inproceedings{Alter2004a,
+   Author = {Alter, Steven},
+   Title = {Partial {I}nheritance in {S}ysperanto, an Ontology of {I}nformation {S}ystems},
+   BookTitle = {Tenth {A}mericas {C}onference on {I}nformation {S}ystems},
+   Editor = {Christine Bullen and Edward Stohr},
+   Publisher = {Association for Information Systems},
+   Address= {New York, New York},
+   Pages = {4257--4267},
+      Year = {2004} }
+
+@article{Alter2004b,
+		Author = {Steven Alter},
+		Title = {Possibilities for cross-fertilization between interpretive approaches and other methods for analyzing information systems},
+		Journal = {European Journal of Information Systems},
+		Volume = {13},
+		Number = {3},
+		Pages = {173--185},
+		Year = {2004},
+		Day = {17},
+		Month = {August} }
+		
+@article{Alter2005,
+	Author = {Steven Alter},
+	Title = {Architecture of {S}ysperanto: A Model-Based Ontology of the \textsc{is} Field},
+	Journal = {Communications of the {A}ssociation for {I}nformation {S}ystems},
+	Year = {2005},
+	Month = {January},
+	Volume = {15},
+	Number = {1},
+	lastChecked = {16 April, 2008},
+	url = {www.stevenalter.com/} }
+	
+
+@article{Alter2006,
+   Author = {Alter, S.},
+   Title = {Work {S}ystems and {IT} Artifacts --- Does the Definition Matter?},
+   Journal = {Communications of the {AIS}.},
+   Volume = {17},
+   Number = {14},
+   Pages = {299--313},
+   Abstract = {Lurking just under the surface of longstanding debates about rigor versus relevance and about the core and scope of the IS field is the question of whether inadequate definitions of basic terms is an obstacle to progress. This article focuses on whether the definition of IT artifact or work system really matters. It identifies five definitions of IT artifact and IT-enabled work system, and then looks in detail at whether the definition of work system mattered in Jasperson, Carter, and Zmud's [2005] article in MIS Quarterly about post-adoptive behaviors.  It argues that their definition perhaps affected their conceptualization of post-adoptive behaviors. It presents an alternative model illustrating how a different definition and greater attention to wormight have led to a different conceptualization that addresses different issues.},
+   Keywords = {work system, IT artifact, post-adoptive behavior },
+   Year = {2006} }
+
+@article{AlterDennis2002,
+   Author = {Alter, S. and Dennis, A.R.},
+   Title = {Selecting Research Topics: Personal Experiences and Speculations for the Future},
+   Journal = {Communications of the AIS},
+   Volume = {8},
+   Number = {21},
+   Pages = {314--329},
+      Year = {2002} }
+      
+      
+@book{Anderson1964,
+	Author = {Nels Anderson},
+	Title = {Dimensions of Work: The Sociology of a Work Culture},
+	Publisher = {David McKay Co.},
+	Year = {1964},
+	Address = {New York} }
+	
+@inbook{Auer2007,
+	Title = {Semantic Wiki Representations for Building an Enterprise Knowledge Base},
+	Author = {S\"o{}ren Auer and Berit Jungmann and Frank Sch\"o{}nefeld},
+	Editor = {G. Antoniou and U. A\ss{}mann and C. Baroglio and S. Decker and N. Henze and .-L. Patranjan and R. Tolksdorf},
+	BookTitle = {Reasoning Web 2007},
+	Series = {Lecture Notes in Computer Science}, 
+	Volume = {4636},
+	Pages = {330--333},
+	Year = {2007},
+	Month = {September},
+	Day = {3--7},
+	Publisher = {Springer-Verlag},
+	Address = {Berlin},
+	Note = {Lecture presented at the Reasoning Web Third International Summer School 2007, Dresden, Germany} } 
+
+	
+
+
+@article{Avgerou2005,
+	Abstract = {In her paper in this volume, McGrath argues for more explicit methodological accounts of critical research in information systems. In this short paper, I voice my concern that emphasis on methodological accountability may well inhibit criticality, and I argue for the need to recognize that researchers bring into their investigation tacit knowledge, emotions, and moral and political convictions that cannot be rationalized in methodological descriptions. Moreover, I suggest that critical research should maintain suspicion to instrumental reasoning and that it should place its effort to producing knowledge on an alternative agenda of substantive social issues by the interplay of theory and empirical evidence.},
+	Author = {Avgerou, Chrisanthi},
+	Journal = {Information Systems Journal},
+	Keywords = {INFORMATION resources management, INFORMATION technology, RESEARCH, Social aspects, METHODOLOGY, ELECTRONIC information resources, CRITICAL analysis},
+	Month = {April},
+	Number = {2},
+	Pages = {103--109},
+	Title = {Doing critical research in information systems: some further thoughts},
+	Volume = {15},
+	Year = {2005}}
+	
+@book{Avineri1974,
+	Author = {Shlomo Avineri},
+	Title = {Hegel's theory of the modern state},
+	Year = {1974},
+	Publisher = {Cambridge University Press},
+	Address = {New York} }
+
+% -B- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@article{Bachle2007,
+	Author = {Michael B\"a{}chle and Paul Kirchber},
+	Title = {Ruby on {R}ails},
+	Year = {2007},
+	Month = {November/December},
+	Journal = {\textsc{ieee} Software},
+	Pages = {105--108} }
+
+@article{BaiLindberg1998,
+	Abstract = {This paper will approach the nature of system development based on dialectical thinking. To conduct this approach, the paper is divided into three parts. In the first part, the concept `contradiction' is introduced in the context of dialectical thinking. In the second part, `systems development' is discussed in terms of contradiction in the Activity Theory. And in the last part, `information systems development' is presented as an example to demonstrate how information systems are developed in the light of this dialectical approach.},
+	Author = {Guohua Bai and Lars-{\AA}ke Lindberg},
+	Date-Added = {2006-10-19 12:23:24 +1300},
+	Date-Modified = {2006-10-19 12:25:50 +1300},
+	Journal = {Syst. Res. Behav. Sci.},
+	Keywords = {Activity theory, Marxism, dialectical, information science},
+	Pages = {47--54},
+	Title = {Dialectical Approach to Systems Development},
+	Volume = {14},
+	Year = {1998}}
+
+@misc{Bannon1997,
+	Abstract = {While its roots can be traced back to at least the 19th century (cf. Raeithel, 1992), Activity Theory was mainly a result of a larger effort to develop a new psychology based on Marxist philosophy, an effort which started soon after the Russian revolution of 1917. Several programs for restructuring psychology on a Marxist basis were formulated in the 20's and 30's, and very heated debates between proponents of different approaches were not uncommon at that time. One of the first postulates Soviet psychologists agreed upon was the so-called ``principle of unity and inseparability of consciousness (i.e., human mind) and activity''. The meaning of this principle was that human mind comes to exist, develops, and can only be understood within the context of meaningful, goal-oriented, and socially determined interaction between human beings and their material environment.},
+	Author = {Liam Bannon},
+	Date-Added = {2006-10-19 11:48:13 +1300},
+	Date-Modified = {2006-10-19 12:00:46 +1300},
+	Keywords = {Activity theory, Marxism},
+	Lastchecked = {8 October, 2006},
+	Month = {May 30},
+	publisher = {Institut de Rocherche en Informatique de Toulouse},
+	Title = {Activity Theory},
+	Url = {http://www.irit.fr/ACTI VITES/GRIC/cotcos/pjs/TheoreticalApproaches/Activity/ ActivitypaperBannon.htm},
+	Year = {1997}}
+
+@article{Barenberg1994,
+	Author = {Mark Barenberg},
+	Title = {Democracy and Domination in the Law of Workplace Cooperation: From Bureaucratic to Flexible Production},
+	Journal = {Columbia Law Review},
+	volume = {94},
+	Number = {3},
+	Year = {1994},
+	Pages = {753--983},
+	url = {http://www.jstor.org/ stable/1123248},
+	LastChecked = {17 October, 2010}}
+
+@article{Bell2007,
+	Author = {David Bell and Simone A. Ludwig and Mark Lycett},
+	Year = {2007},
+	Title = {Enterprise application reuse: Semantic discovery of business grid services},
+	Journal = {Information Technology and Management},
+	Volume = {8},
+	Number = {3},
+	Pages = {223--239},
+	HowPublished = {Retrieved April 16, 2008, from ABI/INFORM Global database} }
+
+@article{BenMokhtar2008,
+	Abstract = {Abstract: Pervasive computing environments are populated with networked software and hardware resources providing various functionalities that are abstracted, thanks to the Service Oriented Architecture paradigm, as services. Within these environments, service discovery enabled by service discovery protocols (SDPs) is a critical functionality for establishing ad hoc associations between service providers and service requesters. Furthermore, the dynamics, the openness and the user-centric vision aimed at by the pervasive computing paradigm call for solutions that enable rich, semantic, context- and QoS-aware service discovery. Although the semantic Web paradigm envisions to achieve such support, current solutions are hardly deployable in the pervasive environment due to the costly underlying semantic reasoning with ontologies. In this article, we present EASY to support efficient, semantic, context- and QoS-aware service discovery on top of existing SDPs. EASY provides EASY-L, a langua},
+	Author = {Sonia {Ben Mokhtar}  and Davy Preuveneers and Nikolaos Georgantas and Val\'e{}rie Issarny and Yolande Berbers},
+	ISSN = {01641212},
+	Journal = {Journal of Systems and Software},
+	Keywords = {INTERNET industry, SYSTEM design, SERVICE industries, SYSTEM analysis},
+	Number = {5},
+	Pages = {785--808},
+	Title = {\textsc{easy}: {E}fficient sem{A}ntic {S}ervice discover{Y} in pervasive computing environments with {QoS} and context support.},
+	Volume = {81},
+	URL = {http://search.ebsco host.com},
+	Year = {2008},
+	Month = {May},
+	lastChecked = {16 April, 2008} }
+
+@article{Benois2002,
+	Abstract = {The field of library and information science (US) has built its practice and research perspective on a logico-analytic philosophy, which has generated useful, tangible technologies. Lately there is interest in nonempirical philosophies, such as hermeneutics and critical theory, to fulfill better US' service oriented mission of providing ``information'' to user populations. One dimension of critical theory, Jurgen Habermas' theory of communicative action, can expand US' conception of information and supplement logico-empirical research methods and research practices. This article examines how US, particularly research into librarian-patron interaction and information system design, favors an empiricist view of language and, as a consequence, may be limiting its effectiveness. It proposes how the field might expand to include communicative action in fulfilling its mission and research agenda.},
+	Author = {Gerald Benois},
+	Date-Added = {2006-10-19 10:58:55 +1300},
+	Date-Modified = {2006-10-19 11:02:50 +1300},
+	Journal = {Library Quarterly},
+	Keywords = {philosophy of information, philosophy of computer science, information science, critical theory},
+	Number = {4},
+	Pages = {441--471},
+	Title = {Towards a critical theoretic perspective in information systems},
+	Volume = {72},
+	Year = {2002}}
+	
+@book{Bentham1823,
+	Author = {Jeremy Bentham},
+	Year = {1823},
+	Title = {Principles of morals and legislation},
+	Publisher = {Clarendon Press},
+	Address = {London} }
+	
+@book{Berelson1954,
+	Author = {B. R. Berelson and P. F. Lazarsfeld and W. N. McPhee},
+	Title = {Voting},
+	Year = {1954},
+	Publisher = {University of Chicago Press},
+	Address = {Chicago} }
+
+@misc{BernersLee1998,
+	Author = {Tim Berners-Lee},
+	Title ={Semantic Web Road map},
+	Publisher = {W3C},
+	Year = {1998},
+	Month = {September},
+	LastChecked = {20 April, 2008},
+	url = {http://www.w3.org/DesignIss ues/Semantic.html},
+	Address = {{MIT}},
+	Type = {Internet web page} }
+	
+@Article{Berthoud2007,
+  author={Arnaud Berthoud},
+  title={The notion of work in the {E}mile of {J.J.} {R}ousseau},
+  journal={Cahiers d'\'e{}conomie Politique},
+  year={2007},
+  volume={},
+  number={53},
+  pages={17--26},
+  month={},
+  keywords={},
+  abstract={According to Rousseau, work teaches us wisdom about time and a sense of selfness and reality which protect everybody from imagination, passions and society harms. ``The worker does not dream'' will say S.Weil. What notion ofwork is here implied? Nothing which could be later found in classical Political Economy, Marx or the socio-economy. Rousseau indeed thinks work is an access to economy, but his economy remains under the rule of the usevalue. It is a qualitative economy.},
+  url={http://ideas.repec.o rg/a/cpo/journl/y2007i53p17-26.html}}
+
+@misc{Biblos2010,
+	Title = {Strong's {G}reek Dictionary},
+	url = {http://strongsnumbers.c om/greek/2041.htm},
+	LastChecked = {4 November, 2010},
+	Type = {Internet website},
+	Year = {2010},
+	Publisher = {Biblos.com},
+	Address = {Glassport, Philadelphia}}
+
+@book{Blumer1986,
+   Author = {Blumer, Herbert},
+   Title = {Symbolic {I}nteractionism, perspective and method},
+   Publisher = {University of California Press},
+   Address = {Berkely},
+      Year = {1986} }
+      
+ @article{Bohman2010,
+ 	Author = {James Bohman},
+	Title = {Participation through publics: Did {D}ewey answer {L}ippmann},
+	Journal = {Contemporary Pragmatism},
+	Year = {2010},
+	Month = {June},
+	Volume = {7},
+	Number = {1},
+	Pages = {49--68}}
+      
+ @book{Boland1987,
+	Address = {Chichester},
+	Editor = {R. J. {Boland, Jr} and R. A. Hirschheim},
+	Isbn = {0-471-91281-6},
+	Keywords = {dialectic},
+	Publisher = {John Wiley \& Sons},
+	Series = {Information systems series},
+	Title = {Critical issues in information systems research},
+	Year = {1987}}
+
+@book{Borgmann1984,
+	Author = {Albert Borgmann},
+	Title = {Technology and the character of everyday life},
+	Year = {1984},
+	Publisher = {University of Chicago Press},
+	Address = {Chicago} }
+	
+@article{BostromHeinen1979,
+   Author = {Bostrom, R.P. and Heinen, J.S.},
+   Title = {\textsc{mis} Problems and Failures: A Socio-Technical Perspective.  {Part I}: The Causes},
+   Journal = {MIS Quarterly},
+   Volume = {1},
+   Number = {3},
+   Pages = {17--32},
+   Abstract = {Many of the problems and failures of Management Information Systems (MIS) and Management SciencelOperations Research (MSIOR) projects have been attributed to organizational behavioral problems. The millions of dollars organizations spend on MIS and MS/OR development are of little benefit because systems continue to fail. Steps can be taken to understand and solve these behavioral problems. \\This article argues that in most cases these behavioral problems are the result of inadequate designs. These bad designs are attributed to the way MIS systems designers view organizations, their members, and the function of an MIS within them, ie., systems designers' frames of reference. These frames of reference cause faulty design choices and failures to perceive better design alternatives. Seven conditions are discussed which reflect current systems designers' points of view. The discussion of these conditions demonstrates the need to reframe MIS design methodology within the Socio-Technical Systems (STS) design approach and change systems designers' peispectives. The STS approach is introduced as a realistic view of organizations and a way to change them. \\This article is the first of two to appear in consecutive issues of the MIS Quarterly. The purpose of this first article is to demonstrate the need for the STS appro?ch, The second will present the basic concepts and principles of the STS methodology and how it can be utilized in the design of an MIS.},
+      Year = {1979} }
+
+@article{BostromHeinen1979a,
+   Author = {Bostrom, R.P. and Heinen, J.S.},
+   Title = {\textsc{mis} Problems and Failures: A Socio-Technical Perspective.  {Part II}: The Application of Socio-Technical Theory},
+   Journal = {MIS Quarterly},
+   Volume = {1},
+   Number = {4},
+   Pages = {11--28},
+   Abstract = {This article provides, by means of a hypothetical example, the procedures to be followed in applying the Socio-Technical-Systems Approach to information systems design. The need for this approach was presented in the first part of this article which appeared in the September Issue of the MIS Quarterly. Here the authors provide an overview of the Socio-Technical-Systems procedure and show how it could be usedin redesigning an information system usedby the circulation department of alarge newspaper. The step by step approach is intended to illustrate the process to those practitioners feeling that more needs to be done in the area of using computer-based systems to improve the quality of working life of the system users.},
+      Year = {1979} }
+
+@article{Bowman2007,
+	Author = {James S. Bowman and Jonathan P. West},
+	Title = {Lord {A}cton and Employment Doctrines: Absolute Power and the Spread of 
+At-Will Employment},
+	Journal = {Journal of Business Ethics},
+	Year = {2007},
+	 publisher = {Springer Netherlands},
+	issn = {0167-4544},
+	keyword = {Business and Economics},
+	pages = {119--130},
+	volume = {74},
+	number = {2},
+	url = {http://dx.doi.org /10.1007/s10551-006-9224-0},
+	LastChecked = {17 October, 2010},
+	doi = {10.1007/s10551-006-9224-0}}
+
+
+@misc{Brauner2008,
+	Author = {Torben Bra\"u{}ner},
+	Title = {Hybrid Logic},
+	url = {http://plato.stanford.ed u/entries/logic-hybrid/},
+	lastChecked = {20 December, 2010},
+	originalYear = {2006},
+	originalMonth = {June},
+	originalDay = {13},
+	Year = {2008},
+	Month = {January},
+	Day = {24},
+	Publisher = {Stanford University},
+	Address = {Stanford, California}}
+
+@article{Brooke2002,
+	Abstract = {This article complements a paper in an earlier special issue of this volume of the Journal of Information Technology which was entitled `What Does it Mean to be ``Critical'' in IS Research?' That paper conducted a preliminary review of the state of critical thinking in the fields of information systems (IS) and organization. In addressing the question `what is critical research?' it showed how its definition has changed and broadened over time. This paper follows on by opening up some key questions relating to why researchers in IS should view critical research as having a valuable contribution to make. It begins by considering the apparently wide range of researchers for whom critical research has become an activity. Noting earlier calls for more empirical research, the paper looks at some examples of specific empirical applications. This leads us to consider how critical research impacts upon actual IS praxis, in particular the role of the IS professional, systems development and changes in the nature of organizational life itself. This is not intended to be a comprehensive review of the literature. Rather by drawing upon a sample of material covering a range of perspectives it aims to give an impression of the many developments in critical studies on organization and IS and to consider their implications for future direction.},
+	Author = {Carole Brooke},
+	Date-Added = {2006-10-19 11:04:13 +1300},
+	Date-Modified = {2006-10-19 13:18:22 +1300},
+	Journal = {Journal of Information Technology},
+	Keywords = {information science, critical theory, postmodern, dialectic},
+	Number = {17},
+	Pages = {271--283},
+	Title = {Critical perspectives on information systems: an impression of the research landscape},
+	Year = {2002}}
+
+@article{Burke2003,
+	Abstract = {This paper considers the issues surrounding the fit between information systems and organisation structures. The paper uses philosophical ideas concerning knowledge and applies them to organisational design and information processing in order to encourage alternative perspectives and new ideas. This is achieved by a discussion of the issues surrounding organisational design and the impact of design on information processing; an overview of the ideas concerning the theory of knowledge proposed from both a rational and an empirical viewpoint and how these relate to other epistemological theories such as historicism and pragmatism. The paper closes with a discussion of the means by which philosophical considerations can assist towards new forms of information processing.},
+	Author = {M.E. Burke},
+	Date-Added = {2006-10-19 11:26:39 +1300},
+	Date-Modified = {2006-10-19 11:29:54 +1300},
+	Journal = {Journal of Documentation},
+	Keywords = {philosophy of computer science, information science},
+	Number = {2},
+	Pages = {131--142},
+	Title = {Philosophical and theoretical, perspectives of organisational structures as information processing systems},
+	Volume = {59},
+	Year = {2003}}
+
+
+@article{Butler2000,
+	Author = {Tom Butler},
+	Journal = {Information Systems Journal},
+	Keywords = {systems development process},
+	Number = {10},
+	Pages = {167--193},
+	Publisher = {Blackwell Publishing Ltd},
+	Title = {Transforming information systems development through computer-aided systems engineering ({CASE}): lessons from practice},
+	Year = {2000}}
+
+@article{Butler2003,
+	Abstract = {This paper adopts a constructivist, case-based research strategy to examine the development and implementation of intranet- and internet-based information systems (IS) in a single organization. Institutional theory is used to describe, explain and understand the commitments of social actors in the development of web-based IS. The findings illustrate that: (1) social and organizational problems similar to those that beset `traditional' IS development arise in the development and implementation of web-based IS; (2) `top-down' development and implementation strategies give rise to more conflict and change management problems than `bottom-up' approaches; and (3) fostering high levels of commitment to organizational imperatives is key to the successful development and implementation of web-based IS.},
+	Author = {Tom Butler},
+	Journal = {Information Systems Journal},
+	Keywords = {internet, intranet, IS development, implementation, commitment, institutional theory},
+	Number = {13},
+	Pages = {209--231},
+	Publisher = {Blackwell Publishing Ltd},
+	Title = {An institutional perspective on developing and implementing intranet- and internet- based information systems},
+	Year = {2003}}
+
+@article{Buttimer2005,
+	Abstract = {It is indeed a joy to speak about Edgar Kant on this occasion which celebrates the hundredth anniversary of his birth. His lifepath traversed only two-thirds of this eventful century, yet he did experience directly many of its dreams and realities, the passion and pain of war and peace, of economic boom and bust, of national liberation, scientific revolutions, exile and the traumas of geopolitical transformations. The twentieth century also witnessed profound changes in practices of geography and the name of Edgar Kant deserves an honoured place as pioneer of many influential turns in the discipline. It is especially delightful to simultaneously honour his mentor and friend, Johannes G. Grano, who stirred his imagination in conceptual directions which were truly novel in those days --- directions which later spawned enthusiastic research on environmental perceptions , time geography, and --- most especially ---landscape and cultural identity.},
+	Author = {Anne Buttimer},
+	Journal = {Geografiska Annaler},
+	Keywords = {Kant, Estonia, migration, urban, Lund},
+	Number = {3},
+	Pages = {175--192},
+	Title = {Edgar {K}ant (1902--1978): a {B}altic pioneer},
+	Volume = {87B},
+	Year = {2005}}
+
+	
+% -C- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@misc{Cameron1984,
+    	Author = {{Cameron, J. (Director/Writer)} and {Hurd, G. A. (Writer/Producer)} and {Ellison, H. (Writer)}},
+    Title = {The {T}erminator},
+    Year = {1984},
+    Month = {October},
+    Day = {26},
+    Publisher = {Orion Pictures Corporation},
+    Address = {LA, US},
+    Type = {Motion Picture} }
+
+    	
+@article{Carvajal1983,
+	Author = {R. Carvajal},
+	Title = {Systemic netfields: {T}he systems' paradigm crises. Part 1},
+	Year = {1983},
+	Journal = {Human Relations},
+	Volume = {36},
+	Number = {3},
+	Pages = {227--246},
+	Publisher = {Sage},
+	Address = {London} }
+	
+@inproceedings{Castro2007,
+	Title = {Scaling Down \textsc{soa} to Small Businesses},
+	Author = {Enrique Castro-Leon and Jackson and He Mark Chang},
+	Year = {2007},
+	Month = {June},
+	Day = {19--20},
+	BookTitle = {\textsc{ieee} International Conference on Service-Oriented Computing and Applications},
+	Publisher = {\textsc{ieee} Computer Society},
+	Address = {Los Alamitos, California},
+	Type = {Conference proceedings},
+	Pages = {99--106}}
+	
+@misc{Chaplin1936,
+	Title = {Modern Times},
+	Author = {{Chaplin, C. (Director/Producer/Writer)}},
+	Year = {1936},
+	Day = {25},
+	Month = {February},
+	Address = {USA},
+	Publisher = {Charles Chaplin Productions},
+	Type = {Motion Picture} }
+
+
+@book{Checkland1997,
+	Author = {P. Checkland},
+	Title = {Information, Systems, and Information Systems},
+	Year = {1997},
+	Publisher = {John Wiley},
+	Address = {Chichester, UK} }
+
+@book{Checkland1999,
+	Author = {P. Checkland},
+	Title = {Soft Systems Thinking, Systems practice},
+	Publisher = {John Wiley \& Sons},
+	Address = {Chichester, England},
+	Year = {1999} }
+
+@article{ChenHerschheim2004,
+	Abstract = {The field of information systems (IS) has evolved for more than three decades. Although many schools of thought have emerged and even become well established, few historical analyses of research paradigms and methodologies have been undertaken. One of the rare exceptions is Orlikowski & Baroudi (1991). Yet, the IS research community has evolved substantially since 1991 in many aspects. A variety of journal outlets have emerged and become well established. More attention has been paid to paradigmatic and methodological issues. Political and professional contexts have also changed noticeably. Therefore, it should be an opportune time for the field to ask: 'What changes are manifested in journal publications? ''Is the field making progress regarding pluralism in IS research? ''How will the field's publications practices change in the future?'' The purpose of this paper is to investigate these questions and, in turn, reflect on the paradigmatic and methodological progress made since 1991. We examined 1893 articles published in eight major IS publication outlets between 1991 and 2001. Our findings suggest that the long-term endeavours of interpretivist researchers might need to continue because the paradigmatic progress appears somewhat inconsequential; positivist research still dominates 81\% of published empirical research. In particular, US journals, as opposed to European journals, tend to be more positivist, quantitative, cross-sectional and survey oriented. With respect to research design, survey research is still the most widely used method (41\%), although case studies have gained substantial recognition (36\%). Further, the increase of qualitative research (30\%), empirical studies (61\%) and longitudinal cases (33\%) at the expense of laboratory experiments (18\%) might suggest that IS researchers have become more interested in obtaining scientific knowledge in real world settings. In summary, we suggest that the field has been dominated by the positivist paradigm, despite calls to the contrary. Indeed, if the field was to truly embrace pluralism, it would have to find ways to fundamentally change the publication practices of the journal system, including the current tenure and promotion system, which pose considerable obstacles for the acceptance of alternative paradigms.},
+	Author = {WenShin Chen and Rudy Hirschheim},
+	Journal = {Information Systems Journal},
+	Keywords = {information systems research, methodologies},
+	Month = {July},
+	Number = {3},
+	Pages = {197--235},
+	Title = {A paradigmatic and methodological examination of information systems research from 1991 to 2001},
+	Volume = {14},
+	Year = {2004}}
+
+@article{Cherns1987,
+	Author = {A. Cherns},
+	Title = {Principles of sociotechnical design revisited},
+	Journal = {Human {R}elations},
+	Year = {1987},
+	Number = {40},
+	Pages = {153--162} }
+
+@article{Chesnevar2000,
+	Abstract = {Logical models of argument formalize commonsense reasoning while taking process and computation seriously. This survey discusses the main ideas that characterize different logical models of argument. It presents the formal features of a few main approaches to the modeling of argumentation. \\We trace the evolution of argumentation from the mid-1980s, when argument systems emerged as an alternative to nonmonotonic formalisms based on classical logic, to the present, as argument is embedded in different complex systems for real-world applications, and allows more formal work to be done in different areas, such as AI and Law, case-based reasoning and negotiation among intelligent agents.},
+	Address = {1515 Broadway, New York, NY 10036 USA},
+	Author = {Carlos Iv\'{a}n {Ches\~{n}evar} and Ana Gabriela Maguitman},
+	Journal = {Communications of the {ACM}},
+	Keywords = {Reasoning, Argumentation, defeasible argumentation, argumentative systems, defeasible reasoning, dialectical},
+	Month = {December},
+	Number = {4},
+	Pages = {337--383},
+	Publisher = {ACM},
+	Title = {Logical Models of Argument},
+	Volume = {32},
+	Year = {2000}}
+	
+@book{Chesterton2003,
+	Title = {Heretics},
+	Author = {Gilbert Keith Chesterton},
+	Year = {2003},
+	OriginalYear = {1905},
+	Publisher = {Kessinger Publishing},
+	OriginalPublisher = {John Lane Company},
+	Address = {Montana, \textsc{us}}}
+	
+@article{Constantinides2008,
+	Author = {Efthymios Constantinides and  Stefan J. Fountain},
+	Year = {2008},
+	Month = {January},
+	Title = {Web 2.0: Conceptual foundations and marketing issues},
+	Journal = {Journal of {D}irect, {D}ata and {D}igital {M}arketing {P}ractice: Special Issue: Web 2.0},
+	Volume = {9},
+	Number= {3},
+	Pages = {231--244},
+	HowPublished = {Retrieved April 16, 2008, from ABI/INFORM Global database} }
+
+@article{Corning2002,
+	Author = {Peter A. Corning},
+	Year = {2002},
+	Title = {The Re-Emergence of ``{E}mergence'': A Venerable Concept in Search of a Theory},
+	Journal = {Complexity},
+	Volume = {7},
+	Number = {6},
+	Pages = {18--30} }
+
+@book{Creswell2003,
+   Author = {Creswell, J.W.},
+   Title = {Research design: Qualitative, quantitative, and mixed methods approaches},
+   Publisher = {Sage},
+   Address = {Thousand Oaks},
+   Edition = {2nd},
+      Year = {2003} }
+
+% -D- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@newspaper{Daniel2007,
+   Author = {Daniel, Diann},
+   Title = {Stowe {B}oyd on {W}eb 2.0 in the enterprise},
+   Journal = {Computerworld},
+   Day = {9},
+   Month = {July},
+   Year = {2007},
+   lastChecked = {9 July, 2007},
+   url = {\texttt{http://computerworld.co.nz}}  }
+
+
+
+@book{DavisTaylor1979,
+   Editor = {Davis, L.E. and Taylor, J.C.},
+   Title = {Design of Jobs},
+   Publisher = {Goodyear Publishing Company},
+   Address = {Santa Monica, CA},
+      Year = {1979} }
+
+
+@book{deBono1994,
+	Address = {London},
+	Author = {Edward {de Bono}},
+	Keywords = {Thought and thinking, Problem solving, Creative thinking},
+	Publisher = {Viking},
+	Title = {Parallel thinking: from {S}ocratic thinking to de {B}ono thinking},
+	Year = {1994}}
+
+@misc{Dennison2007,
+	Author = {Richard Dennison},
+	Lastchecked = {6 September, 2010},
+	Day = {12},
+	Month = {November},
+	Year = {2007},
+	publisher = {Richard Dennison, Wordpress.com},
+	Title = {{BT} 2.0 Case Study},
+	HowPublished = {Republished article from \emph{Employee Engagement Today}},
+	Url = {http://richarddenniso n.wordpress.com},
+	Type = {Internet web page}}
+
+@inbook{Derrida1978,
+	Author = {Jacques Derrida},
+	Title = {Structure, {S}ign, and {P}lay in the discourse of the human sciences},
+	BookTitle = {Writing and Difference},
+	Translator = {Alan Bess},
+	Year = {1978},
+	Publisher = {University of Chicago Press},
+	Address = {Chicago} }
+
+
+@book{deWaal2001,
+	Abstract = {Summary of Peirce's philosphies.},
+	Address = {Belmont, California, USA},
+	Author = {{de Waal}, Cornelius},
+	Isbn = {0-534-58376-8},
+	Keywords = {pragmatism},
+	Publisher = {Wadsworth/Thomson Learning, Inc.},
+	Title = {On {P}eirce},
+	Year = {2001}}
+	
+@article{Dewey1891,
+	Author = {John Dewey},
+	Title = {Moral theory and practice},
+	Journal = {International Journal of Ethics},
+	Volume = {1},
+	Number = {2},
+	Year = {1891},
+	Month = {January},
+	Pages = {186--203} }
+
+@article{Dewey1915,
+	Author = {John Dewey},
+	Title = {On industrial education},
+	Journal = {Curriculum Enquiry},
+	Volume = {7},
+	Number = {1},
+	Year = {1977},
+	Month = {Spring},
+	Pages = {53--60},
+	OriginalJournal = {New Republic},
+	OriginalYear = {1914 and 1915},
+	OriginalVolume = {1 and 2},
+	OriginalMonth = {December and February},
+	OriginalDay = {19 and 20},
+	OriginalPages = {11--12 and 71--73},
+	Note = {``A policy on industrial education'' and ``Industrial education --- a wrong kind'' respectively } }
+
+@inbook{Dewey1927,
+	Author = {John Dewey},
+	Title = {The {P}ublic and its problems},
+	BookTitle = {The later works of {J}ohn {D}ewey},
+	Year = {1981--1991},
+	OriginalYear = {1927},
+	Editor = {Jo Ann Bodston},
+	Publisher = {Southern Illinois University Press},
+	Address = {Carbondale},
+	Volume = {3},
+	Pages = {276}}
+
+
+@book{Dewey1930,
+	Author = {John Dewey},
+	Title = {The quest for certainty},
+	Year = {1930},
+	Address = {London},
+	Publisher = {George Allen and Unwin}}
+	
+
+@article{Dewey1935,
+	Author = {John Dewey},
+	Title = {Peirce's theory of {Q}uality},
+	Journal = {The Journal of Philosophy},
+	Volume = {32},
+	Number = {26},
+	Year = {1935},
+	Month = {December},
+	Day = {19},
+	Pages = {701--708} }
+	
+@article{Dewey1938,
+	Journal = {The Rotarian},
+	Volume = {52},
+	Month = {February},
+	Number = {8},
+	Year = {1938},
+	Author = {John Dewey},
+	Title = {Does human nature change?} }
+	
+@book{Dewey1939,
+	Author = {John Dewey},
+	Title = {Intelligence in the modern world},
+	Publisher = {Random House},
+	Address = {New York},
+	Year = {1939} }
+
+@book{Dewey1948,
+	Author = {J. Dewey},
+	Title = {Reconstruction in philosophy},
+	Year = {1948},
+	Address = {New York},
+	Publisher = {Beacon}}
+
+@article{DhillonBackhouse2001,
+	Abstract = {The purpose of this paper is to map the current territory of information systems and security research. It uses the Burrell and Morgan framework as an intellectual map to analyse the socio-philosophical concerns in various information systems and security approaches. The paper's contributions are in its analysis of trends in information systems and security research, the former in stressing the socio-organizational perspectives and the latter in criticizing the preponderance of technical solutions. The paper also sets an agenda for a future research emphasis.},
+	Author = {Gurpreet Dhillon and James Backhouse},
+	Journal = {Information Systems Journal},
+	Keywords = {interpretive perspective, IS security research, socio-organizational perspective, socio-philosophical concerns},
+	Number = {11},
+	Pages = {127--153},
+	Publisher = {Blackwell Publishing Ltd},
+	Title = {Current directions in {IS} security research: towards socio-organizational perspectives},
+	Year = {2001}}
+
+@article{DibbernGolesHirschheimJayatilaka2004,
+	Abstract = {In the last fifteen years, academic research on information systems (IS) outsourcing has evolved rapidly. Indeed the field of outsourcing research has grown so fast that there has been scant opportunity for the research community to take a collective breath, and complete a global assessment of research activities to date. This paper seeks to address this need by exploring and synthesizing the academic literature on IS outsourcing. It offers a roadmap of the IS outsourcing literature, highlighting what has been done so far, how the work fits together under a common umbrella, and what the future directions might be. \\In order to adequately address the immense diversity of research on IS outsourcing and outsourcing in general, we develop a conceptual framework that helps us to categorize the literature. In particular, we look at the research objectives, methods used and theoretical foundations of the papers. In identifying the major research objectives, we view outsourcing as an organizational decision process and adapt Simon's stage model of decision making. This allows us to identify five major sourcing issues, from which at least one is covered by each academic article. These are the questions of why to outsource, what to outsource, which decision process to take, how to implement the sourcing decision, and what is the outcome of the sourcing decision. In analyzing the literature, we identify and structure the main explanatory factors and theoretical relationships within each of these sourcing stages. Based on our discussion of the research objectives, theoretical foundations and research approaches taken in the literature, we show how the various research streams hang together and we come up with a number of implications for research. Moreover, we identify a number of emerging sourcing issues. We believe that research on these ``new'' phenomena such as offshore outsourcing, application service providing and business process outsourcing would benefit from `standing on the shoulders' of what has already been accomplished in the field of IS outsourcing.},
+	Author = {Jens Dibbern and Tim Goles and Rudy Hirschheim and Bandula Jayatilaka},
+	Journal = {The DATA BASE for Advances in Information Systems},
+	Keywords = {Outsourcing, literature review, theoretical foundations, research approaches, determinants, relationships, outcomes.},
+	Month = {Fall},
+	Number = {4},
+	Pages = {6--102},
+	Title = {Information {S}ystems Outsourcing: A Survey and Analysis of the Literature},
+	Volume = {35},
+	Year = {2004}}
+
+@inproceedings{Dietrich2007,
+	Title = {Using Social Networking and Semantic Web Technology in Software Engineering --- Use Cases, 
+Patterns, and a Case Study},
+	Author = {Jens Dietrich and Nathan Jones},
+	BookTitle = {Proceedings of the 2007 {A}ustralian Software Engineering Conference},
+	Year = {2007},
+	Month = {April},
+	Day = {10--13},
+	Publisher = {\textsc{ieee} Computer Society},
+	Address = {Australia},
+	Pages = {129--136},
+	Type = {Conference proceedings}}
+
+@article{DiNucci1999,
+	Author = {Darci DiNucci},
+	Title = {Fragmented Future},
+	Year = {1999},
+	Journal = {Print},
+	Volume = {53},
+	Number = {4},
+	Pages = {32 and 221},
+	url = {http://www.cole20.com/web-20-history-fragm ented-future-recovered},
+	lastChecked = {7 September, 2010} }
+
+@article{Dobson2002,
+	Abstract = {Garcia and Quek point out the difficulties in defining the actual object of information systems research - ``Is the object of research in information systems of a technological or social nature? Is it the organization, an information system or a social system?'' (Garcia & Quek, 1997: 450). A recent IFIP conference on Organisational and Social Perspectives on Information technology examines some of the social and organisational issues involved in IS Research (IFIP TC8 WG8.2, 2000). At this conference Jones (2000) examines the number of citations in the IFIP WG8.2 conference literature that refer to social theorists as a means to determine the level of interest in the use of social theory within IS. Over the period 1979-1999 57\%{} of papers had references to social theorists --- the four major theorists being Giddens, Habermas, Foucault and Latour. This paper suggests that it would be useful to widen the range of social theorists used in IS to include that of Bhaskar who proposes a critical realist approach to social research. In order to highlight the main aspects of the philosophy the paper will critique a framework developed to suggest IS research approaches.},
+	Author = {Philip J. Dobson},
+	Journal = {Information Research},
+	Keywords = {philosophy},
+	Number = {2},
+	Pages = {175--192},
+	Title = {Critical realism and information systems research: why bother with philosophy?},
+	Volume = {7},
+	Year = {2002}}
+
+@book{Dunning2008,
+	Author = {John H. Dunning},
+	Title = {Multinational Enterprises And The Global Economy},
+	Publisher = {Edward Elgar},
+	Address = {Cheltenham, Gloucestershire UK},
+	Edition = {2nd},
+	Year = {2008}}
+	
+@article{DupreGagnier1996,
+	Author = {John Dupr\'e{} and Regenia Gagnier},
+	Title = {A brief history of work},
+	Journal = {Journal of Economic Issues},
+	Year = {1996},
+	Volume = {30},
+	Number = {2},
+	Pages = {553--559},
+	Month = {June},
+	Note = {Presented at the Annual Meeting of the Association for Evolutionary Economics, San Francisco, CA, in January 5--7, 1996},
+	Organization = {Association for Evolutionary Economics},
+	Publisher = {Association for Evolutionary Economics},
+	Address = {Dept. of Economics, University of Tennessee, Knoxville},
+	Type = {Proceedings Paper}}
+
+	
+
+@article{Dupuy2004,
+	Abstract = {This paper explores how the self-constitution of the social order is affected by a property of human desire that is seldom taken seriously in the social sciences, namely the fact that desire is essentially triangular. It brings into play a subject, an object, and a mediator or third party whom the subject imitates. It is suggested that the difficult issue of the embodiment of social cognition finds its solution in the role played by the third party. It is shown that Friedrich Hayek and John Maynard Keynes were familiar with this pattern. The paper focuses on the role played by imitation in Hayek's conception of the social order as spontaneous or self-organized. Many apparent contradictions in Hayek's social philosophy are explained (away) when one realizes that Hayek remains oblivious to the ambivalence of imitation. Imitation is efficient if the correct information is present somewhere and recognized as such, but otherwise it becomes a source of illusions and waste. The problem is that it is impossible from inside the system to know in which of the two cases one finds oneself. To overcome this undecidability, it is necessary to resort to an exteriority. Generalized imitation has the power to create worlds that are perfectly disconnected from reality: at once orderly, stable, and totally illusory. The notion of collective or social self-deception is illustrated with the case of gift giving. The conclusion of the paper is devoted to a critique of the notion of truth in American pragmatism in that it ignores that possibility altogether.},
+	Address = {Netherlands},
+	Author = {Jean-Pierre Dupuy},
+	Journal = {Journal of Bioeconomics},
+	Keywords = {American pragmatism, French Intersubjectivist School of Economics, Hayek, imitation, gift-giving, social deception},
+	Number = {6},
+	Pages = {275--294},
+	Publisher = {Kluwer Academic Publishers},
+	Title = {Intersubjectivity and Embodiment},
+	Year = {2004}}
+	
+@book{Dykhuizen1973,
+	Author= {George Dykhuizen},
+	Year = {1973},
+	Title = {The Life and Mind of {J}ohn {D}ewey},
+	Address = {Carbondale, Illinois},
+	Publisher = {Southern Illinois University Press} }
+	
+% -E- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@misc{eastlondon2004,
+	Author = {eastlondon.com},
+	Title = {News {I}nternational leaves {W}apping},
+	Year = {2004},
+	Publisher = {East London History Society},
+	Address = {London, England},
+	LastChecked = {25 March, 2008},
+	url = {http://www.eastlondonhistory.com} }
+
+@misc{Ecker1997,
+	Author = {Pam Ecker},
+	Title = {John {D}ewey (1859--1952), \dots{}pragmatism, and \dots{}progressive education},
+	Year = {1997},
+	Month = {Spring},
+	Type = {Internet web page},
+	url = {http://www.bgsu.edu/departments/acs/1890s/dewey/},
+	lastchecked = {3 July, 2008},
+	Howpublished = {An article on the Bowling Green State University, Ohio, web site} }
+
+@inbook{Eckstein1966,
+	Author = {Harry Eckstein},
+	Title = {A theory of stable democracy},
+	Year = {1966},
+	bookTitle = {Division and cohesion in democracy},
+	Publisher = {Princeton University Press},
+	Address = {New Jersey} }
+
+@book{Engels1993,
+	Address = {New York},
+	Author = {Friedrich Engels},
+	Keywords = {Primitive societies, Family History, Property History, The State, dialectical materialism},
+	Publisher = {Pathfinder},
+	Title = {The origin of the family, private property, and the state},
+	Year = {1993}}
+	
+@article{Evans2007,
+	institution = {The Institution of Engineering and Technology},
+	title = {\textsc{soa} versus {W}eb 2.0: cage match},
+	journal = {Information Management \&{} Consulting},
+	author = {Evans-Greenwood, P.},
+	volume = {22},
+	number = {1},
+	year = {2007},
+	month = {January},
+	pages = {49--50},
+	abstract = {Businesses should view SOA and Web 2.0 as a chance to demonstrate business intelligence and generate value. SOA and Web 2.0 represent a similar shift in the way we approach IT - a break with the technology and application centric practices that we've live with for so long, to focus on how technology is used. Both enable a user centric approach to IT},
+keywords = {competitive intelligence;software architecture;Web services;SOA;Web 2.0 service;business intelligence;}} 
+
+@article{Evers1996,
+	Author = {C. W. Evers and G. Lakomski},
+	Year = {1996},
+	Month = {August},
+	Title = {Science in educational administration: A postpositivist  conception},
+	Journal = {Educational Administration Quarterly},
+	Volume = {32},
+	Number = {3},
+	Pages = {379--402} }
+
+@book{Evola2003,
+	Author = {Julius Evola},
+	Title = {Ride the Tiger: A Survival Manual for the Aristocrats of the Soul},
+	Publisher = {Inner Traditions},
+	Year = {2003},
+	Month = {September},
+	Day = {8th},
+	OriginalYear = {1961},
+	Address = {Rochester, Vermont},
+	Translator = {Joscelyn Godwin and Constance Fontana},
+	isbn = {0-89281-125-0}}
+	
+
+% -F- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+@inproceedings{Fahad2008,
+	Author = {Muhammad Fahad and Muhammad Qadir and Muhammad Noshairwan},
+	Title = {Ontological Errors: Inconsistency, Incompleteness and Redundancy},
+	Booktitle = {{ICEIS} 2008: Proceedings of the Tenth International Conference on Enterprise Information Systems},
+	Year = {2008},
+	Month = {June},
+	Day =  {12--16},
+	Pages = {253--258},
+	Organization = {Inst Syst \& Technol Informat, Control \& Commun; Workflow Management Coalit; Assoc Adv Artificial Intelligence},
+	Editor = {J Cordeiro and J Filipe},
+	Abstract = {Mapping and merging of multiple ontologies to produce consistent, coherent and correct merged global ontology is an essential process to enable heterogeneous multi-vendors semantic-based systems to communicate with each other. To generate such a global ontology automatically, the individual ontologics must be free of (all types of) errors. We have observed that the present error classification does not include all the errors. This paper extends the existing error classification (Inconsistency, Incompleteness and Redundancy) and provides a discussion about the consequences of these errors. We highlight the problems that we faced while developing our DKP-OM, ontology merging system and explain how these errors became obstacles in efficient ontology merging process. It integrates the ontological errors and design anomalies for content evaluation of ontologies under one framework. This framework helps ontologists to build semantically correct ontology free from errors that enables effective and automatic ontology mapping and merging with lesser user intervention.},
+	Publisher = {Insticc-Inst Syst Technologies Information Control \& Communication},
+	Address = {Barcelona, Spain},
+	Type = {Proceedings Paper},
+	Keywords = {Ontological Errors Taxonomy; Ontology Evaluation; Ontology Validation and Verification; Ontology Design Anomalies; Ontology Merging; Ontology Mapping; Semantic Web},
+	Volume = {2}}
+
+@inbook{Falcon2008,
+	Author = {Andrea Falcon},
+	Title = {Aristotle on Causality},
+	url = {http://plato.stanford.edu/ent ries/aristotle-causality},
+	Type = {Internet web page},
+	LastChecked = {18 November, 2010},
+	Year = {2008},
+	OriginalYear = {2006},
+	Month = {April},
+	OriginalMonth = {January},
+	Day = {22nd},
+	OriginalDay = {11th},
+	Publisher = {Stanford University},
+	Address = {Stanford, California},
+	booktitle = {The {S}tanford Encyclopedia of Philosophy}}
+
+@misc{Field2007,
+	Author = {Richard Field},
+	Title = {John {D}ewey (1859--1952)},
+	Howpublished = {An article in The Internet Encyclopedia of Philosophy},
+	Year = {2007},
+	url = {http://www.iep.utm.edu/d/dewey.htm},
+	Lastchecked = {3 July, 2008},
+	Type = {Internet web page},
+	Publisher = {Northwest Missouri State University} }
+	
+
+@article{Firat2007,
+	Author = {Aykut Firat and Stuart Madnick and Benjamin Grosof},
+	Title = {Contextual alignment of ontologies in the {eCOIN} semantic interoperability framework},
+	Journal = {Information Technology \& Management},
+	Year = {2007},
+	Volume = {8},
+	Number = {1},
+	Pages = {47--63},
+	Month = {March},
+	Abstract = {The prospect of combining information from diverse sources for superior decision making is plagued by the challenge of semantic heterogeneity, as data sources often adopt different conventions and interpretations when there is no coordination. An emerging solution in information integration is to develop an ontology as a standard data model for a domain of interest, and then to define the correspondences between the data sources and this common model to eliminate their semantic heterogeneity and produce a single integrated view of the data sources. We first claim that this single integrated view approach is unnecessarily restrictive, and instead offer the view that ontologies can simultaneously accommodate multiple integrated views provided the accompaniment of contexts, a set of axioms on the interpretation of data allowing local variations in representation and nuances in meaning, and a conversion function network between contexts to reconcile contextual differences. Then, we illustrate how to achieve semantic interoperability between multiple ontology-based applications. During this process, application ontologies are aligned through the reconciliation of their context models, and a new application with a virtual merged ontology is created. We illustrate this alternative approach with the alignment of air travel and car rental domains, an actual example from our prototype implementation.},
+	Publisher = {Springer},	
+	Address = {233 Spring Street, New York, USA},
+	Keywords = {intelligent information integration; query rewriting; ontology merging}}
+
+
+
+@article{Floridi2002,
+	Abstract = {Computational and information-theoretic research in philosophy has become increasingly fertile and pervasive, giving rise to a wealth of interesting results. In consequence, a new and vitally important field has emerged, the philosophy of information (PI). This essay is the first attempt to analyse the nature of PI systematically. PI is defined as the philosophical field concerned with the critical investigation of the conceptual nature and basic principles of information, including its dynamics, utilisation, and sciences, and the elaboration and application of information-theoretic and computational methodologies to philosophical problems. I argue that PI is a mature discipline for three reasons: it represents an autonomous field of research; it provides an innovative approach to both traditional and new philosophical topics; and it can stand beside other branches of philosophy, offering a systematic treatment of the conceptual foundations of the world of information and the information society.},
+	Author = {Luciano Floridi},
+	Date-Added = {2006-10-19 10:53:42 +1300},
+	Date-Modified = {2006-10-19 10:56:35 +1300},
+	Journal = {Metaphilosophy},
+	Keywords = {computation, cyberphilosophy, dialectic, digital philosophy, information, information technology, information society, information-theoretic methodology, innovation, philosophy of AI, philosophy of computer science, philosophy of computing, philosophy of information, scholasticism.},
+	Month = {January},
+	Number = {1--2},
+	Pages = {123--145},
+	Title = {What is the philosophy of information?},
+	Volume = {33},
+	Year = {2002}}
+	
+
+@misc{Flynn2008,
+	Author = {James Flynn},
+	Title = {Beyond the {F}lynn {E}ffect: Solution to all outstanding problems --- except enhancing wisdom},
+	Type = {Internet web site},
+	url = {http://www.psychometrics.ppsis.cam.ac.uk/page/109/bey ond-the-flynn-effect.htm},
+	Publisher = {The Psychometrics Centre, University of Cambridge},
+	Address = {Cambridge, England},
+	Year = {2008},
+	lastChecked = {19 May, 2011}}
+	
+@article{Fojt2009,
+	Author = {},
+	Editor = {Mr Martin Fojt},
+	Title = {Social networking and the workplace; Making the most of {W}eb 2.0 technologies},
+	Journal = {Strategic Direction},
+	Address = {Bradford},
+	Year = {2009},
+	Volume = {25},
+	Number = {8},
+	Page = {20--23},
+	Abstract = {This article reviews the latest management developments across the globe and pinpoints practical implications from cutting-edge research and case studies. This briefing is prepared by an independent writer who adds their own impartial comments and places the articles in context. It's an undeniable fact of life that people make mistakes. Some make more than others. Some mistakes are costlier than others. Just ask those companies that chose to dismiss the significance of the Internet when that phenomenon first emerged. Lessons are not always learned, unfortunately, and history may be in danger of repeating itself in the shape of web 2.0. With its focus on social networking capabilities, web 2.0 has transformed the online landscape to the extent that information sharing is now the norm for multitudes of people. Many companies, however, remain pretty skeptical about the implications of welcoming social networking tools into the workplace. The openness that characterizes this development goes against established principles, especially those founded on command and control. The article provides strategic insights and practical thinking that have influenced some of the world's leading organizations.} }
+
+% -G- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@misc{Galton2008,
+	Author = {Antony Galton},
+	Title = {Temporal Logic},
+	url = {http://plato.stanford.edu /entries/logic-temporal/},
+	lastChecked = {17 December, 2010},
+	originalYear = {1999},
+	originalMonth = {November},
+	originalDay = {29},
+	Year = {2008},
+	Month = {February},
+	Day = {7},
+	Publisher = {Stanford University},
+	Address = {Stanford, California}}
+
+@book{GaneSarson1979,
+	Author = {Chris Gane and Trish Sarson},
+	Title = {Structured Systems Analysis: Tools and techniques},
+	Year = {1979},
+	Publisher = {Prentice Hall},
+	Address = {Englewood Cliffs, New Jersey}}
+
+@article{Garland2008,
+	Title = {What are employers to do about the new social media},
+	Author = {David W. Garland  and Kristina R. Haymes},
+	Journal = {New Jersey Law Journal},
+	Year = {2008},
+	Month = {March},
+	Day = {17},
+	howPublished = {Retrieved 20 April, 2008 from Expanded Academic ASAP via Gale} }
+
+@misc{Garson2009,
+	Author = {James Garson},
+	Title = {Modal logic},
+	Year = {2009},
+	Month = {October},
+	Day = {2},
+	LastChecked = {12 December, 2010},
+	Type = {Internet web page},
+	url = {http://plato.sta nford.edu/entries/logic-modal},
+	Publisher = {Stanford University},
+	address = {Stanford, California},
+	BookTitle = {Stanford Encyclopedia of Philosophy}}
+
+@book{Geach1969,
+	Author = {Peter Geach},
+	Year = {1969},
+	Title = {God and the Soul},
+	Address = {London},
+	Publisher = {Routledge}}
+
+@article{Glock2004,
+        Abstract = {This article first surveys the established views on Wittgenstein's relation to analytic philosophy. Next it distinguishes among different ways of defining analytic philosophy?topical, doctrinal, methodological, stylistic, historical, and the idea that it is a family-resemblance concept. It argues that while certain stylistic features are important, the historical and the family-resemblance conceptions are the most auspicious, especially in combination. The answer to the title question is given in section 3. Contrary to currently popular ?irrationalist? interpretations, Wittgenstein was an analytic philosopher in all phases of his career, albeit an exceedingly exotic one whose style transcends the limits of academic philosophy in general. On the historical understanding he qualifies because he was influenced by and in turn influenced mainly analytic philosophers. On the family-resemblance conception he qualifies both because he developed and employed logico-linguistic analysis and because he initiated the linguistic turn and the distinction between philosophy and science that characterizes one important strand in analytic philosophy.},
+        Author = {H. Glock},
+        Title = {Was {W}ittgenstein an {A}nalytic {P}hilosopher?},
+        Journal = {Metaphilosophy},
+        Year = {2004},
+        Month = {July},
+        Volume = {35},
+        Number = {4},
+        Pages = {149--444} }
+        
+@inproceedings{Goh2007,
+	Author = {Chong Minsk Goh and Siew Poh Lee and Wei He and Puay Siew Tan},
+	Title = {Web 2.0 Concepts and Technologies for Dynamic {B2B} Integration},
+	Year = {2007},
+	BookTitle = {\textsc{ieee} Conference on Emerging Technologies \&{} Factory Automation},
+	Pages = {315--321},
+	Month = {September},
+	Day = {25--28},
+	Publisher = {\textsc{ieee}},
+	Address = {Patras} }
+
+
+@article{GoldkuhlAgerfalk2005,
+	Abstract = {There are many attempts to explain success and failure in information systems. Many of these refer to a purported sociotechnical gap. In this article we develop an alternative approach that does not impose such a strong dichotomy, but regards social and technical rather as dimensions along which to study workpractices. The developed theory involves not only the ``social'' and ``technical'' constructs, but also other generic ones, namely ``instrumental'', ``semiotic'', and ``pragmatic''. We call this theory socio-instrumental pragmatism. To illustrate the theoretical concepts introduced, we use an example brought from an extensive action research study including the development of an information system in eldercare, developed through a participatory design approach. },
+	Author = {G\o{}ran Goldkuhl and P\a{}r J. {\AA}gerfalk},
+	Editor = {Bernd Carsten Stahl},
+	Journal = {International Journal of Technology and Human Interaction},
+	Keywords = {actability, action, information system, pragmatism, workpractice,pragmatism,semiotic},
+	Month = {July--September},
+	Number = {3},
+	Pages = {29--43},
+	Title = {{IT} Artefacts as Socio-Pragmatic Instruments: Reconciling the Pragmatic, Semiotic, and Technical},
+	Volume = {1},
+	Year = {2005}}
+
+@book{Goodin1995,
+	Editor = {Robert E. Goodin and Phillip Pettit},
+	Title = {A Companion to Contemporary political philosophy},
+	Year = {1995},
+	Publisher = {Blackwell},
+	Address = {Carlton, Victoria, Australia}}
+
+@article{Goodstein1961,
+	Author = {R. L. Goodstein},
+	Type = {Book review},
+	Title = {A Review of the book: {\APACcitebtitle{Word and Object}} by W. V. Quine},
+	Journal = {Philosophy of Science},
+	Volume = {28},
+	Number = {2},
+	Month = {April},
+	Year = {1961},
+	Publisher = {The University of Chicago Press} }
+	
+@inproceedings{Gotterbarn2004,
+	 author = {Don Gotterbarn and Tony Clear},
+	 title = {Using {SoDIS} as a risk analysis process: a teaching perspective},
+ booktitle = {{ACE} '04: Proceedings of the sixth conference on {A}ustralasian computing education},
+ year = {2004},
+ pages = {83--90},
+ location = {Dunedin, New Zealand},
+ publisher = {Australian Computer Society, Inc.},
+ address = {Darlinghurst, Australia, Australia} }
+ 
+ @article{Grace2009,
+ 	Author = {Tay Pei Lyn Grace},
+	Title = {Wikis as a knowledge management tool},
+	Year = {2009},
+	Volume  = {13},
+	Number = {4},
+	Journal = {Journal of Knowledge Management},
+	Publisher = {Emerald Group Publishing Ltd},
+	pages = {64--74} }
+
+@misc{Graham2005,
+	Author = {Daniel W. Graham},
+	Title = {Heraclitus (fl. c.500 {BCE})},
+	Year = {2005},
+	LastChecked = {15 November, 2010},
+	url = {http://www.iep.utm. edu/heraclit/},
+	Type = {Internet Web page},
+	BookTitle = {Internet Encyclopedia of Philosophy},
+	Day = {5th},
+	Month = {July},
+	Publisher = {IEP},
+	Address = {Martin, Tennessee},
+	Editor = {James Fieser and Bradley Dowden}}
+ 
+ @inproceedings{Gripaldo2003,
+ 	Author = {Rolando M. Gripaldo},
+	Title = {The Person As Individual And Social Being},
+	Year = {2003},
+	booktitle = {An International Conference on The Dialogue Of Cultural Traditions : Global Perspective},
+	Month = {August},
+	Day = {8--9},
+	Address = {Istanbul, Turkey},
+	Publisher = {Council for Research in Values and Philosophy},
+	url = {http://www.crvp.org/conf /Istanbul/abstracts/Rolando M. Gripaldo.htm},
+	lastChecked = {10 November, 2010}}
+	
+
+
+ 
+@article{Gruber2008,
+	Title = {Collective knowledge systems: Where the social web meets the semantic web},
+	Author = {Tom Gruber},
+	Journal = {Journal of web semantics},
+	Year = {2008},
+	Month = {February},
+	Volume = {6},
+	Number = {1},
+	Pages = {4--13}}
+	
+@book{Gustafson1986,
+	author = {Barry Gustafson},
+	year = {1986},
+	Title = {From the cradle to the grave},
+	publisher = {Reed Methuen},
+	address = {Auckland}}
+ 
+% -H- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@book{Hackman1990,
+	Title = {Groups that work (and those that don't): Creating conditions for effective team-work},
+	Publisher = {Jossey-Bass},
+	Address = {San Francisco, US},
+	Year = {1990},
+	Editor = {J. Richard Hackman} }
+
+
+@article{Harvey1997,
+	Abstract = {Substantial changes in a core idea of geography, integration, have occurred since Alexander von Humboldt published Kosmos (1845--1862). These changes are part of a larger shift in Western civilization to mechanistic reasoning. This shift led to the strengthening of system-based analysis, central to the development of geographic information systems (GIS). The duality of holism and the systems approach has led to an apparent contradiction in geography. R. Hartshorne in The Nature of Geography described this contradiction, but as did Alfred Hettner and Emil Wisotzki before, moved to partial systems as the core concept of geographic integration. Hartshorne's concept of vertical integration is the antecedent for the ubiquitous GIS layer model. The reduction of geographic relationships and processes to mechanistic components (layers) aids the systematic approach, but may lessen geographic understanding of a place's interrelationships. Although the partiality of the system approach was already acknowledged by Finch and Hartshorne in the 1930s, the tension between holistic and system approaches in geography remains. Holism and system-based approaches are indeed complementary methods for developing geographic understanding. Using holistic approaches to understand geographic phenomena, before we teleologically (following a purpose) analyze phenomena as a system, extends GIS to include broader interrelationships of geography in specic locations.},
+	Author = {Francis Harvey},
+	Date-Added = {2006-10-19 11:44:23 +1300},
+	Date-Modified = {2006-10-19 13:15:51 +1300},
+	Journal = {Professional Geographer},
+	Keywords = {holism, geographic integration, geographic thought},
+	Number = {1},
+	Pages = {77--85},
+	Title = {From Geographic Holism to Geographic Information System},
+	Volume = {49},
+	Year = {1997}}
+
+@article{HassanHart2006,
+	Abstract = {The issues of diversity, pluralism and the subject matter of the information systems (IS) field are critically analyzed using the philosophical works of Michel Foucault and studies in disciplinarity.  This essay argues for the IS field to forge its own unique disciplinary subject matter by synthesizing the diverse discourses of its ``reference disciplines'' and not by merely drawing from them.  Using examples of other established disciplines with equally multidisciplinary origins, this paper analyzes the history of the IS field to uncover the field's subject matter.  The proposed subject matter maintains the IS field's richness and diversity without losing its unique identity.},
+	Author = {Nik R. Hassan and Hart J. Will},
+	Journal = {Communications of the Association for Information Systems},
+	Keywords = {philosophy of information systems, diversity, monism, pluralism, IS discipline, IS theory, disciplinary subject matter, discourse analysis and Foucault},
+	Pages = {152--180},
+	Title = {Synthesizing diversity and pluralism in {I}nformation {S}ystems: Forging a unique disciplinary subject matter for the {I}nformation {S}ystems field},
+	Volume = {17},
+	Year = {2006}}
+
+@misc{Hauben1994,
+	Author = {Michael Hauben},
+	Title = {History of {ARPANET}},
+	Type = {Internet web site},
+	year = {1994},
+	Month = {December},
+	Day = {20th},
+	LastChecked = {23 November, 2010},
+	url = {http://www.dei.isep.i pp.pt/\texttildelow{}acc/docs/arpa.html},
+	Publisher = {Instituto Superior de Engnharia do Porto, Departmento De Engenharia Inform\'{a}tica},
+	Address = {Porto, Portugal}}
+	
+@newspaper{Havenstein2007,
+   Author = {Havenstein, Heather},
+   Title = {The art of ceding control of consumer technology},
+   Journal = {Computerworld},
+   url = {http://computerworld.co.nz},
+   LastChecked = {22 August, 2007},
+   Day = {13},
+   Month = {August},
+   Year = {2007} }
+   
+ @newspaper{Havenstein2007a,
+ 	  Title = {Advocates Overcoming {IT} Resistance To {W}eb 2.0},
+	Authors = {Heather Havenstein},
+	Journal = {Computerworld},
+	Day = {1},
+	Month = {Oct},
+	Year = {2007},
+	Volume = {41},
+	Number = {40},
+	page = {14--16},
+	Keyword = {Information Technology, Web 2.0, High Technology, Technological Innovations, Cyberculture, Computer Networks, Adam Carson, Miko Coffey, Morgan Stanley \& Co. Inc.},
+	Abstract = {The article reports on the maximation of the Web 2.0 technology among corporate users. Advocates of the platform are slowly overcoming the information technology (IT) resistance response they usually encounter. Adam Carson, an associate at Morgan Stanley \& Co. Inc., successfully surpassed the obstacles posed by the firm's IT organization against the new technology. Meanwhile, Miko Coffey of the National Endowment for Science, Technology and the Arts (NESTA) bypassed IT in some efforts to provide Web 2.0 technologies to the group's end users.}}
+   
+@inproceedings{He2007,
+	Author = {W. He and P. S. Tan and C. M. Goh and S. P. Lee and E. W. Lee},
+	Title = {An Investigative Approach on Improving {B2B} Interactions and Communication Capabilities for Enterprise Integration using {W}eb 2.0 Technologies},
+	Year = {2007},
+	BookTitle = {\textsc{ieee} Conference on Emerging Technologies \&{} Factory Automation},
+	Pages = {330--335},
+	Month = {September},
+	Day = {25--28},
+	Publisher = {\textsc{ieee}},
+	Address = {Patras} }
+
+@inbook{Heidegger1954,
+	crossref = {Heidegger1993book},
+	Title = {The question concerning technology},
+	OriginalYear = {1954},
+	Pages = {311--341} }
+   
+@inbook{Heidegger1972,
+	crossref = {Heidegger1993book},
+	Title = {Being and Time},
+	OriginalYear = {1972},
+	Pages = {41--87} }
+
+ @book{Heidegger1993book,
+ 	Author = {Martin Heidegger},
+	Title = {Basic Writings},
+	BookTitle = {Basic Writings},
+	Editor = {David Farrell Krell},
+	Year = {1993},
+	Publisher = {Harper Collins},
+	Address = {San Francisco} }
+	
+@inbook{Heidegger1981,
+	Author = {Martin Heidegger},
+	Title = {Aristolese: Metaphysik},
+	BookTitle = {Gesamtausgabe},
+	Year = {1981},
+	OriginalYear = {1931},
+	OriginalMonth = {Summer Semester},
+	Editor = {Heinrich H\"u{}ni},
+	Volume = {1--3},
+	Publisher = {Vittorio Klostermann},
+	Address = {Frankfurt am Main} }
+	
+@book{Hendricks2006,
+	Author = {Vincent F. Hendricks},
+	Year = {2006},
+	Title = {Mainstream and Formal Epistemology},
+	Address = {New York},
+	Publisher ={Cambridge University Press}}
+
+
+@article{Henham2000,
+	Author = {Ralph J. Henham},
+	Date-Added = {2006-10-19 10:43:29 +1300},
+	Date-Modified = {2006-10-19 10:57:39 +1300},
+	Journal = {International Review of Law Computers \&{} Technology},
+	Keywords = {rule based, heuristic, philosophy of information, philosophy of computing},
+	Number = {3},
+	Pages = {283--296},
+	Title = {On the Philosophical and Theoretical Implications of Judicial Decision Support Systems},
+	Volume = {14},
+	Year = {2000}}
+
+@book{Hirschheim1985,
+	Address = {Chichester, Great Britain},
+	Author = {R. A. Hirschheim},
+	Isbn = {0-471-90909-2},
+	Keywords = {social organisation},
+	Publisher = {John Wiley and Sons},
+	Series = {Information systems series},
+	Title = {Office Automation: A social and organizational perspective},
+	Year = {1985}}
+
+@article{Hirschheim1989,
+	Abstract = {Developing computer-based information systems necessarily involves making a number of implicit and explicit assumptions. The authors examine four different approaches to information systems development.},
+	Author = {Rudy Hirschheim and Heinz K. Klein},
+	Journal = {Communications of the {ACM}},
+	Keywords = {systems design, systems development, dialectical materialism},
+	Month = {October},
+	Number = {10},
+	Pages = {1199--1216},
+	Publisher = {{ACM}},
+	Title = {Four Paradigms of Information Systems Development},
+	Volume = {32},
+	Year = {1989}}
+
+@book{Hirschheim1995,
+	Address = {Cambridge, Great Britain},
+	Author = {Rudy Hirschheim and Heinz K. Klein and Kalle Lyytinen},
+	Keywords = {philosophy, information systems development},
+	Publisher = {Cambridge University Press},
+	Title = {Information systems development and data modelling: Conceptual and philosophical foundations},
+	Year = {1995}}
+
+@article{Hjorland2002,
+	Author = {Birger Hj\o{}rland},
+	Date-Added = {2006-10-19 11:19:38 +1300},
+	Date-Modified = {2006-10-19 11:25:32 +1300},
+	Journal = {Journal of Documentation},
+	Keywords = {information technology, knowledge management},
+	Number = {4},
+	Pages = {422--462},
+	Title = {Domain analysis in information science: Eleven approaches --- traditional as well as innovative},
+	Volume = {58},
+	Year = {2002}}
+
+@article{Hjorland2005,
+	Abstract = {Purpose -- The purpose of this article is to introduce the special issue of Journal of Documentation about library and information science (LIS) and the philosophy of science. \\
+Design/methodology/approach -- The most important earlier collected works about metatheories and philosophies of science within LIS are listed. \\
+Findings -- It is claimed that Sweden probably is the country in which philosophy of science has the highest priority in LIS education. The plan of the guest editor was that each epistemological position should be both introduced and interpreted in a LIS context together with a review of its influence within the field and an evaluation of the pros and cons of that position. This was only an ideal plan. It is argued that it is important that such knowledge and debate are available within the LIS-literature itself and that the answers to such questions as ``What is positivism?'' are not trivial ones. \\
+Originality/value -- The introduction is written to assist readers overviewing the issue and share the thoughts of the editor in planning the issue.},
+	Author = {Birger Hj\o{}rland},
+	Date-Added = {2006-10-19 11:31:06 +1300},
+	Date-Modified = {2006-10-19 11:33:27 +1300},
+	Journal = {Journal of Documentation},
+	Keywords = {Libraries, information science, philosophy, philosophy of science},
+	Number = {1},
+	Pages = {5--10},
+	Title = {Library and information science and the philosophy of science},
+	Volume = {61},
+	Year = {2005}}
+
+@article{Hjorland2005a,
+	Abstract = {Purpose -- The purpose of this paper is to examine the importance and influence of the epistemologies: ``empiricism'', ``rationalism'' and ``positivism'' in library and information science (LIS). \\
+Design/methodology/approach -- First, outlines the historical development of these epistemologies, by discussing and identifying basic characteristics in them and by introducing the criticism that has been raised against these views. Second, their importance for and influence in LIS have been examined. \\
+Findings -- The findings of this paper are that it is not a trivial matter to define those epistemologies and to characterise their influence. Many different interpretations exist and there is no consensus regarding current influence of positivism in LIS. Arguments are put forward that empiricism and positivism are still dominant within LIS and specific examples of the influence on positivism in LIS are provided. A specific analysis is made of the empiricist view of information seeking and it is shown that empiricism may be regarded as a normative theory of information seeking and knowledge organisation. \\
+Originality/value -- The paper discusses basic theoretical issues that are important for the further development of LIS as a scholarly field.},
+	Author = {Birger Hj\o{}rland},
+	Date-Added = {2006-10-19 11:41:05 +1300},
+	Date-Modified = {2006-10-19 11:43:18 +1300},
+	Journal = {Journal of Documentation},
+	Keywords = {philosophy, information science, Libraries, Marxism, Pragmatism},
+	Number = {1},
+	Pages = {130--155},
+	Title = {Empiricism, rationalism and positivism in library and information science},
+	Volume = {61},
+	Year = {2005}}
+
+@misc{Hjorland2006,
+	Abstract = {Pragmatism is a philosophical tradition founded by three American philosophers: Charles Sanders Peirce, William James and John Dewey. All three of the founding pragmatists combined a naturalistic, Darwinian view of human beings with a distrust of the problems which philosophy had inherited from Descartes, Hume and Kant. They hoped to save philosophy from metaphysical idealism. Their naturalism has been combined with an anti-foundationalist, holist account of meaning by Willard van Orman Quine, Hilary Putnam and Donald Davidson - philosophers of language who are often seen as belonging to the pragmatist tradition. That tradition also has affinities with the work of Thomas Kuhn and the later work of Ludwig Wittgenstein. },
+	HowPublished = {An article in The Epistemological Lifeboat: Epistemology and Philosophy of Science for Information Scientists},
+	Editor = {Birger Hj\o{}rland and Jeppe Nicolaisen},
+	Keywords = {pragmatism},
+	Day = {11},
+	Month = {January},
+	Publisher = {Royal School of Library and Information Science},
+	Title = {Pragmatism},
+	Type = {Internet web page},
+	LastChecked = {20 October, 2006},
+	Url = {http://www.db.dk/ jni/lifeboat/Positions/Pragmatism.htm},
+	Year = {2006}}
+	
+
+@misc{Hofweber2011,
+	author = {Thomas Hofweber},
+	title = {Logic and Ontology},
+	publisher = {Stanford University},
+	howpublished    =	{The Stanford Encyclopedia of Philosophy},
+	editor       =	{Edward N. Zalta},
+	url =	{http://plato.stanford.edu/archives/fall2011/ entries/logic-ontology/},
+	year         =	{2011},
+	edition      =	{Fall 2011},
+	lastChecked = {13 September, 2012},
+	type = {Internet web page}}
+
+@article{Hooijmaijers2008,
+	Author = {Dennis Hooijmaijers and Markus Stumptner},
+	Title = {Trust-annotated ontology integration using social modelling},
+	Journal = {Expert Systems},	
+	Year = {2008},
+	Volume = {25},
+	Number = {3},
+	Pages = {237--252},
+	Month = {July},
+	Abstract = {As ontologies become more prevalent for information management the need to manage the ontologies increases. Multiple organizations, within a domain, often combine to work on specific projects. When separate organizations come together to communicate, an alignment of terminology and semantics is required. Ontology creation is often privatized for these individual organizations to represent their view of the domain. This creates problems with alignment and integration, making it necessary to consider how much each ontology should influence the current decision to be made. To assist with determining influence a trust-based approach on authors and their ontologies provides a mechanism for ranking reasoning results. A representation of authors and the individual resources they provide for the merged ontology becomes necessary. The authors are then weighted by trust and trust for the resources they provide the ontology is calculated. This is then used to assist the integration process allowing for an evolutionary trust model to calculate the level of credibility of resources. Once the integration is complete semantic agreement between ontologies allows for the revision of the authors' trust.},
+	Publisher = {Blackwell},
+	Address = {9600 Garsington Road, Oxford, England},
+	Keywords = {ontology; trust; trust revision; ontology integration}}
+
+	
+@article{Hoover2007,
+	Institution = {The Institution of Engineering and Technology},
+	title = {Web 2.0 tools in business: proceed with caution},
+	journal = {Bank Systems + Technology},
+	author = {Hoover, J.N.},
+	volume = {44},
+	number = {4},
+	year = {2007},
+	Month = {April},
+	pages = {41--3},
+	abstract = {Emerging Web 2.0 tools - such as blogs, wikis and online social networks - promise improved business collaboration and information-sharing. But according to a recent Information Week survey, business technology pros are concerned about security, return on investment, and their staffs' skill in implementing and integrating new Web technologies. While some financial services companies, such as San Francisco-based Wells Fargo, are plunging into Enterprise 2.0, it still is an emerging technology},
+	keywords = {bank data processing;Internet;security of data;Web 2.0 tools;business collaboration;information-sharing;security;financial services company;Wells Fargo;Enterprise 2.0;}} 
+
+@inproceedings{Huang2006,
+	Abstract = {Semiotics includes discussions in the pragmatic dimension, the semantic dimension, and the syntactic dimensions to understand an intellectual individuals state of knowing and ways of obtain knowledge. The pragmatisms approach of how meanings are made and understood by consequences of an individuals actions with the surrounding environment and the triadic relation of three dimensions of sign coined by Peirce and Morris are considered applicable in theoretical modeling in many scientific fields such as linguistics, computer science, and human cognition. A semiotic view of information in the act of informing provides an approach of analysis that is useful for the studies of information behavior in the research of library and information science (LIS). Motivated by the lack of a general introduction to semiotics in the context of LIS for information behavior research, the author conducts a review of the ambiguity of information studies, the epistemological concerns and philosophical pragmatism in LIS, and semiotics in an attempt to seek a holistic foundation for LIS research in information behavior. By applying a semiotic view of information seeking activities, researchers of information behavior who focus on how people use linguistic and physical tools to access information will find semiotics a useful epistemological framework within LIS.},
+	Address = {Austin, Texas},
+	Author = {Sheng-Cheng Huang},
+	Booktitle = {Information Realities: Shaping the Digital Future for All},
+	Publisher = {American Society for Information Science and Technology},
+	Date-Added = {2006-10-19 12:02:10 +1300},
+	Date-Modified = {2006-10-19 12:11:30 +1300},
+	Keywords = {Pragmatism, semiotics, philosophy},
+	Day = {3--9},
+	Month = {November},
+	Organization = {American Society for Information Science and Technology},
+	Title = {A Semiotic View of Information: Semiotics as a Foundation of \textsc{lis} Research in Information Behavior},
+	Url = {http://www.asis.org/ Conferences/AM06/papers/66.html},
+	Year = {2006}}
+
+@misc{Huber2010,
+	Author = {Franz Huber},
+	Title = {Formal representations of belief},
+	Year = {2008},
+	Month = {October},
+	Day = {22},
+	LastChecked = {17 December, 2010},
+	url = {http://plato.stanford.edu/entries/formal- belief},
+	publisher = {Stanford University},
+	address = {Stanford, California},
+	Type = {Internet web page} }
+	
+@article{Hutton1995,
+	Author = {Neil Hutton},
+	Title = {Sentencing, rationality and computer technology},
+	Journal = {Journal of Law and Society},
+	Volume = {22},
+	Number = {4},
+	Pages = {549--570},
+	Year = {1995},
+	Month = {December} }
+
+% -I- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@newspaper{InfoWorld2007,
+   Author = {{InfoWorld staff}},
+   Title = {What the enterprise can learn from consumer technology},
+   journal = {Computerworld},
+   url = {\texttt{http://computerworld.co.nz/}},
+   Day = {23},	
+   Month = {April},
+   Year = {2007},
+   lastChecked = {23 April, 2008} }
+   
+ @article{IyerHenderson2010,
+	Author = {Bala Iyer and John C. Henderson},
+	Title = {Preparing for the future: understanding the seven capabilities of cloud 
+computing},
+	Year = {2010},
+	Month = {June},
+	Journal = {MISQ Executive},
+	Publisher  = {University of Minnesota},
+	Volume = {9},
+	Number = {2},
+	Pages = {117--131} }
+
+
+
+% -J- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@inbook{James1878,
+	Title = {Remarks on {S}pencer's Definition of Mind as Correspondence},
+	Author = {William James},
+	Year = {1878},
+	Journal = {Journal of Speculative Psychology},
+	Month = {January},
+	Number = {12},
+	Pages = {1--18} }
+
+@book{James1909,
+	Title = {The meaning of truth: a sequel to pragmatism},
+	Author = {William James},
+	Publisher = {Longmans, Green, And Co.},
+	Year = {1909},
+	Address = {New York},
+	keywords = {pragmatism, James} }
+
+@inbook{James1971,
+	Title = {Remarks on {S}pencer's Definition of Mind as Correspondence},
+	Author = {William James},
+	Publisher = {State University of New York Press},
+	Address = {New York},
+	BookTitle = {William {J}ames: {T}he essential writings},
+	Year = {1971},
+	OriginalYear = {1878},
+	OriginalJournal = {Journal of Speculative Psychology},
+	OriginalMonth = {January},
+	OriginalNumber = {12},
+	OriginalPages = {1--18},
+	Pages = {9--24} }
+
+@inbook{James1977,
+	address = {Chicago},
+	author = {William James},
+	booktitle = {The Writings of {W}illiam {J}ames},
+	editor = {John J. McDermott},
+	keywords = {pragmatism, James, Peirce},
+	pages = {345--362},
+	publisher = {University of Chicago Press},
+	title = {Philosophical Conceptions and Practical Results},
+	year = {1977} }
+
+@book{James2007,
+	author = {William James},
+	keywords = {pragmatism, James},
+	publisher = {Filiquarian Publishing, \textsc{llc}},
+	Address = {\textsc{us}},
+	title = {Pragmatism: {A} new name for some old ways of thinking},
+	originalyear = {1907},
+	year = {2007} }
+	
+@inbook{James2008,
+	Author = {Russel Goodman},
+	Lastchecked = {18 November, 2010},
+	Day = {23rd},
+	Month = {October},
+	Year = {2009},
+	OriginalDay = {7th},
+	OriginalMonth = {September},
+	OriginalYear = {2000},
+	publisher = {Stanford University},
+	Address = {Stanford, California},
+	Title = {William {J}ames},
+	booktitle = {The {S}tanford Encyclopedia of Philosophy},
+	Url = {http://plato.stanford.edu/ent ries/james/},
+	Type = {Internet web page}}
+	
+@inproceedings{Jarvinen2005,
+	Abstract = {In management information systems action research is long considered as promising but low-level research approach. It has an utmost relevance because action researchers are working with practitioners to solve the important practical problem. Design science outlined some years ago is just winning a wider audience. \\Action research was traditionally classified into qualitative research methods. But it seems to be the ``wrong'' home of action research. We shall show that after comparison of the seven aspects: concrete results of the study, knowledge produced, activities, the intent and the nature of a study, the division of labour in a study and generation, use and test of knowledge, the concordance between the characteristics of action research on the one hand and of design science on the other hand is very good. Hence, action research and design science should next be considered as similar research approaches, and this is a turning point in the history of both action research and design science.},
+	Address = {Munich},
+	Author = {Pertti J{\"a}rvinen},
+	Booktitle = {The \textsc{euram} ({E}uropean {A}cademy of {M}anagement) {C}onference},
+	Publisher = {Technische Universit\"a{}t M\"u{}nchen},
+	Date-Added = {2006-10-19 12:16:05 +1300},
+	Date-Modified = {2006-10-19 12:22:28 +1300},
+	Keywords = {Action research, Design science, Research method, Qualitative method, Pragmatism, dialectical},
+	Day = {4--7},
+	Month = {May},
+	Title = {Action research as an approach in design science},
+	Year = {2005}}
+
+@article{Jones2008,
+	Abstract = {A letter to the editor is presented in response to the article "The Semantic Web in Action," from a previous issue. },
+	Author = {Robert Jones},
+	ISSN = {00368733},
+	Journal = {Scientific {A}merican},
+	Keywords = {SEMANTIC Web, LETTERS to the editor},
+	Number = {4},
+	Pages = {14},
+	Title = {A Question of Semantics.},
+	Volume = {298},
+	URL = {http://search.ebscohost.com},
+	lastChecked = {16 April, 2008},
+	Year = {2008},
+	Month = {April} }
+
+@book{Junger1977,
+	Title = {Eumeswil},
+	Author = {J\"u{}nger, Ernst},
+	Year = {1994},
+	OriginalYear = {1977},
+	Publisher = {Marsilio Publishers},
+	Translator = {Joachim Neugroschel},
+	Address = {New York}}
+	
+@book{Junger2003,
+   Author = {J\"u{}nger, Ernst},
+   Title = {Storm of Steel},
+   Publisher = {Allen Lane},
+   Address = {London},
+   Edition = {6th},
+      Year = {2003} }
+
+@book{Junger2007,
+	Author = {Ernst J\"u{}nger},
+	Title = {Der Arbeiter, Herrschaft und Gestalt [The workers, domination and shaping]},
+	OriginalYear = {1932},
+	Year = {2007},
+	OriginalAddress = {Hamburg},
+	OriginalPublisher = {Hanseatische Verlagsanstalt},
+	Publisher = {Klett-Cotta},
+	Address = {Stuttgart, Germany} }
+
+% -K- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@article{KaneFichman2009,
+	Author = {Gerald Kane and Robert Fichman},
+	Title = {The shoemaker's children: Using {Wikis} for {I}nformation {S}ystems teaching, research, and publication},
+	Year = {2009},
+	Month = {March},
+	Journal = {MISQ},
+	Volume = {33},
+	Number = {1},
+	Pages = {1--17},
+	Abstract = {This paper argues that Web 2.0 tools, specifically wikis, have begun to influence business and knowledge sharing practices in many organizations. Information Systems researchers have spent considerable time exploring the impact and implications of these tools in organizations, but those same researchers have not spent sufficient time considering whether and how these new technologies may provide opportunities for us to reform our core practices of research, review, and teaching. To this end, this paper calls for the IS discipline to engage in two actions related to wikis and other Web 2.0 tools. First, the IS discipline ought to engage in critical reflection about how wikis and other Web 2.0 tools could allow us to conduct our core processes differently. Our existing practices were formulated during an era of paper based exchange; wikis and other Web 2.0 tools may enable processes that could be substantively better. Nevertheless, users can appropriate information technology tools in unexpected ways, and even when tools are appropriated as expected there can be unintended negative consequences. Any potential changes to our core processes should, therefore, be considered critically and carefully, leading to our second recommended action. We advocate and describe a series of controlled experiments that will help assess the impact of these technologies on our core processes and the associated changes that would be necessary to use them. We argue that these experiments can provide needed information regarding Web 2.0 tools and related practice changes that could help the discipline better assess whether or not new practices would be superior to existing ones and under which circumstances.},
+	Keywords = {Web 2.0, Wiki, teaching, review, research, AIS, collaboration, academia} }
+
+
+@article{Kazikawa2007,
+	Title = {In-house Use of {W}eb 2.0: {E}nterprise 2.0},
+	Author = {Kakizawa Yukihiro},
+	Journal = {{NEC} Technical Journal},
+	Year = {2007},
+	Volume = {2},
+	Number = {2},
+	Pages = {46--49} }
+
+
+@inbook{KaplanNorton1998,
+	Author = {Robert S. Kaplan and David P. Norton},
+	Title = {The Balanced Scorecard: Measures That Drive Performance},
+	Booktitle = {Harvard {B}usiness {R}eview: Business classics; Fifteen key concepts for managerial success},
+	Year = {1998},
+	Publisher = {Harvard Business Review Press},
+	Address = {New York},
+	Pages = {92--100},
+	OriginalYear = {1992},
+	OriginalMonth = {January--February} }
+
+@book{Kierkegaard1985,
+	Author = {S\o{}ren Kierkegaard},
+	Title = {Philosophical Fragments},
+	Translator = {Edna H. Hong and Howard V. Hong},
+	Editor = {Edna H. Hong and Howard V. Hong},
+	Publisher = {Princeton University Press},
+	Address = {Princeton},
+	Year = {1985}}
+
+
+@article{KimYuePerkinsHallGates2009,
+	Author = {Dan J. Kim and Kwok-Bun Yue and Sharon Perkins-Hall and Tracy Gates},
+	Title = {Global Diffusion of the Internet {XV}: Web 2.0 Technologies, Principles, and Applications: A Conceptual Framework from Technology Push and Demand Pull Perspective},
+	Year = {2009},
+	Month = {June},
+	Journal = {Communications of the Association for Information Systems},
+	Volume = {24},
+	Number = {38},
+	Pages = {657--672},
+	Abstract = {Web 2.0, the current Internet evolution, can be described by several key features of an expanded Web that is more interactive; allows easy social interactions through participation and collaboration from a variety of human sectors; responds more immediately to users' queries and needs; is easier to search; and provides a faster, smoother, realistic and engaging user search capability, often with automatic updates to users. The purpose of this study is three-fold. First, the primary goal is to propose a conceptual Web 2.0 framework that provides better understanding of the Web 2.0 concept by classifying current key components in a holistic manner. Second, using several selective key components from the conceptual framework, this study conducts case analyses of Web 2.0 applications to discuss how they have adopted the selective key features (i.e., participation, collaboration, rich user experience, social networking, semantics, and interactivity responsiveness) of the conceptual Web 2.0 framework. Finally, the study provides insightful discussion of some challenges and opportunities provided by Web 2.0 to education, business, and social life.},
+	Keywords = {Web 2.0, conceptual Web 2.0 framework, Web 2.0 technology, Web 2.0 principles, Web 2.0 applications, comparative case analysis} }
+
+
+@article{Kobielus2007,
+	Author = {James Kobielus},
+	Year = {2007},
+	Month = {October},
+	Title = {The Semantic Web --- Meaning And \textsc{soa}},
+	Journal = {Business Communications Review},
+	Volume = {37},
+	Number = {10},
+	Pages = {30--36},
+	HowPublished = {Retrieved April 16, 2008, from ABI/INFORM Global database} }
+	
+@article{Koch2007,
+	Author = {Michael Koch and Alexander Richter and Andreas Schlosser},
+	Abstract = {The use of Social Networking Services for private purposes has been increasing considerably in the past few years. In the same time companies started to experiment with such services to support formal and informal communication and networking among their employees.
+This article gives an overview of services and application for IT-supported Social Networking in companies. First, the authors place Social Networking Services in the context of Web 2.0 and Social Software. Thereupon, they discuss the benefits and the motivation of the deployment of Social Networking Software in companies, and introduce some specific IT solutions. Finally, they also address necessary future developments in the field of Social Networking Services.},
+	Title = {Services and applications for \textsc{it}-supported social networking in companies},
+	Journal = {Wirtschaftinformatik},
+	Year = {2007},
+	Volume = {49},
+	Number = {6},
+	Pages = {448--455},
+	Month = {December}}
+	
+@article{Kripke1963,
+	author = {Saul Kripke},
+	year = {1963},
+	title = {Semantical Considerations on Modal Logic},
+	journal = {Acta Philosophica Fennica},
+	volume = {16},
+	pages = {83--94}}
+
+
+% -L- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@inbook{Lakatos1970,
+	Author = {I. Lakatos},
+	Year = {1970},
+	Title = {Falsification and the methodology of scientific research programmes},
+	Editor = {I. Lakatos and A. Musgrave},
+	Booktitle = {Criticism and the growth of knowledge},
+	Address = {London},
+	Publisher = {Cambridge University Press} }
+
+@article{Lammers1967,
+	Author = {C.J. Lammers},
+	Title = {Power and participation in decision-making in Formal organisations},
+	Journal = {American Journal of Sociology},
+	Volume = {73},
+	Number = {2},
+	Pages = {201--216},
+	Year = {1967}}
+	
+@inproceedings{Land2000,
+   Author = {Frank Land},
+   Title = {Evaluation in a Socio-Technical Context},
+   BookTitle = {{IFIP} {W.G.8.2} Working Conference 2000, {IS}2000: The Social and Organizational Perspective on Research and Practice in {I}nformation {S}ystems},
+   Date = {10--12 June},
+   Publisher = {IFIP},
+   Address= {Aalberg, Denmark},
+      Year = {2000} }
+      
+@misc{Lang1926,
+	Author = {{Lang, F. (Director/Writer)} and {Pommer, E. (Producer)} and {von Harbou, T. (Writer)}},
+	Title = {Metropolis},
+	Year = {1926},
+	Type = {Motion Picture},
+	Publisher = {Universum Film A.G.},
+	Note = {Re-released Moroder, G. (Composer/Producer), 1984},
+	Address = {Germany} }
+	
+@book{Larousse1987,
+	Editor = {Felix Guirand},
+	Title = {The new {L}arousse encyclopaedia of mythology},
+	Translator = {Richard Aldington and Delano Ames},
+	Year = {1987},
+	Address = {London},
+	Publisher = {Crescent Books}}
+
+@book{Laudon1991,
+	Author = {Kenneth C. Laudon and Jane Price Laudon},
+	Title = {Management Information Systems: A Contemporary Perspective},
+	Year = {1991},
+	Publisher = {Macmillan},
+	Address = {New York},
+	edition = {2nd}}
+	
+	
+
+@article{Lee2000,
+	Abstract = {Hundreds of information systems development (ISD) methods exist at the present time, covering many different perspectives on the problem of systems development. There is a fairly consistent assumption running although debate on ISD methods; namely, that systems development is a cognitively intensive activity. But despite considerable study systems development remains a poorly understood activity. There is also evidence that, in practice, systems development projects are being approached from phenomenological pragmatism rather than from formally proposed teleological prescriptions, or ISD methods. That is, in practice ISD methods do not appear to be widely followed. This raises a question as to whether part of the reason lies in the training in formal ISD methods. Or phrased differently: what impact does formal development methods training have upon the cognitive development of systems developers. This research investigates one aspect of the relationship between the methodical training and the cognitive structure of novice systems developers, i.e. changes in a developer's cognitive complexity. The study suggests a cognitive growth cycle experienced by systems developers that underlies an informed method usage cycle.},
+	Author = {Jungwoo Lee and Duane P. Truex},
+	Journal = {Information Systems Journal},
+	Keywords = {Amethodical systems development, cognitive structure, development teams, methodical systems development, personal construct theory, repertory grid technique},
+	Number = {10},
+	Pages = {347--367},
+	Publisher = {Blackwell Publishing Ltd},
+	Title = {Exploring the impact of formal training in {ISD} methods on the cognitive structure of novice information systems developers},
+	Year = {2000}}
+
+@inbook{Leger2006,
+	Title = {The {S}emantic {W}eb from an Industry Perspective},
+	Author = {Alain L\'e{}ger and Johannes Heinecke and Lyndon J.B. Nixon and Pavel Shvaiko and Jean Charlet and Paola Hobson and Fran\c{c}?ois Goasdou\'e{}},
+	Editor = {P. Barahona and F. Bry and E. Franconi and N. Henze and U. Sattler},
+	BookTitle = {Reasoning Web 2006},
+	Series = {Lecture Notes in Computer Science}, 
+	Volume = {4126},
+	Pages = {232--268},
+	Year = {2006},
+	Month = {September},
+	Day = {4--8},
+	Publisher = {Springer-Verlag},
+	Address = {Berlin},
+	Note = {Lecture presented at the Reasoning Web Second International Summer School 2006, Lisbon, Portugal} } 
+
+@inproceedings{Lenarcic2004,
+	Abstract = {A philosophical meditation on the open source movement as a mechanism for the design and distribution of software is presented. As a development paradigm, the open source method is depicted as being a radical novelty in the gamut of engineering phenomena and an exemplary metaphor for postmodernist design.},
+	Address = {Canberra, Australia},
+	Author = {John Lenarcic and Eric C. Mousset},
+	Booktitle = {Conferences in Research and Practice in Information Technology},
+	Editor = {J. Weckert and Y. Al-Saggaf},
+	Keywords = {Software design, software distribution, open source, postmodernism, philosophy},
+	Organization = {Australian Computer Society, Inc.},
+	Pages = {73--77},
+	Publisher = {Australian Computer Society, Inc.},
+	Title = {The Open Source Singularity: A Postmodernist View},
+	Type = {Conference proceedings},
+	Volume = {37},
+	Year = {2007}}
+
+@book{Lewis1956,
+	Author = {Clarence Irving Lewis},
+	Title = {Mind and The World Order: an Outline of a Theory of Knowledge},
+	OriginalYear = {1929},
+	OriginalPublisher = {Charles Scribner’s Sons},
+	OriginalAddress = {New York},
+	Publisher = {Dover Publications},
+	Address = {New York},
+	Year = {1956}}
+
+@book{Lewis1943,
+	Author = {C. S. Lewis},
+	Title = {The abolition of man},
+	OriginalYear = {1943},
+	Year = {2002},
+	LastChecked = {19 November, 2010},
+	Month = {March},
+	Day = {6th},
+	Publisher = {The Augustine Club},
+	Address = {Columbia University, New York},
+	url = {http://www.columbia.edu/cu/augustine/arch/lewis/aboli tion1.htm},
+	Type = {Internet web page}}
+	
+	
+	
+@inproceedings{Lin2006,
+	Title = {Serving {W}eb 2.0 with \textsc{soa}: Providing the Technology for Innovation and Specialization},
+	Author = {Kwei-Jay Lin},
+	BookTitle = {Proceedings of the \textsc{ieee} International Conference on e-Business Engineering},
+	Year = {2006},
+	Month = {October},
+	Day = {24--26},
+	Publisher = {\textsc{ieee} Computer Society},
+	Address = {Shanghai, China},
+	Pages = {3},
+	Type = {Conference proceedings}}
+	
+@inproceedings{Litchfield2011,
+	Author = {Alan T. Litchfield and Fuad Khan Baloch and Brian Cusack},
+	Title = {Arguments for the adoption of a heuristic approach to \textsc{is} Research},
+	Year = {2011},
+	BookTitle = {Proceedings of the International Conference on Information Systems, 2011},
+	Month = {December},
+	Day = {4--8},
+	Publisher = {AIS},
+	Address = {Shanghai, China},
+	Type = {Conference Proceedings}}
+	
+
+@article{Lloyd1950,
+	Author = {A.C. Lloyd},
+	Title = {{IV} {E}mpiricism, sense data and scientific languages},
+	Journal = {Mind},
+	Volume = {LIX},
+	Number = {233},
+	Year = {1950} }	
+
+@book{Locke1980,
+	Author = {John Locke},
+	Title = {Second Treatise of Government},
+	Editor = {C. B. Macpherson},
+	OriginalYear = {1690},
+	Type = {Reprint},
+	Address = {Indianapolis},
+	Publisher = {Hackett Publishing Co.},
+	Year ={1980}}
+
+@book{Lucas1998,
+	Author = {{Lucas, G. (Director)} and {Copolla, F.F. (Executive Producer)}},
+	Title = {{THX1138}},
+	Year = {1998},
+	OriginalYear = {1970},
+	Type = {Motion Picture},
+	Publisher = {Warner Bros Pictures},
+	Address = {CA} }
+
+% -M- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@article{MacGilvray2010,
+	Author = {Eric MacGilvray},
+	Title = {Dewey's {P}ublic},
+	Year = {2010},
+	Journal = {Contemporary Pragmatism},
+	Volume = {7},
+	Number = {1},
+	Month = {June},
+	Pages = {31--47} }
+
+@article{Maddock1994,
+	Author = {T. H. Maddock},
+	Year = {1994},
+	Title = {Three dogmas of materialist pragmatism --- a critique of a recent attempt to provide a science of educational administration},
+	Journal = {Journal of educational administration},
+	Volume = {32},
+	Number = {4},
+	Pages = {5--28} }
+
+@article{Magani2004,
+	Abstract = {Computational philosophy (CP) aims at investigating many important concepts and problems of the philosophical and epistemological tradition in a new way by taking advantage of information-theoretic, cognitive, and artificial intelligence methodologies. I maintain that the results of computational philosophy meet the classical requirements of some Peircian `pragmatic ambitions'. Indeed, more than a 100 years ago, the American philosopher C.S. Peirce, when working on logical and philosophical problems, suggested the concept of pragmatism (`pragmaticism', in his own words) as a logical criterion to analyze what words and concepts express through their practical meaning. Many words have been spent on creative processes and reasoning, especially in the case of scientific practices. In fact, many philosophers have usually offered a number of ways of construing hypotheses generation, but they aim at demonstrating that the activity of generating hypotheses is paradoxical, obscure, and thus not analyzable. Those descriptions are often so far from Peircian pragmatic prescription and so abstract to result completely unknowable and obscure. To dismiss this tendency and gain interesting insight about the so-called `logic of scientific discovery' we need to build constructive procedures, which could play a role in moving the problem-solving process forward by implementing them in some actual models. The `computational turn' gives us a new way to understand creative processes in a strictly pragmatic sense. In fact, by exploiting artificial intelligence and cognitive science tools, computational philosophy allows us to test concepts and ideas previously conceived only in abstract terms. It is in the perspective of these actual computational models that I find the central role of abduction in the explanation of creative reasoning in science. I maintain that the computational philosophy analysis of model-based and manipulative abduction and of external and epistemic mediators is important not only to delineate the actual practice of abduction, but also to further enhance the development of programs computationally adequate in rediscovering, or discovering for the first time, for example, scientific hypotheses or mathematical theorems. The last part of the paper is devoted to illustrating the problem of the extra-theoretical dimension of reasoning and discovery from the perspective of some mathematical cases derived from calculus and geometry.},
+	Address = {Netherlands},
+	Author = {Lorenzo Magnani},
+	Journal = {Minds and Machines},
+	Keywords = {abduction, computational philosophy, distributed cognition, manipulative abduction, model-based reasoning, rationality, pragmatism},
+	Number = {14},
+	Pages = {507--537},
+	Publisher = {Kluwer Academic Publishers},
+	Title = {Conjectures and Manipulations. Computational Modeling and the Extra-Theoretical Dimension of Scientific Discovery},
+	Year = {2004}}
+
+@article{Maier1970,
+   Author = {Maier, C.S.},
+   Title = {Between {T}aylorism and Technocracy: European ideologies and the vision of industrial productivity in the 1920's},
+   Journal = {Journal of Contemporary History},
+   Volume = {5},
+   Pages = {54--55},
+      Year = {1970} }
+
+@article{MajchrzakCherbakovIves2009,
+	Author = {Ann Majchrzak and Luba Cherbakov and Blake Ives},
+	Title = {Harnessing the power of the crowds with corporate social networking tools: How {IBM} does it},
+	Year = {2009},
+	Month = {June},
+	Journal = {MISQ Executive},
+	Publisher  = {University of Minnesota},
+	Volume = {8},
+	Number = {2},
+	Pages = {103--108} }
+
+@book{Margolis2009,
+	Author = {Michael Margolis and Gerson Moreno-{Ria\~n{}o}},
+	Title = {The prospect of {I}nternet democracy},
+	Year = {2009},
+	Publisher = {Ashgate},
+	Address = {England} }
+
+@inbook{March1986,
+	Author = {James G. March},
+	Title = {Bounded Rationality, Ambiguity, and the Engineering of Choice},
+	BookTitle = {Rational Choice},
+	Editor = {Jon Elster},
+	Year = {1986},
+	Publisher = {Basil Blackwell},
+	Address = {Oxford},
+	Chapter = {6}}
+	
+@article{Martin2004,
+	Abstract = {Patterns of Cooperative Interaction are regularities in the organisation of work, activity, and interaction among participants, and with, through, and around artifacts. These patterns are organised around a framework and are inspired by how such regularities are highlighted in ethnomethodologically-informed ethnographic studies of work and technology. They comprise a high level description and two or more comparable examples drawn from specific studies. Our contention is that these patterns form a useful resource for reusing findings from previous field studies, for enabling analysis and considering design in new settings. Previous work on the relationship between ethnomethodology and design has been concerned primarily in providing presentation frameworks and mechanisms, practical advice, schematisations of the ethnomethodologist's role, different possibilities of input at different stages in development, and various conceptualisations of the relationship between study and design. In contrast, this article seeks to first discuss the position of patterns relative to emergent major topics of interest of these studies. Subsequently it seeks to describe the case for the collection of patterns based on findings, their comparison across studies and their general implications for design problems, rather than the concerns of practical and methodological interest outlined in the other work. Special attention is paid to our evaluations and to how they inform how the patterns collection may be read, used and contributed to, as well as to reflections on the composition of the collection as it has emerged. The paper finishes, first, with a discussion of how our work relates to other work on patterns, before some closing comments are made on the role of our patterns and ethnomethodology in systems design. },
+	Address = {1515 Broadway, New York, NY 10036 USA},
+	Author = {David Martin and Ian Sommerville},
+	Journal = {{ACM} Transactions on Computer-Human Interaction},
+	Keywords = {Design, Documentation, Human Factors, Patterns of cooperative interaction, ethnomethodology, work design, human-computer interaction},
+	Month = {March},
+	Number = {1},
+	Pages = {59--89},
+	Publisher = {Publications Dept., ACM, Inc},
+	Title = {Patterns of Cooperative Interaction: Linking Ethnomethodology and Design},
+	Volume = {11},
+	Year = {2004}}
+
+@article{Martin1965,
+	Abstract = {Examines the second-intentional logic of philosopher Charles Peirce regarding his philosophy of notation. Overview of the icons of algebra; Application of existential and universal quantifiers; Kind of higher-order quantifier in handling of identity; Principle of the existence of a special sum.},
+	Address = {601 North Morton Street, Bloomington Indiana},
+	Author = {Richard Martin},
+	Journal = {Transactions of the Charles S. Peirce Society},
+	Keywords = {algebra, existentialism, logic, Charles Peirce, pragmatism, philosophy},
+	Month = {Fall},
+	Number = {2},
+	Pages = {71--77},
+	Publisher = {Indiana University Press},
+	Title = {On {P}eirce's Icons of {S}econd {I}ntention},
+	Volume = {1},
+	Year = {1965}}
+
+@book{Marx1998,
+	Abstract = {Includes bibliographical references. ``The Communist Manifesto'', drafted on the eve of the 1848 revolutions, is a political text of literary interest and historical insight. It is presented here by Eric Hobsbawm who describes the century-and-a-half of history which has been both shaped and illuminated by the ``Manifesto''.},
+	Address = {London},
+	Author = {Karl Marx and Frederick Engels},
+	Keywords = {Communism,dialectical materialism},
+	Publisher = {Verso},
+	Title = {The {C}ommunist manifesto: a modern edition},
+	Year = {1998}}
+
+@incollection{Masaryk1971,
+	Author = {Thomas Garrigue Masaryk},
+	Title = {The ideals of humanity and how to work},
+	booktitle = {The {E}astern {E}urope {C}ollection},
+	Publisher = {Arno Press \&{} The New York Times},
+	OriginalPublisher = {George Allen \&{} Unwin},
+	Address = {New York},
+	OriginalAddress = {London},
+	Year = {1971},
+	OriginalYear = {1938},
+	Translator = {W. Preston Warren and Marie J. Kohn-Holo\v{c}ek and H.E. Kennedy} }
+
+@book{Maslow1954,
+	Author = {Abraham Maslow},
+	Title = {Motivation and Personality},
+	Edition = {3rd},
+	Publisher = {Harper and Row Publishers},
+	Year = {1954},
+	Address = {New York}}
+	
+@inproceedings{MassaWirth2006,
+	Author = {Heiko Massa-Wirth},
+	Title = {Institutionalism and Bargaining Power in Comparative {IR}},
+	bookTitle = {{XII.} \textsc{lera} Refereed Papers: Dispute Resolution, International And Comparative Industrial Relations, And Labor Unions And Studies},
+	conference = {Labor And Employment Relations Association Series Proceedings of the 58th Annual Meeting},
+	Year = {2006},
+	Publisher = {Labor And Employment Relations Association},
+	Address = {University of Illinois at Urbana-Champaign},
+	pages = {206--222},
+	url = {http://www.press.uillinois.edu /journals/irra/proceedings2006/massa-wirth.html},
+	LastChecked = {19 October, 2010}}
+	
+@misc{Mathews2010,
+	Author = {Rebecca Mathews},
+	Title = {The Social and Psychological Impact of Online Social Networking},
+	Year = {2010},
+	Month = {November},
+	Day = {15th},
+	type = {Research report},
+	LastChecked = {23 November, 2010},
+	url = {http://www.psychology.org.au/ Assets/Files/Social-and-Psychological-Impact-of-Socia l-Networking-Sites.pdf},
+	Publisher = {Australian Psychological Society},
+	Address = {Sydney}}
+	
+@inproceedings{Maximilien2007,
+	Title = {The Programmable Web: Agile, Social, and Grassroot Computing},
+	Author = {E. Michael Maximilien and Ajith Ranabahu},
+	BookTitle = {International Conference on Semantic Computing},
+	Publisher = {\textsc{ieee} Computer Society},
+	Address = {Irvine, California},
+	Year = {2007},
+	Month = {September},
+	Day = {17--19},
+	Type = {Conference Proceedings},
+	Pages = {477--481}}
+	
+
+@article{McGrath2005,
+	Abstract = {For more than 30 years, critical research in information systems (IS) has challenged the assumption that technology innovation is inherently desirable and hence to the benefit of all. Nevertheless, how researchers view the nature of being critical has changed over time, and so too have the ways that they pursue their critical agenda and argue for their contributions. In this paper, I present a brief historical account of critical IS research, tracing the theoretical perspectives that have been dominant at different times and the empirical efforts that were guided by them. As part of tracing our current position I examine two key texts authored by Chrisanthi Avgerou and Geoff Walsham, who pursue different types of critical agenda and make distinctive empirically based contributions concerning the substantive issue of global diversity in IS innovation and its consequences. Overall, I suggest that the IS field now accepts broad definitions of the nature of being critical, but despite having a body of empirical critical research from which to learn, we are not making the most of our opportunities to do so, which retards further development. While I do not seek to develop a prescription for conducting and evaluating critical research, or try to encourage lengthy confessional accounts of research conduct in all journal papers, I do argue that we need more explicit reflections about our sustained long-term efforts in the field. Such reflections might consider the way we develop our critical arguments and insights, and what we strive for and accomplish through our interventions. In effect, the IS field has not yet reached a position where the theory and practice of doing critical research are informing each other.},
+	Author = {Kathy McGrath},
+	Journal = {Information Systems Journal},
+	Keywords = {INFORMATION resources management, RESEARCH, TECHNOLOGY -- Social aspects, CRITICAL analysis},
+	Month = {April},
+	Number = {2},
+	Pages = {85--101},
+	Title = {Doing critical research in information systems: a case of theory and practice not informing each other},
+	Volume = {15},
+	Year = {2005}}
+	
+@book{McGregor1960,
+	Author = {D. McGregor},
+	Title = {The human side of enterprise},
+	Year = {1960},
+	Publisher = {McGraw Hill},
+	Address = {New York}}
+
+@article{McKeller2008,
+	Abstract = {The article offers information on hurdles faced by social computing networks. It is mentioned that with the increase in the popularity of Web 2.0, Enterprise 2.0, social computing is faced with a number of hurdles which includes, the possibility of information falling into the wrong hands due to lack of careful governance of user activity. },
+	Author = {Hugh McKellar},
+	ISSN = {10998284},
+	Journal = {KM World},
+	Keywords = {WEB sites, SOCIAL computing, WEB 2.0, ONLINE social networks, COMPUTER users},
+	Number = {4},
+	Pages = {1--30},
+	Title = {The hurdles facing social computing},
+	Volume = {17},
+	URL = {http://search.ebscohost.c om},
+	lastChecked = {16 April, 2008},
+	Year = {2008},
+	Month = {April} }
+	
+@article{McKellar2008a,
+	Abstract = {The article presents the author's comments on the Web 2.0 technology, which has become an integral part of business practice. It reflects that the new generation of professionals are going to be accustomed to working on Web 2.0 and are going to expect companies to provide them the technology. It informs that companies should not delay in incorporating Web 2.0 in business, as the technology will not get outdated anytime soon. },
+	Author = {Hugh McKellar},
+	ISSN = {10998284},
+	Journal = {KM World},
+	Keywords = {BUSINESS enterprises, PROFESSIONAL employees, WORLD Wide Web, EDITORIALS, WEB 2.0},
+	Pages = {18},
+	Title = {Web 2.0 here for good.},
+	Volume = {4},
+	URL = {http://search.ebsco host.com},
+	lastChecked = {16 April, 2008},
+	Year = {2008},
+	Month = {April} }	
+
+@book{McLuhan1962,
+	author = {Marshal McLuhan},
+	Title = {The {G}utenberg {G}alaxy: the making of typographic man},
+	year = {1962},
+	publisher = {University of Toronto Press},
+	address = {Toronto},
+	isbn = {978-0802060412}}
+	
+@book{Mead1934,
+	Author = {George Herbert Mead},
+	Title = {Mind, self and society},
+	Year = {1934},
+	Publisher = {University of Chicago Press},
+	Address = {Chicago}}
+	
+@techreport{MellGrance2009,
+	Author = {Peter Mell and Tim Grance},
+	Title = {The {NIST} definition of cloud computing},
+	Year = {2009},
+	Month = {October},
+	Day = {7},
+	url = {http://csrc.nist.gov},
+	lastChecked = {7 September, 2010},
+	Address = {Gaithersburg, MD},
+	Institution = {National Institute of Standards and Technology, Information Technology Laboratory},
+	Note = {Version 15} }
+	
+	
+@book{Mertens2005,
+   Author = {Mertens, D.M.},
+   Title = {Research methods in education and psychology: Integrating diversity with quantitative and qualitative approaches},
+   Publisher = {Sage},
+   Address = {Thousand Oaks},
+   Edition = {2nd},
+      Year = {2005} }
+
+@inbook{MetcalfGrant2001,
+	Address = {Herschy, Philadelphia},
+	Author = {Mike Metcalf and Samantha Grant},
+	Booktitle = {Managing Information Technology in a Global Economy},
+	Editor = {Mehdi Khosrow-Pour},
+	Keywords = {dialectical},
+	Pages = {19--22},
+	Publisher = {Idea Group Publishing},
+	Title = {{Ph.D.} Examiners: The Group Learning Argument},
+	Year = {2001}}
+
+@inbook{MetcalfGrant2002,
+	Address = {Hershey, PA, USA},
+	Author = {Mike Metcalf and Samantha Grant},
+	Booktitle = {Knowledge Mapping and Management},
+	Chapter = {21},
+	Date-Added = {2006-10-19 13:26:23 +1300},
+	Date-Modified = {2006-10-19 13:29:59 +1300},
+	Editor = {Don White},
+	Keywords = {dialectical},
+	Pages = {206--216},
+	Publisher = {Idea Group Publishing},
+	Title = {Argumentation and knowledge sharing},
+	Year = {2002},
+	OriginalYear = {2001},
+	OriginalEditor = {Mehdi Khosrow-Pour},
+	OriginalBookTitle = {Managing Information Technology in a Global Economy},
+	OriginalPublisher = {Idea Group Publishing},
+	OriginalAddress = {Hershey, PA, USA}}
+	
+
+@article{Milan2005,
+	Abstract = {Knowledge management is defined and compared to information management and the institutional research function. In order to promote learning, new tools such as learning histories are needed, mistakes must be valued, and dissatisfaction recognized as part of the learning process.},
+	Author = {John Milan},
+	Date-Added = {2006-10-19 11:09:42 +1300},
+	Date-Modified = {2006-10-19 11:13:57 +1300},
+	Journal = {New Directions for Higher Education},
+	Keywords = {knowledge management, information management, holism},
+	Month = {Fall},
+	Number = {131},
+	Pages = {61--73},
+	Title = {Organizational Learning Through Knowledge Workers and Infomediaries},
+	Year = {2005}}
+
+@misc{Mill1861,
+	Author = {John Stuart Mill},
+	Title = {Representative Government},
+	Publisher = {Constitution Society},
+	Year = {2005},
+	Month = {February},
+	Day = {25},
+	note = {Original work published 1861},
+	Address = {Austin, Texas},
+	url = {http:// www.constitution.org/jsm/rep\_{}gov.htm},
+	type = {Internet web page},
+	LastChecked = {14 October, 2010}}
+
+@book{Mill1963,
+	Author = {John Stuart Mill},
+	Title = {Essays on Politics and Culture},
+	Editor = {Gertrude Himmelfarb},
+	Publisher = {Anchor Books},
+	Year = {1963},
+	Address = {New York}}
+
+@book{Mill1965,
+	Author = {John Stuart Mill},
+	Title = {Collected Works},
+	Editor = {J.M. Robson},
+	Publisher = {University of Toronto Press},
+	Year = {1965},
+	Address = {Toronto}}
+		
+@article{Milojcic2007,
+	Title = {Trend Wars {W}eb 2.0 and Enterprise \textsc{it}},
+	Author = {Dejan Milojicic},
+	Journal = {\textsc{ieee} distributed systems online},
+	Year = {2007},
+	Month = {December},
+	Volume = {8},
+	Number = {12},
+	Publisher = {\textsc{ieee} Computer Society} }
+
+@inbook{Misak1999,
+         crossref = {Misak1999book},
+	abstract = {In philosophy as we now have it, there is rarely any mention of Sufficient Reason. But the idea is not altogether lost. The rational residue of this metaphysical idea is a certain methodological outlook, an outlook that finds its most perfect expression in what C. S. Peirce calls abduction. But neither the idea of abduction nor its pretensions to help us find the truth --- pretentsions I shall defend even to the point of claiming that Peirce answers the Humean challenge over induction --- can be properly understood otherwise than in the context of Peirce's theory of inquiry, reality and truth. So it is here, and with Peirce's theory of inquiry in particular, that we begin. It will take a considerable time to reach Hume.},
+	author = {David Wiggins},
+	pages = {9--30},
+	Title = {{C.}{S.} {P}eirce: Belief, Truth, and Going from the known to the unknown} }
+	
+@inbook{Misak1999a,
+         crossref = {Misak1999book},
+	abstract = {Every student of English-speaking analytical metaphysics is taught that the early twentieth century philosophical debate about truth confronted the correspondence theory, supported by Russell, Moore, the early Wittgenstein and, later J.L. Austin, with the coherence theory advocated by the British Idealists. Sometimes the pragmatist conception of truth deriving from Dewey, William James, and C.S. Peirce is regarded as a third player. And as befits a debate at the dawn of analytical philosophy, the matter in dispute is normally taken to have been the proper analysis of the concept.},
+	author = {Crispin Wright},
+	pages = {31--74},
+	Title = {Truth: A traditional debate reviewed} }
+
+@inbook{Misak1999b,
+         crossref = {Misak1999book},
+	abstract = {The idea of a double-aspect approach to a philosophical conundrum is familiar in metaphysics and the philosophy of mind and has been recently introduced as well into epistemology. As a class, double-aspect theories attempt, as it might be put, reconciliation by reorientation. Matter and mind, for double-aspect theorists, are not independent substances, whose co-presence in a single entity such as a human person might be deeply mysterious; they are different aspects of a single subsbntance --- a person in modest versions of the theory like Strawson's, the universe as a whole in Spinoza's more ambitious case.},
+	author = {Mark Migotti},
+	pages = {75--108},
+	Title = {Peirce's Double-aspect theory of truth} }
+	
+@inbook{Misak1999c,
+         crossref = {Misak1999book},
+	abstract = {Dewey's voluminous writings, spanning decades and reflecting the contrasting national moods of different historical periods, abound with tensions, not to say contradictions. In highlighting and working with a conflict within Dewey's commitments, then, I do not mean to be catching him out or correcting a mistake. The tension on which I focus is one with which he struggled for most of his philosophical career and one that he never satisfactorily resolved, yet it is also one that goes to the heart of what it is to be a pragmatist. It involves the role of final ends in a philosophy that places practical reasoning at the heart of all knowledge. I will argue that while Dewey had powerful philosophical prejudices that prevented him from adequately dealing with this problem himself, a solution is nonetheless forthcoming that maintains, and perhaps to even deepens, the main themes of his pragmatism. Setting out this solution will lead me, in the end, to a novel formulation of the pragmatist theory of truth.},
+	author = {Henry S. Richardson},
+	pages = {109--148},
+	Title = {Truth and ends in {D}ewey's pragmatism} }
+	
+@book{Misak1999book,
+	Address = {Calgary, Alberta, Canada},
+	title = {Pragmatism},
+	booktitle = {Pragmatism},
+	Editor = {Cheryl Misak},
+	Isbn = {0-919491-24-3},
+	keywords = {pragmatism, Peirce},
+	Publisher = {University of Calgary Press},
+	Year = {1999}}
+
+@article{MitchellZmud1999,
+   Author = {Mitchell, V.L. and Zmud, R.W.},
+   Title = {The Effects of Coupling {IT} and Work Process Strategy in Redesign Projects},
+   Journal = {Organization Science},
+   Volume = {10},
+   Number = {4},
+   Pages = {424--438},
+   Abstract = {Organizational adaptation to competition often means inventing or adopting a process innovation and the daunting challenge of implementing it. Increasingly, process innovations rely on the capabilities embedded in an organization's IT infrastructure. Successfully implementing an IT-enabled process innovation depends largely on how a project's IT and work process designs fit and evolve with this IT infrastructure. However, little empirical research guides the formulation of IT and work process strategies. This study addresses the question: How does the degree of coupling between a redesign project's IT strategy and work process strategy affect project performance? Data collection utilized a multistage research design employing comprehensive phone interviews and matched surveys among three sets of respondents (project managers, IT managers, and process users) across 43 process redesign projects in the health care industry. Our findings indicate project performance improves with tightly coupled IT and work process strategies when implementing process inventions, and with loosely coupled strategies when implementing imitations.},
+      Year = {1999} }
+
+
+@inproceedings{Mitev2000,
+	Abstract = {This article is based on an intensive case study, the implementation of a computerized reservation system (CRS) in a transport organization, and adopts a non-essentialist stance to analyze its failure aspects. Providing a rich description of micro-level, organizational,and macro-level events and techno-economic networks enabled us to depart from managerialist and technologist accounts of the failure. The analysis draws on constructivism and the sociology of technology, more specifically actor-network theory and the notions of symmetry and translation. An effort is made to combine elements of both the global and the local in identifying a series of translations occurring in the case study. To complement actor-network theory, a critical analysis is also necessary to examine how power relationships are creating disadvantage and can further explain failure. },
+	Address = {Atlanta, GA, USA},
+	Author = {Nathalie Mitev},
+	Booktitle = {{ICIS '00}: Proceedings of the twenty first international conference on Information systems},
+	Isbn = {ICIS2000-X},
+	Keywords = {Airline reservation systems, case study, critical perspective, cultural differences, IS project failures, power in organizations, pricing, strategic IS, transportation industry},
+	Location = {Brisbane, Queensland, Australia},
+	Pages = {84--93},
+	Publisher = {Association for Information Systems},
+	Title = {Toward social constructivist understandings of {IS} success and failure: Introducing a new computerized reservation system},
+	Year = {2000}}
+
+@article{mitroff1974,
+	Abstract = {we live in a society where the production and handling of information has become increasingly important. For this reason alone it behooves us to ask what the relation if any is between the structure of an organization and the kinds of information or policy analysis activities it typically is able to support. If we go a bit further and conceive of information in its broadest and most generic sense as the product of some basic process of inquiry, then the most general question we can ask is what the philosophy of science can contribute to the study of organizations, i.e., to the development of organization theory. The purpose of this article is to raise precisely this question.},
+	Author = {Ian I. Mitroff and Luois R. Pondy},
+	Date-Added = {2006-10-19 09:47:16 +1300},
+	Date-Modified = {2006-10-19 10:43:15 +1300},
+	Journal = {Public Administration Review},
+	Keywords = {holism, whole systems},
+	Month = {Sept--Oct},
+	Number = {5},
+	Pages = {471--479},
+	Title = {On the Organization of Inquiry: A comparison of some radically different approaches to policy analysis},
+	Volume = {34},
+	Year = {1974}}
+
+@inbook{Mortensen2006,
+	Author = {Chris Mortensen},
+	Title = {Change},
+	url = {http://plato.stanford.edu/entries/ change},
+	Type = {Internet web page},
+	LastChecked = {15 November, 2010},
+	Year = {2006},
+	OriginalYear = {2002},
+	Month = {December},
+	OriginalMonth = {December},
+	Day = {19th},
+	OriginalDay = {18th},
+	Publisher = {Stanford University},
+	Address = {Stanford, California},
+	booktitle = {The {S}tanford Encyclopedia of Philosophy}}
+
+@article{Muddiman1999,
+	Abstract = {Debates about the future of information and library education are often framed by assumptions about progress associated with a promised ``information society''. This paper presents an alternative perspective which characterises contemporary society as complex, fragmented and ``postmodern''. It suggests that conventional librarianship and information science are infused with ``modern'' concepts of enlightened social progress based on ``public knowledge'' and that they have thus found it difficult to adapt to such postmodern times. Information and library education has, as a result, become preoccupied with the ``management'' of information and knowledge and its associated technologies of performance maximisation. The paper argues that such a focus on information management needs to be balanced by new, reconceptualised information science curricula. Such curricula, it is claimed, need to be responsive to the flux and creative potential of the postmodern / networked age, but also underpinned by principles of humanism, empowerment and critical distance.},
+	Author = {Dave Muddiman},
+	Date-Added = {2006-10-19 10:22:47 +1300},
+	Date-Modified = {2006-10-19 11:19:29 +1300},
+	Journal = {Education for Information},
+	Keywords = {library education, postmodern, information management, Marxism},
+	Number = {17},
+	Pages = {1--19},
+	Title = {Towards a postmodern context for information and library education},
+	Year = {1999}}
+
+@inproceedings{Mumford2000,
+   Author = {Mumford, E.},
+   Title = {Socio-technical Design: An Unfulfilled Promise?},
+   Address= {Aalberg, Denmark},
+   Pages = {33--46},
+    editor    = {Richard Baskerville and Jan Stage and Janice I. DeGross},
+   BookTitle = {{IFIP} {W.G.8.2} {W}orking {C}onference 2000, {IS2000}: {T}he {S}ocial and {O}rganizational {P}erspective on {R}esearch and {P}ractice in {I}nformation {S}ystems},
+  publisher = {Kluwer},
+  series    = {IFIP Conference Proceedings},
+  volume    = {169},
+  day = {9--11},
+  month = {June},
+  year      = {2000},
+  isbn      = {0-7923-7836-9},
+  bibsource = {DBLP, http://dblp.uni-trier.de} }
+
+@book{MumfordWeir1979,
+   Author = {Mumford, E. and Weir, M.},
+   Title = {Computer systems in Work Design --- the \textsc{ethics} method},
+   Publisher = {John Wiley \& Sons},
+   Address = {New York},
+      Year = {1979} }
+      
+@book{Mumford1983,
+	Author = {Enid Mumford},
+	Title = {Designing human systems for new technology --- the \textsc{ethics} method},
+	Publisher = {Manchester Business School},
+	Address = {Manchester},
+	year = {1983}}
+      
+@article{Murphey1965,
+	Abstract = {Discusses the works of scholar Charles Peirce on metaphysics and cosmology. Writing style of Peirce; Analysis of Peirce's published work 'New List of Categories'; Information on the philosophical categories of Peirce.},
+	Address = {601 North Morton Street, Bloomington Indiana},
+	Author = {Murray Murphey},
+	Journal = {Transactions of the Charles S. Peirce Society},
+	Keywords = {cosmology, intellectuals, metaphysics, Charles Peirce, pragmatism, philosophy},
+	Month = {Spring},
+	Number = {1},
+	Pages = {12--26},
+	Publisher = {Indiana University Press},
+	Title = {On {P}eirce's Metaphysics},
+	Volume = {1},
+	Year = {1965}}
+	
+@article{Murugesan2007,
+	Author = {Murugesan, S.},
+	Year = {2007},
+	Title = {Business Uses of {Web} 2.0: Potential and Prospects},
+	Journal = {Business-IT Strategies Advisory Service},
+	Volume = {10},
+	Number = {1},
+	Pages = {1--28} }
+	
+% -N- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@book{Nietzsche1968,
+	Author = {Friedrich Nietzsche},
+	Title = {The Will to Power},
+	Publisher = {Vintage Books},
+	Address = {New York},
+	Year = {1968} }
+
+@book{Nietzsche1987,
+	Author = {Friedrich Nietzsche},
+	Title = {Thus spake {Z}arathustra: a book for all and none},
+	Translator = {Walter Kaufmann},
+	Publisher = {Penguin},
+	Address = {New York},
+	Year = {1978},
+	Originalyear = {1883--1885} }
+
+@inbook{Niles1823,
+	Author = {Hezekiah Niles},
+	Title = {Editorial},
+	Volume = {25},
+	Number = {641},
+	Address = {Baltimore},
+	Year = {1823},
+	Date = {27 December},
+	BookTitle = {Niles' Weekly Register},
+	Editor = {Hezekiah Niles and William Ogden Niles and Jeremiah Hughes and George Beatty},
+	Publisher = {William Ogden Niles, Franklin Press} }
+	
+	
+
+% -O- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@misc{Oreilly2005,
+	Author = {Tim O'Reilly},
+	Title = {What Is {Web} 2.0},
+	Type = {Internet Web page},
+	url = {http://oreilly.com/web2/archive/what-is-we b-20.html},
+	OriginalYear = {2005},
+	OriginalMonth = {September},
+	OriginalDay = {30},
+	Year = {2009},
+	Month = {October},
+	lastChecked = {7 September, 2010} }
+
+@article{Orlikowski2001,
+	Author = {Orlikowski, W.J. and Iacono, C.S.},
+	Year = {2001},
+	Month = {June},
+	Title = {Research Commentary: {D}esparately seeking the ``{IT}'' in {IT} research --- a call to theorizing the {IT} artifact?},
+	Journal = {Information Systems Research},
+	Volume = {12},
+	Number = {2},
+	Pages = {121--134} }
+
+@article{Osegowitsch2008,
+	Author = {Thomas Osegowitsch and Andr\'e{} Sammartino},
+	Title = {Reassessing (home-) regionalisation},
+	Journal = {Journal of International Business Studies},
+	Year = {2008},
+	Month = {January},
+	Day = {10},
+	Number = {39},
+	Pages = {184--196},
+	doi = {10.1057/palgrave.jibs.8400345},
+	url = {http://www.managementmarketing.unimelb.edu.au/mm\_{}uplo ads/WPROD\_{}Uploads/StaffAttachFile/12\_{}20090303\_{}C965D92 2.pdf}} 
+
+
+% -P- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@article{PanKuo2010,
+  author = {Jeh-Nan Pan,  Tzu-Chun Kuo},
+  Title = {Developing a new key performance index for measuring service quality},
+  Journal = {Industrial Management + Data Systems},
+  Publisher = {Wembley},
+  Year = {2010},
+  Volume = {110},
+  Number = {6},
+  Page = {823},
+  Abstract = {Purpose - The purpose of this research is to develop a new key performance index (KPI) and its interval estimation for measuring the service quality from customers' perceptions, since most service quality data follow non-normal distribution. Design/methodology/approach - Based on the non-normal process capability indices used in manufacturing industries, a new KPI suitable for measuring service quality is developed using Parasuraman's 5th Gap between customers' expectation and perception. Moreover, the confidence interval of the proposed KPI is established using the bootstrapping method. Findings - The quantitative method for measuring the service quality through the new KPI and its interval estimation is illustrated by a realistic example. The results show that the new KPI allows practising managers to evaluate the actual service quality level delivered within each of five SERVQUAL categories and prioritize the possible improvement projects from customers' perspectives. Moreover, compared with the traditional method of sample size determination, a substantial amount of cost savings can be expected by using the suggested sample sizes. Practical implications - The paper presents a structured approach of opportunity assessment for improving service quality from a strategic alignment perspective, particularly in the five dimensions: tangibles, reliability, responsiveness, assurance, and empathy. The new approach provides practising managers with a decision-making tool for measuring service quality, detecting problematic situations and selecting the most urgent improvement project. Once the existing service problems are identified and improvement projects are prioritized, it can lead to the direction of continuous improvement for any service industry. Originality/value - Given a managerial target on any desired service level as well as customers' perceptions and expectations, the new KPI could be applied to any non-normal service quality and other survey data. Thus, the corporate performance in terms of key factors of business success can also be measured by the new KPI, which may lead to managing complexities and enhancing sustainability in service industries.} }
+
+@article{Pasmore1985,
+   Author = {Pasmore, W.A.},
+   Title = {Social Science Transformer: the Socio-technical Perspective},
+   Journal = {Human Relations},
+   Volume = {1},
+   Number = {48},
+   Pages = {1--22},
+      Year = {1985} }
+
+@book{Pateman1970,
+	Author = {Carole Pateman},
+	Title = {Participation and Democratic Theory},
+	Year = {1970},
+	Publisher = {Cambridge University Press},
+	Address = {London} }
+
+@inproceedings{PatherRemenyi2004,
+	Abstract = {In response to the South African Journal of Computing's editorial of June 2003, this paper reviews some of the  philosophical issues underpinning academic research in Information Systems (IS). This is a reflective or theoretical paper, which considers a number of research paradigms and traditions and explores the relevance of Critical Realism as an appropriate metatheory for IS Research.  This is not intended to be in any way a definitive description of these research traditions. Rather it is hoped that the paper will stimulate a discussion about the use of three different paradigms, and in doing so respond to the call for IS researchers to be more aware of the research methodological options available to them. The 
+paper concludes by  proposing  that Critical Realism adds to the bouquet of philosophical choices available to the IS researcher, and that it is found to be an appropriate approach that transcends the critiques of both positivism and interpretivism.},
+	Author = {Shaun Pather and Dan Remenyi},
+	Booktitle = {Proceedings of {SAICSIT} 2004},
+	Keywords = {Research philosophy, reflection, multidisciplinary, transdisciplinary, critical realism, research, philosophy, Information Systems, research methodology, Marx, philosophy},
+	Location = {Cape Technikon},
+	Organization = {{SAICSIT}},
+	Pages = {141--146},
+	Publisher = {{ACM}},
+	Title = {Some of the Philosophical Issues Underpinning Research in Information Systems: From Positivism to Critical Realism},
+	Type = {Conference paper},
+	Year = {2004},
+	Address = {University of South Africa} }
+
+
+@book{Peirce1931,
+	address = {Cambridge},
+	author = {Charles Sanders Peirce},
+	editor = {Charles Hartshorne and Paul Weiss and Arthur Burks},
+	title = {The collected papers of {C}harles {S}anders {P}eirce},
+	keywords = {Peirce, pragmatism},
+	publisher = {Harvard University Press},
+	year = {1931--58} }
+	
+@book{Peirce1986,
+   Author = {Charles Sanders Peirce},
+   Editor = {Kloesel, C.},
+   Title = {The Writings of Charles S. Peirce},
+   Publisher = {Indiana University Press},
+   Address = {Bloomington, Indiana},
+   Volume = {3},
+   Year = {1986} }
+
+	
+@inbook{Peirce1992a,
+	crossref = {Peirce1992},
+	originalyear = {1878},
+	title = {How to make our ideas clear}  }
+
+@inbook{Peirce1992b,
+	crossref = {Peirce1998},
+	title = {What {P}ragmatism is} }
+
+
+@book{Peirce1992,
+           Abstract = {Interest in Peirce has grown enormously in recent years, and estimates of his significance as a thinker continue to run high. His work in logic, algebraical and graphical, has come to be regarded as substantial both for its historical impact and its enduring importance for research. Hilary Putnam expressed his surprise upon discovering "how much that is quite familiar in modern logic actually became known to the logical world through the efforts of Peirce and his students," (4) and W. V. Quine dates modern logic from "the emergence of general quantification theory at the hands of Frege and Peirce." (5) More recently, John Sowa has demonstrated how Peirce's graphical system of logic (his existential graphs) improves on other logics for the representation of discourse, and the study of language generally, and he has used the existential graphs as the logical foundation for his own conceptual graphs, "which combine Peirce's logic with research on semantic networks in artificial intelligence and computational linguistics." (6) In philosophy more generally, Peirce's work has been the focus of a considerable resurgence of interest throughout the world. This is demonstrated by the growing number of books and articles about Peirce, by increasing references to his ideas, and by the testimony of respected philosophers like Karl Popper, who regards Peirce as "one of the greatest philosophers of all time." (7) Finally, in the rapidly growing field of study known as semiotics, Peirce is universally acknowledged as one of the founders, even the founder, and his theory of signs is among the most frequently studied and systematically examined of all foundational theories. The importance of semiotics for all disciplines that deal crucially with representation (among them epistemology, linguistics, anthropology, and cognitive science, and probably all the fine arts) is only beginning to be recognized. In his 1989 Jefferson Lecture, Walker Percy argued that modern science is radically incoherent??"not when it seeks to understand things and subhuman organisms and the cosmos itself, but when it seeks to understand man, not man's physiology or neurology or his bloodstream, but man qua man, man when he is peculiarly human" --- but that, with his theory of signs, Peirce laid the groundwork for a coherent science of man that is yet to be worked out.(8)},
+	address = {Bloomington},
+	author = {Charles Sanders Peirce},
+         Editor = {Houser, Nathan and Kloesel, Christian},
+	booktitle = {The {E}ssential {P}eirce: Selected philosophical writings (1867--1893)},
+	title = {The {E}ssential {P}eirce: Selected philosophical writings (1867--1893)},
+	keywords = {Peirce,pragmatism},
+	publisher = {Indiana University Press},
+	volume = {1},
+	year = {1992--98} }
+	
+@book{Peirce1998,
+	address = {Bloomington},
+	author = {Charles Sanders Peirce},
+         Editor = {Nathan Houser and Jonathan R. Eller and Albert C. Lewis and Andre De Tienne and Cathy L. Clark and D. Bront Davis and {Peirce Edition Project}},
+	booktitle = {The {E}ssential {P}eirce: Selected philosophical writings (1893--1913)},
+	title = {The {E}ssential {P}eirce: Selected philosophical writings (1893--1913)},
+	keywords = {Peirce,pragmatism},
+	publisher = {Indiana University Press},
+	volume = {2},
+	month = {April},
+	year = {1998} }
+
+@book{Popper1962,
+	Address = {London},
+	Author = {Karl Raimund Popper},
+	Edition = {4th},
+	Keywords = {Philosophy, Social sciences??Philosophy},
+	Publisher = {Routledge \& Kegan Paul},
+	Series = {The open society and its enemies},
+	Title = {The High tide of prophecy: {H}egel, {M}arx, and the aftermath},
+	Volume = {II},
+	Year = {1962}}
+
+@book{Popper1972,
+	Author = {Karl Raimund Popper},
+	Year = {1972},
+	Title = {Objective knowledge},
+	Address = {Oxford},
+	Publisher = {Oxford University Press} }
+
+@book{Popper1989,
+	Address = {London},
+	Author = {Karl Raimund Popper},
+	Edition = {5th},
+	Keywords = {Methodology, Theory of Knowledge, Theory of Science Methodology, Prediction (Logic)},
+	Publisher = {Routledge},
+	Title = {Conjectures and refutations: the growth of scientific knowledge},
+	Year = {1989}}
+
+@book{Popper1992,
+	Address = {London},
+	Author = {Karl Raimund Popper},
+	Keywords = {Methodology, Theory of Knowledge, Theory of Science Methodology, Prediction (Logic)},
+	Publisher = {Routledge},
+	Title = {The logic of scientific discovery},
+	Year = {1992}}
+
+@article{Potter1966,
+	Abstract = {Discusses issues related to Charles Peirce's analysis of normative science. Connection between Peirce's form of pragmatism and the normative sciences; Analysis of Peirce's earliest presentations of the divisions of normative science and their inter-relation in his book 'Minute Logic'; Relation of ethics to logic; Discussion on esthetics.},
+	Address = {601 North Morton Street, Bloomington Indiana},
+	Author = {Potter, S.J. and Vincent, G.},
+	Journal = {Transactions of the Charles S. Peirce Society},
+	Keywords = {ethics, logic, science, Charles Peirce, pragmatism, philosophy},
+	Month = {Spring},
+	Number = {1},
+	Pages = {5--34},
+	Publisher = {Indiana University Press},
+	Title = {Peirce's Analysis of {N}ormative {S}cience},
+	Volume = {2},
+	Year = {1966}}
+	
+@inproceedings{Prichard1999,
+	Author = {Craig Prichard},
+	Title = {Identity work --- moving the `theory of the subject' from `division' to `depth' in critical organizational analysis},
+	booktitle = {Proceedings of the Critical Management Studies Conference 1999},
+	Conference = {Organizational Analysis Stream, Critical Management Studies 
+Conference},
+	Publisher = {Manchester School of Management},
+	Address = {UMIST},
+	Year = {1999},
+	Month = {July},
+	Day = {14--16},
+	url = {http://www.mngt. waikato.ac.nz/ejrot/cmsconference/proceedings.htm},
+	LastChecked = {19 October, 2010}}
+	
+
+@inproceedings{ProperVerrijnStuartHoppenbrouwers2005,
+	Abstract = {In this position paper we are concerned with the principles underlying the utility of modelling concepts, in particular in the context of architecture modelling. First, some basic concepts are discussed, in particular the relation between information, language, and modelling. Our primary area of application is the modelling of enterprise architectures and information system architectures, where the selection of the concepts used to model different aspects very much depends on the specific concerns that need to be addressed. We present an approach to utility-based concept selection. Our approach is illustrated by a brief review of the relevant aspects of two existing frameworks for modelling of (software intensive) information systems and their architectures. We finish this paper by a discussion of our future research directions in this field.},
+	Address = {Newcastle, Australia.},
+	Author = {H.A. Proper and A.A. Verrijn-Stuart and S.J.B.A. Hoppenbrouwers},
+	Booktitle = {Conferences in Research and Practice in Information Technology},
+	Editor = {Sven Hartmann and Markus Stumptner},
+	Keywords = {Modelling concepts, Modelling languages, Architecture modelling},
+	Organization = {The Second Asia-Pacific Conference on Conceptual Modelling ({APCCM2005})},
+	Publisher = {Australian Computer Society, Inc.},
+	Title = {On Utility-based Selection of Architecture-Modelling Concepts},
+	Type = {Conference paper},
+	Volume = {43},
+	Year = {2005}}
+	
+@book{Prus1996,
+   Author = {Prus, R.},
+   Title = {Symbolic {I}nteractionism and Ethnographic Research},
+   Publisher = {State University of New York Press},
+   Address = {Albany},
+   Year = {1996} }
+      
+% -Q- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@inbook{Quine1953,
+	address = {Cambridge},
+	author = {Willard {Van Orman} Quine},
+	booktitle = {From a logical point of view: Nine logico-philosophical essays},
+	publisher = {Harvard University Press},
+	title = {Two dogma's of empiricism},
+	year = {1953} }
+
+@book{Quine1960,
+	Address = {New York},
+	Author = {Willard {Van Orman} Quine},
+	keywords = {pragmatism, holism, language},
+	Publisher = {The Technology Press of MIT and John Wiley and Sons},
+	Title = {Word and Object},
+	Year = {1960}}
+	
+@book{Quine1982,
+	Title = {Methods of logic},
+	Author = {Willard {Van Orman} Quine},
+	Year = {1982},
+	Publisher = {Harvard University Press},
+	Address = {Cambridge, Massachusetts}}
+
+@book{Quine2004,
+	Abstract = {Quintessence for the first time collects Quine's classic essays (such as ``Two Dogmas'' and ``On What There Is'') in one volume - and thus offers readers a much-needed introduction to his general philosophy. Divided into five parts, the twenty-five selections take up analyticity and reductionism; the indeterminacy of translation of theoretical sentences and the inscrutability of reference; ontology; naturalized epistemology; philosophy of mind; and extensionalism. Representative of Quine at his best, these readings are fundamental not only to an appreciation of the philosopher and his work, but also to an understanding of the philosophical tradition that he so materially advanced.},
+	Address = {Cambridge, Massachusetts, USA},
+	Author = {Willard {Van Orman} Quine},
+	Editor = {Roger F. {Gibson, Jr.}},
+	Isbn = {0674010485},
+	keywords = {pragmatism, holism, language},
+	Publisher = {Belknap Press of Harvard University Press},
+	Title = {Quintessence: basic readings from the philosophy of {W.}{V.} {Q}uine},
+	Year = {2004}}
+
+% -R- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@inbook{Raine2002,
+	Address = {Herschey, Philadelphia},
+	Author = {Peter Raine},
+	Booktitle = {Internet Management Issues: A Global Perspective},
+	Chapter = {11},
+	Date-Added = {2006-10-19 12:59:38 +1300},
+	Date-Modified = {2006-10-19 13:33:38 +1300},
+	Editor = {John D. Haynes},
+	Keywords = {dialectical},
+	Pages = {178--193},
+	Publisher = {Idea Group Publishing},
+	Title = {The {I}nternet: Intercultural communication and the idea of sustainability},
+	Year = {2002}}
+
+@article{Rahwan2007,
+	Title = {Mass argumentation and the semantic web},
+	Author = {Iyad Rahwan},
+	Journal = {Journal of Web Semantics: Science, Services and Agents on the World Wide Web},
+	Year = {2008},
+	Month = {February},
+	Volume = {6},
+	Number = {1},
+	Pages = {29--37} }
+	
+	
+@article{Ram2005,
+   Author = {Praby Ram},
+   Title = {{SOA} for Healthcare Payers},
+   Journal = {Align Journal},
+   Month = {1 February},
+      Year = {2005} }
+      
+ @inproceedings{Rasmussen1992,
+ 	Author = {Jens Rasmussen},
+	Title = {A taxonomy for analysis of cognitive work},
+	Year = {1992},
+	bookTitle = {{IEEE} Fifth Conference on Human Factors and Power Plants},
+	Publisher = {IEEE},
+	Address = {Monterrey, CA, USA},
+	Pages = {41-50} }
+      
+@article{Raza2006,
+	Abstract = {Purpose -- The purpose of this article is to provide a theoretical critique of the concept of the knowledge-based development. \\
+Design/methodology/approach -- A cross-disciplinary critique is discussed. \\
+Findings -- Provides cross-disciplinary analysis and critique of the concept of the knowledge-based development. \\
+Originality/value -- This paper provides a deeper analysis of the knowledge-based development and proposes a broadening of the current paradigm on the economic development by integrating psychological and anthropological points-of-view.},
+	Author = {Ahmad Raza and A. Rashid Kausar and David Paul},
+	Date-Added = {2006-10-19 11:14:29 +1300},
+	Date-Modified = {2006-10-19 11:18:43 +1300},
+	Journal = {Journal of Knowledge Management},
+	Keywords = {Marxism, Design and development, Culture (sociology), Cognition},
+	Number = {5},
+	Pages = {137--145},
+	Title = {Culture, cognition and knowledge-based development},
+	Volume = {10},
+	Year = {2006}}
+	
+@inproceedings{Richardson2004,
+	title = {Approximate ontology merging for the semantic Web},
+	booktitle = {{NAFIPS} 2004. 2004 {A}nnual {M}eeting of the {N}orth {A}merican {F}uzzy {I}nformation {P}rocessing {S}ociety},
+	author = {B. Richardson and L.J. Mazlack},
+	volume = {2},
+	year = {2004},
+	pages = {641 - 6},
+	address = {Piscataway, NJ, USA},
+	Publisher = {IEEE},
+	abstract = {The semantic Web is the next step in the Internet's evolution. In order to facilitate autonomous information retrieval, it is necessary to create a standard framework for the semantic Web. The existing Web contains a considerable amount of data. It is an alluring target for data mining. Most of the data stored on Web pages is weakly structured. Mining or otherwise accessing the data in context from multiple sites is difficult; particularly when others construct the Web pages and their internal structure is not clearly understood. A standard way of viewing and organizing data into an ontology is essential for sharing data and interoperability between Web sites. A semantic Web standard has evolved through extensive iteration and was approved in late 2003. Fully autonomous or semi-autonomous discovery and development of ontologies is the only feasible way to transition to the semantic Web. One enabling strategy is to merge existing, vetted ontologies into a single ontology. The pre-merged ontologies would likely be similar in some respects and distinct in others. This paper discusses how to possibly merge multiple ontologies into a single viable ontology. It seeks an effective way to merge ontologies without losing any information (and possibly gaining some information in the process). When comparing ontologies, a similarity measure would be necessary. The measure would be used to measure the similarity two existing ontologies. This similarity measure is necessarily imprecise},
+	keywords = {data mining;information retrieval;knowledge representation;open systems;semantic Web;ontology merging;semantic Web;Internet;autonomous information retrieval;data mining;interoperability;data sharing;}} 
+
+
+
+	
+@book{Rice1958,
+	Author = {A. Rice},
+	Title = {Productivity and social organisation: {T}he {A}hmedabad experiment},
+	Year = {1958},
+	Publisher = {Tavistock},
+	Address = {London} }
+
+@book{Ricardo1821,
+	Author = {David Ricardo},
+	Title = {On the Principles of Political Economy and Taxation},
+	OriginalYear = {1821},
+	OriginalPublisher = {John Murray},
+	OriginalAddress = {London},
+	Edition = {3rd},
+	Year = {1999},
+	publisher = {Library of Economics and Liberty},
+	address = {Indianapolis, IN},
+	url = {http://www.econlib.org/library/Ricardo/ricP.html},
+	lastchecked = {19 August, 2011}}
+	
+
+@article{Rosie2000,
+	Abstract = {The advantages of deep learning over surface learning are well known. This article suggests that students can achieve deep learning effectively by using a dialectical approach. The Web provides a means of developing resources that will enable this goal to be achieved in a variety of ways. For part-time students lack of access and lack of tutor involvement in their work are common problems. The discussion in this article illustrates how a group of part-time postgraduate students achieved such goals in a social theory course. The article shows how dialectical thinking can operate and suggests ways by which larger groups of undergraduate students can benefit from such developments.},
+	Author = {Anthony Rosie},
+	Date-Added = {2006-10-19 10:14:37 +1300},
+	Date-Modified = {2006-10-19 10:22:09 +1300},
+	Journal = {Active learning in higher education},
+	Keywords = {dialectical, learning style, online, tutoring},
+	Number = {1},
+	Pages = {45--49},
+	Title = {`Deep learning' A dialectical approach drawing on tutor-led `Web resources': A dialectical approach drawing on tutor-led web resources},
+	Volume = {1},
+	Year = {2000}}
+
+@book{Rousseau1968,
+	Author = {Jacques Rousseau},
+	Title = {The social contract},
+	Translator = {Michael Cranston},
+	Year = {1968},
+	OriginalYear = {1762},
+	Publisher = {Penguin books},
+	Address = {London}}
+
+@article{Rowe2006,
+	Institution = {The Institution of Engineering and Technology},
+	title = {The impact of {W}eb 2.0 on enterprise strategy},
+	journal = {Cutter IT Journal},
+	author = {Rowe, D. and Drew, C.},
+	volume = {19},
+	number = {10},
+	year = {2006},
+	Month = {October},
+	pages = {6--13},
+	abstract = {In this article, we consider the key Web 2.0 trends within the Internet environment, within the enterprise, and within the commercial environment. We then explore the process of assessing enterprise capabilities and resources with a view to understanding how an enterprise can take advantage of emerging opportunities},
+	keywords = {business data processing;Internet;Web 2.0;enterprise strategy;Internet environment;commercial environment;}} 
+	
+	
+@inproceedings{RyanBock1991,
+	Author = {Ryan, T.F. and Bock, D.B.},
+	Title = {Measurement of {W}ork {S}ystems flexibility as an outcome variable for studies of emerging technologies in \textsc{mis} research},
+	Booktitle = {Proceedings of the 24th {A}nnual {H}awaii {I}nternational {C}onference on {S}ystem {S}ciences},
+	Address = {Hawaii, US},
+	Publisher = {IEEE},
+	Year = {1991},
+	Month = {January},
+	Day = {8--11},
+	Pages = {493--500},
+	Volume = {iv} }
+
+@book{Ryle1979,
+	Author = {Gilbert Ryle},
+	Year = {1979},
+	Title = {The concept of mind},
+	Address = {Harmondsworth},
+	Publisher = {Penguin Books}}
+% -S- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@phdthesis{Santos2009,
+	Author = {Marc Santos},
+	Title = {Toward another rhetoric: {W}eb 2.0, Levinas, and taking responsibility for response ability},
+	Type = {Ph.D. dissertation},
+	Institution = {Purdue University},
+	Address = {Indiana, United States},
+	Abstract = {This dissertation explores the relationship between public considerations of the impact of contemporary dynamic technologies and the metaphysical ethics of Emmanuel Levinas. Both share an interest in interactivity, plurality, transience, and risk. This shared interest rejects the fundamental values of literacy and print identified by media theorists such as Walter J Ong, Eric Havelock, and Marshall McLuhan--autonomy, singularity, permanence, and security. The values of these mediums deeply impacted the development of Platonic Idealism and the Modern Enlightenment. My concluding argument suggests that, in the wake of these new mediums, the discipline of rhetoric and composition, in addition to the entire research University that houses it, should pay attention to how digital communities such as Wikipedia balance the Modern desire for ontological knowledge alongside the postmodern and digital emphasis on ethics. Such a balancing suggests that the primary values of literacy and print, and the institutions they helped to engender, are not ideally suited for a digital world.} }
+
+	
+@book{Sawtell968,
+	Author = {R. Sawtell},
+	Title = {Sharing our industrial future?},
+	Year = {1968},
+	Publisher = {The Industrial Society},
+	Address = {London}}
+
+@misc{Schenberger2011,
+	Author = {Scott Schneberger and Mike Wade},
+	Type = {Internet web site},
+	year = {2010},
+	date = {30 December},
+	lastChecked = {18 May, 2011},
+	url = {http://www.fsc.yorku.ca/york/istheory/wiki/index.php},
+	Title = {Theories Used in \IS{} Research Wiki},
+	Publisher = {York University},
+	Address = {Toronto}}
+	
+@article{Schroeder2007,
+	Author = {Steven Schroeder},
+	Type = {Book review},
+	Title = {Review of the book: {\APACcitebtitle{A Philosophy of Culture: The Scope of Holistic Pragmatism}}, by {M}orton {W}hite},
+	Journal = {Essays in Philosophy},
+	Volume = {8},
+	Number = {1},
+	Month = {January},
+	Year = {2007},
+	lastChecked = {7 May, 2008},
+	url = {http://www.humboldt.edu/} }
+	
+@book{Schumpeter1943,
+	Author = {Joseph Schumpeter},
+	Title = {Capitalism, Socialism and Democracy},
+	Year = {1943},
+	Publisher = {George, Allen \&{} Unwin},
+	Address = {London} }
+
+@article{Shiumazu2007,
+	Author = {Hideo Shimazu and Shinichi Koike},
+	Title = {{KM}2.0: Business Knowledge Sharing in the {W}eb 2.0 Age},	Journal = {{NEC} Technical Journal},
+	Year = {2007},
+	Month = {November},
+	Volume = {2},
+	Number = {2},
+	Pages = {50--54} }
+
+@article{Sitter1997,
+	Author = {L.U. Sitter and J.F. Hertog and B. Dankbaar},
+	Title = {From complex organizations with simple jobs to simple organizations with complex jobs},
+	Year = {1997},
+	Journal = {Human Relations},
+	Volume = {50},
+	Number = {5},
+	Pages = {497--536},
+	Publisher = {Sage},
+	Address = {London} }
+	
+@book{Smith1937,
+	Author = {Adam Smith},
+	Title = {An Inquiry into the Nature and Causes of The Wealth of Nations},
+	OriginalYear = {1776},
+	Type = {Reprint},
+	Address = {New York},
+	Publisher = {Modern Library},
+	Year = {1937}}
+	
+@misc{Smith2004,
+	Author = {Gene Smith},
+	Title = {Folksonomy: social classification},
+	HowPublished = {An article in Atomiq: A Weblog by Gene Smith},
+	Year = {2004},
+	Month = {August},
+	Day = {3},
+	url = {http://atomiq.org/archives/2004/08/folksonomy\textunderscore{}social\textunderscore{} classification.html},
+	lastChecked ={22 April, 2008},
+	Type = {Internet web page} }
+	
+@article{SmithMcKeen2008,
+	Author = {Heather A. Smith and James D. McKeen},
+	Title = {Creating a process-centric organization at {FCC}: \textsc{soa} from the top down},
+	Year = {2008},
+	Month = {June},
+	Journal = {MISQ Executive},
+	Publisher  = {University of Minnesota},
+	Volume = {7},
+	Number = {2},
+	Pages = {71--84} }
+
+
+@misc{Census2006,
+	Author = {{Statistics \NZ{}}},
+	Title = {Occupation ({NZSCO99} V1.0) for the employed census usually resident population count aged 15 years and over, 2006 (revised 28 {F}ebruary 2007)},
+	Year = {2008},
+	Day = {28 February},
+	Publisher = {Statistics \NZ{}},
+	lastchecked = {10 March, 2008},
+	url = {http://www.stats .govt.nz/},
+	Address = {Wellington, \NZ{}},
+	Type = {Internet web page} }
+	
+@article{Steins2008,
+	Abstract = {The article reports on the use of the Web 2.0 technologies for central planning. It is said that creativity and connectivity are the most important elements of Web 2.0 technologies and it envisions the Internet as a participatory Web with applications that allows to create and publish their own content. According to Robert Goodspeed who cofounded Rethink College Park, a planning advocacy site, Web 2.0 is a powerful set of tools for planners to communicate with people. Blogs offer ready-made templates for planners to post all manner of information without writing a single line of code. },
+	Author = {Chris Steins and Josh Stephens},
+	ISSN = {00012610},
+	Journal = {Planning},
+	Keywords = {WORLD Wide Web, PLANNERS, CENTRAL planning, WIDE area networks (Computer networks), INTERNET, WEB 2.0, COMPUTER simulation, BLOGS, GOODSPEED, Robert},
+	Number = {4},
+	Pages = {32--37},
+	Title = {Building Cities in the Virtual World.},
+	Volume = {74},
+	URL = {http://search.ebsco host.com},
+	Year = {2008},
+	Month = {April},
+	lastChecked = {16 April, 2008} }
+	
+@book{Stirner1845,
+	Author = {Max Stirner},
+	Title = {The Ego and its own},
+	Publisher = {Benjamin R. Tucker},
+	Translator = {Steven T. Bynington},
+	Address = {New York},
+	Year = {1907},
+	OriginalYear = {1845},
+	url = {http://www.nonserviam.com/egoist archive/stirner/TheEgo.pdf},
+	DateChecked = {8 November, 2010}}
+
+@book{Strauss2000,
+	Author = {W. Strauss and N. Howe},
+	Year = {2000},
+	Title = {Millennials rising: The next great generation},
+	Address = {New York},
+	Publisher = {Vintage Books}}
+
+
+@book{Strawson1959,
+	Author = {Peter Frederick Strawson},
+	Year = {1959},
+	Title = {Individuals},
+	Address = {London},
+	Publisher = {Methuen}}
+	
+@article{SumnerRyan1994,
+   Author = {Mary Sumner and Terence Ryan},
+   Title = {The Impact of \textsc{case}: Can It Achieve critical success factors?},
+   Journal = {Journal of Systems Management},
+   Volume = {45},
+   Number = {6},
+   Pages = {16--21},
+   Abstract = {Computer-assisted software engineering (CASE) is viewed as a strategy to reduce development time, to cut maintenance costs, and to improve the discipline of information systems development. Yet, even with its many benefits, most organizations have found it difficult to implement CASE. Some of the obstacles to introducing CASE are cost, resistance by systems developers, and unacceptable learning curves. Two questions are examined: 1. What are the critical success factors in information systems analysis and design? 2. Do CASE tools support these critical success factors? The findings illustrate a discontinuity between the use of CASE and the achievement of critical success factors in systems development. It is found that for CASE to be effective, an organization may need to view information systems development as a work system.},
+      Year = {1994} }
+      
+      
+@article{Sundin2005,
+	Abstract = {Purpose -- To show that the neo-pragmatist position of Richard Rorty, when combined with a sociocultural perspective, provides library and information science (LIS) with a forceful epistemological tool. \\
+Design/methodology/approach -- Literature-based conceptual analysis of: historical development of pragmatism in relation to other epistemological positions; neo-pragmatism as a non-dualist, both purpose and communication oriented, epistemology; and a sociocultural perspective within pedagogy, originated from the Russian researcher Lev Vygotsky. \\
+Findings -- Brought together, a neo-pragmatist, sociocultural perspective contributes to a focus on people's actions through the use of linguistic and physical tools. As a tangible example of how neo-pragmatism can be applied as an epistemological tool within LIS, information seeking seen as communicative participation is discussed. This article unites a perspective on information seeking as communicative participation with the neo-pragmatist concepts of ``tools'' and ``communities of justification''. The article is concluded by an assessment of neo-pragmatism as an epistemological position within LIS, including those research issues that arise from this position and that are introduced along the way. \\
+Practical implications -- In its focus on usability, the neo-pragmatist position provides a possible bridge between academic and other professional practices in the field of LIS. \\
+Originality/value -- Provides, through the means of neo-pragmatism, an argument for the necessity of epistemological argumentation within LIS.},
+	Author = {Olof Sundin and Jenny Johannisson},
+	Date-Added = {2006-10-19 11:34:41 +1300},
+	Date-Modified = {2006-10-19 11:37:02 +1300},
+	Journal = {Journal of Documentation},
+	Keywords = {Pragmatism, information science},
+	Number = {1},
+	Pages = {23--43},
+	Title = {Pragmatism, neo-pragmatism and sociocultural theory: Communicative participation as a perspective in {LIS}},
+	Volume = {61},
+	Year = {2005}}
+
+
+@inproceedings{Sur2007,
+	Title = {\textsc{soa} based Context Aware Services Infrastructure},
+	Author = {Abhijit Sur and Ali Arsanjani and Sri Ramanthan},
+	BookTitle = {2007 \textsc{ieee} International Conference on Services Computing},
+	Year  = {2007},
+	Month = {July},
+	Day = {9--13},
+	Address = {Salt Lake City, Utah},
+	Pages = {688--689},
+	Publisher = {\textsc{ieee} Computer Society},
+	Type = {Conference proceedings}}
+	
+@article{Sutcliffe2000,
+ 	 author = {Alistair G. Sutcliffe},
+	 title = {Requirements analysis for socio-technical system design},
+	 journal = {Inf. Syst.},
+	 volume = {25},
+	 number = {3},
+	 year = {2000},
+	 issn = {03baum06-4379},
+	 pages = {213--233},
+	 doi = {http://dx.doi.org/10.1016/S0306-4379(00)00016-8},
+	 publisher = {Elsevier Science Ltd.},
+	 address = {Oxford, UK} }
+	 
+@article{Sutter2009,
+	Author = {Jim Sutter},
+	Title = {Tutorial: Introduction to {Web} 2.0},
+	Year = {2009},
+	Month = {November},
+	Journal = {Communications of the Association for Information Systems},
+	Volume = {25},
+	Number = {40},
+	Pages = {511--518},
+	Abstract = {This tutorial outlines major changes in the Internet that enable the world wide web to become more interactive and participative. These changes led to new capabilities such as weblogs (blogs), wikis, social networking sites, and application mashups. Millions of individuals became active users of these facilities. Increasingly, companies are finding ways to monetize these features.},
+	Keywords = {Web 2.0, blog, wiki, social networking, mashups} }
+	
+@article{Swisher2007,
+	Abstract = {This paper examines the fundamental shift occurring within multimedia asset management and Digital Asset Management solutions, a shift that has been ignited by Web 2.0 and its core principles; community-driven adaptive technologies that converge media, metadata, users, and tools  ?  all via the web. This paper explores how the social networks and technology, which are driving the Web 2.0 phenomena, are expanding user adoption at alarming rates, drastically increasing re-use of licensed and unlicensed assets, as well as emphasizing a need for greater and more scalable governance of intellectual property and business rules for managing user generated content.},
+	Author = {Peter Simeon Swisher},
+	title = {The managed web: A look at the impact of {W}eb 2.0 on media asset management for the enterprise},
+	Journal ={Journal of Digital Asset Management},
+	Year = {2007},
+	Volume = {3},
+	Number ={1},
+	Pages = {32--42} }     
+
+% -T- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+@book{Tannenbaum1952,
+	Author = {Frank Tannenbaum},
+	Title = {A philosophy of labor},
+	Publisher = {Alfred A. Knopf},
+	Address = {New York},
+	Year = {1952} }
+
+@book{TapscottWilliams2006,
+	Author = {Don Tapscott and Anthony Williams},
+	Title = {Wikinomics: How Mass Collaboration Changes Everything},
+	Publisher = {Portfolio},
+	Address = {},
+	Year = {2006} }
+
+@misc{Taylor1911,
+   Author = {W.F. Taylor},
+   Title = {The principles of {S}cientific {M}anagement},
+   url = {http://socserv.mcmaster.ca/econ/ugcm/3ll3/taylor/ sciman},
+   lastChecked = {14 June, 2007},
+   Year = {1911} }
+   
+@article{Tenenbaum2006,
+	Author = {Jay Tenenbaum},
+	Title ={\textsc{ai} meets {W}eb 2.0: Building the web of tomorrow today},
+	Year = {2006},
+	Month = {Winter},
+	Journal = {\textsc{ai} Magazine},
+	Pages = {47--68} }
+	
+         
+@article{Tiller2006,
+	Abstract = {Santayana's materialism is often the target of attack by critics past and present that are sympathetic to pragmatism. A common theme found in the objections of Santayana's critics is that matter is ``unknowable''. After briefly out-lining Santayana's materialism and discussing his relationship to the pragmatist movement, four formulations of the ``unknowable'' objection are presented: (1) Matter is unknowable because it is not given in experience, (2) Matter is unknowable because its true nature cannot be revealed in perception, (3) Matter is unknowable because it has no properties, (4) Matter is unknowable because existence is a surd. It is argued that these objections are based in part on persistent misunderstandings of Santayana's materialism and that some of the more controversial aspects of his ontology are similar to ideas found in the writings of James and Peirce.},
+	Address = {601 North Morton Street, Bloomington Indiana},
+	Author = {Glenn Tiller},
+	Journal = {Transactions of the Charles S. Peirce Society},
+	Keywords = {pragmatism, materialism, Philosophy, Matter and antimatter, Ontology},
+	Month = {Spring},
+	Number = {2},
+	Pages = {206--229},
+	Publisher = {Indiana University Press},
+	Title = {The Unknowable: The Pragmatist Critique of Matter},
+	Volume = {42},
+	Year = {2006}}
+
+@book{Times2000,
+	Editor = {Diana Treffry and Sheila Fergusson and Alan Isaacs},
+	Title = {The {T}imes {E}nglish dictionary},
+	Year = {2000},
+	Publisher = {Times Books},
+	Address = {London} }
+	
+@book{Toffler1972,
+	Author = {Alvin Toffler},
+	Title = {Future Shock},
+	Year = {1972},
+	Publisher = {Bantam Books},
+	Address = {New York} }
+
+@article{Trist1951,
+	Author = {E. Trist and K. Bamforth},
+	Title = {Some social and psychological consequences of the longwall method of coal-getting},
+	Year = {1951},
+	Journal = {Human Relations},
+	Number = {1},
+	Volume = {4},
+	Publisher = {Tavistock Institute, Sage publications},
+	Address  = {London}}
+	
+@inbook{Trist2000,
+	Author = {E. Trist and K. Bamforth},
+	Title = {Some social and psychological consequences of the longwall method of coal-getting},
+	BookTitle = {Technology, Organizations, and Innovation: Critical perspectives on business and management},
+	Year = {2000},
+	OriginalYear = {1951},
+	OriginalJournal = {Human Relations},
+	OriginalNumber = {1},
+	OriginalVolume = {4},
+	OriginalPublisher = {Tavistock Institute, Sage publications},
+	OriginalAddress  = {London},
+	Editor = {David Preece and Ian McLoughlin and Patrick Dawson},
+	Volume = {1},
+	Pages = {79--118},
+	Publisher = {Routledge},
+	Address = {London} }
+
+@incollection{Trist1981,
+   Author = {Eric Trist},
+   Title = {The Evolution of socio-Technical Systems: A Conceptual Framework and an Action Research Program},
+   BookTitle = {Perspectives on Organizational Design and Behavior},
+   Editor = {de Ven, Van and W Joyce},
+   Publisher = {Wiley Interscience},
+   Address = {NY},
+      Year = {1981} }
+
+@inproceedings{Turoff1985,
+	Abstract = {When dealing with human communications and the use of technology to support this process, it is impossible to divorce the human elements from the technological ones. There is no fine boundary of measurable variables that can be established to draw the line along which we can look at clear cut cause and effect relationships in either direction across that boundary. Any attempt to make either the social system or the technological system the independent or dependent variable is only a short term artifice that might very well give the wrong indicators of what is happening. Once this premise is accepted, one is led to the necessity of viewing the introduction of any new communication technology as a series of incremental and evolutionary experiments on a total system . Whether consciously or unconsciously done, the people involved, the social relationships, and the technology are all
+design elements for the experiment . One cannot apply reductionist methods to the social studies of this area. \\
+``Society is like a lawn, where every roughness is smoothed, every bramble eradicated, and where the eye is delighted by the smiling verdure of a velvet surface. He, however, who would study nature in its wildness and variety, must plunge into the forest, must explore the glen, must stem the torrent, and dare the precipice .''--Washington Irving},
+	Address = {Honolulu},
+	Author = {Murray Turoff},
+	Booktitle = {Contrasting Perspectives on Social Studies of Communication Technologies,},
+	Keywords = {pragmatism, rational analysis},
+	Location = {International Communications Association Annual Meeting},
+	Month = {May},
+	Pages = {27--31},
+	Publisher = {International Communications Association},
+	Title = {The rational, the pragmatic and the inquiry process: The Social Study of Information-Communication},
+	Year = {1985}}
+
+% -U- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% -V- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@article{Vallas1999,
+	Author = {Steven P. Vallas},
+	Title = {Rethinking {P}ost-{F}ordism: The Meaning of Workplace Flexibility},
+	Journal = {Sociological Theory},
+	Volume = {17},
+	Number = {1},
+	Year = {1999},
+	Month = {March},
+	Pages = {68--101}}
+
+@article{Virtue2009,
+	title = {Finding the Sweet Spot: {B}alancing the Risks and Rewards of Social Networking Technologies in the Enterprise},
+	journal = {Cutter IT Journal},
+	author = {Virtue, T.},
+	volume = { 22},
+	number = { 10},
+	year = {2009},
+	month = {Oct},
+	pages = {6 - 9},	
+	issn = {1048-5600},
+	address = {USA},
+	abstract = {Although the foundation of modern technology is based on 1s and 0s, or ``on'' or ``off,'' many of the technology deployments in today's enterprise are not that simple. Particularly from a business risk perspective, it is more complicated than black or white, and we must learn to manage a lot more gray. The Chinese philosophical concept of yin-yang is based on the belief that there are two complementary forces in the universe and one cannot be viewed as better than the other. Instead, they are both necessary, and a balance of both is what we should strive for. In regard to Web 2.0 and social networking technologies in the enterprise, this is exactly the paradigm in which it needs to start operating. The organization would likely fall behind its competitors in terms of achieving innovation, meeting customer demands, and taking advantage of efficiencies and new revenue streams. On the other extreme, consider the organization that deploys Web 2.0 and social networking technologies throughout the enterprise with few or no controls, policies, or guidance in place. The organization could well fall victim to an increased number of security attacks, see a decline in employee productivity, and/or find itself facing a barrage of HR and legal problems. The paper mentions that it needs to embrace Web 2.0 and social networking technologies (and the associated benefits) and develop innovative technology and policy solutions in order to reduce risk to a manageable level.},
+	keywords = {Internet;organisational aspects;risk management;social networking (online); business risk perspective;yin-yang concept;Web 2.0;social networking technology;organization;innovative technology;} } 
+
+
+@article{Visala1992,
+	Abstract = {The paper considers the ethical issues of technology in general and the special problems of information systems. It takes us from the position of technology and science in western society as an idealized calling of the human being and as the principal forces for progress, via technology as ideology, to the ethical responsibility of an individual planner and the social dimensions of information systems. A number of basic ethical dilemmas are encountered and analyzed. The tasks for information systems research are provided with a legitimation from the ethical point of view.},
+	Author = {Seppo Visala},
+	Journal = {Communications of the {ACM}},
+	Keywords = {ethics, Marx, dialectical materialism},
+	Pages = {210--220},
+	Publisher = {ACM},
+	Title = {Ethical dilemmas in information systems research and development},
+	Year = {1992}}
+
+% -W- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@article{Walker1985,
+	Author = {J. C. Walker},
+	Year = {1985},
+	Title= {Materialist Pragmatism and Sociology of Education},
+	Journal = {British Journal of Sociology of Education},
+	Volume = {6},
+	Number = {1},
+	Pages = {55---74} }
+
+@article{Walsham2005,
+	Abstract = {This short paper is a response to the article by McGrath in this issue which argues that information systems (IS) researchers need to be more explicit about 'being critical'. I accept her point, and I use this paper to offer a sketch of my personal journey in learning about criticality, and some thoughts from where I am now on various aspects of carrying out critical IS research.},
+	Author = {Geoff Walsham},
+	Journal = {Information Systems Journal},
+	Keywords = {INFORMATION resources management, INFORMATION technology, RESEARCH, Social aspects, METHODOLOGY, ELECTRONIC information resources, CRITICAL analysis},
+	Month = {April},
+	Number = {2},
+	Pages = {111--117},
+	Title = {Learning about being critical},
+	Volume = {15},
+	Year = {2005}}
+	
+@misc{Wertheim2007,
+   Author = {Wertheim, E.G.},
+   Title = {Historical Background of Organizational Behavior},
+   Month = {15 June},
+   Publisher={College of Business Administration, Northeastern University, Boston, MA},
+   LastChecked = {15 June, 2007},
+   URL={http://web.cba.neu.edu/\textasciitilde{}ewerth eim/introd/history.htm},
+   Year = {2007} }
+
+@book{White2002,
+	Abstract = {In this book, one of America's leading philosophers offers a sweeping reconsideration of the philosophy of culture in the twentieth century. Morton White argues that the discipline in much more important than is often recognized, and that his version of holistic pragmatism can accommodate its breadth. Going beyond Quine's dictum that philosophy of science is philosophy enough, White suggests that it should contain the word ``culture'' in place of ``science''. He defends the holistic view that scientific belief is tested by experience but that such testing is rightly applied to systems or conjunctions of beliefs, not isolated beliefs. He adds, however, that we test ethical systems by appealing to feelings of moral obligation as well as to sensory experiences.},
+	Address = {41 William Street, Princeton, New Jersey, USA},
+	Author = {Morton Gabriel White},
+	Isbn = {0-691-09656-2},
+	Keywords = {Pragmatism, Culture, Philosophy, Holism},
+	Publisher = {Princeton University Press},
+	Title = {A philosophy of culture: The scope of holistic pragmatism},
+	Year = {2002}}
+	
+@article{White2006a,
+	institution = {The Institution of Engineering and Technology},
+	title = {Web 2.0 and enterprise business intelligence},
+	journal = {Cutter IT Journal},
+	author = {White, L.},
+	volume = {19},
+	number = {10},
+	year = {2006},
+	month = {October},
+	pages = {19--23},
+	abstract = {Web 2.0 has received a lot of press lately. So far, the primary use has been in creating new applications for users of the public Internet. In this article, the author discusses a potential alternative use for enterprise users. Specifically, applying these techniques to business intelligence (BI) solutions creates applications that are better adopted by users and also allows users to increase the "intelligence" created by the applications. The subject of this article is not to introduce the reader to Web 2.0 or BI explicitly but rather to explain how the convergence of these ideas may be useful. Therefore, the author focuses on which aspects of BI and Web 2.0 are relevant, how to incorporate them into new systems, and what is minimally required to support these systems in the enterprise},
+	keywords = {competitive intelligence;Internet;Web services;Web 2.0;enterprise business intelligence;Internet;BI;Web services;}} 
+
+@article{White2006,
+	Address = {601 North Morton Street, Bloomington Indiana},
+	Author = {Richard B. White},
+	Journal = {Transactions of the Charles S. Peirce Society},
+	Keywords = {pragmatism},
+	Month = {Winter},
+	Number = {1},
+	Pages = {117--132},
+	Publisher = {Indiana University Press},
+	Title = {A Simple Automation of a {P}eircean Decision Procedure},
+	Volume = {42},
+	Year = {2006}}
+	
+@article{White2007,
+	Author = {Colin White},
+	Year = {2007},
+	Title = {The Impact of Web 2.0},
+	Journal ={DM Review},
+	Volume = {17},
+	Number = {8},
+	Pages = {14},
+	Month = {August},
+	Note = {Retrieved April 20, 2008, from ProQuest Computing database} }
+	
+@inproceedings{Wilde2007,
+	Title = {Declarative {W}eb 2.0},
+	Author = {Erik Wilde},
+	Pages = {612--617},
+	BookTitle = {2007 \textsc{ieee} International Conference on Information Reuse and Integration},
+	Year = {2007},
+	Month = {August},
+	Day = {15},
+	Type = {Conference Proceedings},
+	Publisher = {\textsc{ieee} \textsc{smc} Society},
+	Address = {Las Vegas, Nevada} }
+	
+@book{Wilson1998,
+	Author = {Edward Wilson},
+	Title = {Consilience, The unity of knowledge},
+	Year = {1998},
+	Publisher = {Knopf},
+	Address = {New York},
+	ISBN = {0-679-45077-7}}
+	
+@inbook{WilsonWhittington2001,
+	Author = {J. R. Wilson and C. Whittington},
+	Title = {Self-managed Work Teams},
+	BookTitle = {International encyclopedia of ergonomics and human factors},
+	Bookauthor = {Waldemar Karwowski},
+	Publisher = {Taylor \&{} Francis},
+	Address = {London},
+	Volume = {II},
+	Year = {2001},
+	Pages = {1344--1346} }
+	
+	
+@book{Winner1986,
+	Abstract = {Winner contends that technologies are not merely aids to human activity but also powerful forces that give meaning and direction to our lives. Conditions of power, authority, freedom, and social justice are often deeply embedded in technical devices. The physical arrangements of industrial production, warfare, communications, etc., have not only transformed the exercise of power and the experience of citizenship but they have also introduced "inherently political technologies" which are, by their very nature, centralized or decentralized, egalitarian or inegalitarian, repressive or liberating. ``Some kinds of technology,'' he writes, ``require their social environments to be structured in a particular way in much the same sense that an automobile requires wheels in order to move.''},
+	Title = {The whale and the reactor: A Search for Limits in an Age of High Technology},
+	Year = {1986},
+	Author = {Langdon Winner},
+	Address = {Chicago, IL},
+	Publisher = {The University of Chicago Press} }
+
+@misc{Winner1997,
+	Abstract = {One of the changes in our world that characterizes the late twentieth century is the digital transformation of an astonishingly wide range of material artifacts interwoven with social practices. In one location after another, people are saying in effect: Let us take what exists now and restructure or replace it in digital format. Let's take the bank teller, the person sitting behind the counter with little scraps of paper and an adding machine and replace it with an ATM accessible 24 hours a day. Let's take analog recording and the vinyl LP and replace it with the compact disc in which music is encoded as a stream of digital bits. Or let's take the classroom with the teacher, blackboard, books, and verbal interchange and replace it with materials presented in computer hardware and software and call it ``interactive learning''. In case after case, the move to computerize and digitize means that many preexisting cultural forms have suddenly gone liquid, losing their former shape as they are retailored for computerized expression. As new patterns solidify, both useful artifacts and the texture of human relations that surrounds them are often much different from what existed previously. This process amounts to a vast, ongoing experiment whose long term ramifications no one fully comprehends. As they ponder astonishing transformations associated with the new electronics, thoughtful people need to ask: What kinds of personal practices, social relations, legal and political norms, and lasting institutions will emerge from this upheaval? More importantly, what kinds of practices, relations, rules, and institutions do we want to emerge in these settings. },
+	Author = {Langdon Winner},
+	Date-Added = {2010-07-28},
+	Date-Modified = {2010-07-28},
+	Lastchecked = {28 July, 2010},
+	Year = {1997},
+	publisher = {Rensselaer Polytechnic Institute},
+	Title = {Cyberlibertarian myths and the prospects for community},
+	Url = {http://www.lang donwinner.org/}}
+		
+% -X- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% -Y- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@article{Yi2006,
+	institution = {The Institution of Engineering and Technology},
+	title = {Enterprise information system architecture based on {W}eb 2.0},
+	journal = {Wuhan {U}niversity {J}ournal of {N}atural {S}ciences},
+	author = {Xiushuang Yi and Yu Wang and Jinghong Liu and Zhankao Wen},
+	volume = {11},
+	number = {5},
+	year = {2006},
+	month = {September},
+	pages = {1398--1402},
+	abstract = {Enterprise information systems with a great use of Web 2.0 technologies will be more open, free, and more efficient. With the contrast between classic Web technologies and Web 2.0 technologies, we represent a sample of enterprise information system based on Web 2.0, and show how the use of Web 2.0 technologies changes the system data exchange model of the enterprise information systems and how it improves the efficiency and effectiveness of information systems.},
+keywords = {electronic data interchange;information systems;Web services;Web 2.0 technology;enterprise information system;system data exchange;}} 
+
+
+
+% -Z- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@incollection{Zeleznikow1994,
+	Author = {John Zeleznikow and Dan Hunter},
+	Title = {Building Intelligent Legal Information Systems: Representation and Reasoning in Law},
+	BookTitle = {Computer Law Series},
+	Volume = {13},
+	Publisher = {Kluwer},
+	Address = {Dordrecht},
+	Year = {1994},
+	Type = {Book series} }
+
+@book{Zenker1898,
+	Author = {Ernest Victor Zenker},
+	Year = {1898},
+	Title = {Anarchism: A Criticism and History of the Anarchist Theory},
+	Publisher = {G. P. Putnam's sons},
+	Address = {New York} }
+
+
+
+@book{Zimmerman1990,
+   Author = {M.E. Zim{\-}mer{\-}man},
+   Title = {Heidegger's confrontation with modernity},
+   Publisher = {Indiana University Press},
+   Address = {Bloomington},
+   Year = {1990} }

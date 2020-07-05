@@ -1,0 +1,306 @@
+\myChapter{Web 2.0 case studies} \label{chap:case}
+\nobreak
+\begin{pagewiselinenumbers}
+\section{Introduction} \label{sec:case:intro}
+\nobreak
+The cases presented in this chapter represent implementations of Web 2.0 technologies in an organisational context and have been selected on the basis that they illustrate the impact that Web 2.0 applications have on the Work that people do. There are scant examples of such cases available at this time as most case studies describe the impact of technological advances on organisations' customer and supplier relations, economic forecasts and results, productivity and output, applications in advertising, marketing, promotion, public relations, and so on, but do not relate to how they affect people.
+
+In \S\ref{sec:case:overview}, an overview of Web 2.0 is presented. This section presents a current understanding of the Web 2.0 concept and technologies that comprise it. \S\ref{sec:case:impacts} continues the discussion by outlining positive and negative impacts that have been observed because of the adoption of Web 2.0 technologies by the enterprises in the cases. The cases described in \S\ref{sec:case:cases} pertain to technological areas with Farm Credit Canada~\cite[in \S\ref{sec:case:FCC}]{SmithMcKeen2008} and its use of Services Oriented Architecture (\textsc{soa}) and Social Networking applications at IBM~\cite{MajchrzakCherbakovIves2009} and British Telecom~\cite{Dennison2007} in \S\S\ref{sec:case:IBM} and \ref{sec:cases:bt}. In \S\ref{sec:case:shoemaker}, the analogy of the shoemakers children serves to illustrate how the use of Web 2.0 technologies can be applied to decision making processes to improve the quality of outcomes and to reduce the amount of time and effort required to make decisions.
+
+\ColourTextRed{\textls[18]{In chapter \ref{chap:case}, there are minimal original contributions. This chapter outlines cases that are used throughout the remainder of the thesis to illustrate and test concepts and arguments. The cases have been selected on the basis that they represent the spread of usage of the \IT{} artefact, Web 2.0. In general terms, the cases are summaries of research articles. Therefore, no effort is made to provide additional commentary or argumentation.}}
+
+\section{Overview of Web 2.0} \label{sec:case:overview}
+\nobreak
+Web 2.0 denotes those technologies that facilitate activities on the Internet such as social networking, blogging, collaboration, and information and data sharing across a broad range of devices and platforms.\cbdelete{}
+
+\cbstart{}In this thesis, the attributes \citeA{Oreilly2005} lists are taken to represent core features of the artefact, Web 2.0:\cbend{}
+\begin{inparaenum}[(1)]
+\item \emph{Data} are the driving force;
+\item it provides an \emph{architecture} of participation; 
+\item it favours \emph{open source} development;
+\item it involves content and service \emph{syndication}; and 
+\item it introduces the concept of the \emph{perpetual beta}.
+\end{inparaenum}
+
+The applications and features that are normally considered in the Web 2.0 mix are:
+\begin{description*}
+\item[Wiki] \textls[16]{A democratic, accessible community of users responsible for its own content, supported by an open model of knowledge creation and communication~\cite{Grace2009}. Wikis usually provide editing, indexing, search, monitoring, and analysis functions. There are varying levels of permission granted to prospective \cbstart{}editors, from very\cbend{} open to highly restricted (with suggestions for changes going through a process of validation by moderators before they are incorporated into the wiki text).}
+\item[Blog] Entries are made in the style of a journal by a blogger~\cite{Sutter2009}. Apart from providing editing capabilities and commenting by third parties, most blog tools allow other bloggers to link to content in the blog, for the blogger to link to other sites, to maintain an index and archive of content, to maintain links to other blogs, to create searchable indexes, monitor accesses by readers, produce site statistics, and so on.
+\item[Really Simple Syndication (\protect\textsc{rss})] A protocol that allows for the aggregation of changed content \cbstart{}from\cbend{} different websites~\cite{Sutter2009}. Applications that include \textsc{rss} functions (\textsc{rss} aggregators) maintain links to websites' content. When content changes, \cbdelete{}it is provided to the reader as a list of headings, \cbstart{}often with\cbend{} a short summary. This means the reader does not have to constantly traverse websites to check if they have changed recently. 
+\item[Social networking] This takes many forms and may include file sharing and peer-to-peer networks, post ranking systems, friends lists, social bookmarking and linking, and the sharing of links, articles, and lists~\cite{Sutter2009}. Essentially, they all provide people with the ability to make and update relationships with others, often through the sharing of things considered valuable or useful.
+\item[Mashups] \cbstart{}``Mashing'' together two or more web services or web-based applications\cbend{}~\cite{Sutter2009}. To be successful, provision of an Application Programming Interface (\textsc{api}) is required for other systems to link \cbstart{}from\cbend{}. Content can be transformed and mashed together to create new information.
+\end{description*}
+
+\textls[8]{The concept of ``Web 2.0 as a platform'' serves various groups in differing ways; for example, it is a platform for business, communications for marketing, new media distribution for journalism and entertainment, and software development for developers~\cite{Oreilly2005}. As such it can be said that Web 2.0 symbolises a cultural phenomenon that \citeA{Tenenbaum2006} summarises as a collection of emerging technologies and methodologies making the Web more participatory, semantic, and~real-time.}
+ 
+\citeA{KimYuePerkinsHallGates2009} identify six key features that users experience on numerous Web 2.0 applications: 
+\begin{description*}
+\item[Participation] An application or service is designed to improve or facilitate user participation while lowering barriers to use. Examples might include social networking sites, syndication of news feeds, creation and maintenance of blogs, and sharing of media files like photographs and video.
+\item[Collaboration] Similar to participation, with the distinction that users work together with a common goal or aim in mind. Wikis are a common example.
+\item[Social networking] Builds on the previous concepts of participation and collaboration: to fulfill social and cultural norms. Social networks are built to facilitate the establishment and maintenance of social connections both in private, public, and work oriented situations.
+\item[Rich user experience] The success of Web 2.0 applications is closely tied to the ease with which the user can interact, share, and access Web content. Important to the success of this is having a consistent set of tools and functions. These are facilitated by the common use of scripting and programming languages.
+\item[Semantics] As consistency is important to enable a rich user experience, so it is too for standardisation of terminology. A logically structured system is essential to the success of Web 2.0 technologies to facilitate organisation, management, and relationships between data. A consistent and logically developed system improves interoperability between systems and platforms.
+\item[Interactivity responsiveness] With the increase in complexity of web-based applications, there is apparently a proportional drop in waiting time experienced by end-users. \textsc{ajax} has enabled a more responsive user experience by refreshing only portions of a web page instead the whole page. Added to that, as content is updated on a remote server, the page's content can be updated accordingly too.
+\end{description*}
+
+A feature of many Web 2.0 applications is the highly distributed way in which data are stored and processed. This has led to the evolution of cloud based architectures and the provision of services via networks that \citeA{Oreilly2005} refers to as the Web 2.0 platform. \citeA{IyerHenderson2010} describe cloud computing as global, distributed, and service-centric. Where an enterprise can access cloud computing services from anywhere and at anytime and, and where access is via a network-based infrastructure. They classify vendor offerings into an abstracted ``stack'' with five layers: 
+\begin{quotation*}
+ \textls[-6]{\begin{inparaenum}[(1)]
+\item \emph{Infrastructure Level.} Vendors such as Amazon provide basic services like computer processing time to developers. These services operate like dedicated servers with memory. Once a computer process is started, the developer has complete control over its operations and must add necessary processes to it and then terminate it once he or she is done.
+\item \emph{Platform as a Service Level.} This level provides a higher level of abstraction that allows developers to build applications without worrying about computer processes. Typically, vendors such as Google and Salesforce.com provide a development environment with a programming language that can be used to create new applications.
+\item \emph{Application Level.} Offerings at this level are the most popular in the cloud computing stack. Users can access online services through Google Maps, Salesforce.com, Google Docs, and so on, paying as they go.
+\item \emph{Collaboration Level.} The collaboration level is [composed] of a set of applications that focus exclusively on social network applications, such as Facebook, LinkedIn, and others that help build communities and support collaborative work.
+\item \emph{Service Level.} This level includes companies \newpage{}\noindent{}that provide consulting and integration services, such as Appirio, Boomi, and Opsource.
+\end{inparaenum}} \hfill{}\citeA[pp.~118--119]{IyerHenderson2010}
+\end{quotation*}
+
+Additionally, \citeA{MellGrance2009} describe how cloud computing may be referenced according to its deployment model. 
+\begin{inparaenum}[(1)]
+\item A \emph{public cloud} is generally owned by a large enterprise who on-sells cloud services;
+\item a \emph{private cloud} is owned by an enterprise for internally accessed services, although maintenance might be outsourced;
+\item in a \emph{community cloud} the infrastructure in ownership is shared, which reflects the nature of the activities associated with it, for example \textsc{seti}; and
+\item the \emph{hybrid cloud} infrastructure is composed of two or more clouds that remain unique entities that are bound together by standardised or proprietary technology for enabling data and application portability. It is possible that the hybrid cloud will emerge to be the most common application, as enterprises find that a single cloud does not meet their needs.
+\end{inparaenum}.
+ 
+\section{Impacts of Web 2.0} \label{sec:case:impacts}
+\nobreak
+\citeA{KimYuePerkinsHallGates2009} describe changes that have occurred in various parts of society (education, media, culture, the economy, and enterprise functions), which they attribute to new technologies. They make special mention of `Enterprise 2.0' and how enterprises are incorporating Web 2.0 technologies and principles into their work. They say that enterprises are using social computing tools (wikis, blogs, and virtual communities) to communicate and interact with their employees, customers, business partners, and society as a whole. Examples they cite include the use of wikis in the production of project proposals, manuals, and reports; creating meeting agendas and minutes; doing business analysis and product reviews; brainstorming new ideas; managing information repositories; developing new products; and so on (\citeauthor<\protect{\citeNP{Murugesan2007}}, cited in>{KimYuePerkinsHallGates2009}). However, \citeA{Sutter2009} says that while the social use of Web 2.0 has proven itself\cbdelete{} popular, the pay-off for the enterprise has been more limited.
+
+The impacts of Web 2.0 in business are classified by~\citeA{KimYuePerkinsHallGates2009} into two broad categories: 
+\begin{inparaenum}[(1)]
+\item \emph{Internal business applications} that are related to internal activities and focus on improving business processes by delivering productivity gains, innovation, teamwork and employee relationships, and helping to make better decisions~\citeyear<\protect{\citeNP{Murugesan2007}}, cited in>{KimYuePerkinsHallGates2009}. For example, using wikis and blogs to collaborate, \cbdelete{}tagging schemas to improve knowledge management and search responses, and sharing common interests and responsibilities through social networking.
+\item \emph{External business applications:} \cbstart{}involving businesses and their customers, suppliers, distributors, and the public. Examples include, using mash-ups to aggregate data for various sources, improving communications (marketing and customer relationship management) through blog channels and syndicated feeds. Also, using\cbend{} wikis to obtain feedback to identify new product opportunities and other innovations, using social networking applications to locate or investigate new employees, and personalising data output through the use of client selected opt-in preferences on various devices from mobile devices to desktop computers.  
+\end{inparaenum}
+
+Table~\vref{tab:Sutter1}\footnote{\cbstart{}Factors that influence these  figures are not made clear. While they provide indications of possible change, they cannot be considered as accurate.\cbend{}} shows that the adoption of Web 2.0 technologies in the business sector is being led by large enterprises and that smaller enterprises have invested less although this does not address other means by which enterprises may be accessing Web 2.0 technologies. Table~\vref{tab:Sutter2}, shows that the amount of money enterprises are prepared to invest in Web 2.0 technologies has been projected to increase at a steadily increasing rate. However, the amount of money spent on technology is not necessarily a measure of satisfaction or benefit received. 
+
+\begin{table}[ht]
+   \centering
+   \begin{tabular}{lcccc}
+      \toprule
+Size & Buying & Considering & Not considering & Sample size \\
+ & \multicolumn{3}{l}{\emph{Values are \%{} and rounded}} & $n=$ \\
+\hline
+20,000+ & 51 & 12 & 37 & 236 \\
+5,000--19,999 & 40 & 16 & 44 & 257 \\
+1,000--4,999 & 41 & 15 & 44 & 510 \\
+500--999 & 33 & 15 & 52 & 226 \\
+100--499 & 26 & 16 & 58 & 481 \\
+six--99 & 20 & 16 & 38 & 519 \\
+	\bottomrule
+   \end{tabular}
+   \caption[Adoption of Web 2.0]{Adoption of Web 2.0. \emph{Source: \protect\citeNP<Forrester, cited in>{Sutter2009}.}}
+   \label{tab:Sutter1}
+\end{table}
+
+\begin{table}[ht]
+   \centering
+   \begin{tabular}{lccccccc}
+      \toprule
+Technology & \multicolumn{6}{p{8cm}}{Years and projections from 2009 to 2013. Amounts are in millions of USD and rounded.} \\
+ & 2007 & 2008 & 2009 & 2010 & 2011 & 2012 & 2013 \\
+ \hline
+ Social networking & 149 & 258 & 437 & 701 & 1,603 & 1,514 & 1,997 \\
+ RSS & 78 & 120 & 182 & 262 & 357 & 463 & 563 \\
+ Blogs & 64 & 118 & 201 & 290 & 341 & 355 & 340 \\
+ Wikis & 63 & 108 & 177 & 259 & 342 & 410 & 451 \\
+ Mash-ups & 39 & 61 & 98 & 165 & 285 & 458 & 682 \\
+ Podcasting & 33 & 50 & 76 & 111 & 158 & 214 & 273 \\
+ Widgets & 29 & 47 & 75 & 118 & 175 & 250 & 340 \\
+\hline
+ Total & 455 & 764 & 1,246 & 1,906 & 2,721 & 3,664 & 4,646 \\
+	\bottomrule
+   \end{tabular}
+   \caption[Global Enterprise Web 2.0 spending]{Global Enterprise Web 2.0 spending. \emph{Source: \protect\citeNP<Forrester, cited in>{Sutter2009}.}}
+   \label{tab:Sutter2}
+\end{table}
+
+
+\citeA{Sutter2009} lists a number of enterprises that have benefited from the implementation of Web 2.0 technologies: 
+\begin{description*}
+\item[Intuit] \textls[-16]{Recognised that informed users of their products are well disposed to helping other users by forming a community of power users to aid in answering questions and providing expert assistance to other Intuit customers. The company found that the cost of servicing these customers was reduced. In addition, the community serves as an evangelical group, promoting solutions and techniques using Intuit products. }
+\item[Texas Instruments] Instead of having an expensive call centre to maintain, the company uses collaborative facilities to help engineers at those times when they need to find answers to questions and problems. The solutions to common problems are then shared throughout the user community. 
+\item[IBM] Has deployed a social networking capability in place of the traditional phone book and locator system. In addition to serving as a reference for contact information, this ``Facebook-like'' facility enables people to share areas of interest, expertise, and work experience with colleagues throughout the firm. 
+\item[Dell] States that \$3 million of its 2009 computer revenue was attributed to Twitter. 
+\end{description*}
+\indent{}\citeA{Grace2009} identifies four principal challenges an enterprise may face when implementing Web 2.0 technologies and in particular, corporate wikis:
+\begin{description*}
+\item[Security] The wiki environment, unless it is closely moderated, represents a high level of freedom and flexibility. To ensure that such openness does not present a threat to the enterprise it usually falls to someone to monitor the wikis. The nominated person needs to check that content does not pose legal, regulatory, or competitive problems for the enterprise. \\ Access to wikis needs to be controlled to protect sensitive information but the level of access given to individuals must also be considered. Therefore, it serves the enterprise well to adopt written policies and guidelines for staff and to help them make decisions on what should be included or excluded from a wiki. \\ These same issues apply to any other form of Web 2.0 technology in which content is created.
+\item[Data migration] Web 2.0 uses a range of languages and technologies. If corporate data are to be included in Web 2.0 applications then the enterprise must consider the implications of transforming existing data through what may be relatively untested systems that are in a state of perpetual beta.
+\item[Training issues] There are various levels of existing knowledge and skill in terms of computer literacy, but the issue is the level familiarity \cbstart{}of\cbend{} the user has while using a web-based environment, as opposed to an application program-centric approach to Work. 
+\item[Categorisation of information] Folksonomies in wikis provide the notion that employees can make decisions about the structure and categorisation of explicit and tacit knowledge. \cbdelete{}Categories are often based on natural language and their choice is subjective. If categories are developed without discrimination into an inconsistent application of a schema of knowledge, then the result will be a meaningless jumble of irrelevant terms. Irrelevant, that is, to anyone who was not directly involved in the classification of the knowledge. 
+\end{description*}
+
+Socially, the impact of Web 2.0 has been limited by the opportunities of individuals to access the Internet. \citeA{KimYuePerkinsHallGates2009} claim that individuals who have access also participated and interacted on a globally social scale and that this has changed them into producers and consumers of locally created and publicly marketed art forms, merchandise, and information. \cbstart{}They go on to say that the requirement for an agent to act on their behalf is reduced,\cbend{} and that class and social standing have less influence. Indeed, they go so far as to claim that business models have changed worldwide. \linelabel{casell137}While it may be true that some specific business models around the world have changed, it does not therefore mean that the whole of the business environment has also changed and so one must consider that, the overall impact of Web 2.0 is confined to those who have access.\linelabel{casell137a}
+
+\textls[14]{Access through social networking sites appears to allow greater facility for keeping in touch with friends and family by exchanging messages and media files such as photographs, video, sound files, and other documents~\cite{KimYuePerkinsHallGates2009}. News organisations are able to quickly update and post news stories but at the same time, governmental and non-governmental organisations are able to post propaganda that are retrieved and disseminated equally well. However, in the online social community, individuals are often able to influence policies and standards even though they may not have the final say. \linelabel{casell142}On the downside, questions exist as to the degree to which personal privacy, identity, and ownership are lost. Also brought into question is the use to which information that is voluntarily submitted is applied, and it needs to be remembered that data is often permanently stored so images and comments can return to haunt the individual.}  \linelabel{casell142a}
+
+\section{Cases} \label{sec:case:cases}
+\nobreak
+The cases of enterprises that have implemented Web 2.0 technologies in this section present rationales for choosing Web 2.0 technologies, design and implementation processes, issues that arose, and what benefits were received. Three of the cases involve large enterprises: Farm Credit Canada (\S\ref{sec:case:FCC}), IBM (\S\ref{sec:case:IBM}), and British Telecom (\S\ref{sec:cases:bt}). The fourth case (\S\ref{sec:case:shoemaker}) illustrates a small scale experiment of guided collaboration. In each case the adoption of Web 2.0 technologies has accompanied changes to workers' work practices, although they have not all expressed how changes to work practices were received by their workers. \cbstart{}Currently, \cbend{}research is focussed on how Web 2.0 affects the enterprise and especially its bottom-line margins and productivity rather than the people who work in them. 
+
+\cbstart{}Note that the Farm Credit Canada case (\S\ref{sec:case:FCC}) details changes that occurred during and from the design and implementation of new technologies at the infrastructure and platforms levels, whilst incorporating a distributed computing model. The IBM (\S\ref{sec:case:IBM}), British Telecom (\S\ref{sec:cases:bt}) and the `shoemaker's children' (\S\ref{sec:case:shoemaker}) cases more specifically relate to Web 2.0 deployments. The broad spectrum of cases reflects the breadth of the thesis.\cbend{}
+
+\subsection{Farm Credit Canada} \label{sec:case:FCC}
+\nobreak
+\textls[-16]{\citeA{SmithMcKeen2008} report on the Services Oriented Architecture (\textsc{soa}) at Farm Credit Canada (FCC). FCC is a 50 year old national lending institution that focusses on the agricultural sector. It is based in Regina, Saskatchewan, western Canada. The enterprise derives its business from lending to primary producers and food processors through each stage of the business lifecycle, offering a range of finance products and services. It operates 100 field offices across Canada, employing around 1200 staff. Competition comes mostly from banks and credit unions \cbstart{}that\cbend{} service the agricultural sector.}
+
+Due to rapid growth FCC, found their current technology deployments were no longer able to support the company. In 2002, FCC embarked on a course to change its \IT{} function from an ``application-centric'' orientation to a ``services-centred'' architecture, following a six-step process. The transformation of the enterprise had the goals of building its agricultural knowledge, making its sales-force more available, improving cross-channel interaction, and defining standards for customer interaction. Key to its success was the development of a \textsc{soa}.
+
+\emph{Step 1} of the transformation involved implementing new cultural practices that were designed to get culture, process, and technology to work together. The enterprise's executives took specialised training for accountability and practices. These were then demonstrated to staff and subsequently rolled out to all staff by spring 2006.
+
+While the cultural transformation initiative was underway \emph{step 2} was initiated. This involved creating improved customer experiences. The \textsc{ceo}, Tom Ryan, recognised that technology had the potential to resolve the company's problems, although he did receive resistance. In particular, \IT{} functions were not well integrated and as a department, \IT{} was seen as an impediment to the technological aspirations of business units. To get past this a business/\IT{} committee was formed and tasked with finding out what technology would be required, what to do first, and to ensure that all initiatives under the new corporate strategy would be integrated appropriately. The committee was led by the Director of e-business. 
+
+\textls[12]{A serious problem emerged, that the company had initiated \$40 million worth of projects and there was no one managing their integration. The committee admitted defeat and recommended that a dedicated team \cbstart{}be\cbend{} required to address the issues. In January 2004, the Enterprise Integration Program (\textsc{eip}) was launched to find the best approach to achieving integration. The success of the \textsc{eip} was dependent upon the support of the project sponsor, the \textsc{ceo}, particularly to ensure that individual business units did not interfere by lobbying for their projects. The programme leader gathered a team of business and \IT{} staff \cbstart{}that\cbend{} worked to establish issues and key inhibitors to future growth.}
+
+Key inhibitors to the future growth of FCC were found to be that the enterprise had a systems-driven approach to process design that produced cumbersome processes that worked around the  functionality of the systems, rather than achieving what was required by the enterprise, there was a lack of enterprise-wide integration, and the now cumbersome processes had too much low-value-added work. Another area of serious concern was that while business-unit leaders knew what they wanted from their systems individually, there seemed to be no-one who had a whole of enterprise understanding of how it would all fit together. This redefined the integration issue from being an \IT{} problem to a business problem.
+
+Before any work could be undertaken, it became obvious that the first task was to understand FCC's entire enterprise value chain and related business processes. The technical issues presented were, in effect, there because there had been insufficient governance and this needed to be addressed. The programme leader set about developing a methodology to expand and clarify key strategic drivers that the CEO had already identified. When completed, the programme leader's team set about identifying processes that were in place; these were then mapped to the current-state enterprise value chain and processes.
+
+Subject matter experts were enlisted to review the business processes in workshops. During the workshops, it was found that customers' experiences were inconsistent across delivery channels: there were different people doing the same things under different roles and that accurate reporting was difficult. Perhaps what was more important was that the workshops enabled the \textsc{eip} team to define more clearly, what \cbstart{}it\cbend{} was that the corporation wanted. In particular, these were greater process transparency and better process consistency. To achieve this, it appeared that a portal to guide workers through \newpage{}\noindent{}required tasks and provide the necessary information for them to complete their work was desirable.
+
+After successfully demonstrating that significant changes were required to how the corporation made decisions about its \IT{} governance, the \textsc{eip} team were given the mandate to proceed with their investigation until all recommendations were completed. This resulted in six principles to guide future business architecture at FCC:
+\begin{enumerate*}
+\item The ability to cross-sell a full portfolio of products and services across channels.
+\item Consistency of customer experience across channels, incorporating formal and informal customer feedback.
+\item Enterprise value-chain-based process redesign and transparency to speed learning and increase effectiveness.
+\item A single user-centric interface to aggregate functionality from multiple systems.
+\item The exposure of process and context-specific knowledge (about products and customers), skills modules, and explicit policy, at the point of need.
+\item Automated business rules and workflows designed for audit and reporting. 
+\end{enumerate*}
+\vspace{-.55em}
+\hfill{} \citeA[pp.~64--75]{SmithMcKeen2008}
+
+Then a gap analysis was undertaken to identify strength and problem areas, leading to a preliminary road map.
+
+\emph{Step 3} involved the transformation of the \IT{} organisation, so that it could better support the planned enterprise integration. There was no doubting that the \IT{} department had become less and less effective for a number of reasons and that there were significant tensions between the department and the business units. The transformation was conducted via a process of identifying the current state of the corporate \IT{} structure and designing the future state model. From that process, it was decided that an \textsc{soa} would best meet corporate objectives. With its distribution across the North American continent, FCC is especially suited to a set of architecture principles for combining loosely linked, but interoperable services that could be recombined to provide process oriented functions such as adding customer billing details, performing credit checks, and so on. Due to its distributed nature, these services would be provided to FCC staff working in business units, using a web-based portal. 
+
+The new model has four features:
+\vspace{-.5em}
+\begin{enumerate*}
+\item The only permanent staff would be those in senior, high-leverage, and strategic positions. Operational positions, those that only require commodity skills, would be sourced through contractors and consultants.
+\item \IT{} would be funded more appropriately through a new funding model. In the new model, funds are aggregated under the corporation and business units must compete for them. To gain funds, they must satisfy a scoring system used by the \IT{} Steering Committee.
+\item \cbstart{}A new process-centric governance framework, overlaid over functional departments.\cbend{} Three macro-business processes were identified, each with an executive process-owner: 
+	\begin{inparaenum}[(1)]
+	\item pre-sale,
+	\item purchase, and
+	\item post-sale.
+	\end{inparaenum} \\
+Subsequent sub-processes of the macro-business processes were defined, developed, and \IT{} applications mapped to them. \cbstart{}For example, customer and loan management and partner and channel platforms\cbend{}. \cbdelete{}These overlay the func\-tional~depart\-ments.
+\item The separation of business and \IT{} meant that roles and accountabilities were~defined.
+\end{enumerate*}
+\vspace{-.5em}
+\indent{}A proof of concept occurred as \emph{step 4} by implementing the ``loan renewal process.'' Previously, there had been no consistent process and \cbstart{}the staffs were\cbend{} required to access up to five separate systems to find information to complete a loan renewal application. This earlier version of the process required that every account manager do their work differently and therefore, there were often errors in the process and a long learning curve for staff.
+\newpage{}
+\citeA{SmithMcKeen2008} report that the new loan renewal process was to use a user interface that was tailored to meet the needs of the individual user. Within the interface, processes were structured such that users were guided simplified and streamlined business process steps. ``For example, should a customer question the need for an additional credit check, the agent can simply click on `policies and procedures' and learn why it is required and then explain this to the customer. `This has proven to be a great just-in-time learning aid for newer employees' ''~\citeyear[p.80]{SmithMcKeen2008}.
+
+The roll out to the corporation of the remainder of the systems, \emph{step 5,} has required further planning and adjustments to the design schedule with new resource functions having to be taken on such as staff training, and re-presenting the rationale to staff. The whole process has been ongoing, rather than being taken in one giant leap.
+
+\cbstart{}Ultimately, FCC acknowledged six main benefits \cbend{} (\emph{step 6}):
+\vspace{-.5em}
+\begin{enumerate*}
+\item Improved and more effective communication between business units and the \IT{} department. ``Business managers focus on processes while \IT{} managers focus on enabling them with technology --- and these clearly articulated roles promote effective and productive communication''~\cite[p.~82]{SmithMcKeen2008}.
+\item The business processes have been streamlined. While the transition is not always smooth, there is now discussion about how each technology can support the work practices required.
+\item \IT{} assets developed for the proof of concept have been reused.
+\item The successful proof of concept has achieved support for the long-term vision of the enterprise-wide transformation.
+\item The successful proof of concept has proven the technical viability of \textsc{soa}.
+\item Finally, as at 2007, five major purchase and post-sale processes are being redesigned. For both of them, the \IT{} infrastructure and business sub-processes are being renovated. It is expected that this redevelopment project will continue until the end of 2011.
+\end{enumerate*}
+
+\subsection{IBM} \label{sec:cases:ibm} \label{sec:case:IBM}
+\nobreak
+\citeA{MajchrzakCherbakovIves2009} report on social networking applications within IBM. They use the term ``corporate social networking'' as the use of technology to help employees identify who knows what, who is interested in what, and what it is they want to contribute to. This is undertaken in the interest of furthering the business of the firm. 
+
+The principal reason that IBM has implemented social networking tools was to keep its huge number of employees connected. IBM has more than 380,000 employees, of \cbstart{}whom\cbend{} more than 50\%{} are mobile, and 200,000 contractors in 170 countries at 2,000 locations. Since 2002, it has made 70 acquisitions meaning that 50\%{} of its employees have less than five years experience with the company.
+
+Another major cause for the adoption of social networking tools \cbstart{}is\cbend{} changing demographics in the company. There are three distinct generations or workers: mature workers who feel comfortable with using email as their main means of communication, mid-career workers comfortable with using instant messaging, and new generation workers who are not only comfortable with using social networking tools but come with the expectation that they can use those tools to connect with others. Social networking tools were adopted to bridge the generational gap between the newest and more~senior~workers.
+
+\citeA{MajchrzakCherbakovIves2009} say that the most important motivator for the adoption of social networking tools was that they facilitate innovation through collaboration, and that is a key strategic and tactical driver for the company. The tools enable collaboration across time, distance, function, and interests.
+
+IBM has implemented a variety of tools that facilitate mass collaboration and \citeA{MajchrzakCherbakovIves2009} discuss three: ThinkPlace, SmallBlue, and Beehive.
+
+\newpage{}
+Launched in the third quarter of 2005, \emph{ThinkPlace} is an intranet forum where ideas can be suggested, commented on, modified, and rated. \cbstart{}An open and transparent environment\cbend{} allows for the rapid development and deployment of solutions. ``IBMers world-wide can submit ideas for how to improve any business, consulting, administrative, or engineering process; go after a market opportunity; or even address a societal challenge''~\cite{MajchrzakCherbakovIves2009}. Administration is taken care of by a few dedicated people who are assisted by volunteers who browse the ideas posted to see which ones are worthy of merit. The measure of worthiness is based on comments that have been posted, how the ideas have rated through scoring, and how it has morphed into something that can be implemented. Additionally, data mining tools monitor ratings and comments to identify promising ideas. The selected ideas are then put through a formal review process where human ``innovation catalysts'' help to carry the idea forward by bringing them to the attention of those in IBM who have the necessary expertise or resources to implement them.
+
+Since its launch, ThinkPlace has attracted more than 160,000 users. More than 18,000 ideas have been generated, of these more than 350 have been adopted and had an impact of over \$500 million in various ways, of which 52\% introduced time saving improvements, 44\% made cultural improvement, 29\% focussed on cost savings, and 17\% targeted new revenue opportunities. The largest impact has been from small and inexpensive ideas that \cbstart{}could\cbend{} be implemented without significant cost.
+
+Initial concerns when ThinkPlace was launched were focussed on it becoming a platform for complaints or personal frustrations. While these appeared, they were responded to quickly by other users of the system by, for example, directing complainants to where they could resolve their issues. To encourage the posting of value-added comments, IBM established an Innovator Award of up to \$10,000 that would be awarded to individuals or teams who have been able to implement ideas that also delivered the highest business value.
+
+ThinkPlace has continued to evolve since its launch. In 2008, ThinkPlace Next was launched, improving idea pipeline management \cbstart{}using visualisations that\cbend{} enabled repeat users and catalysts to be more effective in their role. ThinkPlace Next also integrates IBM's other social networking tools through plug-ins, extensions, and widgets.
+
+\emph{SmallBlue} is an opt-in social network analysis tool. It is designed to provide business intelligence by reporting on who knows who and what they know about them. This enables employees to visualise their networks of connections within IBM by analysing non-private and non-confidential email and instant message transcripts. Linkages are identified and relative expertise is then inferred when an employee conducts a search on keywords. The use of SmallBlue has shown that when an employee conducts an analysis in selected topics, they also breed new connections.
+
+SmallBlue provides a relatively simple interface with four views. The ``find'' view allows the employee to search for people with specific knowledge or skills. The search parameters include lines of business, country, and degrees of separation in their personal network. The ``net'' view presents a visualisation of the search results based around the topic and key influencers and brokers. The ``reach'' view is used to validate a person's level of expertise by taking into consideration what they have posted about themselves (in the BluePages), the communities they belong to, and recent postings they have made. The ``ego'' view presents a visualisation of the individual employee's social network and the social capital of each of their contacts (``social capital'' is the number of new contacts that the employee can be introduced to through direct connection via their contacts' links). This view is private to the employee only.
+
+\emph{Beehive}, launched in September 2007, is similar to other public social networking sites like Facebook and MySpace. IBM staff \cbstart{}has\cbend{} found this useful to make contact with \cbstart{}people who, for no other reason, they might not have contacted.\cbend{} They say this has had a humanising influence on the workplace, enabling them to advance their corporate careers, and helping in the promotion of their own projects. Beehive provides functions that include picture facts, offers of invitations to events, visualising of connections, posting personal photographs, and any textual information the employee chooses to post about themselves. 
+
+The intention of Beehive is to encourage IBM staff to consider that they are part of a small community. To facilitate this perception Beehive includes top-five lists that let people choose their favourite things like ``5 things I like about my job,'' ``5 things I am reading,'' and ``5 favourite websites.'' While it was assumed that people would only post about work when Beehive was rolled out, it turns out that people post about both work and non-work related items. Since its launch, Beehive has attracted 50,998 registered users (as at January 2009). Engineers constitute 27\%, VPs and directors, 10\%.
+
+\citeA{MajchrzakCherbakovIves2009} say \cbstart{}what\cbend{} factors that have contributed to the success of social networking tools at IBM are.
+\begin{inparaenum}[(1)]
+\item That the role of the CIO requires a business focus and is a role that is rotated on a two--three year cycle, and having a business focus means that the role is not so tied to technology.
+\item The degree to which the Internet has been integrated into how people work at IBM so that there was little to change in peoples' work habits.
+\item A culture focussed on employee outcomes, in particular innovation, rather than monitoring activities (the amount of time spent on posting in ThinkPlace or developing one's Beehive are not considered as unproductive).
+\item Social networking has been integrated into IBMs core business strategy with a focus on innovation through mass collaboration.
+\end{inparaenum}
+
+\subsection{British Telecom} \label{sec:cases:bt}
+\nobreak
+\citeA{Dennison2007} reports on the implementation of social media tools at British Telecom (BT) where around 4000 employees joined a Facebook group called BT. This came after a web ``liberalisation'' project by BT, which ensured that employees would be able to access social media tools. 
+
+There was initial resistance from BT's human resources, security and legal policy makers because the promoters of social media in BT announced that social media would change everything people did. The reaction of the policy makers was, understandably, a mix of fear and uncertainty. However, upon reflection the promoters recognised that social media tools actually offer nothing that is particularly new, being mostly just content management systems. Rather, they are differentiated from their predecessors by being intuitive and simple, offering no technical barriers to participation, and reflecting social behaviour rather than creating a distorted version of it, and at this time they are~fashionable. 
+
+Usage and abuse patterns also closely reflect previous experiences on the Internet and intranets, so the tools were already covered by BT's policies. To ensure compliance with policy, it was decided that tools that allowed user-generated content would be via BT's single-sign-on application to ensure that there could be no anonymous publishing. This supported the principle that people would be held accountable for whatever they said, internally or publicly. While the principle supports notions of democracy and self-determination, in practice allowing staff to make comment about BT was not supported by policy.
+
+\cbstart{}Two issues needed to be addressed. Should staff be allowed to make comment both internally and externally?\cbend{} Permission was granted in respect of the first issue in August 2006 by the BT Communications Council, allowing staff to make comment internally. It was only after the development of a nine-point action plan that included reviews of who had already been blogging, what bloggers were saying about BT, and what peer organisations were also doing, that permission was subsequently given in January 2007 for the second issue, so that external comments could also be made. What swayed the council was the support given to the project by the CEO.
+
+At the same time that negotiations around policy were undertaken, a pilot using JotBox to build some social media tools was deployed on the BT intranet. The pilots were a low cost, low commitment test to see whether BT staff would make use of social media tools. \cbstart{}The pilots were not publicised: people were allowed to find the tools then tell others. \cbend{}
+
+Initially, there were three applications: a wiki called BTpedia that allowed any BT staff member to post or edit articles, a blogging tool, and a social media tool called MyPages. Within weeks, there were several hundred articles in the wiki and around 300 blogs. MyPages allowed a staff member to create web pages that others could edit like a wiki, set up photo sharing pages and file storage, set up wiki calendars, create blogs, and a linking function that permitted them to link to `friends.' The success of MyPages as a tool was centred \cbstart{}on\cbend{} its functionality being managed through a single portal. MyPages proved to be even more successful than the other tools, with over 1,500 active users in only a couple of weeks. Indeed, it was so successful that JotBox collapsed.
+
+Google subsequently bought JotBox and offered a revision that differed in the way that BT had implemented it. That, and the way in which the application was initially deployed, meant that the tools were no longer sustainable. During the following six months, the \IT{} department changed their policy on Open Source. This meant that the social tools promoters were able to trial alternative tools, such as WordPress, Mediawiki, Confluence, and SharePoint 2007. 
+
+\textls[3]{The impact on BT's intranet has been variable. Postings have become the property of the community and internal communications consultants have had to let go control. That includes where and how they are expected to work. For example, \citeA{Dennison2007} says that communications have become a `conversation,' rather than a managed activity requiring a different type of engagement by those traditionally responsible for communications activity. \cbstart{}There are questions about governance and ownership of content that need to be answered. Whereas\cbend{} previously, content owned by one person could be managed by them, community ownership presents different questions. Who} \newpage{}\noindent{}takes responsibility for management, archiving, or deletion of content when no one person owns it? What governance model needs to be applied?
+
+Contrary to reservations that were expressed previously, \cbstart{}BT staff used the channels\cbend{} provided to them in a positive way. Management and communications teams still hold people accountable for what they say, but \cbstart{}mostly, staff\cbend{} responded to being trusted. 
+
+From a different viewpoint, how people access information is also changing. Social media tools add a layer of complexity by allowing unstructured data to be posted. How people then extract value from all the information becomes increasingly difficult. Tagging information helps people to categorise posts and the use of \textsc{rss} feeds alerts readers to new content. For staff who have been used to reading only structured information, this has posed quite a challenge in itself and how they behave has been caused to change.
+
+The principal lesson learned from this exercise has been to concentrate on the value that social media tools can bring to the organisation and not the risks. Starting small has allowed BT to adapt and offer tools that people want to use, and to remove tools that were not being used. Offering tools as soon as they were available, in beta form, allowed the users to decide early on whether they wanted them or not. 
+
+Another important lesson learned was that policy makers need to have a hand in the process early on. They need to understand that social media tools are an evolutionary process and that they will not dramatically change the working environment, rather that the tools already exist in the enterprise and that this is just another application of them like the content management systems.
+
+\textls[12]{``Finally, have realistic expectations about what you can achieve --- the Intranet and the Internet are different beasts. Much of what makes social media successful on the internet does not directly translate to the corporate environment. For example, a cornerstone of social media on the Internet is the concept of the `wisdom of crowds' --- i.e. if you have a large enough body of people collaborating on a single topic, you will distil the `truth' from them. Does the wisdom of crowds work with a smaller population of people, or will the result be unbalanced opinion rather than `truth'?''~\cite{Dennison2007}.}
+
+\subsection{The shoemaker's children} \label{sec:case:shoemaker}
+\nobreak
+\citeA{KaneFichman2009} argue that Web 2.0 tools, specifically wikis, have begun to influence business and knowledge sharing practices in many organisations. Specifically, they claim that since insufficient time has been made to the consideration of whether these technologies may provide opportunities for researchers to reform their practices and then, they say, the \IS{} discipline needs to engage in a process of self-reflection on how Web 2.0 tools can allow a researcher to change their core processes. They also call for a series of experiments regarding how a researcher might adopt Web 2.0 technologies in their practice.
+
+The title, in reference to the shoemaker's children, draws a parallel between the children of a shoemaker who have no shoes of their own and researchers of Web 2.0 technologies who do not take what they have learned and apply those lessons to their own work practices. It is from this basis that \citeauthor{KaneFichman2009} make their claim.
+
+The authors suggest using wikis as a research environment that can provide both quantitative and qualitative data because its history is \cbdelete{}traceable. When used in a collaborative exercise, it can be used to uncover roles of breadth and depth in discussion threads within the social construction of meaning for groups, textual data can be analysed with automated tools, theories of knowledge evolution and collaborative behaviour can be tested. Then motivations for contributions relative to various types of content are addressed. \citeauthor{KaneFichman2009} also suggest that wikis could be an appropriate medium for peer review and publication or articles \cbstart{}that\cbend{} in this report, becomes a major theme for them to pursue.
+
+\citeauthor{KaneFichman2009} take issue with the current peer review process \cbstart{}that\cbend{} they say, while largely automated and online, still follows the previous paper-based process. Online databases have replaced physical storage of manuscripts and electronic distribution has replaced physical mail.
+\begin{quotation*}
+Authors often voice complaints about the number and length of review cycles required to reach a final decision on a paper at top \IS{} journals. Reviewers are often overworked, needing to formulate an independent recommendation on a paper but also provide constructive feedback without knowing what the editor's ultimate decision will be. Editors must assemble often disparate reviewer opinions into a singular decision letter (and recommended revision strategy) without knowing whether the recommended strategy will satisfy all of the reviewers and whether this guidance might even create unforeseen problems. Authors' perceptions that the review process may be somewhat arbitrary may lead them to shop a manuscript from journal to journal, with too little effort made to incorporate the suggestions from previous review teams. Further magnifying these challenges are the rapid increase in submissions in recent years to top journals, such as \emph{\textsc{mis} Quarterly} and \emph{Information Systems Research.} We worry about the potential for a dysfunctional feedback loop at the top \IS{} journals, where increasingly overworked review teams perform less effective reviews, leading to more rounds of review and more manuscript shopping, resulting in ever greater demands on editors and reviewers. \hfill{}\citeA[p.~7]{KaneFichman2009}
+\end{quotation*}
+\indent{}They say that there are three factors that are hampering the review process: a linear, ``waterfall'' approach to completing review tasks, excessive compartmentalisation of communication between different actors, and a general lack of transparency in the whole process. Instead, they suggest two periods of anonymous interactivity between members of a review team. Only the editor would know who is posting what. The first period would be initiated by the editor and involve the reviewers discussing cases that might be considered for ``revise and resubmit.'' The reviewers would be invited to comment on the reports of others and their own. The second period would be an open dialogue between the authors and the review team. The entire review package would be posted as wiki pages and authors would be invited to engage in a critique with the review team. ``Authors could use this opportunity to seek clarification on criticisms of the manuscript or recommended remedies, to argue for the validity of what they have done, or to seek feedback on candidate revision strategies''~\cite[p.~7]{KaneFichman2009}. Following this, the editor can choose the best action to take.
+
+The benefits of this strategy, \citeauthor{KaneFichman2009} say, would be to allow editors to make better informed decisions. \cbstart{}If reviewers can respond to each other's comments, then the period of open dialogue, in deciding whether to accept the submission for publication and what might be suggested for improvement, is a better use of the reviewers' time. The interactive nature of the process would allow the editor to leverage the social nature of the environment to improve the review process as a whole. \cbend{}
+
+\textls[-8]{On the other side of the consideration, \citeauthor{KaneFichman2009} present possible problems that might face a wiki-based review.
+\begin{inparaenum}[(1)]
+\item They say that review process would require energy and effort by all the stakeholders in the review process. The energy and effort consumed would not guarantee that the review process will improve for the future and there is no direct reward to the extra effort on the part of reviewers.
+\item There is no guarantee that the wiki-based review process will net a positive gain. It is quite possible for a dysfunctional team to produce poor results and it would be incumbent upon the editor to resolve issues.
+\item Unforeseen changes to the review process may occur, resulting in potentially undesirable consequences. 
+\item The authors believe that interactivity will decrease the workload of the review team if they are able to remove a review round from the process. However, this may be offset by having longer review stages. Presently the reviewer can choose when it is most convenient for them to conduct their review, whereas the new process would require a much tighter window of application.
+\end{inparaenum}}
+
+\section{Conclusion} \label{sec:cases:conclusion}
+\nobreak
+In chapter \ref{chap:case}, cases that illustrate the deployment of Web 2.0 technologies \cbstart{}are\cbend{} offered as evidence for subsequent chapters. The chapter provides an overview of Web 2.0, as it is presently understood.
+
+In chapter \ref{chap:notion}, the notion of Work is described in detail and as part of that, the cases in chapter~\ref{chap:case} are presented to illustrate practical implications of Web 2.0 adoption by the enterprise. The range of cases in chapter \ref{chap:case} \cbstart{}shows\cbend{} that the effect of the adoption of Web 2.0 in the workplace is broad. How such effects are measured, is dependent upon the definition of the Web 2.0 technology that has been implemented. In each case, differing measures have been applied, but they all show that impact of Web 2.0 deployment is~marked. 
+
+In chapter~\ref{chap:notion}, Work is defined as an objective notion: as purposeful directed action and a property of the natural being of the person. It will be shown that Work serves to fulfill a largely economic role in the life of the person, but that the benefit that Work provides extends well beyond base economic requirements. It will be shown that Work provides social and moral sustenance to the person and that the person needs to belong to something purposeful, useful, and creative. 
+\end{pagewiselinenumbers}

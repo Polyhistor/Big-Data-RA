@@ -1,0 +1,310 @@
+\myChapter{Semantics of Work in the Work System} \label{chap:semantics}
+\nobreak
+\begin{pagewiselinenumbers}
+\section{Introduction}
+\nobreak
+In chapter \ref{chap:semantics}, \cbdelete{}Work and Work in the Work System \cbstart{}are formally defined.\cbend{} In \S\ref{sec:semantics:system}, the principal arguments about the concept of the `system' are summarised. \linelabel{semll6}\cbdelete{}The mind of the person \cbstart{}builds\cbend{} artificial systems. That while in modern usage, the term `system' conveys the meaning of a complete complex union of processes and functionaries,\cbdelete{} the concept also carries an active role. Thus, it serves our purposes, to treat the `system' as an object so that it can be considered in isolation. In \S\ref{sec:semantics:work}, the concept of Work is\cbdelete{} summarised.\cbdelete{} Work provides more than just a means of monetary reward; \cbdelete{}it is also a means toward a sense of fulfillment, \cbstart{}the\cbend{} facilitation of life's requirements and \cbstart{}legitimises\cbend{} \cbdelete{}\cbstart{}doctrines and\cbend{} \cbdelete{}ideals. \cbdelete{}Work is part of the human agency and expression of its being. \cbdelete{}Work is the purposeful transformation of items through assigned tasks. \cbstart{}Work\cbend{} represents the gestalt of the worker. \cbstart{}Finally,\cbend{} the appearance of Work is influenced by factors \cbstart{}that surround\cbend{} it.\linelabel{semll6a}
+
+\linelabel{semll8}In \S\ref{sec:semantics:worksystem}, The Work System is defined in abstract terms in \S\ref{sec:semantics:worksystem:abstract}, objectively in \S\ref{sec:semantics:worksystem:object}, and subjectively in \S\ref{sec:semantics:worksystem:subject}. So that in \S\ref{sec:semantics:context}, the Work System is defined contextually in relation to Taylorist principles, its redefinition in the field of \IS{}, and how that has been applied in application through the lens of the modern technological development of Web 2.0, \cbstart{}as a representative of an \IT{} artefact.\cbend{}\linelabel{semll8a}
+
+\linelabel{semll10}In \S\ref{sec:semantics:formal}, the System, Work, and the Work System are formalised as natural language statements. In some cases, their truth-value is relative to their use. In cases where the truth-value is false there must be an alternative approach permitting the formalisation of those statements that cannot be expressed using standard Kripke semantics for modal logic.\linelabel{semll10a} In these cases a hybrid form of modal logic is used~\cite{Brauner2008} by adding to modal logic a second sort of propositional symbol called a nominal, where in the Kripke semantics each nominal is true, relative to exactly one point. The basis for the temporal logic\label{text:conclusion:temporlogic} used in the latter part of this chapter \cbstart{}is\cbend{} from \citeA{Allen1984}. Allen states that while the semantic structures described are designed for use with Artificial Intelligence (\textsc{ai}), they may be applicable to philosophy and linguistics. \linelabel{semll10b}They have been selected because they provide a means for describing relations with variable time and space objects. The Work System is fundamentally concerned with action and the intention or purpose of the participants involved. \linelabel{semll10c}
+
+\ColourTextRed{In chapters \ref{chap:intro} and \ref{chap:litrev}, the argument is made that the human is an entity that has mind and that it is the mind that simplifies complex relationships through building artificial abstraction. In chapter \ref{chap:semantics}, I argue that a function of the mind is to categorise and organise stimuli by creating objectifications that have relationships.\footnote{\pageref{semll23}:\ref{semll23}--\pageref{semll23a}:\ref{semll23a}. \pageref{semll47}:\ref{semll47}--\pageref{semll47a}:\ref{semll47a}. } The object is a product of the human mind. Therefore, an objective view of Work must make the presumption that it has relationships with other objects. Objectification is a fluid idea that ranges in scope from the individual and unique, to encompass the very large. This permits the mind to encapsulate very large and complex arrangements of objects without being overwhelmed.\footnote{This view is affirmed by referring to the etymology of the word and considering how it may be applied in the field of \IS{}.}\footnote{\pageref{semll26}:\ref{semll26}--\pageref{semll26a}:\ref{semll26a}.} In Chapter \ref{chap:notion}, artificiality is defined as an imitation of reality that enables naturally occurring phenomena to be applied in varying ways. In chapter \ref{chap:semantics}, Work, the System and the Work System are regarded as abstractions and defined in accordance with Peircean pragmatist categories; where the abstract definition seeks to define the Work System as a first, the objective definition as a second, and the subjective definition as a third.\footnote{\pageref{semll8}:\ref{semll8}--\pageref{semll8a}:\ref{semll8a} and\pageref{semll52}:\ref{semll52}--\pageref{semll52a}:\ref{semll52a}.}}
+
+\ColourTextRed{Further, a different level of abstraction is reached through the application of formal logic statements. However, the usual use of logic semantics do not allow for complex relationships that exist between elements that are subject to spatiotemporal variation and state changes.\footnote{\pageref{semll10}:\ref{semll10}--\pageref{semll10a}:\ref{semll10a}.} A solution to the limitation is found in the application of a state and event-type reification of temporal logic.\footnote{\pageref{semll10b}:\ref{semll10b}--\pageref{semll10c}:\ref{semll10c}. \pageref{semll147}:\ref{semll147}--\pageref{semll147a}:\ref{semll147a}.}}
+
+\ColourTextRed{In chapter \ref{chap:notion}, mechanism is defined as the doctrine that all natural phenomena are explicable by material causes and mechanical principles, and so nature has this as a feature. In chapter \ref{chap:semantics}, This definition is applied to the argument that a system has mechanism and purpose and that a distinction is made between the system and the material it produces or uses.\footnote{\pageref{semll26b}:\ref{semll26b}--\pageref{semll26c}:\ref{semll26c}.} Therefore, the concepts of Work as a human expression,\footnote{\pageref{semll33}:\ref{semll33}--\pageref{semll33a}:\ref{semll33a}.} Work and its relationship with humanity as an agency,\footnote{\pageref{semll36}:\ref{semll36}--\pageref{semll36a}:\ref{semll36a}.} and the scope of Work\footnote{\pageref{semll39}:\ref{semll39}--\pageref{semll39a}:\ref{semll39a}.} are presented.}
+
+\ColourTextRed{Therefore, in chapter \ref{chap:semantics}, objective relationships are defined between Work and System,\footnote{\pageref{semll57}:\ref{semll57}--\pageref{semll57a}:\ref{semll57a}.} human and Work,\footnote{\pageref{semll59}:\ref{semll59}--\pageref{semll59a}:\ref{semll59a}.} and Work and technology.\footnote{\pageref{semll60}:\ref{semll60}--\pageref{semll60a}:\ref{semll60a}.} The abstract definition of the object, Work System, brings the previous objects and their relationships together with the requirement of purpose\footnote{\pageref{semll65}:\ref{semll65}--\pageref{semll65a}:\ref{semll65a}.} and as an object; the abstract Work System has relationships with other objects.\footnote{\pageref{semll70}:\ref{semll70}--\pageref{semll70a}:\ref{semll70}.} This allows a subjective appraisal of the Work System concept and provides the opportunity for scrutiny and the acquisition of new~knowledge.\footnote{\pageref{semll75}:\ref{semll75}--\pageref{semll75a}:\ref{semll75a}.}}
+
+\ColourTextRed{Subsequently, objective arguments provide the basis for subjective reasoning.\footnote{\pageref{semll87}:\ref{semll87}--\pageref{semll87a}:\ref{semll87a}.}  I argue that: a Work System may always be improved,\footnote{\pageref{semll78}:\ref{semll78}--\pageref{semll78a}:\ref{semll78a}. } the worker ought to be reconceptualised as a participant in the technological system, rather than as a victim,\footnote{\pageref{semll81}:\ref{semll81}--\pageref{semll81a}:\ref{semll81a}.} and that the view in \IS{} that the \IT{} artefact is the most important element ought to be challenged. Instead, I argue for a `human and technology' conceptualisation.\footnote{\pageref{semll84}:\ref{semll84}--\pageref{semll84a}:\ref{semll84a}. }\footnote{Note that such a conceptualisation differs from the socio-technical concept. Socio-technical theory positions the worker as subordinate to the system, whereas I argue that the system is an expression of human creativity, as the enabler of its capacity to build technical solutions to perceived problems. Once tasks have been completed, technology has served its purpose. Therefore, the system is disposable and secondary to the human.} }
+
+\ColourTextRed{Furthermore, subjective reasoning provides a reconceptualisation of the Work System.\footnote{\pageref{semll94}:\ref{semll94}--\pageref{semll94a}:\ref{semll94a}} At the forefront of the reconceptualisation of the Work System is the human, as an agent of change in both itself and society.\footnote{\pageref{semll97}:\ref{semll97}--\pageref{semll97a}:\ref{semll97a} \pageref{semll116}:\ref{semll116}--\pageref{semll116a}:\ref{semll116a}.} In the reconceptualisation, rather than as a solution to the productionist dilemma (make more with less input), the Work System is an enabler (what are the goals; how might we achieve them).\footnote{\pageref{semll100}:\ref{semll100}--\pageref{semll100a}:\ref{semll100a}. \pageref{semll103}:\ref{semll103}--\pageref{semll103a}:\ref{semll103a}.}}
+
+\vspace{-1em}
+\section{The System} \label{sec:semantics:system}
+\vspace{-0.5em}
+\linelabel{semll23}Human perception and its focus are fleeting, so to understand complexity, the mind compartmentalises and categorises objects as natural phenomena. Relations can then be made between objects in which attractions, repulsions, flows \cbstart{}back and forth,\cbend{} giving's, and takings can be observed and measured. The naturally occurring objects are categorised and ordered according to their relations, which gives rise to the conception that complex relations may be considered as a system. The concept of the system permits the mind to comprehend parts of the whole and build up an appreciation of it without having to grasp the system's entirety.\linelabel{semll23a}
+
+\linelabel{semll26}The ancient Greeks referred to the system in relation to the verb \emph{sun\`i{}stemi}, which means the act of uniting or putting things together \cite{Biblos2010}. The word `system' is normally attributed to mean `total,' `crowd,' or `union' and so the word itself does not refer to a singularity but a multiple that has been collected together into a unity, so that the system can be regarded as one object, bringing the system-object within the scope of human comprehension. Thus a system includes objects of any kind, whether they are organic or synthetic, that may be real or imaginary, and may be infinitely large or small. Systems are recognised by giving them names and labels, so that systems are regarded as objects and related to other systems. A cog within a clock that is used to measure the passage of time is a complete component, but is not a system.\linelabel{semll26a} \cbstart{}\citeA{Alter2002} reminds us that a \cbend{} single computer software package that is \cbstart{}limited in its scope or influence\cbend{} is not an information system, while it might be used in one.\cbdelete{} \linelabel{semll26b}Data are not systemic and while they may occur throughout the entire system, they are not causative. Naturally occurring phenomena, are not systems, but systems of naturally occurring phenomena may be conceived so that they can be observed as exclusive processes, objects, and relations.\linelabel{semll26c}
+
+In the sense that to produce is a revealing or disclosure of the standing reserve,\footnote{See Heidegger's definition of standing reserve on p.~\pageref{text:democrat:stdgres}.} and nature is challenged to store and order that which was revealed~\cite{Heidegger1954}, then \linelabel{semll29}the ordering of the standing reserve that is set upon nature is an artificial overlay. The system is the means by which production facilitates the disclosure and ordering of the standing reserve through technology. The artifice of building the system as an extension of the mind is the means by which the standing reserve is ordered, so\cbdelete{} the mind may perceive\cbstart{} the standing reserve.\cbend{} \linelabel{semll29a}
+
+\section{Work} \label{sec:semantics:work}
+\nobreak
+\linelabel{semll33}\cbstart{}Paraphrasing\cbend{} \citeA{Smith1937}, \cbdelete{}Work is the real price of everything. Work is the energy expended to cause something to be and to disclose its objective usefulness from its occurrence in its natural state to some other thing that is wanted or desired. As a human act, Work fulfils more than just an economic prerogative but is used to justify social and moral stances too.\footnote{See Tannenbaum's comment on p.~\pageref{text:notion:moral}, the reference to socialisation of Work on p.~\pageref{text:socialisation:social}, and as a driver for change in Work on p.~\pageref{text:evolution:social}.} Work is a means by which a human can lay claim to the belief that they belong to something greater than themselves, a greater something that they might refer to as being more real, purposeful, useful or creative. The ends that Work provides are measured by the economic gain it provides, the sense of fulfilment afforded during the act of it, the facilitation of life's requirements, and the legitimisation of religious doctrine or utopian ideals.\footnote{In particular p. \pageref{text:notion:utopia}.} I would therefore argue that a child ought not to have a conception of Work. For the young child, learning, experiencing, and other activities are surrounded as play. When play is fun, much can be learned but when it is no longer fun, it becomes boring for the child. \cbstart{}Moreover,\cbend{} in this learning process of fun/not-fun activity, the child\cbdelete{} learns what it wants to do or not.\linelabel{semll33a}
+
+\textls[15]{\linelabel{semll36}Work is wholly part of the human agency and expresses its being; physically, emotionally, psychologically, and spiritually.\footnote{See \S\ref{sec:evolution:agency} on p. \pageref{sec:evolution:agency}.} Work allows the human to attach \cbstart{}itself\cbend{} to an industry in a way that is symbiotic. Work benefits the human by confirming their beingness and identity on the one hand, and it benefits the industry by providing the power to meet the challenge of storing and ordering. The human\cbdelete{} ordered and cat-}\newpage{}\noindent{}egorised through Work such that their efforts are held in store, allowing \cbdelete{}redundant patterns to emerge.\footnote{For example, \S\ref{sec:democrat:IS} on p. \pageref{sec:democrat:IS}.} When those patterns do not match requirements, the volume of required resources (number of humans) may be increased or decreased as needed.\linelabel{semll36a} \cbdelete{}The human was reframed as standing reserve \cbdelete{}\cbstart{}reaching an\cbend{} extreme\cbdelete{} in the West. \cbdelete{}The scientific method \cbstart{}provided\cbend{} the opportunity \cbstart{}for industrialists\cbend{} to build a conception of Work where space and time were reframed such that for the worker, Work was their only reality; where reality would be time spent working or otherwise `unemployed' and out of work~\cite{Heidegger1981} and became work for the sake of more work~\cite{Zimmerman1990}.
+
+\linelabel{semll39}I assert that the human is not wholly defined by its Work. Just as Work is a means of expression; there are \cbdelete{}acts that are not Work. The acts required to bring about life sustaining goods are Work while not-Work acts have no such purpose. Works acts are purposeful where not-Work acts have no purpose in sustaining the life of the human. Work acts prescribe what the human must do, how it must behave, what it may respond to or not. These conceptions are materialist and do not acknowledge the human as a metaphysical being. Not-Work acts are those that engender inspiration, awe, love, wonder, and joy. The absence of not-Work acts leaves the human indifferent and apathetic, therefore to keep the human engaged demands more than streamlined processes and ever more efficient transactions, they need to balance the various parts of their lives. Without stimulus, the worker is subject to the meanness of their tasks, the result of which is frustration and fatigue.\linelabel{semll39a}
+
+To illustrate the assertion that Work must entail more than the performance of assigned tasks, from the field of management where Work is defined as the purposeful transformation of items through an assigned task. \citeA{Trist2000} describe a `whole task' as one which encompasses those attributes that define a task's activities, outcomes, participants, inputs, work allocations, timing, and effort. When a group is assigned a whole task, its members accept responsibility for the successful completion of the task and they experience all aspects of the task's operations. This assignation brings the task within the notion of minimal critical specification where, while the members of the group know \emph{what} is to be done, rarely is it important to define \emph{how} the task is to be completed. For this approach to be successful, it is important that the group accepts its autonomy and make decisions based on local conditions. As the group is assigned new tasks, it gains experience and can apply what it has learned to new situations~\cite{Rice1958}. Any group in this conception is dynamic and is not exclusive in its working environment.
+
+\linelabel{semll44}For \citeA{Junger2007}, Work is the representation of the Gestalt of the worker, \cbstart{}where Gestalt is the beingness that anchors entities within the domain of humanity.\cbend{}\footnote{See p. \pageref{text:notion:gestalt}.} \cbdelete{}The Gestalt of the worker\cbdelete{} ensures humanity is printed in accordance with the requirements of the \cbstart{}predominating\cbend{} system.\cbdelete{} When people and things appear, it is their beingness that stamps them; thus at different times, their appearance varies. \cbstart{}Variations are\cbend{} relative to the qualities they are stamped.\cbdelete{} \cbstart{}Therefore,\cbend{} it is by virtue of their stamping that entities are attracted to or repelled from each other, thus movements or waves of appearance are caused by the relations between mutually attracted or repulsed entities.\cbdelete{} As a being, the human is not fixed and it is through Work that the human reveals insights, variations, and new possibilities. This tendency in the human sees technology being applied in \cbstart{}new\cbend{} ways.\linelabel{semll44a}
+
+\textls[2]{\linelabel{semll47}Work as an object, is influenced by factors that surround it.\linelabel{semll47a} For example power asymmetries such as race, gender, class and position, access to authority and information, economic power, social and political influence, degrees or lack of respect are maintained by management to ensure compliance for decisions that have been made~\cite{Barenberg1994,Bowman2007}.\footnote{See in particular p. \pageref{text:production:object}.} \cbstart{}However, while the traditional app-\newpage{}\noindent{}}roach in industry has been to employ command and control styles of management, the influence of modern technologies such as Web 2.0 have caused some enterprises to incorporate more democratic methods in the decision making processes at mainly operational levels. To illustrate,\cbend{} the Millennial\footnote{See definition on p. \pageref{text:intro:millennial}.} is a by-product of the technological system where the system has become a significant part of the consciousness of the person.\cbdelete{} Millennials enter the workforce with the expectation that they can make use of social networking tools just as the previous generation used instant messaging and before that, email~\cite{MajchrzakCherbakovIves2009}. Millennials bring into phase their personal and Work life by creating a technological bridge of information flow, they see their role in the enterprise as actively participating in decision making processes and providing governance both to themselves and the enterprise~\cite{Strauss2000}. 
+
+\section{The Work System} \label{sec:semantics:worksystem}
+\nobreak
+\textls[2]{\linelabel{semll52}In \S\ref{sec:semantics:system}, the concept of the System was defined and in \S\ref{sec:semantics:work}, the concept of Work done by the human was defined. In \S\ref{sec:semantics:worksystem}, these are brought together as the definition of the Work System. The definition has three attributes: abstract, objective, and subjective. The abstract definition of the Work System (in \S\ref{sec:semantics:worksystem:abstract}) positions Work and its relationships to the human through the performance of tasks that have specific goals or objectives and technology that is used to achieve those goals. The objective definition of the Work System in \S\ref{sec:semantics:worksystem:object} treats the Work System as a substance with properties so that the Work System can be considered as the product of the human mind, such that the human is \cbstart{}it\cbend{} treated as a substance.\footnote{See the discussion on the human in \S\ref{sec:intro.human} and the rationale on p. \pageref{text:intro:substance}.} The subjective definition of the Work System in \S\ref{sec:semantics:worksystem:subject} positions the Work System as a substance that exists in the interval}\newpage{}\noindent{}between the human and technology. That is, it is subject to spatiotemporal variations from either external~influence.\linelabel{semll52a}
+
+\vspace{1em}
+\subsection{The abstract Work System} \label{sec:semantics:worksystem:abstract}
+\vspace{0.5em}
+\linelabel{semll57}Work \cbstart{}provides\cbend{} the means \cbstart{}so that\cbend{} change \cbstart{}may be\cbend{} exercised upon an object, where that object may exist spatiotemporally or as an abstraction. Work in a System is any conception of Work that is limited to exertions of humans or their extensions, within the bounds of a system. Work in a System may influence or effect causes on objects outside the System. \linelabel{semll57a}
+
+\linelabel{semll59}Humans are related to Work through the effort they express in the performance of a task and humans are related to other humans in the system through tasks. A task is the specific Work that is done by the human within the System, with or without the aid of technology, to achieve a goal or objective. A task is completed within spatiotemporal limitations. A task may consist of sub-tasks and may have dependencies for its successful completion. The human-task-human relation is the socio-cultural context in which tasks are undertaken. The effort expressed to complete tasks may be disclosed as planned processes or as naturally occurring ad-hoc events where a single human or group has greater autonomy. \linelabel{semll59a}
+
+\linelabel{semll60}Work that is facilitated by technology is an extension of the intention and purpose of the mind of the human. Technology is an extension of the mind to facilitate Work.\linelabel{semll60a}
+
+\linelabel{semll65}A Work System includes humans and technology. It may include single or multiple groups of humans and technologies but the purpose is focussed. If there are multiple or competing purposes, these are represented as multiple Work Systems within a greater~whole.\linelabel{semll65a}
+
+\subsection{The Work System object} \label{sec:semantics:worksystem:object}
+\nobreak
+\linelabel{semll70}The properties of the Work System include humans, technology, and processes or operations. Humans perform tasks through systematic or a-systematic processes or operations to organise or distribute resources so that the tasks may be completed. Processes or operations incorporate technology to facilitate production or ordering of the standing reserve. The Work System provides means and ways so that production can facilitate the disclosure and ordering of the standing reserve. A Work System may be considered a substance where the property of the human brings with it the properties of mind. The Work System functions as an extension of the mind, so that the standing reserve may be ordered and the mind perceive. It is useful to think of the Work System as a unity that performs Work to produce, reveal, or disclose. Work in the Work System is a human expression of its beingness and production is a revealing of the standing reserve. An \IT{} artefact has properties found in a Work System and may be used by humans, but it is not a Work System. A group of humans who engage in Work may complete tasks without the aid of computers but if they also use other technology to facilitate production or ordering, then the system in which they are engaged may be considered a Work System. Humans who use no technology in their Work may complete tasks but they are not involved in production or ordering of the standing reserve.\linelabel{semll70a}
+
+\subsection{The Work System subject} \label{sec:semantics:worksystem:subject}
+\nobreak
+\linelabel{semll75}Regarding a Work System as an object and a substance permits observation of its properties. Observation of its properties allows analysis of them within their relative environments and factors that influence those properties. Adaptations to Work System properties (human responses to change) may be observed if the influence from external factors vary. \linelabel{semll75a}
+
+\newpage{}\linelabel{semll78}A Work System may be\cbdelete{} less \cbdelete{}effective than \cbstart{}expected.\cbend{} That is, the Work System may be altered and improved to be more productive, efficient, or cost-effective. Whether a Work System may be improved is dependent upon its purpose. Any aspect of a Work System ought to be measurable and its performance compared with an ideal, to historical accounts, to an exemplar, or with other Work Systems.\linelabel{semll78a}
+
+\linelabel{semll81}Work is wholly a human expression but the human is not wholly defined by Work. The human desires order and control, and the systematic ordering of Work in the socio-cultural context permits it the opportunity to participate. Thus, the human becomes a participant in Work, and they are given permission to engage in processes that involve other participants and technology.\linelabel{semll81a}
+
+\linelabel{semll84}In \IS{}, the technological artefact is of paramount importance but in this, the human element is lacking.\footnote{Examples of how the technological artefact is treated may be seen on pp. \pageref{text:litrev:artefact}, \pageref{text:litrev:artefact1}, \pageref{text:litrev:artefact2}, \pageref{text:notion:artefact}, \pageref{text:production:artefact}, \emph{\pageref{text:democrat:artefact}}, \pageref{text:democrat:artefact1}, and \pageref{text:evolution:artefact}.} The Work System provides a participative conception of the human-technology relation but is devoid of social and political agendas, and economic and industrial imperatives. Instead, the Work System positions Work as a natural human expression that, when aided with technology, enables far greater results from effort applied and is the principal driver for change. The Work System is revealed as the means by which change is made systematically, for the distribution of tasks, and the definition of processes. The Work System provides an environment in which relations can be objectively mapped between participants, processes, tasks, and technology. \linelabel{semll84a}
+
+\linelabel{semll87}A Work System exists \cbdelete{}where there may be other Work Systems. The properties of a Work System may come under the influence of, or gain influence over another Work System. External factors may cause change or alteration to occur in a Work System, and alterations within a Work System may effect change in the system as a whole, with the cascading effect of successive alterations or changes in other Work Systems. A Work \newpage{}\noindent{}System may be designed, or it may have evolved and been subsequently revealed through analysis of a discrete situation.\linelabel{semll87a}
+
+\cbstart{}\section{The Work System reconceptualised} \label{sec:semantics:context}\cbend{}
+\nobreak
+For \citeA{Taylor1911} the Work System is a process that, through the application of scientific management principles to the piece-work system, can be improved upon. More can be produced from the same amount of human labour, he says, than \cbstart{}when\cbend{} workers are left to determine their own work practices. His solution is to plan and project the efforts of each worker involved in production and thus to maximise on input. In sociotechnical theory, there is a shift in emphasis away from the analysis of an individual's performance in a Work System towards teams or groups, and provides a strategy for breaking down the traditional hierarchical organisational structure~\cite{Trist2000}. \citeA{WilsonWhittington2001} build on the work of ~\citeauthor{Trist2000} and describe how self-managed work teams differ from the traditional concept of a work group such that planning, organisation, prioritising and staffing are undertaken by the team rather than by a supervisor. The team will usually take responsibility for an area of work and the level of autonomy may vary. Activities are normally interdependent and team members may be multi-skilled to enable \cbstart{}transferral\cbend{} between them. As well as having those attributes that have been mentioned, the team is identifiable with defined boundaries within a larger social system and the member roles are differentiated~\cite{Hackman1990}. \citeA{Alter2002} uses the Work System in a conceptual sense when he describes the Work System as a method for understanding, analysing, and improving systems in organisations, whether or not \IT{} is involved. \citeA{Mumford1983} suggests that a Work System is spatiotemporally defined (as opposed to a set of scientific processes or a conceptual framework) where people can come together and share knowledge and experience for the benefit of the greater whole. \citeA{BostromHeinen1979,BostromHeinen1979a} say that a Work System is a means for allocating work tasks to workers in a defined sub-system within an organisation, for example, a department. \citeA{DavisTaylor1979} say that Work Systems are a social construct that exist within social systems and that a person has the power to create or otherwise organise those social systems. \citeA{Trist1981}, while acknowledging that a Work System is both discreet and inter-linked, tries to link the Work System to technology when he says that multiple Work Systems include more than one face-to-face group along with others in matrix and network clusters.
+
+\linelabel{semll94}The purpose of any Work System is determined through a combination of properties that comprise the Work System and the reason for its existence. For \citeA{Taylor1911}, that means the scientific selection of workers, the equal division of labour and the training and development of workers. \citeA{Mumford1983} has it as a set of activities contributing to an integrated whole, \cbdelete{}not as a set of individual jobs that should be regulated by its members and not by external supervisors. However, \citeA{Land2000} claims that the prime aim of implementing a Work System is to improve the quality of working life. The element of control must take into account known and unanticipated change. \citeA{Alter2003} acknowledges that models are spatiotemporally dependent, and thus, changes occurring within the environment that a Work System models, will eventually be reflected in the model itself. That is, while it may be regarded as a Cambridge change, a conceptual model maintains a singular form during a particular time interval and changes in a Work System may be required during that interval without significantly changing its form.\linelabel{semll94a}
+
+\linelabel{semll97}The human is the principal agency of alteration in its self and society.\footnote{See in particular \S\ref{sec:evolution:agency} on pp. \pageref{sec:evolution:agency} and \pageref{text:evolution:agency1}.} Technology, as an extension of the human mind, is a second agency of alteration in the human psyche. Alteration, when viewed cumulatively, amounts to change in the socio-cultural fabric of \newpage{}\noindent{}society. It is not right to suggest that technology causes change in society; \cbdelete{}the human\cbdelete{} causes alteration \cbstart{}using\cbend{} technology.\linelabel{semll97a}\footnote{\textls[-12]{For example the spread of printed bibles in sixteenth century Europe promoted in a proportion of the population a desire to be better educated, so that they could make decisions about what they chose to believe rather than having access to knowledge restricted and arbitrarily released on occasion. In that case the technology of moveable type printing enabled the distribution of knowledge in printed works much more effectively than by the usual method of copying line by line or carving every page on wood blocks.}}
+
+\linelabel{semll100}Whereas the Work System was first conceived as a solution to the apparent problem in the industrial setting: of how to achieve a controlled and standardised production environment \cbstart{}with built-in\cbend{} safeguards.\cbdelete{} In recent years, society has altered, arising from the uptake of modern networked technologies, \cbstart{}for example\cbend{} Web 2.0. In some cases, the uptake has resembled the occurrences of sixteenth century Europe where the distribution of knowledge that had been previously inaccessible has allowed people to decide what they choose to believe, but Web 2.0 is more effective in its role as an enabler of ordering.\linelabel{semll100a}
+
+\linelabel{semll103}Web 2.0 enables the participant human to order the standing reserve.\cbdelete{} 
+\begin{inparaenum}[(1)]
+\item It obtains of \emph{immediacy}. \cbstart{}Sophisticated search algorithms\cbend{} and indexes \cbstart{}built on web ontologies.\cbend{}
+\item The proliferation of devices that are able to communicate on the Internet means that it is \emph{always available}.
+\item \cbstart{}It is relatively easy to build applications that provide\cbend{} multiple means of keeping in touch, which means one is \emph{always contactable}.
+\item The communities that arise are \emph{inclusive}, that is the online community reflects the ``old order'' communities that existed prior to the Industrial Revolution in that there are shared morals, ethics, produce, and so on. People are self-excluded from these communities.
+\item Through standardisation and the\cbdelete{} success of\cbdelete{} applications, there is a general trend towards unification, which provides \emph{reliability}.
+\item \cbstart{}Applications must guarantee \emph{security} where\cbend{} the infrastructure is insecure.\cbdelete{}
+\item \cbdelete{}Barriers represented by time, money, effort, knowledge availability and acquisition are \emph{\cbdelete{}increasingly lowered.}
+\item \cbstart{}For\cbend{} \emph{morals and ethics \cbstart{}to be\cbend{} respected,} \cbdelete{}social norms, customs, and traditional values \cbdelete{}need to be\cbend{} built into \cbdelete{}systems.\cbdelete{}
+\item \cbdelete{}\emph{Ownership} must be resolved and constantly monitored. \cbdelete{}Issues \cbdelete{}include: personal space and possession versus collective access, use, and appropriation.
+\end{inparaenum}\linelabel{semll103a}
+
+\linelabel{semll116}The Work System, regarded as a socialised system in which Work is facilitated by technology, and in the Web 2.0 context, entails democratic processes. Where the human participates with technology to order the standing reserve then the attribution of power in the enterprise is altered and the participant as technological human is reframed. That the technological human is reframed causes shifts in power asymmetries within the enterprise such that through deliberation, the power of decision making in the enterprise is redistributed toward operational levels. Redistribution of power in decision making provides new opportunities both for ordering of the standing reserve and for the development of new strategies at the enterprise level.\linelabel{semll116a}
+
+\newcommand{\acause}{\text{\textsc{acause}}}
+\newcommand{\agent}{\text{\textsc{agent}}}
+\newcommand{\behaviour}{\text{\textsc{behaviour}}}
+\newcommand{\belief}{\text{\textsc{belief}}}
+\newcommand{\change}{\text{\textsc{change}}}
+\newcommand{\culture}{\text{\textsc{culture}}}
+\newcommand{\during}{\text{\textsc{during}}}
+\newcommand{\holds}{\text{\textsc{holds}}}
+\newcommand{\intend}{\text{\textsc{intend}}}
+\newcommand{\intention}{\text{\textsc{intention}}}
+\newcommand{\knowledge}{\text{\textsc{knowledge}}}
+\newcommand{\meets}{\text{\textsc{meets}}}
+\newcommand{\occur}{\text{\textsc{occur}}}
+\newcommand{\occurrence}{\text{\textsc{occurrence}}}
+\newcommand{\process}{\text{\textsc{process}}}
+\newcommand{\purpose}{\text{\textsc{purpose}}}
+\newcommand{\subwork}{\text{\textsc{sub-work}}}
+\newcommand{\system}{\text{\textsc{system}}}
+\newcommand{\task}{\text{\textsc{task}}}
+\newcommand{\tech}{\text{\textsc{technology}}}
+\newcommand{\work}{\text{\textsc{work}}}
+\newcounter{predicateCounter} \setcounter{predicateCounter}{0}
+\newcommand{\predicate}[1]{\par \stepcounter{predicateCounter} 
+\noindent \footnotesize\textsf{\textbf{Predicate \arabic{predicateCounter}}.\quad}\normalsize \hangindent=0.5cm #1}
+\newcounter{propositionCounter} \setcounter{propositionCounter}{0}
+\newcommand{\proposition}[1]{\par \stepcounter{propositionCounter} \noindent\footnotesize\textsf{\textbf{Proposition \arabic{propositionCounter}}.\quad}\normalsize \hangindent=0.5cm #1}
+
+\section{Work in the Work System: a formal ontology} \label{sec:semantics:formal}
+\nobreak
+\linelabel{semll147}In \S\ref{sec:semantics:formal}, Work and the Work System are defined using a state and event-type reification of temporal logic.\linelabel{semll147a}\footnote{Refer to pp. \pageref{text:intro:temporlogic}, \emph{\pageref{text:method:temporlogic}--\pageref{text:method:temporlogic1}}, \pageref{tab:predicates}, and \pageref{text:conclusion:temporlogic}.} \citeA{Hofweber2011} says ``formal ontologies are theories that attempt to give precise mathematical formulations of the properties and relations of certain entities'' and that representational formal ontologies are used to describe a domain of entities, in this case Work, the System, and the Work System. The statements in \S\ref{sec:semantics:formal} provide the basis for a representational formal ontology of Work and its relationship to the System and the Work System in which the statements are representative of systematic formal descriptions.
+
+\linelabel{semll149}The statements in \S\ref{sec:definition:predicates} provide axiomatic representations \cbstart{}of\cbend{} first order predicates \cbstart{}that\cbend{} describe Work as an object \cbstart{}and\cbend{} the manner in which change \cbdelete{}occurs. \cbdelete{}The statements in \S\ref{sec:definition:propositions} provide systematic representations of the relationships \cbdelete{}between \cbdelete{}objects \cbstart{}previously identified.\cbend{}\linelabel{semll149a}
+
+\newpage{}\noindent{}For reference, the following conventions have been used:\footnote{See Table \ref{tab:predicates} on p. \pageref{tab:predicates}.} 
+\vspace{-1em}
+\begin{description*}\label{text:semantics:conventions}
+\item[$\wedge$] Conjunction
+\item[$\vee$] Disjunction
+\item[$\neg$] Negation
+\item[$\Rightarrow$] \cbstart{}Implication, it implies\footnote{\citeA{Quine1982} objects to the symbolic meanings ``implies'' for $\Rightarrow$ and ``equivalent to'' for $\Leftrightarrow$; preferring instead ``if $p$ then $q$'' for the former and ``$p$ if and only if $q$'' for the latter.}\cbend{}
+\item[$\Leftrightarrow$] Equivalence, it is equivalent to
+\item[$\forall$] Universal quantifier, for all or in the case of any occurrence of
+\item[$\exists$] Existential quantifier, there exists or it may exist
+\item[$\in$] Set notation, inclusion
+\item[$\holds (p,t)$] A property holds during a time interval
+\item[$\occur (e,t)$] An event occurs during a time interval
+\end{description*}
+
+\subsection{Predicates} \label{sec:definition:predicates}\linelabel{semll169}
+\nobreak
+The statements in \S\ref{sec:definition:predicates} provide axiomatic representations of objects related to the conceptions of Work and System.
+
+\predicate{An object is appreciably present in an abstract form or exists as a substance. \\
+Thus for any object to exist, it must have some property. \\
+\mbox{$\quad \exists o, o(p)$}}
+
+\predicate{Change is a substantive alteration to an object's properties. \\
+\cbstart{}\mbox{$\quad \exists o, o(p,p')$}\cbend{} \\
+\cbstart{}\mbox{\quad Alternatively, the statement may be expressed as}\cbend{} \\
+\mbox{$\quad \change (o,p,p')$}}
+
+\newpage{}
+\predicate{Work is done if an only if some object has been changed over some\cbdelete{} period.  \\
+\mbox{$\quad T \in (t_1, t_2)$} \\
+\mbox{$\quad \work \Leftrightarrow \occur (\change(o,p,p'),T)$}}
+
+\predicate{Intention is the act of focussing the mind and maintaining a sense of purpose. \\
+Thus, it holds that during an occurrence, the mind is focussed on an object with a sense of purpose (an event, $e$) for the period. \\
+\mbox{$\quad \intention \Leftrightarrow \holds (o,\occur (e,T))$} \\
+However \intention{} implies some cause of the event and requires an agency to effect the cause, that is to make the intention manifest. \\
+\mbox{$\quad \intention \Rightarrow \acause (\agent, \occurrence)$}}
+
+\predicate{Work is \cbstart{}done\cbend{} if and only if there is an agent present to carry out some intention.\\
+\mbox{$\quad \intention \Leftrightarrow \work ( \acause (\agent, \occurrence),T)$}}
+
+\predicate{A process is a specific series of Work steps that are completed until an intention is matched. \\
+\cbdelete{}A process has a disjunctive relation with its intention. \\
+\mbox{$\quad \process ((\subwork_n \wedge \subwork_{n+1}),T) \vee \intention$} \\
+Until such time that, the intention is met. \\
+\mbox{$\quad \exists o, \change(o,p,p') \Leftrightarrow \intention$} \\
+Unlike an event where the number of times it has occurred can be counted as they occur, the repetitions of a process cannot be counted. Instead, they are treated as a continuous occurrence of a single process. \\
+\mbox{$\quad \holds (\occur (e,t)) \Rightarrow \occurrence (e,t)$}}
+
+\newpage{}
+\predicate{A task is systematic Work that causes change to be effected by an agent. \\
+A task, like an event, may be repeated indefinitely or for as long as it is required. \\
+\mbox{$\quad \task (e^n,T)$} \\
+\mbox{$\quad \exists \work \exists \intention, \task \Rightarrow \change (o,p,p')$} \\
+\mbox{$\qquad \Rightarrow \work ( \acause (\text{agent, occurrence}),T)$}}
+
+\predicate{In a system, objects are changed. \\
+\mbox{$\quad \system(\change(o,p,p')) \Rightarrow \intention (\work (\task \wedge \process)) $} }
+
+\predicate{A human is a substance that may be individual, in a group, or in a group of groups. \\
+\mbox{$\quad \exists h, h(p,q)$} \\
+\mbox{$\quad \forall h, H \Leftrightarrow \in (h_1,h_2, \dots h_n)$} \\
+\mbox{$\quad \forall H, H^n \Leftrightarrow \in (H_1,H_2, \dots H_n)$} }
+\linelabel{semll169a}
+
+\newpage{}
+\subsection{Propositions} \label{sec:definition:propositions}\linelabel{semll223}
+\nobreak
+The statements in \S\ref{sec:definition:propositions} provide a representational ontology of the conceptions of Work, System, and the Work System.
+
+\proposition{Work is the means by which change is exercised upon an object where that object may exist either spatiotemporally or as an abstraction. \\
+\mbox{$\quad \forall o \forall p \forall p', \occur (\work,o(p,p')) \wedge $} \\
+\mbox{$\qquad \in (o(p,p') \Rightarrow \neg \text{ }\occur{}(\work,o(p',p')))$}}
+
+\proposition{Work within a System may effect changes \cbstart{}in\cbend{} objects \cbstart{}in other systems.\cbend{} \\
+\mbox{$\quad \exists \system \exists \system' \forall o \forall p \forall p', \occur (\work (\system(o,p,p')) $} \\
+\mbox{$\qquad \wedge \text{ } \occur (\work (\system' (o,p,p'))) $}}
+
+\proposition{Work in a System is any conception of Work that is limited to exertions of \cbstart{}a human $h$ or its\cbend{} extensions $h'$ within the bounds of a system.  \\
+\mbox{$\quad \forall h' \forall h, \work \Rightarrow h; \work (h , h')$} \\
+\mbox{$\quad \exists \system, \system (\work (h , h'))$}}
+
+\proposition{A task is the specific Work that is done by a human within the System, with or without the aid of technology, in order to make its intention real. \\
+\mbox{$\quad \exists \system \exists \work \exists \intention, \task \Leftrightarrow $} \\
+\mbox{$\qquad \work \in (\occur (\system) \wedge \holds (\intention ))$}}
+
+\proposition{A task is spatiotemporally defined. \\
+\mbox{$\quad \forall \task, \occur (\task (\change (o,p,p'), T))$} \\
+A task may consist of sub-tasks and may have dependencies for its successful completion. \\
+\mbox{$\quad \forall T , \neg \in (\task, T) \Rightarrow  \holds (\task, T)$} \\
+\mbox{$\quad \exists T , \in (\task, T) \wedge \neg \holds (\task, T)$} \\
+\mbox{$\qquad \therefore$} \\
+\newpage{}
+\mbox{$\quad \holds (\task' ,T) \Rightarrow \neg \holds (\task, T)$} \\
+\indent and \\
+\mbox{\hspace{1.5em}$\quad \holds ((\task')' ,T) \Rightarrow \holds (\task, T)$}}
+
+\proposition{Tasks, processes, and technology are properties of a Work System. \\
+\mbox{$\quad \holds (p, \work\system) \Leftrightarrow$} \\
+\mbox{$\qquad (\forall \in ((\task,\process,\tech),\work\system) \Rightarrow$} \\  
+\mbox{$\qquad (\exists \task, (\task,\work\system) \wedge$} \\
+\mbox{$\qquad \exists \process, (\process,\work\system) \wedge$} \\
+\mbox{$\qquad \exists \tech, (\tech,\work\system))$} \\
+In a Work System, Work is divided into tasks or processes. \\
+\mbox{$\quad \occur (\work,T) \wedge \text{ } \in (T,T') \Rightarrow \neg \occur (\work,T') $} \\
+\mbox{$\quad  \occur (\work (\task, \task'),T) \Rightarrow $} \\
+\mbox{$\qquad (\exists t_1 \exists t_2, \meets (t_1,T) \wedge \text{ } (T,t_2) \wedge $} \\
+\mbox{$\quad\qquad \holds (\task,t_1) \wedge (\task,t_2)) \wedge $} \\
+\mbox{$\qquad (\forall T', \in (T',T) \Rightarrow $} \\
+\mbox{$\quad\qquad \neg (\exists t_3 \exists t_4, \meets (t_3,T') \wedge \meets (T',t_4) \wedge $} \\
+\mbox{$\quad\qquad \holds (\task', t_3) \wedge \holds (t_4,\task'))$} \\
+\mbox{$\quad  \occur (\work (\process, \process'),T_n) \Rightarrow $} \\
+\mbox{$\qquad (\exists t_1 \exists t_2, \meets (t_1,T) \wedge \text{ } (T,t_2) \wedge $} \\
+\mbox{$\quad\qquad \during (\process,t_1) \wedge (\process,t_2)) \wedge $} \\
+\mbox{$\qquad (\forall T', \in (T',T) \Rightarrow $} \\
+\mbox{$\quad\qquad \neg (\exists t_3 \exists t_4, \meets (t_3,T') \wedge \meets (T',t_4) \wedge $} \\
+\mbox{$\quad\qquad \during (\process', t_3) \wedge \during (t_4,\process')))$} \\
+Note that Work may be disclosed as a planned process or task in the Work System, or Work may reveal itself as a naturally occurring ad-hoc event if the human participant has autonomy. }
+
+\newpage{}
+\proposition{A Work System may include single or multiple humans, or single or multiple groups of humans, and technology. \\
+\mbox{$\quad \work \system \Leftrightarrow{ } \in (h, H, \tech )$}}
+
+\proposition{Humans are related to all other humans in the Work System through Work they do. \\
+\mbox{$\quad \work \system \Leftrightarrow \occur (\work (h,H))$}  \\
+\cbstart{}However, not\cbend{} all humans are\cbdelete{} related to \cbstart{}the\cbend{} humans in the Work System. \\
+\mbox{$\quad \forall H \exists h_1', \holds (h_1',H) \Leftrightarrow $} \\
+\mbox{$\qquad (\forall h_1, \in (h_1, H) \Rightarrow \neg \holds (h_n, h_1))$} \\
+\mbox{$\quad\qquad \therefore$} \\
+\mbox{$\quad \holds ((h_1')',H) \Leftrightarrow \holds (h_1,H)$}}
+
+\proposition{The human-task-human relation is the socio-cultural context in which Work is done in the Work System. \\
+\mbox{$\quad \holds (\work\system,h) \Leftrightarrow $} \\
+\mbox{$\qquad (\occur (\work\system, \work ) \wedge \holds (h_1,H))$} \\
+A working definition for `culture' is that it is disclosed through human relations as a set of integrated patterns that are commonly recognised as knowledge, beliefs, and behaviour.   `Culture' is dependent upon the capacity of its participants to engage in symbolic thought and social learning in order to build accepted patterns, therefore it is a revealing of a set of shared attitudes, values, goals, and practices that may then be taken to characterise some institution, organisation or group.  \\
+The description is predicated on \holds{ } and \occur{ } as `culture' exists both as an object and a process, thus \\
+\mbox{$\quad \holds (\occurrence,T) \Leftrightarrow \occur (\holds(p,q),T)$} \\
+The properties of `culture' are those that once disclosed become fixed unless they are changed. In this instance the shared attitudes, values, goals and practices of \knowledge, \belief, and \behaviour{ } of participants identify one `culture' as being distinct from another. \\
+\mbox{$\quad \culture((p,q),T) $} \\
+\mbox{$\quad \holds (\culture( \in (\knowledge, \belief, \behaviour),T) \Leftrightarrow $} \\
+\mbox{$\qquad (\holds (\occur (\knowledge (p,q),T) \wedge $} \\
+\mbox{$\quad\qquad \occur (\belief (p,q),T) \wedge $} \\
+\mbox{$\quad\qquad \occur (\behaviour (p,q),T))) \vee$} \\
+\cbstart{}\mbox{$\quad \holds ((\culture'((p,q),T) \vee  \culture((p,q),T')) $}\footnote{While noted as disjunction, the intention here is `non-exclusive or,' as in `$p \text{ and/or } q$.'}\cbend{} \\
+A Work System exists as a cultural artefact and is thus an object within a culture. \\
+\mbox{$\quad \culture(\holds (\work\system, \occur( \work) ),T) $} }
+
+\proposition{A Work System exists as a socio-cultural object in which technology is used to facilitate Work. \\
+\mbox{$\quad \culture(\holds (\work\system, \occur( \work ( \occurrence ( \rhookdownarrow$} \\
+\mbox{$\qquad \rightsquigarrow (\change(o,p,p'),T)  \wedge \tech) ),T)) $} }
+
+\proposition{Work that is facilitated by technology is an extension of the intention and purpose of the mind of the human.\footnote{\cbstart{}See \pageref{notionll105b}:\ref{notionll105b}.\cbend{}}\\
+\mbox{$\quad \intention \Leftrightarrow \acause (h(\text{mind, purpose}), \occurrence) \Rightarrow$} \\
+\mbox{$\qquad \work ( \acause (h(\text{mind, purpose}), \occurrence),T) \wedge$} \\
+\mbox{$\quad\qquad \work\system (\occur (\work(\tech \wedge h(\text{mind, purpose}))))$} \\
+Note: For the sake of coherence the human is treated as a substance of which `mind' is a property. \cbstart{}A\cbend{} human fulfils its purpose, \cbstart{}technology is an extension of the mind's facilitation of Work.\cbend{}}
+
+\proposition{The purpose a Work System obtains is its human defined purpose.\footnote{\cbstart{}See \pageref{notionll105b}:\ref{notionll105b}.\cbend{}} \\
+A working definition of \purpose{} is that it represents the object of an intention maintained as a guide  to action. \\
+\mbox{$\quad \purpose \Leftarrow \holds ( \intention \wedge \occur (\work (p,q),T)) $} }
+\proposition{A Work System ought to have one defined purpose. \\
+\mbox{$\quad \work \system ( \holds ( \purpose (p,q) ) ) $} \\
+Where there are multiple or competing purposes, these are represented as multiple Work Systems within a greater whole.\\
+\mbox{$\quad \work \system ( \holds ( \purpose_A \vee \purpose_B ) ) \Rightarrow $} \\
+\mbox{$\qquad \work \system_A ( \holds ( \purpose_A)) \wedge $} \\
+\mbox{$\quad\qquad \work \system_B ( \holds ( \purpose_B ) )$} }
+\linelabel{semll223a}
+
+\section{Conclusion} \label{sec:definition:conclusion}
+\nobreak{}
+In chapter~\ref{chap:semantics}, the question: ``What are the semantics of Work in the Work System?'' is answered. In \S\ref{sec:semantics:system}, the concept of the system has been defined in general terms and then specifically ascribed to the Work System in \S\S\ref{sec:semantics:worksystem:abstract}--\ref{sec:semantics:worksystem:subject}. In these sections, the Work System is defined as an abstract concept, then objectively and subjectively. With \cbstart{}the\cbend{} three part definition, the Work System is then put into context in \S\ref{sec:semantics:context}. \cbstart{}Reference is made\cbend{} to\cbdelete{} the term\cbdelete{} since its first \cbstart{}appearance;\cbend{} then \cbstart{}throughout\cbend{} subsequent applications,\cbdelete{} reference \cbstart{}is made\cbend{} to Web 2.0 technologies \cbstart{}to represent the \IT{} artefact.\cbend{} The condensation of conceptions permits in \S\ref{sec:semantics:formal} a formal ontological definition of Work and the Work System through an application of state and event-type reification of temporal logic.
+
+In chapter \ref{chap:conclusion} the thesis concludes with a definition of Work in the Work System, \cbstart{}summarising\cbend{} the semantic ontology.\cbdelete{} In \S\ref{sec:conclusion:research}, areas of possible future research that stem from the work of this thesis are briefly outlined.
+\end{pagewiselinenumbers}

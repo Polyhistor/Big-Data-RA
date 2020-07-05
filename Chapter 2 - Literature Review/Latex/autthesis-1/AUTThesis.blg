@@ -1,0 +1,84 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: AUTThesis.aux
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+A level-1 auxiliary file: includes/intro.aux
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+A level-1 auxiliary file: includes/LitReview.aux
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+A level-1 auxiliary file: includes/Method.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: includes/Analysis.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: includes/Discussion.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: includes/Conclusion.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apacite.bst
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: includes/Glossary.aux
+Reallocating 'name_of_file' (item size: 1) to 27 items.
+A level-1 auxiliary file: includes/FirstAppendix.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+A level-1 auxiliary file: includes/SecondAppendix.aux
+Reallocating 'name_of_file' (item size: 1) to 34 items.
+A level-1 auxiliary file: includes/confidentialMaterial.aux
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: bibFile.bib
+Warning--I didn't find a database entry for "Alter2002"
+Warning--I didn't find a database entry for "Alter2004"
+Warning--I didn't find a database entry for "Bannon1997"
+Warning--I didn't find a database entry for "Quine2004"
+Warning--I didn't find a database entry for "Peirce1992a"
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 2 entries,
+            6951 wiz_defined-function locations,
+            1306 strings with 11281 characters,
+and the built_in function-call counts, 3338 in all, are:
+= -- 403
+> -- 24
+< -- 141
++ -- 142
+- -- 4
+* -- 227
+:= -- 625
+add.period$ -- 8
+call.type$ -- 2
+change.case$ -- 34
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 84
+empty$ -- 147
+format.name$ -- 38
+if$ -- 637
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 0
+newline$ -- 54
+num.names$ -- 16
+pop$ -- 33
+preamble$ -- 1
+purify$ -- 8
+quote$ -- 0
+skip$ -- 236
+stack$ -- 0
+substring$ -- 156
+swap$ -- 70
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 160
+warning$ -- 0
+while$ -- 12
+width$ -- 0
+write$ -- 61
+(There were 5 warnings)

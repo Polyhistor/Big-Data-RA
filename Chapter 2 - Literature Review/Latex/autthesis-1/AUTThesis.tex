@@ -1,0 +1,183 @@
+%% This document uses the class autthesis. 
+%%  Refer to autthesisDocumentation.pdf for instructions on how to use the template.
+%%
+%% Copyright 2020, Alan T Litchfield
+
+
+%% The output type is variable too
+%% thesis == thesis <- this is the default, so if the type is not defined, then this is what you get
+%% dissertation ==  dissertation
+%% exegesis == exegesis
+%% techreport == technical report
+%%
+%% Line spacing options are:
+%%       singlespace
+%%       doublespace
+%%       onehalfspacing
+%%
+%% For programme codes, refer to autthesisDocumentation-v1.pdf
+
+\documentclass[12pt,AK3688,techreport,doublespace]{autthesis}               %Change the options to suit the thesis
+
+%% The packages most commonly used are defined in the class file. You can add packages below.
+
+\usepackage{apacite}   % References are in APA format, required for AUT.
+				    % For any other reference style, for example, ieee, comment out this line
+
+
+% Macros for special characters that are used frequently, and to improve readability in the code
+% Add macros as required to ease writing. This is a sample of how to set simple macros
+\newcommand{\NZ}{New\nobreakspace{}Zealand}          %Inserts no-breakspace into proper noun
+\newcommand{\nz}{New\nobreakspace{}Zealand}          %
+\newcommand{\NZer}{New\nobreakspace{}Zealander}      %
+\newcommand{\maori}{M\={a}ori}                       % adds macrons
+\newcommand{\IT}{\textsc{it}}
+\newcommand{\soa}{\textsc{soa}}
+
+
+% Examples of how to define hyphenation rules
+\hyphenation{Ko-tahi-tanga}
+\hyphenation{Her-kunft}
+\hyphenation{ma-ta-nga}
+\hyphenation{Ur-sp-rung}
+\hyphenation{Zim-mer-man}
+
+% Specify the graphics path
+\graphicspath{{images/}}
+
+
+%% You will need to provide drafts of your chapters to your supervisor as you progress.
+%% The option below allows you to print out one chapter, without all the other chapters and front/end
+%% matter. Just change the file name in the braces below and uncomment the line.
+%% Before running this, you need to have generated the whole thesis first.
+
+%\ChapterProof{includes/LitReview}
+
+\begin{document}
+\author{Fred Spoons}
+\title{The thesis title}
+\submitdate{Change the Submission Date to suit your needs}  %% This is a manual entry because your submission date may vary from when you last generate your pdf
+\dept{School of Engineering, Computer and Mathematical Sciences}
+\faculty{Faculty of Design and Creative Technologies}
+\primarysupervisor{Prof. P Supervisor}
+%\secondarysupervisor{Prof. S Supervisor}
+%\thirdsupervisor{Prof. T Supervisor}  %optional third supervisor
+
+\abstracttext{%
+\emph{Delete and replace this text}
+
+This thesis answers all those questions others thought would be too hard. }
+
+\acknowtext{%
+\emph{Delete and replace this text. }
+
+Where appropriate, a brief acknowledgement of any substantial assistance received should be included on a separate page inserted in sequence. The acknowledgement should list the names of all those persons who have provided substantial assistance with the research and the nature of that assistance which may relate, for example to the:
+\begin{itemize*}
+\item Supervisory team;
+\item  Sponsorship of the research;
+\item  Collection of data;
+\item Processing of the data including the selection and use of particular statistical
+techniques;
+\item  Interpretation of the results of the statistical analysis;
+\item Editing of the thesis/dissertation;
+\item Use of graphics in the thesis/dissertation;
+\item Word processing of the thesis/dissertation.
+\end{itemize*}
+
+If the thesis/dissertation/exegesis reports on research involving humans or human biological materials or involving animals, acknowledgement of ethics approval by the relevant ethics committee(s) should be stated in the acknowledgements section, including the ethics application number and date of approval.}
+
+\deditext{%
+\emph{Delete and replace this text.}
+
+To remove this page, change \texttt{dedipagetrue} to \texttt{dedipagefalse}
+
+I dedicate this study to...}
+
+\iptext{%
+\emph{Delete and replace this text}
+
+To remove this page, change \texttt{ippagetrue} to \texttt{ippagefalse}
+
+If there is material in the thesis/dissertation/exegesis which could or does have implications for the intellectual property rights of the student, the University, a sponsor of the research or some other person or body, those implications should be stated on this page.}
+
+\conftext{%
+\emph{Delete and replace this text}
+
+To remove this page, change \texttt{confpagetrue} to \texttt{confpagefalse}
+
+If there is material in the thesis/dissertation which is confidential for commercial or other reasons, either for a specified period or indefinitely, the period of its confidentiality and the reasons for its confidentiality should be specified under the heading “Confidential Material” on a separate page inserted in sequence.
+Confidential material will normally be provided in a separate annex to the thesis/ dissertation/exegesis.
+The Application for Embargo Form (PGR16) must be bound into all copies being lodged for examination and all final bound copies.}
+
+
+%% This page is for listing publications you have produced during the research. If you have  none
+%% then change \pubspagetrue{} to \pubspagefalse{} below
+\pubstext{%
+\emph{Delete and replace the text in this list}
+
+To remove this page, change \texttt{pubspagetrue} to \texttt{pubspagefalse}
+
+\begin{outdent}
+\item Laudon, K. \&{} Laudon, J. (2006) Management Information Systems: Managing the Digital Firm, 9th ed. Prentice Hall
+\item Walker, J. (1996) Typical UNIVAC 1108 Prices: 1968 Retrieved from \url{http://www.fourmilab.ch/documents/univac/config1108.html}
+\end{outdent}}
+
+%% Change the values below from true/false to false/true to enable/disable these 
+%% optional pages
+\abstractpagetrue{}
+\acknowpagetrue{}
+\dedipagefalse{}
+\declpagetrue{}
+\figurespagetrue{}
+\tablespagetrue{}
+\pubspagetrue{}
+\ippagetrue{}
+\confpagetrue{}
+
+%% Front matter commands 
+\beforeabstract{}
+\afterabstract{}
+\afterpreface{}
+
+
+%% Putting the included chapters into a separate folder greatly eases the overall organisation
+
+\include{includes/intro}
+
+\include{includes/LitReview}
+
+\include{includes/Method}
+
+\include{includes/Analysis}
+
+\include{includes/Discussion}
+
+\include{includes/Conclusion}
+
+
+\renewcommand\bibname{References}
+\singlespacing
+\bibliographystyle{apacite} 
+% If you want IEEE formatting, change this to {ieee/ieeetran} 
+% and comment out the line \usepackage{apacite} above.
+% other options are ieeetranN, ieeetranS, ieeetranSA, ieeetranSN
+\bibliography{bibFile}
+
+\doublespacing
+% If you have no appendices, then comment the line below out. However, if you have appendices
+% then you also need to specify the ToC depth. That is, if you want individual appendices listed in the ToC, 
+% then change the value below from none to section. So, the options are \AUTthesisAppendix{none | section} .
+% none - will provide a heading, "Appendices" in the ToC
+% section - will provide the heading and list the appendices	
+\AUTthesisAppendix{none}   
+
+\include{includes/Glossary}
+
+\include{includes/FirstAppendix}
+
+\include{includes/SecondAppendix}
+
+\include{includes/confidentialMaterial}
+
+
+\end{document}

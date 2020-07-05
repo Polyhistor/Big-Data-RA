@@ -1,0 +1,244 @@
+\myChapter{Design of the Study} \label{chap:method}
+\nobreak
+\begin{quotation}
+{\Huge ``}Each man is given a scientific heritage plus a continuing barrage of sensory stimulation; and the considerations which guide him in warping his scientific heritage to fit his continuing sensory promptings are, where rational, pragmatic.{\Huge ''} 
+
+\begin{flushright}\citeA[p 46]{Quine1953}\end{flushright}
+\end{quotation}
+\begin{pagewiselinenumbers}
+\section{Introduction}
+\nobreak
+In chapter \ref{chap:method}, the approach taken throughout the thesis to derive a series of semantic statements describing Work in the Work System is presented. \S\ref{sec:Method:Outline} advances the outline of the study, concentrating on the main arguments that lead to the generation of key points addressed in this thesis. In \S\ref{sec:mismatch}, the argument is presented as the notion that \IS{} is in need of core theory, giving rise to a progressive problem-shift. Further, \S\ref{sec:developmentOfTheory} continues in this vein with arguments for the development of theory, starting with the pragmatist views of James. It is asserted that \IS{} lacks a hard core of theory, around which auxiliary theories may be proposed with the result that the field lacks heuristic power. Attempts to remedy this have emerged, such as Materialist Pragmatism, however that is also shown to lack coherence (that the notions of Materialism and Pragmatism cannot co-exist). Thus, what is required is a presentation of knowledge as a formalism, from which new theory can be abducted. Then in \S\ref{sec:Method}, a method for the formal definition of Work and the Work System taking into account both spatial and temporal properties \cbstart{}are\cbend{} outlined.
+
+\ColourTextRed{The structure of the thesis presented in chapter \ref{chap:intro}, and the rationale for selecting Web 2.0 is provided.\footnote{See in particular, Figure \ref{fig:intro:thesisStructure}.} In chapter \ref{chap:method}, Web 2.0, as a collective example of an Internet based technology, is presented in which opportunities for social change are provided.\footnote{\pageref{ll44}:\ref{ll44}--\pageref{ll44a}:\ref{ll44a}.} The premise in \S\ref{sec:intro.premise} is restated in chapter \ref{chap:method}: that Work is expressed through all parts of the human and this defines, for the person, some aspect of their humanity, whether that is purpose, destiny, status, or as some sense of fulfilment or satisfaction.\footnote{\pageref{ll22}:\ref{ll22}--\pageref{ll22a}:\ref{ll22a}. \pageref{ll25}:\ref{ll25}--\pageref{ll25a}:\ref{ll25a}.} In human terms, Work is a persistent conception, and I contend that technology is a factor in how the conception is situated.\footnote{\pageref{ll25}:\ref{ll25}--\pageref{ll25a}:\ref{ll25a}. \pageref{ll28}:\ref{ll28}--\pageref{ll28a}:\ref{ll28a}.} In the current context, I argue that the emergence of modern communication technologies has sped the rate of change in Work and blurred the lines between Work and non-Work occurrences in the post-productionist world.\footnote{\pageref{ll32}:\ref{ll32}--\pageref{ll32a}:\ref{ll32a}. \pageref{ll32b}:\ref{ll32b}--\pageref{ll32c}:\ref{ll32c}.}}
+
+\ColourTextRed{A core argument presented in chapter \ref{chap:litrev} is that Work has been regarded as \emph{a priori}. In chapter \ref{chap:method} I state that this has resulted in a range of theories that are inconsistent and may produce inconsistent results when applied in practice, leading to invalidated theory.\footnote{To illustrate how inconsistent theory has been applied, I relate the case of Materialist Pragmatism. In chapter \ref{chap:method}, I argue that for materialist philosophies, only rational theories are acceptable. Rational theories are those whose phenomena have properties that are observable and measurable by devices. All other theories are therefore, irrational and of no account. The conception of a philosophy in which materialism and pragmatism can coexist (Materialist Pragmatism) is therefore, anathema to both.}\footnote{\pageref{ll55}:\ref{ll55}--\pageref{ll55a}:\ref{ll55a}. \pageref{text:litrev.ll63}:\ref{text:litrev.ll63}--\pageref{text:litrev.ll63}:\ref{text:litrev.ll63}. \pageref{ll80}:\ref{ll80}--\pageref{ll80a}:\ref{ll80a}. \pageref{ll93}:\ref{ll93}--\pageref{ll93a}:\ref{ll93a}. \pageref{ll95}:\ref{ll95}--\pageref{ll95a}:\ref{ll95a}.}
+ Therefore, I assert that it is necessary to reposition the basis of knowledge of Work and the Work System in \IS{} and provide a formal definition of the term.\footnote{\pageref{ll57}:\ref{ll57}--\pageref{ll62}:\ref{ll62}.} In chapter \ref{chap:intro}, reference is made to the formal definition of terms as a component of a pragmatist philosophy of \IS{}. Peirce says one of the core features that differentiate pragmatism from other philosophies is its acceptance of metaphysical properties in phenomena. In pragmatism, and other philosophies, formalisms provide the means for expressing concepts and beliefs. Therefore, the research question that underlies this thesis can only be answered in its entirety, formally.\footnote{\pageref{ll97}:\ref{ll97}--\pageref{ll97a}:\ref{ll97a}.}}
+
+\ColourTextRed{To express complex theories as formalisms, it is necessary to obtain of an understanding of the domain and to be able to apply understandings to different realities. I make the argument that Work is spatiotemporally defined\footnote{\pageref{methodll208}:\ref{methodll208}--\pageref{methodll208a}:\ref{methodll208a}.} and therefore a formal language that can address occurrences and states in Work is required.  There exists between objects, various types of relationship. Where alteration or change has been caused to one object, then some other object must have been the agency of alteration or change. To identify such a relationship is often difficult, but in the abstract notion represented by temporal logic, a causal relationship can be identified.\footnote{\pageref{methodll228}:\ref{methodll228}--\pageref{methodll228a}:\ref{methodll228a}.} The application of the state and event-type reification of temporal logic provides those statements that may be tested against their truth value.\footnote{\pageref{methodll223}:\ref{methodll223}--\pageref{methodll223a}:\ref{methodll223a}.}}
+
+
+\section{Outline of the study} \label{sec:Method:Outline}
+\nobreak
+\linelabel{ll22}The semantics of Work is a study that covers the full range of the beingness of living a human life. I argue that from the time that the species hominid was first able to identify specific roles for the individual person, Work has become a factor that defines not only what people do but who they are, the content of their lives, their fortunes and destinies (should such a thing exist). Work is a medium inside which the human gains expression and support for its life. It is my contention that Work is a container for the lingering patterns of social and societal norms, carried on day after day, life after life, in a regular procession down through the ages.\linelabel{ll22a}
+
+\cbstart{}Dewey tells us\cbend{} that, for the ancient Greeks, Work was a fixed element, and the Work undertaken by the person was determined at the time and nature of their birth. ~\citeA[p.~9]{Dewey1938} says\cbdelete{} ``Aristotle spoke for an entire social order as well as for himself when he said that slavery existed by nature.'' \linelabel{ll25}While such social structures persist, for example in the Indian caste system, in other societies these have tended to dissolve under the influence of political intervention such as the institution of the Welfare State in \NZ{} in the 1930s \cite<see for example, >{Gustafson1986}. For the reasonable person, there can be no doubt that over time the Work of a worker has changed since the advent \linelabel{ll25a}of machines. 
+
+Societies worldwide underwent significant change during the period of the Industrial Revolution. From the late eighteenth to the early twentieth centuries, the world was in a state of turmoil after tens of thousands of years of relatively regular societal development. There was a sudden spurt of change brought about in a way that is somewhat similar to the discovery that with tools one could do more than poke and prod, club and cut. In the period following the Industrial Revolution, steam powered machines \cbstart{}gave\cbend{} way to more advanced technologies that more closely resemble human functions. \linelabel{ll28}I argue that as progress has been made in the advancement of technology, so to \cbstart{}have\cbend{} the means by which Work is defined. That now it is through technology that Work is largely~identified.\linelabel{ll28a}
+
+I am concerned with the semantics of Work in the Work System and to that end it is necessary to define both Work and the Work System. In the previous chapter, a number of the issues with regard to the Work System concept and how it has changed in use were addressed. These will be explicated in later chapters. 
+
+\linelabel{ll32}\IS{} technologies are in a state of rapid change, but their fundamental conceptions have not changed and are in effect little more than reengineered tools devised to perform specific roles. That being said, important shifts in the way that people engage with systems and what people expect of them have been observed and recorded. These are related to how information is seen and understood, and how a collective intelligence is emerging, in which the old hierarchies appear to be falling away and the person has an expectation of equal access to information sources.\linelabel{ll32a} One way that this is expressed in the work place is through \cbdelete{}information sharing systems, regardless of whether or not it is condoned by organisational management. \linelabel{ll32b}\cbstart{}In this thesis, those technologies that permit people to share information either in closed circles of acquaintances or in more open spaces and use Internet enabled applications are referred to\cbend{} collectively as Web 2.0, thus I am concerned with the ways that Web 2.0 has impacted on Work Systems by reflecting on \ref{list:topics} areas:
+\begin{enumerate*}
+\item The notion of Work and what it means to the human
+\item The effects of productionism on Work and the human participant
+\item The effect of modern networked technologies on the productionist environment
+\item The democratisation of Work through the redistribution of power under the influence of modern networked technologies
+\item The socialisation of Work in a post-productionist environment
+\item Changes to Work in the enterprise with the human as agency
+\item A formal definition of Work in the Work System \label{list:topics}
+\end{enumerate*}\linelabel{ll32c}
+\indent{}\linelabel{ll44}Modern networked technologies, in this case Web 2.0, may be conceived as a distinct occurrence in the morphology of systems development but observers will have differing conceptions about what the impact of Web 2.0 will be. While much can be said about the implementation of such \cbstart{}technologies, for example, from\cbend{} the barefaced financial impact of the use of Web 2.0, to the impact on support services within an organisation. The focus of this study considers social aspects that become apparent through \cbstart{}applications\cbend{} of this apparently intrusive technology.\linelabel{ll44a} The intention is to take a common sense approach after \citeA{James2007}. For \citeauthor{James2007}, his approach was to test ideas by their consequences and in the context of this knotty issue, we are referring to consequences to people that introduce Web 2.0 technologies to their work place.\cbdelete{} How does that affect the conception of the Work System?
+
+Throughout the discussion, the practical consequences of that which is postulated \cbstart{}and the necessity\cbend{} to work within some kind of framework to establish a series of interconnected nodes, has been taken into consideration. \linelabel{methodll48}The nodes, while somewhat abstract, provide anchor points that theory can be built upon. \cbstart{}\citeA{Peirce1998}\cbend{} offers a philosophical system that not only simplifies the process of determining what objects exist and how they relate, but identifies the complexity of issues that emerge when \cbstart{}objects are brought together, in relation. Quine provides a series of thorough tests that can be applied to theoretical statements (these are not applied in this thesis, they are part of the next phase in this study).\cbend{} It is from Dewey, through his logic of what is abstract and what is not, and how they are determined one from the other, that I draw the greatest clarity.\linelabel{methodll48a}
+
+\section{Explication of the problem} \label{sec:mismatch}
+\nobreak
+The content and structure of theories in \IS{} are strongly influenced by theories from a diverse range of fields. Influences affect not just the broader issues of the nature of theory, but also relations between theory and practice, such as the design of systems that meet organisational goals on the one hand but user wants, needs, and requirements on the other~\cite{Evers1996}. Attempts by \cbstart{}practitioners such as Alter\footnote{Refer to page \pageref{text:LitReview:Alter}.} to create solutions to perceived problems, rather than\cbend{} a holistic framework that can be used in all situations effectively\cbstart{}, has resulted\cbend{} in an inelegant hybrid of various inconsistent theories that contain anomalies and internal conflicts.
+
+The Work System concept has been applied in a number of different contexts, to provide solutions to perceived problems that arise in light of local, current events. The result is that the term is now \cbstart{}inconsistent\cbend{} in its use.\cbdelete{}\footnote{See page \ref{text:theorieslist}.} \linelabel{ll55}As they are presented, \cbstart{}some\cbend{} theories are contradictory and inconsistent and that provides conditions for degenerative heuristics in \IS{} as a field for scientific research study insofar that in this area it lacks a hard core of theory around the idea of Work,\linelabel{ll55a} from which both a positive and negative heuristic can be formed~\cite{Lakatos1970}.
+
+\citeA{Lakatos1970} says that for a research programme to demonstrate a progressive problem-shift it is important that fundamental concepts are agreed.\cbdelete{} They must be reasonably well defined\cbstart{}, while there is always some scope for argument. \linelabel{ll57}It stands that the semantics of Work, as a fundamental human appearance,\cbend{} ought to have a solid basis, both theoretically and practically (observable and measurable). Work in \IS{} \cbstart{}is \emph{a priori} with definitions that contradict each other, and\cbend{} are incongruent, inconsistent, and~presumptuous.
+
+If the concept of Work is not well defined, then it stands that conceptions of it lead to ad hoc theories. Some may turn out to be inappropriate and such systems that are designed with inappropriate conceptions may then lead to other unplanned or undesirable consequences. \citeA{Lakatos1970} asserts that this results in a process where theories are tested and patched endlessly but do not lead to any substantive result, whereas a semantic definition of Work provides a theoretical foundation on which positive and negative heuristics for the development of methodological rules may subsequently be built.
+
+\IS{} research lacks a hard core of theory that differentiates it from other research programmes. As such \cbstart{}the field\cbend{} is subject to the development of ad hoc theories and theories adopted from other fields. Adopted theories, themselves protected by a protective belt of auxiliary theories from their own domain, and tested by experiments relevant to that domain, are not necessarily relevant within the context of \IS{}. This study forms part of a larger body of work that sets out to establish a hard core of theory that is built upon, and builds up, \IS{} epistemology.\linelabel{ll62}
+
+\section{Development of theory} \label{sec:developmentOfTheory}
+\nobreak
+For \citeA{James1909}, pragmatism is a\dots{}
+\begin{itemize*}
+\item philosophical temperament, 
+\item theory of truth, 
+\item theory of meaning, 
+\item holistic account of knowledge, 
+\item metaphysical view, 
+\item method of resolving philosophical disputes. 
+\end{itemize*}
+\indent{}When faced with a problem, theories help us bring into focus ideas, provide grounds on which to select ideas, generate propositions, and create objects. Traditional western knowledge, \cbdelete{}the classical empiricist approach, assumes that certainty, or unchangeable provability, is the necessary feature of any epistemic item~\cite{Dewey1939,Walker1985}. Such claims to knowledge are justified if they can be shown to follow some procedure of rational inference from the epistemic foundations or to be foundational themselves. The result of this line of thought is that knowledge produced by natural science is superior, real, or hard. In an effort to address the apparent shortcomings of theories where validation through classical empiricism is not appropriate, \citeA{Walker1985} proposes Materialistic Pragmatism, which has five features: \cbstart{}it is holist (or coherentist), physicalist, monist, historical, and pragmatist.\cbend{}
+
+\linelabel{ll80}It may be said that at this time \IS{} does not present itself as a mature field of scientific research in which there are research programmes that reveal novel facts and auxiliary theories. \IS{} needs to establish a progressive building of knowledge to anticipate these events, which is what is referred to as  `heuristic power.'\linelabel{ll80a} In the positive heuristic of a powerful study, there is at the start, a general outline of how to build the protective belts: this heuristic power generates the autonomy of theoretical science~\cite{Lakatos1970}.
+ 
+\textls[18]{The practice of theory building must cohere with the findings of other practices in which one is engaged, such that theory coherence demonstrates evidenced predictive power and problem-solving capacity~\cite{Walker1985}. Materialistic Pragmatism side steps problems with foundationalist theories in which there are competing knowledge claims by taking the opposite stance, of benign relativism. This assumes that, ``with or without foundations, there may be commitments common to competing theories in which the knowledge claims are embedded, and that the epistemological task is to identify them and use them as instruments for identifying the theory with the most coherence and algorithmic facility''~\citeyear[p.~67]{Walker1985}. This forms the basis of `touchstone theory.'}
+ 
+A touchstone is generated by commitments that are shared. Shared commitments are tenets and features that are common to internal and competing theories. Touchstone theory is most powerful when ``the coherentist imperative is applied to the relation between competitors and a further body of theory --- `evidence,' or findings produced through the application of touchstone methods''~\cite[p.~68]{Walker1985}.
+   
+\citeA{Walker1985} outlines the steps involved in the application of touchstone theory in general. \begin{inparaenum}[(1)]
+\item Determine whether and in what respects theories are competing. It is necessary to check that they are not simply using alternative languages or conceptual schemes to say the same thing about the world. Competing theories must differ over or about something. 
+\item Find out where the theories have features in common. 
+\item From these, the agreed problem-identification on which the competition is based is projected onto an external object, typically a problematic set of circumstances in the world or another theory. This step involves some investigative methodology, such as experiment and observation. The result of experimentation is the critical factor in judging between theories because that is where evidence is made apparent and thus a problem can be rejected which leads to rejection of the theory.
+\end{inparaenum}
+
+Opposing Materialist Pragmatism, \citeA{Maddock1994} says the criteria selected for coherence provided by Materialist Pragmatists lacks coherence and that therefore there is no way to choose between theories in the way they suggest; that arguments against the separation between factual and evaluative realms are unconvincing; and, claims that foundationalism is avoided by providing a non-positivist theory of science is questionable. Of his criticisms it is this last that is most convincing. The Materialist Pragmatist approach that supposedly avoids positivist approaches does, in effect allow for the application of positivist methods. However, contrary to Maddock's criticism, Pragmatism is not averse to reductionist and empirical methods per se. The argument that Pragmatism has against positivism is its denial of all but material (that is, non-metaphysical) evidence in the testing of a hypothesis. \citeA{Walker1985} does not make the claim that \citeA{Maddock1994} objects to however, and \linelabel{ll93}the idea that materialism and pragmatism can co-exist is unlikely as they are founded on two extremes of belief. Under materialism there is the rejection of all, except that which presents itself as matter, but pragmatism accepts that anything which may be conceived and sensed by a person (without the aid of external contrivances) may also be regarded as objects and therefore the subject of experimentation and finds its extreme interpretations in, for example, in Stirner's~\citeyear{Stirner1845} nihilism. In epistemology, such fundamental concerns as metaphysical properties are important and not so easily rejected.\linelabel{ll93a}
+
+\linelabel{ll95}Where epistemology is the study of knowledge, justified belief becomes central to epistemology. \cbstart{}For example, a person, John, may say that it is important that those who will use a system are happy using it. Thus, it is necessary to include those who will be users in all development phases. Whereas, another person, Annabel, rejects that view because so far as she is concerned, the only really important outcome is a system that works.\cbend{} In each case argued, \cbdelete{}one\cbdelete{} is pragmatist and \cbstart{}the other\cbend{} materialist. Presentation of knowledge is important as all knowledge lends \cbstart{}itself\cbend{} to particular styles of representation: materialist or holistic, positivist or pragmatist. \cbstart{}The question arises too: does knowledge require formal or informal presentation? At times, \cbend{}this is confused with arguments that refer to other aspects of philosophical debate such as the materialist/supra-materialist divide.\linelabel{ll95a}
+
+\linelabel{ll97}The portrayal of knowledge as a formalism is based upon the argument about natures of belief and how to answer questions. For example, questions can be asked about belief or the degree of belief and those questions may be asked both formally and informally. However, none of those questions may be asked or answered informally, exclusively, and it is logically impossible to exclude any formal questions or answers. As an illustration, if one were asked to offer a counter example to a claim that some questions can only be asked or answered informally then in reply one would compile lists of objects, their properties, and perhaps relations between them and all at once there is a formal model describing the situation. However, \cbdelete{}some epistemological questions that can only be answered formally.\linelabel{ll97a}
+
+Belief and degrees of belief can be treated as objects~\cite{Huber2010} and so it stands that relations must exist too. It is a common assumption that it is belief that is a relation between an epistemic-agent, at a particular time to the object of their belief. The degree of belief then is the relation between a numerical value (the degree), the epistemic agent, and the object of their belief.  Objects of belief are propositions of the sets of possible worlds or truth conditions and these are centred on the individual for any given time, thus they are temporal. 
+
+\linelabel{ll102}In considering the concept of Work, and while belief plays an important role in that, \cbdelete{}I concentrate on Work as a human act of necessity, from which there is the possibility that something will be produced and thus, modal logic becomes a feature, where the purpose of logic is to represent the difference between valid and invalid arguments.\linelabel{ll102a} ``A modal is an expression (like `necessarily' or `possibly') that is used to qualify the truth of a judgement. Modal logic is, strictly speaking, the study of the deductive behaviour of the expressions `it is necessary that' and `it is possible that' ''~\cite{Garson2009}. However, a modal may also be used for other related terms and can be used for logics of belief, tense, and other temporal issues. Where arguments are complex and spatiotemporally dependent then modal expressions are common, albeit confusing. Modal logic also features in computer science and artificial intelligence. 
+
+In the standard \cbstart{}\citeA{Kripke1963} semantics for modal logic,\cbend{} the truth value of a sentence is relative to the points in a set operation. This means that a propositional symbol may have different truth values at each point in the set. To accept them as valid it is necessary to take them as different worlds, times, spaces, epistemic objects, states in a computer, states of mind, and so on. That then allows one to formalise natural language sentences whose truth value is relative to accepted predicates.
+
+Hybrid logic~\cite{Brauner2008} adds further expressive power to modal logic by adding `nominals,' so that the truth value of a proposition is valid relative to exactly one point of a statement. For example, the nominal $a$ can be used to represent the statement ``it is 12 minutes past 10 on 19 January, 2011.'' This cannot be expressed formally with standard Kripke semantics, although the statement ``it is windy'' can be. In this case $a$ can be used as a term referring to the time and date specified and thus in hybrid logic a term is a specific sort of propositional symbol whereas in first-order logic, it is an argument to a predicate.
+
+Take the sentence:
+
+{\vskip 0.5em}
+$\qquad \text{It is 12 minutes past 10 on 19 January, 2011, it is windy.}$
+{\vskip 0.5em}
+
+For a statement in hybrid logic to be considered true at a particular time, in a specific world, or something else, then a `satisfaction operator' is used. This draws the nominal and the operator together in the form $a:p$ where $a$ is the satisfaction operator, ``it is 12 minutes past 10 on 19 January, 2011'' and $p$ is an ordinary propositional symbol that represents ``it is windy.'' If $a$ were a nominal and $\varphi$ were an arbitrary formula, then a `satisfaction statement' can be built in the form $a:\varphi$. This means that the formula $\varphi$ is true to exactly one that is represented by $a$. 
+
+\noindent{}Informally, the nominal $a$ has the truth-condition \\
+\mbox{$\qquad a \text{ is true relative to a point } w$} \\
+\mbox{$ \qquad\quad \text{if and only if} $} \\
+\mbox{$ \qquad \text{the reference of } a \text{ is identical to } w $}
+\vspace{4pt}
+
+\noindent{}and the satisfaction statement $a:\varphi$ has the truth-condition \\
+\mbox{$ \qquad a:\varphi \text{ is true relative to a point } w $} \\
+\mbox{$ \qquad\quad \text{if and only if} $}\\
+\mbox{$ \qquad \varphi \text{ is true relative to the reference of } a $}
+\vspace{4pt}
+
+Hybrid logic has valid formulas for reflexivity, symmetry, transitivity, and replacement: \\
+\mbox{$\qquad a:a $} \\
+\mbox{$\qquad a:b \rightarrow b:a $} \\
+\mbox{$\qquad (a:b \text{ \& } b:c) \rightarrow a:c $} \\
+\mbox{$\qquad (a:b \text{ \& } a:\varphi) \rightarrow b:\varphi $}
+\vspace{4pt}
+
+Temporal logic~\cite{Galton2008}\label{text:method:temporlogic} covers issues related to the representation of temporal information within a logical framework. Specifically, it refers to modal logic as `tense logic' although it has been developed to incorporate uses in clarifying philosophical issues about time, as a framework for defining the semantics of temporal expressions in natural language, for encoding temporal knowledge in Artificial Intelligence (\textsc{ai}), and to test computer programming languages.
+
+\newpage{}
+Tense logic introduces a number of `strong tense operators' and `weak tense operators' which are identified as the $P,F,H,G$\footnote{\cbstart{}That is:
+\begin{description*}
+\item[$P$] It was the case that\dots{}
+\item[$F$] It will be the case that\dots{}
+\item[$H$] It has always been the case that\dots{}
+\item[$G$] It will always be the case that\dots{}
+\end{description*}\cbend{}}
+ operators. Tense logic is obtained through incorporation with an existing logic like predicate logic, so that operators can be added to first order predicate calculus. This allows for the expression of spatiotemporal distinctions. For example, the statement ``A philosopher will be a king'' can be interpreted in several different ways: 
+
+\vspace{16pt}
+
+\begin{minipage}{\linewidth}
+\parbox{\linewidth{}}{\mbox{$\exists x (\text{Philosopher}(x) \text{ \& } F \text{ King}(x))$} 
+
+\vspace{10pt}
+
+\hspace{20mm}\parbox{100mm}{\raggedright{Someone who is now a philosopher will be a king at some future time. }}}
+
+\vspace{10pt}
+
+\parbox{\linewidth{}}{\mbox{$\exists x F (\text{Philosopher}(x) \text{ \& } \text{ King}(x))$} 
+
+\vspace{10pt}
+
+\hspace{20mm}\parbox{100mm}{\raggedright{There now exists someone who will at some future time be both a philosopher and a king.}}}
+
+\vspace{10pt}
+
+\parbox{\linewidth{}}{\mbox{$ F \exists x (\text{Philosopher}(x) \text{ \& } F \text{ King}(x))$} 
+
+\vspace{10pt}
+
+\hspace{20mm}\parbox{100mm}{\raggedright{There will exist someone who is a philosopher and later will be a king.}}}
+
+\vspace{10pt}
+
+\parbox{\linewidth{}}{\mbox{$ F \exists x (\text{Philosopher}(x) \text{ \& } \text{ King}(x))$} 
+
+\vspace{10pt}
+
+\hspace{20mm}\parbox{100mm}{\raggedright{There will exist someone who is at the same time both a philosopher and a king.}}}
+\end{minipage}
+
+\vspace{16pt}
+
+
+Temporal logic, while providing the ability to address spatiotemporal distinctions, has difficulties with the distinctions between states, events, and processes. For example, while specific points in time are adequately provided for it is when periods are covered that prove to be barriers for formalisms. While one can express a sentence ``it is 12 minutes past 10 on 19 January, 2011, it is windy'' using hybrid or temporal logic forms, to express the sentences ``it is windy for half the day on 19 January, 2011'' and ``on 19 January, 2011 the wind blew all day'' becomes problematic without having to express every point. That is, hybrid and temporal logics do not express intervals of time in which there may be some occurrence, a change of state, or the retention of a state. These kinds of issues are of special importance in \textsc{ai} and computer science.
+
+\citeA{Allen1984} describes how state and event types are defined in first-order theory and introduces relational predicates $\text{\textsc{holds}}$ \footnote{The proof for this is in \citeNP<p.~152, >[Appendix]{Allen1984}.} and $\text{\textsc{occur}}$. For example: \\
+\mbox{$ \quad \text{\textsc{holds}}(\text{Asleep}(\text{Mary}), (1\text{pm}, 6\text{pm})) $} \\
+\mbox{$ \quad \text{\textsc{occur}}(\text{Walk-to}(\text{John}, \text{Station}), (1\text{pm}, 1.15\text{pm})) $} 
+
+Proofs for the  homogeneity of states and in-homogeneity of events are provided and secured by axioms: 
+
+\mbox{$ \quad \forall s, i, i'(\text{\textsc{holds}}(s, i) \text{ \& } \in (i', i) \Rightarrow \text{\textsc{holds}}(s, i')) $} 
+
+\vspace{16pt}
+
+\hspace{20mm}\parbox{100mm}{\raggedright{ For all states that are constant over some interval, they may also exist in multiple intervals. This implies that a state holds in some other interval. }}
+
+\vspace{16pt}
+
+\mbox{$ \quad \forall e, i, i'(\text{\textsc{occur}}(e, i) \text{ \& } \in (i', i) \Rightarrow \neg \text{\textsc{occur}}(e, i')) $} 
+
+\vspace{16pt}
+
+\hspace{20mm}\parbox{100mm}{\raggedright{ For all events that occur during some interval, they occur because there is an interval. This implies that an event did not occur in another interval. }}
+
+\vspace{18pt}
+
+\citeA{Allen1984} calls his logics a ``general theory of action and time'' while \citeA{Galton2008} calls it a ``state and event-type reification'' of temporal logic.\label{text:method:temporlogic1} \linelabel{methodll208}Either way this is applied to the argument established in \S\ref{sec:semantics:work}: where Work and technology are the product of human endeavours, in which there are changing factors that effect change on human society over a period that result in observable phenomena such as changes to Work patterns, then as Work has changed so too has technology. Thus, changes in Work have effected technological development and technological development has effected changes to conceptions of Work. Therefore, Work is spatiotemporally dependent and Allen's approach is appropriate to be applied as a method for expressing formalisms for predicates and propositions.\linelabel{methodll208a}
+
+\vspace{-1em}
+\section{Method} \label{sec:Method}
+\vspace{-0.5em}
+\linelabel{methodll213}This study is a philosophical enquiry that: 
+\begin{enumerate*}
+\item Identifies factors\cbdelete{} relevant to considerations of the semantics of Work.
+\item Establishes a hard core of theory that builds \IS{} epistemology.
+\item Investigates the semantics of Work in the Work System.
+\item Investigates changing perceptions of the Work System, from Taylor to Alter.
+\item Leads to the building of a formal description of Work in the Work System as a formally described representation of a systemic ontology.
+\end{enumerate*}\linelabel{methodll213a}
+\indent{}To arrive at a formal epistemology~\cite{Hendricks2006} to describe the semantics of Work that conforms to Quine's five principles (Consistency, Coherence, Comprehensiveness, Simplicity, and Potency) formal representations of knowledge that employ tools from logic and mathematics to portray both qualitative and quantitative theories are applied. \linelabel{methodll223}The logical system offered provides predicates and propositions, as sentences, where the propositions are supported by their predicates. The logical system ensures the truth value of the predicates and validity of the propositions.\linelabel{methodll223a}
+
+\citeA{Allen1984} says the world is described by a set of temporally qualified assertions of what is known about the past, present and future and \cbstart{}those\cbend{} descriptions may be either static or dynamic. Static objects have `properties' that hold over a period whereas dynamic objects have `occurrences' in which there are changes registered over some period. These distinctions operate in conjunction with temporal logic since time plays a central role. 
+
+\linelabel{methodll228}An action is defined with an animate agent who performs some action. Some actions are processes (``see Spot run'') and others are events (``Spot caught the ball''). The difficulty is in describing a causal relationship between the action and the agent. For example, ``Spot caught the ball'' can be interpreted variously as an action of Spot, or as the result of an act of Tommy throwing the ball at Spot in a rage. To clarify the distinction a predicate is added as an agentive cause and is in the form $\text{\textsc{acause}}(\text{agent},\text{occurrence})$. This represents that type of action in which the agent is the cause of the action and not the object of it.\linelabel{methodll228a} Conventions used in the building of propositions are listed in Table~\ref{tab:predicates}.\footnote{The content of this table is repeated on p. \pageref{text:semantics:conventions}} Predicates and constants are in upper case and variables in lower case.
+
+\begin{table}[htp]
+\caption{Predicates and constants used in temporal logic} \label{tab:predicates}
+\begin{tabular}{cl}
+\hline
+$\wedge$ & Conjunction \\
+$\vee$ & Disjunction \\
+$\neg$ & Negation \\
+$\Rightarrow$ & Implication, it implies \\
+$\Leftrightarrow$ & Equivalence, it is equivalent to \\
+$\forall$ & Universal quantifier, for all or in the case of any occurrence of \\
+$\exists$ & Existential quantifier, there exists or it may exist \\
+$\in$ & Set notation, inclusion \\
+$\text{\textsc{holds}} (p,t)$ & A property holds during a time interval \\
+$\text{\textsc{occur}} (e,t)$ & An event occurs during a time interval \\
+\hline
+\end{tabular}
+\end{table}
+
+\section{Conclusion} \label{sec:Method:Conclusion}
+\nobreak
+Chapter \ref{chap:method} presented the application of philosophical methods culminating in a derivation of a series of semantic statements that describe Work in the Work System in chapter \ref{chap:semantics}. 
+
+The chapter advanced the argument that Work defines the person and their status in society defines the Work they undertake. Consequently, changes in society, represented by epochs or ages during which social structures were challenged (for example the Renaissance, the Enlightenment, and the Industrial Revolution) encapsulate challenges to the social fabric of an ordered society. Challenges coincided with advances in technology and permitted the redefinition of Work as industries were created and populations moved.
+
+Subsequent changes in technology have sped the rate of change in society and therefore Work. The example provided is that of \IS{}. The rate of change is such that technology has moved faster than the effects of change have been understood and theories that have been developed to investigate technology, the effects of change and those effects on society. Therefore I argue that there is the need for a hard core of theory in \IS{} on which auxiliary theories may be built. When such a hard core of theory is established, then it may be that the field of \IS{} develops a progressive problem-shift.
+
+The philosophical basis upon which the thesis is built comes through the work of James and other pragmatists. The study focusses at an epistemological and ontological level where the presentation of knowledge as \cbdelete{}formalism is paramount. Therefore, a method for the formal description of Work and the Work System that takes into account spatial and temporal considerations is outlined.
+
+Chapter~\ref{chap:case} presents cases that offer real world evidence for the arguments that are made through the remaining chapters. These have been selected on the basis that they represent various applications of Web 2.0 technologies and tell differing stories of development, application, implementation, and success.
+\end{pagewiselinenumbers}

@@ -1,0 +1,226 @@
+\documentclass[a4paper,12pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{times}
+\usepackage[american,english]{babel}
+%\usepackage[style=apa]{biblatex}
+%\bibliography{SemanticsOfWork}
+\usepackage{apacite}                                   %references are in APA format, using the standard APA 5th style
+
+%\newcommand{\bibliteral}[1]{\string\bibliteral\space{#1}} %Allows refs with titles to be processed
+%\usepackage{apacdoc}
+
+\usepackage{setspace}
+\usepackage{fancyhdr}
+%% Fancy Header
+%% Fancy Header Style Options
+    \pagestyle{fancy}                                  % Sets fancy header and footer
+    \fancyfoot{}                                       % Delete current footer settings
+    \renewcommand{\chaptermark}[1]{                    % Lower Case Chapter marker style
+      \markboth{\chaptername\ \thechapter.\ #1}{}}     %
+    \renewcommand{\sectionmark}[1]{                    % Lower case Section marker style
+      \markright{\thesection.\ #1}}                    %
+%    \fancyhead[LE,RO]{\mdseries\thepage}               % Page number (boldface) in left on even
+                                                                                         % pages and right on odd pages
+    \fancyhead[L,RO]{\mdseries\thepage}
+%    \fancyhead[RE]{\mdseries\rightmark}                % Chapter in the right on even pages
+%    \fancyhead[R]{\mdseries\rightmark}
+    \fancyhead[LO]{\mdseries\leftmark}                 % Section in the left on odd pages
+    \renewcommand{\headrulewidth}{0.25pt}               % Width of head rule
+     \renewcommand{\headheight}{30pt}               % depth of header
+
+\oddsidemargin 15truemm \evensidemargin 0truemm
+\marginparwidth 40pt \marginparsep 10pt
+\topmargin 0truemm \headsep 10truemm
+\textheight 224truemm \textwidth 138truemm
+
+\renewcommand{\headrule}{\hrule width\textwidth} %makes the headrule the width of the text
+
+\usepackage{microtype}	% provides a LATEX interface to the micro-typographic 
+					% extensions of pdf TEX
+\usepackage{graphicx}
+\usepackage{graphics}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{MnSymbol}
+%\usepackage{pifont}
+%\usepackage{tabularx}
+\usepackage{expdlist}
+\usepackage{varioref}
+%\usepackage{epic}
+\usepackage{pstricks}
+%\usepackage{ecltree}
+%\usepackage{cancel}
+\usepackage{textcomp}
+%\usepackage{verbatim}                                 % for code listings and so on
+%\usepackage{play}                                     % used for interview transcipts
+\usepackage[pagewise]{lineno}                      % used to number interview transcript lines, for referencing in the body
+\modulolinenumbers[7]
+\renewcommand\linenumberfont{\normalfont\tiny\sffamily\textcolor{white}}
+\usepackage{longtable}                                % for tables that extend beyond a single page
+%\usepackage{subfig}                                   % putting more than one figure in a float
+%\usepackage{rotating}                                 % turning the float sideways on the page
+\usepackage{multicol, ragged2e}                       
+%\usepackage{relsize}
+%\usepackage{pdflscape}
+%\usepackage{array}
+\usepackage{booktabs}
+%\usepackage{multirow}
+%\usepackage{bigdelim}
+\usepackage{nextpage}
+\usepackage{titleref}                                 % putting title text into cross-refs
+%\usepackage{upgreek}
+\usepackage{lgreek}
+\usepackage{paralist}
+\usepackage[all]{xy}
+\usepackage{dashrule}
+%\usepackage{versions}   % Allows text to be optionally in/excluded with the following set
+				 % use \begin{version}CODE\end{version}
+                                     % ``version'' can be replaced with any character token
+%\includeversion{version}  % prints the environment
+%excludeversion{version}  % excludes the environment
+%\markversion{version}     % prints the environment and marks the text
+%\includeversion{brian}
+%\markversion{b1}
+\usepackage[rightbars,color]{changebar}
+\cbcolor{red}
+\nochangebars
+\usepackage[multiple]{footmisc}
+
+
+% Macro for enforcing a blank page. Used at the beginning of the Appendices 
+% to create a bank page before the new part that starts there
+\newcommand{\clearemptydoublepage}{\strut\newpage{\pagestyle{empty}\cleardoublepage}}
+
+% Macros for special charaters that are used frequently, and to improve readability in the code
+\newcommand{\NZ}{New\nobreakspace{}Zealand}          %Inserts no-breakspace into proper noun
+\newcommand{\nz}{New\nobreakspace{}Zealand}          %
+\newcommand{\NZer}{New\nobreakspace{}Zealander}      %
+\newcommand{\maori}{M\={a}ori}                       % adds macrons
+\newcommand{\whanau}{wh\={a}nau}
+\newcommand{\Whanau}{Wh\={a}nau}
+\newcommand{\hapu}{hap\={u}}
+\newcommand{\Hapu}{Hap\={u}}
+\newcommand{\kaumatua}{kaum\={a}tua}
+\newcommand{\tupuna}{t\={u}puna}
+\newcommand{\IS}{\textsc{is}}
+\newcommand{\is}{\textsc{is}}
+\newcommand{\Junger}{J\"unger}
+\newcommand{\IT}{\textsc{it}}
+\newcommand{\soa}{\textsc{soa}}
+
+% Macro for suppressing text, and maintaining suppressed text in the source
+\newcommand{\suppresstext}{\textless{}\ldots{}\textgreater{}}
+
+% Superscripted characters
+\newcommand{\st}{\raisebox{0.75ex}{\scriptsize{st}}}    % superscripts st in 1st
+\newcommand{\nd}{\raisebox{0.75ex}{\scriptsize{nd}}}    % same 2nd
+\newcommand{\rd}{\raisebox{0.75ex}{\scriptsize{rd}}}    % same 3rd
+\newcommand{\nth}{\raisebox{0.75ex}{\scriptsize{th}}}   % same for nth
+% \newcommand{\reg}{\raisebox{0.75ex}{{\scriptsize \Pisymbol{psy}{210}}}}
+% \newcommand{\tm}{\raisebox{0.75ex}{{\scriptsize \Pisymbol{psy}{212}}}
+\newcommand{\superscript}[1]{\raisebox{0.3ex}{\scriptsize{#1}}}    % superscript text
+\newcommand{\subscript}[1]{\raisebox{-0.3ex}{\scriptsize{#1}}}    % superscripts st in 1st
+
+%Make text red or black
+%\newcommand{\ColourTextRed}[1]{\textcolor{red}{#1}}
+\newcommand{\ColourTextRed}[1]{#1}
+
+% Miscellaneous symbols and characters
+% \newcommand{\rarrow}{\Pisymbol{psy}{222}}
+% \newcommand{\+}{\raisebox{0.75ex}{\scriptsize{+}}}
+
+\newenvironment{itemize*}%
+{\begin{itemize}%
+\setlength{\itemsep}{0pt}%
+\setlength{\parskip}{0pt}}%
+{\end{itemize}}
+
+\newenvironment{enumerate*}%
+{\begin{enumerate}%
+\setlength{\itemsep}{0pt}%
+\setlength{\parskip}{0pt}}%
+{\end{enumerate}}
+
+\newenvironment{description*}%
+{\begin{description}%
+\setlength{\itemsep}{0pt}%
+\setlength{\parskip}{0pt}}%
+{\end{description}}
+
+\newenvironment{quotation*}%
+{\begin{quotation}%
+\setlength{\itemsep}{0pt}%
+\setlength{\parskip}{0pt}}%
+{\end{quotation}}
+
+\newenvironment{quotation**}%
+{\begin{quotation}%
+\setlength{\itemsep}{-1pt}%
+\setlength{\parskip}{-1pt}}%
+{\end{quotation}}
+
+% hyphenation rules
+\hyphenation{Ko-tahi-tanga}
+\hyphenation{Her-kunft}
+\hyphenation{ma-ta-nga}
+\hyphenation{Ur-sp-rung}
+\hyphenation{Zim-mer-man}
+
+% Widow and orphan control. Max. value = 10000
+%\widowpenalty=300
+%\clubpenalty=300
+\raggedbottom
+%\setlength{\parskip}{3ex plus 2ex minus 2ex}
+%\pagebreak[3] %option 0-4 with 4 more insistent
+
+% Specify the graphics path
+\graphicspath{{images/}}
+
+%Changing the margin paragraph setting
+\let\margin\marginpar
+\newcommand\myMargin[1]{\margin{\raggedright%
+	\scriptsize%
+	\setlength{\itemsep}{0pt}%
+	\setlength{\parskip}{0pt} \textcolor{red}{#1}}}
+\renewcommand{\marginpar}[1]{\myMargin{#1}}
+
+%Allows the chapter title to be added as the report title
+\providecommand{\myChapter}[1]{\title{Draft chapter \\ #1}
+                                                  \date{\today}
+                                                  \author{Alan Litchfield}
+                                                  \maketitle
+                                                  \chapter{#1}}
+
+%Changes chapter number to a letter form to remove confusion
+% For any counter CTR, \theCTR is a macro that defines the printed
+% version of counter CTR.  It is defined in terms of the following
+% macros:
+%
+%  \arabic{COUNTER} : The value of COUNTER printed as an arabic numeral.
+%  \roman{COUNTER}  : Its value printed as a lower-case roman numberal.
+%  \Roman{COUNTER}  : Its value printed as an upper-case roman numberal.
+%  \alph{COUNTER}   : Value of COUNTER printed as a lower-case letter:
+%                         1 = a, 2 = b, etc.
+%  \Alph{COUNTER}   : Value of COUNTER printed as an upper-case letter:
+%                           1 = A, 2 = B, etc.
+%
+
+\def\thechapter       {\Alph{chapter}}
+\setcounter{chapter}{23}
+
+
+\begin{document}
+\doublespacing{}
+
+\input{includes/WorkConception}
+
+\singlespacing
+\renewcommand\bibname{References}
+
+\bibliographystyle{apacite}
+%\renewcommand{\bibliteral}[1]{#1} %places titles into bibbliography
+%\printbibliography
+\bibliography{SemanticsOfWork}
+
+\end{document}

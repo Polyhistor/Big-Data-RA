@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ChapterProof.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=5001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Database file #1: SemanticsOfWork.bib
+apacite.bst [2012/02/25 v6.01 APA bibliography style]
+You've used 36 entries,
+            6735 wiz_defined-function locations,
+            1525 strings with 16189 characters,
+and the built_in function-call counts, 62503 in all, are:
+= -- 7823
+> -- 457
+< -- 2772
++ -- 2660
+- -- 72
+* -- 3908
+:= -- 11183
+add.period$ -- 158
+call.type$ -- 36
+change.case$ -- 694
+chr.to.int$ -- 0
+cite$ -- 72
+duplicate$ -- 1582
+empty$ -- 2765
+format.name$ -- 697
+if$ -- 12186
+int.to.chr$ -- 0
+int.to.str$ -- 72
+missing$ -- 0
+newline$ -- 881
+num.names$ -- 300
+pop$ -- 1248
+preamble$ -- 1
+purify$ -- 186
+quote$ -- 0
+skip$ -- 4175
+stack$ -- 0
+substring$ -- 2976
+swap$ -- 1022
+text.length$ -- 130
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 3136
+warning$ -- 0
+while$ -- 296
+width$ -- 0
+write$ -- 1014

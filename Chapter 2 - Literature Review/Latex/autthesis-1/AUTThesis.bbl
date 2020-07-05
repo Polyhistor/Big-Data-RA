@@ -1,0 +1,57 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Grad%
+\ \BBA {} Bergin%
+}{%
+Grad%
+\ \BBA {} Bergin%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+Grad2009}
+\APACinsertmetastar {%
+Grad2009}%
+\begin{APACrefauthors}%
+Grad, B.%
+\BCBT {}\ \BBA {} Bergin, T\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Guest Editors' Introduction: History of Database
+  Management Systems} {Guest editors' introduction: History of database
+  management systems}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{IEEE Annals of the History of Computing}{31}{4}{3-5}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/mahc.2009.99} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wirth%
+}{%
+Wirth%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Wirth2008}
+\APACinsertmetastar {%
+Wirth2008}%
+\begin{APACrefauthors}%
+Wirth, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A brief history of software engineering} {A brief
+  history of software engineering}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{IEEE Annals of the History of Computing}{30}{3}{32-39}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/mahc.2008.33} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

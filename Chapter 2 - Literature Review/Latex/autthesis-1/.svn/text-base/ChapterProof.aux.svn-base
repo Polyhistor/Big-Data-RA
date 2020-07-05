@@ -1,0 +1,938 @@
+\relax 
+\let\TR@TitleReference\@firstoftwo
+\select@language{english}
+\@writefile{toc}{\select@language{english}}
+\@writefile{lof}{\select@language{english}}
+\@writefile{lot}{\select@language{english}}
+\citation{Anderson1964}
+\citation{Masaryk1971}
+\citation{Tannenbaum1952}
+\@writefile{toc}{\contentsline {chapter}{\numberline {X}The notion of Work}{1}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{chap:notion}{{\TR@TitleReference {X}{The notion of Work}}{1}}
+\@LN{0}{1}
+\@writefile{toc}{\contentsline {section}{\numberline {X.1}Introduction}{1}}
+\@LN{1}{1}
+\@LN{2}{1}
+\@LN{3}{1}
+\@LN{4}{1}
+\@LN{5}{1}
+\@LN{6}{1}
+\newlabel{notionll5}{{\getpagewiselinenumber {7}}{1}}
+\@LN{7}{1}
+\@LN{8}{1}
+\@LN{9}{1}
+\@LN{10}{1}
+\@LN{11}{1}
+\@LN{12}{1}
+\@LN{13}{1}
+\@LN{14}{1}
+\newlabel{notionll7}{{\getpagewiselinenumber {15}}{1}}
+\@LN{15}{1}
+\citation{Dewey1938}
+\@LN{16}{2}
+\@LN{17}{2}
+\@LN{18}{2}
+\@LN{19}{2}
+\@LN{20}{2}
+\@LN{21}{2}
+\@LN{22}{2}
+\@LN{23}{2}
+\@LN{24}{2}
+\@LN{25}{2}
+\@LN{26}{2}
+\@LN{27}{2}
+\@LN{28}{2}
+\@LN{29}{2}
+\@LN{30}{2}
+\@LN{31}{2}
+\@LN{32}{2}
+\@LN{33}{2}
+\@LN{34}{2}
+\@LN{35}{2}
+\@LN{36}{2}
+\@LN{37}{2}
+\@LN{38}{2}
+\@LN{39}{2}
+\@LN{40}{2}
+\@LN{41}{2}
+\@LN{42}{2}
+\@LN{43}{3}
+\@LN{44}{3}
+\@LN{45}{3}
+\@LN{46}{3}
+\@LN{47}{3}
+\@LN{48}{3}
+\@LN{49}{3}
+\@LN{50}{3}
+\@LN{51}{3}
+\@LN{52}{3}
+\@LN{53}{3}
+\@LN{54}{3}
+\@LN{55}{3}
+\@LN{56}{3}
+\@LN{57}{3}
+\@LN{58}{3}
+\@LN{59}{3}
+\@LN{60}{3}
+\@LN{61}{3}
+\@LN{62}{3}
+\@LN{63}{3}
+\@LN{64}{3}
+\@LN{65}{3}
+\@LN{66}{3}
+\@LN{67}{3}
+\@LN{68}{3}
+\@LN{69}{4}
+\@LN{70}{4}
+\@LN{71}{4}
+\@LN{72}{4}
+\@LN{73}{4}
+\@LN{74}{4}
+\@LN{75}{4}
+\@LN{76}{4}
+\@LN{77}{4}
+\@LN{78}{4}
+\@LN{79}{4}
+\@LN{80}{4}
+\@LN{81}{4}
+\@LN{82}{4}
+\@LN{83}{4}
+\@LN{84}{4}
+\@LN{85}{4}
+\@LN{86}{4}
+\@LN{87}{4}
+\@LN{88}{4}
+\@LN{89}{4}
+\@LN{90}{4}
+\@LN{91}{4}
+\@LN{92}{4}
+\@LN{93}{4}
+\@LN{94}{5}
+\@LN{95}{5}
+\@LN{96}{5}
+\@LN{97}{5}
+\@LN{98}{5}
+\@LN{99}{5}
+\@LN{100}{5}
+\@LN{101}{5}
+\@LN{102}{5}
+\@LN{103}{5}
+\@LN{104}{5}
+\@LN{105}{5}
+\@LN{106}{5}
+\@LN{107}{5}
+\@LN{108}{5}
+\@LN{109}{5}
+\@LN{110}{5}
+\@LN{111}{5}
+\@LN{112}{5}
+\@LN{113}{5}
+\@LN{114}{6}
+\@LN{115}{6}
+\@LN{116}{6}
+\@LN{117}{6}
+\@LN{118}{6}
+\@LN{119}{6}
+\@LN{120}{6}
+\@LN{121}{6}
+\@LN{122}{6}
+\@LN{123}{6}
+\@LN{124}{6}
+\@LN{125}{6}
+\@LN{126}{6}
+\@LN{127}{6}
+\@LN{128}{6}
+\@LN{129}{6}
+\@LN{130}{6}
+\@LN{131}{6}
+\@LN{132}{6}
+\@LN{133}{6}
+\@LN{134}{6}
+\@LN{135}{6}
+\@LN{136}{6}
+\@LN{137}{6}
+\@LN{138}{7}
+\@LN{139}{7}
+\@LN{140}{7}
+\@LN{141}{7}
+\@LN{142}{7}
+\@LN{143}{7}
+\@LN{144}{7}
+\@LN{145}{7}
+\@LN{146}{7}
+\@LN{147}{7}
+\@LN{148}{7}
+\@LN{149}{7}
+\@LN{150}{7}
+\@LN{151}{7}
+\@LN{152}{7}
+\@LN{153}{7}
+\@LN{154}{7}
+\@LN{155}{7}
+\@LN{156}{7}
+\@LN{157}{7}
+\@LN{158}{7}
+\@LN{159}{7}
+\@LN{160}{7}
+\@LN{161}{7}
+\citation{Ricardo1821}
+\citation{Marx1998}
+\@LN{162}{8}
+\@LN{163}{8}
+\@LN{164}{8}
+\@LN{165}{8}
+\@LN{166}{8}
+\@LN{167}{8}
+\@LN{168}{8}
+\@LN{169}{8}
+\@LN{170}{8}
+\@LN{171}{8}
+\@LN{172}{8}
+\@LN{173}{8}
+\@LN{174}{8}
+\@LN{175}{8}
+\@LN{176}{8}
+\@LN{177}{8}
+\@writefile{toc}{\contentsline {section}{\numberline {X.2}What Work means to the person}{8}}
+\newlabel{sec:notion:whatWorkMeans}{{\TR@TitleReference {X.2}{What Work means to the person}}{8}}
+\@LN{178}{8}
+\@LN{179}{8}
+\@LN{180}{8}
+\newlabel{notionll27}{{\getpagewiselinenumber {181}}{8}}
+\@LN{181}{8}
+\@LN{182}{8}
+\@LN{183}{8}
+\citation{Smith1937}
+\citation{DupreGagnier1996}
+\citation{Tannenbaum1952}
+\citation{Tannenbaum1952}
+\citation{Locke1980}
+\citation{Marx1998}
+\@LN{184}{9}
+\@LN{185}{9}
+\@LN{186}{9}
+\@LN{187}{9}
+\@LN{188}{9}
+\newlabel{notionll27a}{{\getpagewiselinenumber {189}}{9}}
+\@LN{189}{9}
+\@LN{190}{9}
+\@LN{191}{9}
+\@LN{192}{9}
+\@LN{193}{9}
+\@LN{194}{9}
+\@LN{195}{9}
+\@LN{196}{9}
+\@LN{197}{9}
+\@LN{198}{9}
+\@LN{199}{9}
+\@LN{200}{9}
+\newlabel{text:notion:moral}{{\TR@TitleReference {X.2}{What Work means to the person}}{9}}
+\@LN{201}{9}
+\@LN{202}{9}
+\@LN{203}{9}
+\@LN{204}{9}
+\@LN{205}{9}
+\@LN{206}{9}
+\@LN{207}{9}
+\@LN{208}{9}
+\citation{Tannenbaum1952}
+\citation{Tannenbaum1952}
+\citation{Berthoud2007}
+\citation{DupreGagnier1996}
+\citation{Berthoud2007}
+\citation{Masaryk1971}
+\citation{Junger2007}
+\citation{Junger1977}
+\citation{Zimmerman1990}
+\citation{Zimmerman1990}
+\@LN{209}{10}
+\@LN{210}{10}
+\@LN{211}{10}
+\@LN{212}{10}
+\@LN{213}{10}
+\@LN{214}{10}
+\@LN{215}{10}
+\@LN{216}{10}
+\@LN{217}{10}
+\@LN{218}{10}
+\@LN{219}{10}
+\@LN{220}{10}
+\@LN{221}{10}
+\@LN{222}{10}
+\newlabel{text:notion:utopian}{{\TR@TitleReference {X.2}{What Work means to the person}}{10}}
+\@LN{223}{10}
+\@LN{224}{10}
+\@LN{225}{10}
+\@LN{226}{10}
+\@LN{227}{10}
+\@LN{228}{10}
+\@LN{229}{10}
+\@LN{230}{10}
+\@LN{231}{10}
+\@LN{232}{10}
+\@LN{233}{10}
+\newlabel{notionll38}{{\getpagewiselinenumber {234}}{10}}
+\@LN{234}{10}
+\citation{Masaryk1971}
+\@LN{235}{11}
+\@LN{236}{11}
+\newlabel{notionll38a}{{\getpagewiselinenumber {237}}{11}}
+\@LN{237}{11}
+\newlabel{text:notion:gestalt}{{\TR@TitleReference {X.2}{What Work means to the person}}{11}}
+\@LN{238}{11}
+\@LN{239}{11}
+\@LN{240}{11}
+\@LN{241}{11}
+\@LN{242}{11}
+\@LN{243}{11}
+\@LN{244}{11}
+\@LN{245}{11}
+\newlabel{notionll41}{{\getpagewiselinenumber {246}}{11}}
+\@LN{246}{11}
+\@LN{247}{11}
+\@LN{248}{11}
+\newlabel{text:notion:utopia}{{\TR@TitleReference {X.2}{What Work means to the person}}{11}}
+\newlabel{notionll41a}{{\getpagewiselinenumber {249}}{11}}
+\@LN{249}{11}
+\@LN{250}{11}
+\@writefile{toc}{\contentsline {section}{\numberline {X.3}Reason for Work}{11}}
+\newlabel{sec:notion:Reason}{{\TR@TitleReference {X.3}{Reason for Work}}{11}}
+\@LN{251}{11}
+\@LN{252}{11}
+\@LN{253}{11}
+\@LN{254}{11}
+\@LN{255}{11}
+\@LN{256}{11}
+\@LN{257}{11}
+\newlabel{text:notion:anarch}{{\TR@TitleReference {27}{What Work means to the person}}{11}}
+\citation{Zimmerman1990}
+\citation{Nietzsche1987}
+\@LN{258}{12}
+\@LN{259}{12}
+\@LN{260}{12}
+\@LN{261}{12}
+\@LN{262}{12}
+\@LN{263}{12}
+\@LN{264}{12}
+\@writefile{toc}{\contentsline {subsection}{\numberline {X.3.1}The Will to Work}{12}}
+\newlabel{sec:meaningOfWork}{{\TR@TitleReference {X.3.1}{The Will to Work}}{12}}
+\@LN{265}{12}
+\@LN{266}{12}
+\@LN{267}{12}
+\@LN{268}{12}
+\@LN{269}{12}
+\@LN{270}{12}
+\@LN{271}{12}
+\@LN{272}{12}
+\@LN{273}{12}
+\@LN{274}{12}
+\@LN{275}{12}
+\@LN{276}{12}
+\@LN{277}{12}
+\@LN{278}{12}
+\newlabel{notionll53}{{\getpagewiselinenumber {279}}{12}}
+\@LN{279}{12}
+\@LN{280}{12}
+\@LN{281}{12}
+\@LN{282}{12}
+\citation{Masaryk1971}
+\citation{Masaryk1971}
+\@LN{283}{13}
+\@LN{284}{13}
+\@LN{285}{13}
+\newlabel{notionll53a}{{\getpagewiselinenumber {286}}{13}}
+\@LN{286}{13}
+\newlabel{notionll56}{{\getpagewiselinenumber {287}}{13}}
+\@LN{287}{13}
+\@LN{288}{13}
+\@LN{289}{13}
+\@LN{290}{13}
+\newlabel{notionll56a}{{\getpagewiselinenumber {291}}{13}}
+\@LN{291}{13}
+\@LN{292}{13}
+\@writefile{toc}{\contentsline {subsection}{\numberline {X.3.2}How to Work}{13}}
+\newlabel{sec:notion:HowToWork}{{\TR@TitleReference {X.3.2}{How to Work}}{13}}
+\@LN{293}{13}
+\@LN{294}{13}
+\@LN{295}{13}
+\@LN{296}{13}
+\@LN{297}{13}
+\@LN{298}{13}
+\@LN{299}{13}
+\newlabel{notionll68}{{\getpagewiselinenumber {300}}{13}}
+\@LN{300}{13}
+\@LN{301}{13}
+\@LN{302}{13}
+\newlabel{notionll68a}{{\getpagewiselinenumber {303}}{13}}
+\@LN{303}{13}
+\@LN{304}{13}
+\@LN{305}{13}
+\@LN{306}{13}
+\newlabel{notionll71}{{\getpagewiselinenumber {307}}{14}}
+\@LN{307}{14}
+\@LN{308}{14}
+\@LN{309}{14}
+\@LN{310}{14}
+\@LN{311}{14}
+\@LN{312}{14}
+\newlabel{notionll71a}{{\getpagewiselinenumber {313}}{14}}
+\@LN{313}{14}
+\newlabel{notionll74}{{\getpagewiselinenumber {314}}{14}}
+\@LN{314}{14}
+\@LN{315}{14}
+\@LN{316}{14}
+\@LN{317}{14}
+\@LN{318}{14}
+\@LN{319}{14}
+\@LN{320}{14}
+\@LN{321}{14}
+\newlabel{notionll74a}{{\getpagewiselinenumber {322}}{14}}
+\@LN{322}{14}
+\newlabel{notionll76}{{\getpagewiselinenumber {323}}{14}}
+\newlabel{notionll76a}{{\getpagewiselinenumber {323}}{14}}
+\@LN{323}{14}
+\@LN{324}{14}
+\newlabel{notionll77}{{\getpagewiselinenumber {325}}{14}}
+\@LN{325}{14}
+\@LN{326}{14}
+\@LN{327}{14}
+\@LN{328}{14}
+\@LN{329}{14}
+\@LN{330}{14}
+\@LN{331}{14}
+\@LN{332}{14}
+\@LN{333}{14}
+\citation{Heidegger1981}
+\citation{Zimmerman1990}
+\citation{Zimmerman1990}
+\newlabel{notionll77a}{{\getpagewiselinenumber {334}}{15}}
+\@LN{334}{15}
+\@LN{335}{15}
+\@writefile{toc}{\contentsline {subsection}{\numberline {X.3.3}The person becomes the object}{15}}
+\newlabel{sec:notion:humanObject}{{\TR@TitleReference {X.3.3}{The person becomes the object}}{15}}
+\@LN{336}{15}
+\@LN{337}{15}
+\@LN{338}{15}
+\newlabel{notionll82}{{\getpagewiselinenumber {339}}{15}}
+\@LN{339}{15}
+\@LN{340}{15}
+\@LN{341}{15}
+\newlabel{notionll82a}{{\getpagewiselinenumber {342}}{15}}
+\@LN{342}{15}
+\@LN{343}{15}
+\@LN{344}{15}
+\@LN{345}{15}
+\@LN{346}{15}
+\@LN{347}{15}
+\@LN{348}{15}
+\@LN{349}{15}
+\@LN{350}{15}
+\@LN{351}{15}
+\newlabel{notionll88}{{\getpagewiselinenumber {352}}{15}}
+\@LN{352}{15}
+\@LN{353}{15}
+\@LN{354}{15}
+\@LN{355}{15}
+\@LN{356}{15}
+\@LN{357}{15}
+\@LN{358}{15}
+\citation{Rousseau1968}
+\@LN{359}{16}
+\@LN{360}{16}
+\newlabel{notionll88a}{{\getpagewiselinenumber {361}}{16}}
+\@LN{361}{16}
+\@LN{362}{16}
+\@writefile{toc}{\contentsline {section}{\numberline {X.4}The notion of action}{16}}
+\newlabel{sec:notion:action}{{\TR@TitleReference {X.4}{The notion of action}}{16}}
+\@LN{363}{16}
+\newlabel{notionll92}{{\getpagewiselinenumber {364}}{16}}
+\@LN{364}{16}
+\@LN{365}{16}
+\@LN{366}{16}
+\@LN{367}{16}
+\@LN{368}{16}
+\newlabel{notionll92a}{{\getpagewiselinenumber {369}}{16}}
+\@LN{369}{16}
+\newlabel{notionll95}{{\getpagewiselinenumber {370}}{16}}
+\@LN{370}{16}
+\@LN{371}{16}
+\@LN{372}{16}
+\@LN{373}{16}
+\@LN{374}{16}
+\@LN{375}{16}
+\newlabel{notionll95a}{{\getpagewiselinenumber {376}}{16}}
+\@LN{376}{16}
+\newlabel{notionll98}{{\getpagewiselinenumber {377}}{16}}
+\@LN{377}{16}
+\@LN{378}{16}
+\@LN{379}{16}
+\@LN{380}{16}
+\@LN{381}{16}
+\@LN{382}{16}
+\@LN{383}{16}
+\citation{Dewey1891}
+\citation{Dewey1891}
+\@LN{384}{17}
+\@LN{385}{17}
+\@LN{386}{17}
+\@LN{387}{17}
+\@LN{388}{17}
+\@LN{389}{17}
+\@LN{390}{17}
+\newlabel{notionll98a}{{\getpagewiselinenumber {391}}{17}}
+\@LN{391}{17}
+\@LN{392}{17}
+\@LN{393}{17}
+\@LN{394}{17}
+\@LN{395}{17}
+\@LN{396}{17}
+\@LN{397}{17}
+\@LN{398}{17}
+\newlabel{notionll101}{{\getpagewiselinenumber {399}}{17}}
+\@LN{399}{17}
+\@LN{400}{17}
+\@LN{401}{17}
+\newlabel{notionll101a}{{\getpagewiselinenumber {402}}{17}}
+\@LN{402}{17}
+\newlabel{notionll105}{{\getpagewiselinenumber {403}}{17}}
+\@LN{403}{17}
+\@LN{404}{17}
+\@LN{405}{17}
+\@LN{406}{17}
+\@LN{407}{17}
+\@LN{408}{17}
+\@LN{409}{17}
+\@LN{410}{17}
+\citation{Dewey1939}
+\newlabel{notionll105a}{{\getpagewiselinenumber {411}}{18}}
+\@LN{411}{18}
+\@LN{412}{18}
+\newlabel{notionll105b}{{\getpagewiselinenumber {413}}{18}}
+\@LN{413}{18}
+\newlabel{notionll108}{{\getpagewiselinenumber {414}}{18}}
+\@LN{414}{18}
+\@LN{415}{18}
+\@LN{416}{18}
+\@LN{417}{18}
+\@LN{418}{18}
+\newlabel{notionll108a}{{\getpagewiselinenumber {419}}{18}}
+\@LN{419}{18}
+\newlabel{notionll110}{{\getpagewiselinenumber {420}}{18}}
+\@LN{420}{18}
+\@LN{421}{18}
+\@LN{422}{18}
+\newlabel{notionll110a}{{\getpagewiselinenumber {423}}{18}}
+\@LN{423}{18}
+\@LN{424}{18}
+\@LN{425}{18}
+\@LN{426}{18}
+\newlabel{notionll113}{{\getpagewiselinenumber {427}}{18}}
+\@LN{427}{18}
+\@LN{428}{18}
+\@LN{429}{18}
+\@LN{430}{18}
+\@LN{431}{18}
+\@LN{432}{18}
+\@LN{433}{18}
+\@LN{434}{18}
+\@LN{435}{18}
+\@LN{436}{18}
+\@LN{437}{18}
+\citation{Dewey1938}
+\newlabel{notionll113a}{{\getpagewiselinenumber {438}}{19}}
+\@LN{438}{19}
+\newlabel{notionll116}{{\getpagewiselinenumber {439}}{19}}
+\@LN{439}{19}
+\@LN{440}{19}
+\@LN{441}{19}
+\@LN{442}{19}
+\@LN{443}{19}
+\@LN{444}{19}
+\@LN{445}{19}
+\@LN{446}{19}
+\newlabel{notionll116a}{{\getpagewiselinenumber {447}}{19}}
+\@LN{447}{19}
+\newlabel{notionll119}{{\getpagewiselinenumber {448}}{19}}
+\@LN{448}{19}
+\@LN{449}{19}
+\@LN{450}{19}
+\newlabel{text:notion:artefact}{{\TR@TitleReference {X.4}{The notion of action}}{19}}
+\@LN{451}{19}
+\@LN{452}{19}
+\@LN{453}{19}
+\@LN{454}{19}
+\@LN{455}{19}
+\@LN{456}{19}
+\newlabel{notionll119a}{{\getpagewiselinenumber {457}}{19}}
+\@LN{457}{19}
+\@LN{458}{19}
+\@writefile{toc}{\contentsline {section}{\numberline {X.5}Change in the nature of the human}{19}}
+\newlabel{sec:notion:nature}{{\TR@TitleReference {X.5}{Change in the nature of the human}}{19}}
+\@LN{459}{19}
+\@LN{460}{19}
+\@LN{461}{19}
+\@LN{462}{19}
+\citation{Dewey1938}
+\citation{Dewey1938}
+\@LN{463}{20}
+\@LN{464}{20}
+\@LN{465}{20}
+\@LN{466}{20}
+\@LN{467}{20}
+\@LN{468}{20}
+\@LN{469}{20}
+\@LN{470}{20}
+\@LN{471}{20}
+\@LN{472}{20}
+\@LN{473}{20}
+\@LN{474}{20}
+\@LN{475}{20}
+\@LN{476}{20}
+\@LN{477}{20}
+\newlabel{text:notion:aristotle}{{\TR@TitleReference {X.5}{Change in the nature of the human}}{20}}
+\@LN{478}{20}
+\@LN{479}{20}
+\@LN{480}{20}
+\@LN{481}{20}
+\@LN{482}{20}
+\@LN{483}{20}
+\@LN{484}{20}
+\@LN{485}{20}
+\@LN{486}{20}
+\@LN{487}{20}
+\@LN{488}{20}
+\@LN{489}{20}
+\citation{Dewey1938}
+\citation{Maximilien2007}
+\citation{Maximilien2007}
+\citation{Dietrich2007}
+\@LN{490}{21}
+\@LN{491}{21}
+\@LN{492}{21}
+\@LN{493}{21}
+\@LN{494}{21}
+\@LN{495}{21}
+\@LN{496}{21}
+\@LN{497}{21}
+\@LN{498}{21}
+\@LN{499}{21}
+\@LN{500}{21}
+\@LN{501}{21}
+\@LN{502}{21}
+\@LN{503}{21}
+\@LN{504}{21}
+\@LN{505}{21}
+\@LN{506}{21}
+\@LN{507}{21}
+\@LN{508}{21}
+\@LN{509}{21}
+\@LN{510}{21}
+\@LN{511}{21}
+\@writefile{toc}{\contentsline {section}{\numberline {X.6}Web 2.0 in Work}{21}}
+\newlabel{sec:Impacts}{{\TR@TitleReference {X.6}{Web 2.0 in Work}}{21}}
+\@LN{512}{21}
+\@LN{513}{21}
+\newlabel{notionll138}{{\getpagewiselinenumber {514}}{21}}
+\@LN{514}{21}
+\@LN{515}{22}
+\@LN{516}{22}
+\newlabel{notionll138a}{{\getpagewiselinenumber {517}}{22}}
+\@LN{517}{22}
+\@LN{518}{22}
+\@LN{519}{22}
+\@LN{520}{22}
+\@LN{521}{22}
+\@LN{522}{22}
+\@LN{523}{22}
+\@LN{524}{22}
+\@LN{525}{22}
+\@LN{526}{22}
+\@LN{527}{22}
+\newlabel{notionll141}{{\getpagewiselinenumber {528}}{22}}
+\@LN{528}{22}
+\@LN{529}{22}
+\@LN{530}{22}
+\@LN{531}{22}
+\@LN{532}{22}
+\@LN{533}{22}
+\@LN{534}{22}
+\@LN{535}{22}
+\@LN{536}{22}
+\@LN{537}{22}
+\@LN{538}{22}
+\newlabel{notion141b}{{\getpagewiselinenumber {539}}{22}}
+\@LN{539}{22}
+\@LN{540}{22}
+\citation{Tannenbaum1952}
+\citation{Constantinides2008}
+\citation{Koch2007}
+\citation{Rowe2006}
+\citation{Yi2006}
+\citation{Hoover2007}
+\citation{BernersLee1998}
+\citation{Kobielus2007}
+\citation{Bell2007}
+\newlabel{notionll141a}{{\getpagewiselinenumber {541}}{23}}
+\@LN{541}{23}
+\@LN{542}{23}
+\@LN{543}{23}
+\newlabel{notionll144}{{\getpagewiselinenumber {544}}{23}}
+\@LN{544}{23}
+\@LN{545}{23}
+\newlabel{notionll144a}{{\getpagewiselinenumber {546}}{23}}
+\@LN{546}{23}
+\@LN{547}{23}
+\@LN{548}{23}
+\@LN{549}{23}
+\@LN{550}{23}
+\@LN{551}{23}
+\@LN{552}{23}
+\@LN{553}{23}
+\@LN{554}{23}
+\newlabel{notionll147}{{\getpagewiselinenumber {555}}{23}}
+\@LN{555}{23}
+\@LN{556}{23}
+\@LN{557}{23}
+\@LN{558}{23}
+\newlabel{notionll147a}{{\getpagewiselinenumber {559}}{23}}
+\@LN{559}{23}
+\@LN{560}{23}
+\@LN{561}{23}
+\@LN{562}{23}
+\@LN{563}{23}
+\@LN{564}{23}
+\@LN{565}{23}
+\@LN{566}{23}
+\@LN{567}{23}
+\citation{Dennison2007}
+\citation{Dennison2007}
+\citation{MajchrzakCherbakovIves2009}
+\citation{Butler2000}
+\@LN{568}{24}
+\@LN{569}{24}
+\@LN{570}{24}
+\@LN{571}{24}
+\@LN{572}{24}
+\@LN{573}{24}
+\@LN{574}{24}
+\@LN{575}{24}
+\@LN{576}{24}
+\@LN{577}{24}
+\@LN{578}{24}
+\@LN{579}{24}
+\newlabel{notionll151}{{\getpagewiselinenumber {580}}{24}}
+\@LN{580}{24}
+\@LN{581}{24}
+\@LN{582}{24}
+\@LN{583}{24}
+\newlabel{notionll151a}{{\getpagewiselinenumber {584}}{24}}
+\@LN{584}{24}
+\@LN{585}{24}
+\@LN{586}{24}
+\@LN{587}{24}
+\@LN{588}{24}
+\@LN{589}{24}
+\@LN{590}{24}
+\@LN{591}{24}
+\@LN{592}{24}
+\@LN{593}{24}
+\@LN{594}{24}
+\citation{MajchrzakCherbakovIves2009}
+\citation{Gruber2008}
+\citation{Rahwan2007}
+\citation{Kazikawa2007}
+\citation{SmithMcKeen2008}
+\citation{Shiumazu2007}
+\@LN{595}{25}
+\@LN{596}{25}
+\@LN{597}{25}
+\@LN{598}{25}
+\@LN{599}{25}
+\@LN{600}{25}
+\@LN{601}{25}
+\@LN{602}{25}
+\@LN{603}{25}
+\@LN{604}{25}
+\@LN{605}{25}
+\@LN{606}{25}
+\@LN{607}{25}
+\@LN{608}{25}
+\@LN{609}{25}
+\@LN{610}{25}
+\@LN{611}{25}
+\@LN{612}{25}
+\@LN{613}{25}
+\@LN{614}{25}
+\@LN{615}{25}
+\@LN{616}{25}
+\@LN{617}{25}
+\@LN{618}{25}
+\@LN{619}{25}
+\@LN{620}{25}
+\@LN{621}{25}
+\@LN{622}{26}
+\@LN{623}{26}
+\@LN{624}{26}
+\@LN{625}{26}
+\@LN{626}{26}
+\@LN{627}{26}
+\@LN{628}{26}
+\newlabel{notionll160}{{\getpagewiselinenumber {629}}{26}}
+\@LN{629}{26}
+\@LN{630}{26}
+\@LN{631}{26}
+\@LN{632}{26}
+\@LN{633}{26}
+\@LN{634}{26}
+\@LN{635}{26}
+\@LN{636}{26}
+\newlabel{notionll160a}{{\getpagewiselinenumber {637}}{26}}
+\@LN{637}{26}
+\newlabel{notionll163}{{\getpagewiselinenumber {638}}{26}}
+\@LN{638}{26}
+\@LN{639}{26}
+\@LN{640}{26}
+\@LN{641}{26}
+\@LN{642}{26}
+\@LN{643}{26}
+\@LN{644}{26}
+\@LN{645}{26}
+\@LN{646}{26}
+\newlabel{notionll163a}{{\getpagewiselinenumber {647}}{26}}
+\@LN{647}{26}
+\@LN{648}{27}
+\@writefile{toc}{\contentsline {section}{\numberline {X.7}Conclusion}{27}}
+\newlabel{sec:notion:conclusion}{{\TR@TitleReference {X.7}{Conclusion}}{27}}
+\@LN{649}{27}
+\@LN{650}{27}
+\@LN{651}{27}
+\@LN{652}{27}
+\@LN{653}{27}
+\@LN{654}{27}
+\@LN{655}{27}
+\@LN{656}{27}
+\@LN{657}{27}
+\@LN{658}{27}
+\newlabel{notionll171}{{\getpagewiselinenumber {659}}{27}}
+\@LN{659}{27}
+\@LN{660}{27}
+\@LN{661}{27}
+\@LN{662}{27}
+\@LN{663}{27}
+\newlabel{notionll171a}{{\getpagewiselinenumber {664}}{27}}
+\@LN{664}{27}
+\newlabel{notionll173}{{\getpagewiselinenumber {665}}{27}}
+\@LN{665}{27}
+\@LN{666}{27}
+\@LN{667}{27}
+\@LN{668}{27}
+\@LN{669}{27}
+\@LN{670}{27}
+\@LN{671}{27}
+\@LN{672}{27}
+\@LN{673}{27}
+\bibstyle{apacite}
+\bibdata{SemanticsOfWork}
+\newlabel{notionll173a}{{\getpagewiselinenumber {674}}{28}}
+\@LN{674}{28}
+\newlabel{notionll177}{{\getpagewiselinenumber {675}}{28}}
+\@LN{675}{28}
+\@LN{676}{28}
+\@LN{677}{28}
+\newlabel{text:notion:anarch1}{{\TR@TitleReference {X.7}{Conclusion}}{28}}
+\@LN{678}{28}
+\@LN{679}{28}
+\@LN{680}{28}
+\@LN{681}{28}
+\@LN{682}{28}
+\@LN{683}{28}
+\@LN{684}{28}
+\@LN{685}{28}
+\@LN{686}{28}
+\newlabel{notionll177a}{{\getpagewiselinenumber {687}}{28}}
+\@LN{687}{28}
+\@LN{688}{28}
+\@LN{689}{28}
+\@LN{690}{28}
+\@LN{691}{28}
+\@LN{692}{28}
+\@LN{693}{28}
+\@LN{694}{28}
+\@LN{695}{28}
+\@LN{696}{28}
+\@LN{697}{28}
+\bibcite{Anderson1964}{\citeauthoryear {Anderson}{Anderson}{{\APACyear {1964}}}}
+\APACbibcite{Anderson1964}{\citeauthoryear {Anderson}{Anderson}{{\APACyear {1964}}}}
+\bibcite{Bell2007}{\citeauthoryear {Bell, Ludwig,{}\ \BBA{} Lycett}{Bell\ \BOthers {.}}{{\APACyear {2007}}}}
+\APACbibcite{Bell2007}{\citeauthoryear {Bell, Ludwig,{}\ \BBA{} Lycett}{Bell\ \BOthers {.}}{{\APACyear {2007}}}}
+\bibcite{BernersLee1998}{\citeauthoryear {Berners-Lee}{Berners-Lee}{{\APACyear {1998}}}}
+\APACbibcite{BernersLee1998}{\citeauthoryear {Berners-Lee}{Berners-Lee}{{\APACyear {1998}}}}
+\bibcite{Berthoud2007}{\citeauthoryear {Berthoud}{Berthoud}{{\APACyear {2007}}}}
+\APACbibcite{Berthoud2007}{\citeauthoryear {Berthoud}{Berthoud}{{\APACyear {2007}}}}
+\bibcite{Butler2000}{\citeauthoryear {Butler}{Butler}{{\APACyear {2000}}}}
+\APACbibcite{Butler2000}{\citeauthoryear {Butler}{Butler}{{\APACyear {2000}}}}
+\bibcite{Constantinides2008}{\citeauthoryear {Constantinides\ \BBA{} Fountain}{Constantinides\ \BBA{} Fountain}{{\APACyear {2008}}}}
+\APACbibcite{Constantinides2008}{\citeauthoryear {Constantinides\ \BBA{} Fountain}{Constantinides\ \BBA{} Fountain}{{\APACyear {2008}}}}
+\bibcite{Dennison2007}{\citeauthoryear {Dennison}{Dennison}{{\APACyear {2007}}}}
+\APACbibcite{Dennison2007}{\citeauthoryear {Dennison}{Dennison}{{\APACyear {2007}}}}
+\bibcite{Dewey1891}{\citeauthoryear {Dewey}{Dewey}{{\APACyear {1891}}}}
+\APACbibcite{Dewey1891}{\citeauthoryear {Dewey}{Dewey}{{\APACyear {1891}}}}
+\bibcite{Dewey1938}{\citeauthoryear {Dewey}{Dewey}{{\APACyear {1938}}}}
+\APACbibcite{Dewey1938}{\citeauthoryear {Dewey}{Dewey}{{\APACyear {1938}}}}
+\bibcite{Dewey1939}{\citeauthoryear {Dewey}{Dewey}{{\APACyear {1939}}}}
+\APACbibcite{Dewey1939}{\citeauthoryear {Dewey}{Dewey}{{\APACyear {1939}}}}
+\bibcite{Dietrich2007}{\citeauthoryear {Dietrich\ \BBA{} Jones}{Dietrich\ \BBA{} Jones}{{\APACyear {2007}}}}
+\APACbibcite{Dietrich2007}{\citeauthoryear {Dietrich\ \BBA{} Jones}{Dietrich\ \BBA{} Jones}{{\APACyear {2007}}}}
+\bibcite{DupreGagnier1996}{\citeauthoryear {Dupr\'e{}\ \BBA{} Gagnier}{Dupr\'e{}\ \BBA{} Gagnier}{{\APACyear {1996}}}}
+\APACbibcite{DupreGagnier1996}{\citeauthoryear {Dupr\'e{}\ \BBA{} Gagnier}{Dupr\'e{}\ \BBA{} Gagnier}{{\APACyear {1996}}}}
+\@writefile{toc}{\contentsline {chapter}{References}{29}}
+\bibcite{Gruber2008}{\citeauthoryear {Gruber}{Gruber}{{\APACyear {2008}}}}
+\APACbibcite{Gruber2008}{\citeauthoryear {Gruber}{Gruber}{{\APACyear {2008}}}}
+\bibcite{Heidegger1981}{\citeauthoryear {Heidegger}{Heidegger}{{\APACyear {1931/1981}}}}
+\APACbibcite{Heidegger1981}{\citeauthoryear {Heidegger}{Heidegger}{{\APACyear {1931/1981}}}}
+\bibcite{Hoover2007}{\citeauthoryear {Hoover}{Hoover}{{\APACyear {2007}}}}
+\APACbibcite{Hoover2007}{\citeauthoryear {Hoover}{Hoover}{{\APACyear {2007}}}}
+\bibcite{Junger1977}{\citeauthoryear {J\"u{}nger}{J\"u{}nger}{{\APACyear {1977/1994}}}}
+\APACbibcite{Junger1977}{\citeauthoryear {J\"u{}nger}{J\"u{}nger}{{\APACyear {1977/1994}}}}
+\bibcite{Junger2007}{\citeauthoryear {J\"u{}nger}{J\"u{}nger}{{\APACyear {1932/2007}}}}
+\APACbibcite{Junger2007}{\citeauthoryear {J\"u{}nger}{J\"u{}nger}{{\APACyear {1932/2007}}}}
+\bibcite{Kobielus2007}{\citeauthoryear {Kobielus}{Kobielus}{{\APACyear {2007}}}}
+\APACbibcite{Kobielus2007}{\citeauthoryear {Kobielus}{Kobielus}{{\APACyear {2007}}}}
+\bibcite{Koch2007}{\citeauthoryear {Koch, Richter,{}\ \BBA{} Schlosser}{Koch\ \BOthers {.}}{{\APACyear {2007}}}}
+\APACbibcite{Koch2007}{\citeauthoryear {Koch, Richter,{}\ \BBA{} Schlosser}{Koch\ \BOthers {.}}{{\APACyear {2007}}}}
+\bibcite{Locke1980}{\citeauthoryear {Locke}{Locke}{{\APACyear {1690/1980}}}}
+\APACbibcite{Locke1980}{\citeauthoryear {Locke}{Locke}{{\APACyear {1690/1980}}}}
+\bibcite{MajchrzakCherbakovIves2009}{\citeauthoryear {Majchrzak, Cherbakov,{}\ \BBA{} Ives}{Majchrzak\ \BOthers {.}}{{\APACyear {2009}}}}
+\APACbibcite{MajchrzakCherbakovIves2009}{\citeauthoryear {Majchrzak, Cherbakov,{}\ \BBA{} Ives}{Majchrzak\ \BOthers {.}}{{\APACyear {2009}}}}
+\bibcite{Marx1998}{\citeauthoryear {Marx\ \BBA{} Engels}{Marx\ \BBA{} Engels}{{\APACyear {1998}}}}
+\APACbibcite{Marx1998}{\citeauthoryear {Marx\ \BBA{} Engels}{Marx\ \BBA{} Engels}{{\APACyear {1998}}}}
+\bibcite{Masaryk1971}{\citeauthoryear {Masaryk}{Masaryk}{{\APACyear {1938/1971}}}}
+\APACbibcite{Masaryk1971}{\citeauthoryear {Masaryk}{Masaryk}{{\APACyear {1938/1971}}}}
+\bibcite{Maximilien2007}{\citeauthoryear {Maximilien\ \BBA{} Ranabahu}{Maximilien\ \BBA{} Ranabahu}{{\APACyear {2007}}}}
+\APACbibcite{Maximilien2007}{\citeauthoryear {Maximilien\ \BBA{} Ranabahu}{Maximilien\ \BBA{} Ranabahu}{{\APACyear {2007}}}}
+\bibcite{Nietzsche1987}{\citeauthoryear {Nietzsche}{Nietzsche}{{\APACyear {1883--1885/1978}}}}
+\APACbibcite{Nietzsche1987}{\citeauthoryear {Nietzsche}{Nietzsche}{{\APACyear {1883--1885/1978}}}}
+\bibcite{Rahwan2007}{\citeauthoryear {Rahwan}{Rahwan}{{\APACyear {2008}}}}
+\APACbibcite{Rahwan2007}{\citeauthoryear {Rahwan}{Rahwan}{{\APACyear {2008}}}}
+\bibcite{Ricardo1821}{\citeauthoryear {Ricardo}{Ricardo}{{\APACyear {1821/1999}}}}
+\APACbibcite{Ricardo1821}{\citeauthoryear {Ricardo}{Ricardo}{{\APACyear {1821/1999}}}}
+\bibcite{Rousseau1968}{\citeauthoryear {Rousseau}{Rousseau}{{\APACyear {1762/1968}}}}
+\APACbibcite{Rousseau1968}{\citeauthoryear {Rousseau}{Rousseau}{{\APACyear {1762/1968}}}}
+\bibcite{Rowe2006}{\citeauthoryear {Rowe\ \BBA{} Drew}{Rowe\ \BBA{} Drew}{{\APACyear {2006}}}}
+\APACbibcite{Rowe2006}{\citeauthoryear {Rowe\ \BBA{} Drew}{Rowe\ \BBA{} Drew}{{\APACyear {2006}}}}
+\bibcite{Shiumazu2007}{\citeauthoryear {Shimazu\ \BBA{} Koike}{Shimazu\ \BBA{} Koike}{{\APACyear {2007}}}}
+\APACbibcite{Shiumazu2007}{\citeauthoryear {Shimazu\ \BBA{} Koike}{Shimazu\ \BBA{} Koike}{{\APACyear {2007}}}}
+\bibcite{Smith1937}{\citeauthoryear {A.~Smith}{A.~Smith}{{\APACyear {1776/1937}}}}
+\APACbibcite{Smith1937}{\citeauthoryear {A.~Smith}{A.~Smith}{{\APACyear {1776/1937}}}}
+\bibcite{SmithMcKeen2008}{\citeauthoryear {H\BPBI  A.~Smith\ \BBA{} McKeen}{H\BPBI  A.~Smith\ \BBA{} McKeen}{{\APACyear {2008}}}}
+\APACbibcite{SmithMcKeen2008}{\citeauthoryear {H\BPBI  A.~Smith\ \BBA{} McKeen}{H\BPBI  A.~Smith\ \BBA{} McKeen}{{\APACyear {2008}}}}
+\bibcite{Tannenbaum1952}{\citeauthoryear {Tannenbaum}{Tannenbaum}{{\APACyear {1952}}}}
+\APACbibcite{Tannenbaum1952}{\citeauthoryear {Tannenbaum}{Tannenbaum}{{\APACyear {1952}}}}
+\bibcite{Yi2006}{\citeauthoryear {Yi, Wang, Liu,{}\ \BBA{} Wen}{Yi\ \BOthers {.}}{{\APACyear {2006}}}}
+\APACbibcite{Yi2006}{\citeauthoryear {Yi, Wang, Liu,{}\ \BBA{} Wen}{Yi\ \BOthers {.}}{{\APACyear {2006}}}}
+\bibcite{Kazikawa2007}{\citeauthoryear {Yukihiro}{Yukihiro}{{\APACyear {2007}}}}
+\APACbibcite{Kazikawa2007}{\citeauthoryear {Yukihiro}{Yukihiro}{{\APACyear {2007}}}}
+\bibcite{Zimmerman1990}{\citeauthoryear {Zim{\discretionary {-}{}{}}mer{\discretionary {-}{}{}}man}{Zim{\discretionary {-}{}{}}mer{\discretionary {-}{}{}}man}{{\APACyear {1990}}}}
+\APACbibcite{Zimmerman1990}{\citeauthoryear {Zim{\discretionary {-}{}{}}mer{\discretionary {-}{}{}}man}{Zim{\discretionary {-}{}{}}mer{\discretionary {-}{}{}}man}{{\APACyear {1990}}}}
