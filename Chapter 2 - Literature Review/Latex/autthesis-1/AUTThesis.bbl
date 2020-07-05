@@ -1,6 +1,65 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Bughin%
+}{%
+Bughin%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Bughin2016}
+\APACinsertmetastar {%
+Bughin2016}%
+\begin{APACrefauthors}%
+Bughin, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Big data, Big bang?} {Big data, big bang?}{\BBCQ}\
+  [Journal Article].
+\newblock
+\APACjournalVolNumPages{Journal of Big Data}{3}{1}{2}.
+\newblock
+\begin{APACrefDOI} \doi{10.1186/s40537-015-0014-3} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gohil%
+, Modi%
+\BCBL {}\ \BBA {} Patel%
+}{%
+Gohil%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Gohil2013}
+\APACinsertmetastar {%
+Gohil2013}%
+\begin{APACrefauthors}%
+Gohil, A.%
+, Modi, H.%
+\BCBL {}\ \BBA {} Patel, S\BPBI K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {5G technology of mobile communication: A survey} {5g
+  technology of mobile communication: A survey}{\BBCQ}\ [Conference
+  Proceedings].
+\newblock
+\BIn{} \APACrefbtitle {2013 international conference on intelligent systems and
+  signal processing (ISSP)} {2013 international conference on intelligent
+  systems and signal processing (issp)}\ (\BPG~288-292).
+\newblock
+\APACaddressPublisher{}{IEEE}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/issp.2013.6526920} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Grad%
 \ \BBA {} Bergin%
 }{%
@@ -27,6 +86,239 @@ Grad, B.%
 \APACjournalVolNumPages{IEEE Annals of the History of Computing}{31}{4}{3-5}.
 \newblock
 \begin{APACrefDOI} \doi{10.1109/mahc.2009.99} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Holma%
+, Toskala%
+\BCBL {}\ \BBA {} Nakamura%
+}{%
+Holma%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+Holma2020}
+\APACinsertmetastar {%
+Holma2020}%
+\begin{APACrefauthors}%
+Holma, H.%
+, Toskala, A.%
+\BCBL {}\ \BBA {} Nakamura, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2020}.
+\newblock
+\APACrefbtitle {5G Technology: 3GPP New Radio} {5g technology: 3gpp new radio}\
+  [Book].
+\newblock
+\APACaddressPublisher{}{John Wiley & Sons}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.ebook.de/de/product/37929190/harri_holma_dr_antti_toskala_takehiro_nakamura_5g_technology.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kaisler%
+, Armour%
+, Espinosa%
+\BCBL {}\ \BBA {} Money%
+}{%
+Kaisler%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Kaisler2013}
+\APACinsertmetastar {%
+Kaisler2013}%
+\begin{APACrefauthors}%
+Kaisler, S.%
+, Armour, F.%
+, Espinosa, J\BPBI A.%
+\BCBL {}\ \BBA {} Money, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Big data: Issues and challenges moving forward} {Big
+  data: Issues and challenges moving forward}{\BBCQ}\ [Conference Proceedings].
+\newblock
+\BIn{} \APACrefbtitle {2013 46th Hawaii International Conference on System
+  Sciences} {2013 46th hawaii international conference on system sciences}\
+  (\BPG~995-1004).
+\newblock
+\APACaddressPublisher{}{IEEE}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/hicss.2013.645} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Long%
+}{%
+Long%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+Long2015}
+\APACinsertmetastar {%
+Long2015}%
+\begin{APACrefauthors}%
+Long, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Data science and big data analytics: Discovering,
+  analyzing, visualizing and presenting data} {Data science and big data
+  analytics: Discovering, analyzing, visualizing and presenting data}{\BBCQ}\
+  [Journal Article].
+\newblock
+\APACjournalVolNumPages{Indianapolis, Indiana}{}{}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/bgdds.2018.8626811} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lycett%
+}{%
+Lycett%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+lycett2013datafication}
+\APACinsertmetastar {%
+lycett2013datafication}%
+\begin{APACrefauthors}%
+Lycett, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+\APACrefbtitle {‘Datafication’: making sense of (big) data in a complex
+  world} {‘datafication’: making sense of (big) data in a complex world}\
+  (\BVOL~22).
+\newblock
+\APACaddressPublisher{}{Taylor \& Francis}.
+\newblock
+\begin{APACrefDOI} \doi{10.1057/ejis.2013.10} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+McKinsey%
+\ \protect \BOthers {.}}{%
+McKinsey%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+mckinsey2011big}
+\APACinsertmetastar {%
+mckinsey2011big}%
+\begin{APACrefauthors}%
+McKinsey, G.%
+\BCBT {}\ \BOthersPeriod {.}
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Big data: The next frontier for innovation, competition,
+  and productivity} {Big data: The next frontier for innovation, competition,
+  and productivity}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{McKinsey Global Institute}{}{}{158-184}.
+\newblock
+\begin{APACrefDOI} \doi{10.7591/9781501734328-007} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rad%
+\ \BBA {} Ataei%
+}{%
+Rad%
+\ \BBA {} Ataei%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Rad2017}
+\APACinsertmetastar {%
+Rad2017}%
+\begin{APACrefauthors}%
+Rad, B\BPBI B.%
+\BCBT {}\ \BBA {} Ataei, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The big data Ecosystem and its Environs} {The big data
+  ecosystem and its environs}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{International Journal of Computer Science and Network
+  Security (IJCSNS)}{17}{3}{38}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/978-3-319-94301-5_16} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sagiroglu%
+\ \BBA {} Sinanc%
+}{%
+Sagiroglu%
+\ \BBA {} Sinanc%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Sagiroglu2013}
+\APACinsertmetastar {%
+Sagiroglu2013}%
+\begin{APACrefauthors}%
+Sagiroglu, S.%
+\BCBT {}\ \BBA {} Sinanc, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Big data: A review} {Big data: A review}{\BBCQ}\
+  [Conference Proceedings].
+\newblock
+\BIn{} \APACrefbtitle {2013 International Conference on Collaboration
+  Technologies and Systems (CTS)} {2013 international conference on
+  collaboration technologies and systems (cts)}\ (\BPG~42-47).
+\newblock
+\APACaddressPublisher{}{IEEE}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/cts.2013.6567202} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Srivastava%
+}{%
+Srivastava%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+Srivastava2018}
+\APACinsertmetastar {%
+Srivastava2018}%
+\begin{APACrefauthors}%
+Srivastava, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Big Data: Issues And Challenges} {Big data: Issues and
+  challenges}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{International Journal Of Scientific And Innovative
+  Research}{}{6}{1}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/978-981-13-8759-3_10} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

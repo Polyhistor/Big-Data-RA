@@ -40,45 +40,46 @@ Warning--I didn't find a database entry for "Bannon1997"
 Warning--I didn't find a database entry for "Quine2004"
 Warning--I didn't find a database entry for "Peirce1992a"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 2 entries,
+Warning--`others' not consistent with 6th ed. of the APA Manual
+You've used 12 entries,
             6951 wiz_defined-function locations,
-            1306 strings with 11281 characters,
-and the built_in function-call counts, 3338 in all, are:
-= -- 403
-> -- 24
-< -- 141
-+ -- 142
-- -- 4
-* -- 227
-:= -- 625
-add.period$ -- 8
-call.type$ -- 2
-change.case$ -- 34
+            1382 strings with 13138 characters,
+and the built_in function-call counts, 20963 in all, are:
+= -- 2645
+> -- 189
+< -- 813
++ -- 797
+- -- 26
+* -- 1288
+:= -- 3485
+add.period$ -- 54
+call.type$ -- 12
+change.case$ -- 207
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 84
-empty$ -- 147
-format.name$ -- 38
-if$ -- 637
+cite$ -- 24
+duplicate$ -- 573
+empty$ -- 945
+format.name$ -- 271
+if$ -- 4205
 int.to.chr$ -- 0
-int.to.str$ -- 6
+int.to.str$ -- 36
 missing$ -- 0
-newline$ -- 54
-num.names$ -- 16
-pop$ -- 33
+newline$ -- 321
+num.names$ -- 96
+pop$ -- 406
 preamble$ -- 1
-purify$ -- 8
+purify$ -- 48
 quote$ -- 0
-skip$ -- 236
+skip$ -- 1496
 stack$ -- 0
-substring$ -- 156
-swap$ -- 70
-text.length$ -- 4
+substring$ -- 928
+swap$ -- 418
+text.length$ -- 48
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 160
-warning$ -- 0
-while$ -- 12
+type$ -- 1152
+warning$ -- 1
+while$ -- 95
 width$ -- 0
-write$ -- 61
-(There were 5 warnings)
+write$ -- 382
+(There were 6 warnings)
