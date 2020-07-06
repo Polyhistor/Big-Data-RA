@@ -162,6 +162,8 @@ INPUT D:\MikTex\tex\generic\uniquecounter\uniquecounter.sty
 INPUT D:\MikTex\tex\generic\uniquecounter\uniquecounter.sty
 INPUT D:\MikTex\tex\latex\apacite\apacite.sty
 INPUT D:\MikTex\tex\latex\apacite\apacite.sty
+INPUT D:\MikTex\tex\latex\graphics\rotating.sty
+INPUT D:\MikTex\tex\latex\graphics\rotating.sty
 INPUT D:\MikTex\tex\latex\l3backend\l3backend-pdfmode.def
 INPUT D:\MikTex\tex\latex\l3backend\l3backend-pdfmode.def
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.aux
@@ -319,19 +321,22 @@ INPUT D:\MikTex\fonts\vf\adobe\times\ptmr8t.vf
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT D:\MikTex\fonts\vf\adobe\times\ptmr8t.vf
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\images\Datocracy.png
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\images\Datocracy.png
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\images\Datocracy.png
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\images\Datocracy.png
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\images\Datocracy.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.bbl
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.bbl
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmri8t.tfm
 INPUT D:\MikTex\tex\latex\psnfss\t1pcr.fd
 INPUT D:\MikTex\tex\latex\psnfss\t1pcr.fd
 INPUT D:\MikTex\fonts\tfm\adobe\courier\pcrr8t.tfm
-INPUT D:\MikTex\fonts\tfm\adobe\courier\pcrr8t.tfm
-INPUT D:\MikTex\fonts\tfm\adobe\courier\pcrr8t.tfm
-INPUT D:\MikTex\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT D:\MikTex\fonts\vf\adobe\times\ptmri8t.vf
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmri8r.tfm
 INPUT D:\MikTex\fonts\vf\adobe\courier\pcrr8t.vf
 INPUT D:\MikTex\fonts\tfm\adobe\courier\pcrr8r.tfm
+INPUT D:\MikTex\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.aux
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes\intro.aux
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes\intro.aux

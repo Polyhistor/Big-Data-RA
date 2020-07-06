@@ -211,7 +211,6 @@
 
 @InProceedings{Amatriain2013,
   author    = {Amatriain, Xavier},
-  booktitle = {Proceedings of the 22nd ACM international conference on Information & Knowledge Management},
   title     = {Beyond data: from user information to business value through personalized recommendations and consumer science},
   year      = {2013},
   pages     = {2201-2208},
@@ -3831,6 +3830,53 @@ Microsoft_Big_Data_Solution_Brief.pdf},
   pages     = {381-386},
   publisher = {Taylor \& Francis},
   volume    = {22},
+}
+
+@Article{ahmad20205g,
+  author    = {Ahmad, Wan Siti Halimatul Munirah Wan and Radzi, Nurul Asyikin Mohamed and Samidi, FS and Ismail, A and Abdullah, Fairuz and Jamaludin, Md Zaini and Zakaria, MohdNasim},
+  journal   = {IEEE Access},
+  title     = {5G technology: Towards dynamic spectrum sharing using cognitive radio networks},
+  year      = {2020},
+  pages     = {14460--14488},
+  volume    = {8},
+  publisher = {IEEE},
+}
+
+@Article{ahmad20205g,
+  author    = {Ahmad, Wan Siti Halimatul Munirah Wan and Radzi, Nurul Asyikin Mohamed and Samidi, FS and Ismail, A and Abdullah, Fairuz and Jamaludin, Md Zaini and Zakaria, MohdNasim},
+  journal   = {IEEE Access},
+  title     = {5G technology: Towards dynamic spectrum sharing using cognitive radio networks},
+  year      = {2020},
+  issn      = {1751-8628},
+  pages     = {14460--14488},
+  volume    = {8},
+  doi       = {10.1049/iet-com.2018.6129},
+  publisher = {IEEE},
+}
+
+@Article{wang2020response,
+  author    = {Wang, C Jason and Ng, Chun Y and Brook, Robert H},
+  journal   = {Jama},
+  title     = {Response to COVID-19 in Taiwan: big data analytics, new technology, and proactive testing},
+  year      = {2020},
+  number    = {14},
+  pages     = {1341--1342},
+  volume    = {323},
+  publisher = {American Medical Association},
+}
+
+@Article{wang2020response,
+  author    = {Wang, C Jason and Ng, Chun Y and Brook, Robert H},
+  journal   = {Jama},
+  title     = {Response to COVID-19 in Taiwan: big data analytics, new technology, and proactive testing},
+  year      = {2020},
+  issn      = {0098-7484},
+  number    = {14},
+  pages     = {1341--1342},
+  volume    = {323},
+  doi       = {10.1001/jama.2020.3151},
+  publisher = {American Medical Association},
+  subtitle  = {Big Data Analytics, New Technology, and Proactive Testing},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

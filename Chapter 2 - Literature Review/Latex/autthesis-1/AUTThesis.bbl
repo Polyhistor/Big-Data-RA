@@ -1,6 +1,137 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Ahmad%
+\ \protect \BOthers {.}}{%
+Ahmad%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+ahmad20205g}
+\APACinsertmetastar {%
+ahmad20205g}%
+\begin{APACrefauthors}%
+Ahmad, W\BPBI S\BPBI H\BPBI M\BPBI W.%
+, Radzi, N\BPBI A\BPBI M.%
+, Samidi, F.%
+, Ismail, A.%
+, Abdullah, F.%
+, Jamaludin, M\BPBI Z.%
+\BCBL {}\ \BBA {} Zakaria, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {5G technology: Towards dynamic spectrum sharing using
+  cognitive radio networks} {5g technology: Towards dynamic spectrum sharing
+  using cognitive radio networks}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{IEEE Access}{8}{}{14460--14488}.
+\newblock
+\begin{APACrefDOI} \doi{10.1049/iet-com.2018.6129} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Almaatouq%
+\ \protect \BOthers {.}}{%
+Almaatouq%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Almaatouq2016}
+\APACinsertmetastar {%
+Almaatouq2016}%
+\begin{APACrefauthors}%
+Almaatouq, A.%
+, Shmueli, E.%
+, Nouh, M.%
+, Alabdulkareem, A.%
+, Singh, V\BPBI K.%
+, Alsaleh, M.%
+\BDBL {}Alfaris, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {If it looks like a spammer and behaves like a spammer,
+  it must be a spammer: analysis and detection of microblogging spam accounts}
+  {If it looks like a spammer and behaves like a spammer, it must be a spammer:
+  analysis and detection of microblogging spam accounts}{\BBCQ}\ [Journal
+  Article].
+\newblock
+\APACjournalVolNumPages{International Journal of Information
+  Security}{15}{5}{475-491}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s10207-016-0321-5} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Amatriain%
+}{%
+Amatriain%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Amatriain2013}
+\APACinsertmetastar {%
+Amatriain2013}%
+\begin{APACrefauthors}%
+Amatriain, X.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Beyond data: from user information to business value
+  through personalized recommendations and consumer science} {Beyond data: from
+  user information to business value through personalized recommendations and
+  consumer science}{\BBCQ}\ [Conference Proceedings].
+\newblock
+\BIn{} (\BPG~2201-2208).
+\newblock
+\APACaddressPublisher{}{ACM}.
+\newblock
+\begin{APACrefDOI} \doi{10.1145/2505515.2514691} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bohlouli%
+, Dalter%
+, Dornhöfer%
+, Zenkert%
+\BCBL {}\ \BBA {} Fathi%
+}{%
+Bohlouli%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Bohlouli2015}
+\APACinsertmetastar {%
+Bohlouli2015}%
+\begin{APACrefauthors}%
+Bohlouli, M.%
+, Dalter, J.%
+, Dornhöfer, M.%
+, Zenkert, J.%
+\BCBL {}\ \BBA {} Fathi, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Knowledge discovery from social media using big
+  data-provided sentiment analysis (SoMABiT)} {Knowledge discovery from social
+  media using big data-provided sentiment analysis (somabit)}{\BBCQ}\ [Journal
+  Article].
+\newblock
+\APACjournalVolNumPages{Journal of Information Science}{41}{6}{779-798}.
+\newblock
+\begin{APACrefDOI} \doi{10.1177/0165551515602846} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Bughin%
 }{%
 Bughin%
@@ -23,6 +154,160 @@ Bughin, J.%
 \APACjournalVolNumPages{Journal of Big Data}{3}{1}{2}.
 \newblock
 \begin{APACrefDOI} \doi{10.1186/s40537-015-0014-3} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Chainey%
+, Tompson%
+\BCBL {}\ \BBA {} Uhlig%
+}{%
+Chainey%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+Chainey2008}
+\APACinsertmetastar {%
+Chainey2008}%
+\begin{APACrefauthors}%
+Chainey, S.%
+, Tompson, L.%
+\BCBL {}\ \BBA {} Uhlig, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The utility of hotspot mapping for predicting spatial
+  patterns of crime} {The utility of hotspot mapping for predicting spatial
+  patterns of crime}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Security journal}{21}{1-2}{4-28}.
+\newblock
+\begin{APACrefDOI} \doi{10.1057/palgrave.sj.8350066} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Chen%
+, Chiang%
+\BCBL {}\ \BBA {} Storey%
+}{%
+Chen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+Chen2012}
+\APACinsertmetastar {%
+Chen2012}%
+\begin{APACrefauthors}%
+Chen, H.%
+, Chiang, R\BPBI H.%
+\BCBL {}\ \BBA {} Storey, V\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Business intelligence and analytics: From big data to
+  big impact} {Business intelligence and analytics: From big data to big
+  impact}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{MIS quarterly}{36}{4}{1165}.
+\newblock
+\begin{APACrefDOI} \doi{10.2307/41703503} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Crampton%
+}{%
+Crampton%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+Crampton2015}
+\APACinsertmetastar {%
+Crampton2015}%
+\begin{APACrefauthors}%
+Crampton, J\BPBI W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Collect it all: National security, big data and
+  governance} {Collect it all: National security, big data and
+  governance}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{GeoJournal}{80}{4}{519-531}.
+\newblock
+\begin{APACrefDOI} \doi{10.1177/2053951716661366} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dodds%
+, Harris%
+, Kloumann%
+, Bliss%
+\BCBL {}\ \BBA {} Danforth%
+}{%
+Dodds%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+Dodds2011}
+\APACinsertmetastar {%
+Dodds2011}%
+\begin{APACrefauthors}%
+Dodds, P\BPBI S.%
+, Harris, K\BPBI D.%
+, Kloumann, I\BPBI M.%
+, Bliss, C\BPBI A.%
+\BCBL {}\ \BBA {} Danforth, C\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Temporal patterns of happiness and information in a
+  global social network: hedonometrics and Twitter} {Temporal patterns of
+  happiness and information in a global social network: hedonometrics and
+  twitter}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{PLoS One}{6}{12}{e26752}.
+\newblock
+\begin{APACrefURL} \url{https://www.ncbi.nlm.nih.gov/pubmed/22163266}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1371/journal.pone.0026752} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Durahim%
+\ \BBA {} Coşkun%
+}{%
+Durahim%
+\ \BBA {} Coşkun%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+Durahim2015}
+\APACinsertmetastar {%
+Durahim2015}%
+\begin{APACrefauthors}%
+Durahim, A\BPBI O.%
+\BCBT {}\ \BBA {} Coşkun, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {iamhappybecause: Gross National Happiness through
+  Twitter analysis and big data} {iamhappybecause: Gross national happiness
+  through twitter analysis and big data}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Technological Forecasting and Social
+  Change}{99}{}{92-105}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.techfore.2015.06.035} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -89,34 +374,98 @@ Grad, B.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Holma%
-, Toskala%
-\BCBL {}\ \BBA {} Nakamura%
+Guo%
+\ \BBA {} Vargo%
 }{%
-Holma%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2020}}%
+Guo%
+\ \BBA {} Vargo%
+}{%
+{\protect \APACyear {2015}}%
 }]{%
-Holma2020}
+Guo2015}
 \APACinsertmetastar {%
-Holma2020}%
+Guo2015}%
 \begin{APACrefauthors}%
-Holma, H.%
-, Toskala, A.%
-\BCBL {}\ \BBA {} Nakamura, T.%
+Guo, L.%
+\BCBT {}\ \BBA {} Vargo, C.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYear{2020}.
+\APACrefYearMonthDay{2015}{}{}.
 \newblock
-\APACrefbtitle {5G Technology: 3GPP New Radio} {5g technology: 3gpp new radio}\
-  [Book].
+{\BBOQ}\APACrefatitle {The power of message networks: A big-data analysis of
+  the network agenda setting model and issue ownership} {The power of message
+  networks: A big-data analysis of the network agenda setting model and issue
+  ownership}{\BBCQ}\ [Journal Article].
 \newblock
-\APACaddressPublisher{}{John Wiley & Sons}.
+\APACjournalVolNumPages{Mass Communication and Society}{18}{5}{557-576}.
 \newblock
-\begin{APACrefURL}
-  \url{https://www.ebook.de/de/product/37929190/harri_holma_dr_antti_toskala_takehiro_nakamura_5g_technology.html}
-  \end{APACrefURL}
+\begin{APACrefDOI} \doi{10.1080/15205436.2015.1045300} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+He%
+, Wu%
+, Yan%
+, Akula%
+\BCBL {}\ \BBA {} Shen%
+}{%
+He%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+He2015}
+\APACinsertmetastar {%
+He2015}%
+\begin{APACrefauthors}%
+He, W.%
+, Wu, H.%
+, Yan, G.%
+, Akula, V.%
+\BCBL {}\ \BBA {} Shen, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A novel social media competitive analytics framework
+  with sentiment benchmarks} {A novel social media competitive analytics
+  framework with sentiment benchmarks}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Information and Management}{52}{7}{801-812}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.im.2015.04.006} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Jin%
+\ \protect \BOthers {.}}{%
+Jin%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Jin2015}
+\APACinsertmetastar {%
+Jin2015}%
+\begin{APACrefauthors}%
+Jin, S.%
+, Lin, W.%
+, Yin, H.%
+, Yang, S.%
+, Li, A.%
+\BCBL {}\ \BBA {} Deng, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Community structure mining in big data social media
+  networks with MapReduce} {Community structure mining in big data social media
+  networks with mapreduce}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Cluster computing}{18}{3}{999-1010}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s10586-015-0452-x} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -152,6 +501,105 @@ Kaisler, S.%
 \APACaddressPublisher{}{IEEE}.
 \newblock
 \begin{APACrefDOI} \doi{10.1109/hicss.2013.645} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Li%
+, Yen%
+, Lu%
+\BCBL {}\ \BBA {} Wang%
+}{%
+Li%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+Li2012}
+\APACinsertmetastar {%
+Li2012}%
+\begin{APACrefauthors}%
+Li, S\BHBI H.%
+, Yen, D\BPBI C.%
+, Lu, W\BHBI H.%
+\BCBL {}\ \BBA {} Wang, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Identifying the signs of fraudulent accounts using data
+  mining techniques} {Identifying the signs of fraudulent accounts using data
+  mining techniques}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Computers in Human Behavior}{28}{3}{1002-1013}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.chb.2012.01.002} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Liao%
+, Squicciarini%
+\BCBL {}\ \BBA {} Griffin%
+}{%
+Liao%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Liao2015}
+\APACinsertmetastar {%
+Liao2015}%
+\begin{APACrefauthors}%
+Liao, C.%
+, Squicciarini, A.%
+\BCBL {}\ \BBA {} Griffin, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Epidemic behavior of negative users in online social
+  sites} {Epidemic behavior of negative users in online social sites}{\BBCQ}\
+  [Conference Proceedings].
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 5th ACM Conference on Data and
+  Application Security and Privacy} {Proceedings of the 5th acm conference on
+  data and application security and privacy}\ (\BPG~143-145).
+\newblock
+\APACaddressPublisher{}{ACM}.
+\newblock
+\begin{APACrefDOI} \doi{10.1145/2699026.2699129} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lin%
+\ \BBA {} Utz%
+}{%
+Lin%
+\ \BBA {} Utz%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+Lin2015}
+\APACinsertmetastar {%
+Lin2015}%
+\begin{APACrefauthors}%
+Lin, R.%
+\BCBT {}\ \BBA {} Utz, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The emotional responses of browsing Facebook: Happiness,
+  envy, and the role of tie strength} {The emotional responses of browsing
+  facebook: Happiness, envy, and the role of tie strength}{\BBCQ}\ [Journal
+  Article].
+\newblock
+\APACjournalVolNumPages{Comput Human Behav}{52}{}{29-38}.
+\newblock
+\begin{APACrefURL} \url{https://www.ncbi.nlm.nih.gov/pubmed/26877584}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.chb.2015.04.064} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -202,9 +650,36 @@ Lycett, M.%
   world} {‘datafication’: making sense of (big) data in a complex world}\
   (\BVOL~22).
 \newblock
-\APACaddressPublisher{}{Taylor \& Francis}.
+\APACaddressPublisher{}{Taylor and Francis}.
 \newblock
 \begin{APACrefDOI} \doi{10.1057/ejis.2013.10} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Marr%
+}{%
+Marr%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Marr2016}
+\APACinsertmetastar {%
+Marr2016}%
+\begin{APACrefauthors}%
+Marr, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2016}.
+\newblock
+\APACrefbtitle {Big data in practice: how 45 successful companies used big data
+  analytics to deliver extraordinary results} {Big data in practice: how 45
+  successful companies used big data analytics to deliver extraordinary
+  results}\ [Book].
+\newblock
+\APACaddressPublisher{}{John Wiley and Sons}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/bigdata.2018.8622333} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -235,6 +710,62 @@ McKinsey, G.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Nye%
+}{%
+Nye%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Nye2013}
+\APACinsertmetastar {%
+Nye2013}%
+\begin{APACrefauthors}%
+Nye, J\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Governance in the Information Age} {Governance in the
+  information age}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Governance}{113}{}{19-22}.
+\newblock
+\begin{APACrefDOI} \doi{10.1525/curh.2014.113.759.19} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Popescu%
+, Iskandaryan%
+\BCBL {}\ \BBA {} Weber%
+}{%
+Popescu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+Popescu2019}
+\APACinsertmetastar {%
+Popescu2019}%
+\begin{APACrefauthors}%
+Popescu, F.%
+, Iskandaryan, R.%
+\BCBL {}\ \BBA {} Weber, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Big Data and International Accreditations in Higher
+  Education: A Dutch–Russian Case Study} {Big data and international
+  accreditations in higher education: A dutch–russian case study}{\BBCQ}\
+  [Journal Article].
+\newblock
+
+\newblock
+\begin{APACrefDOI} \doi{10.5220/0007572102070214} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Rad%
 \ \BBA {} Ataei%
 }{%
@@ -261,6 +792,38 @@ Rad, B\BPBI B.%
   Security (IJCSNS)}{17}{3}{38}.
 \newblock
 \begin{APACrefDOI} \doi{10.1007/978-3-319-94301-5_16} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rada%
+, Ataeib%
+, Khakbizc%
+\BCBL {}\ \BBA {} Akbarzadehd%
+}{%
+Rada%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Rada2017}
+\APACinsertmetastar {%
+Rada2017}%
+\begin{APACrefauthors}%
+Rada, B\BPBI B.%
+, Ataeib, P.%
+, Khakbizc, Y.%
+\BCBL {}\ \BBA {} Akbarzadehd, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Hype of Emerging Technologies: Big Data as a
+  Service} {The hype of emerging technologies: Big data as a service}{\BBCQ}\
+  [Journal Article].
+\newblock
+
+\newblock
+\begin{APACrefDOI} \doi{10.1109/bigdata.2017.8258302} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -322,6 +885,91 @@ Srivastava, R.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Stats%
+}{%
+Stats%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Stats2017}
+\APACinsertmetastar {%
+Stats2017}%
+\begin{APACrefauthors}%
+Stats, I\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Internet users} {Internet users}{\BBCQ}\ [Journal
+  Article].
+\newblock
+\APACjournalVolNumPages{}{10}{}{7}.
+\newblock
+\begin{APACrefDOI} \doi{10.3390/fi10010007} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+C\BPBI J.~Wang%
+, Ng%
+\BCBL {}\ \BBA {} Brook%
+}{%
+C\BPBI J.~Wang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+wang2020response}
+\APACinsertmetastar {%
+wang2020response}%
+\begin{APACrefauthors}%
+Wang, C\BPBI J.%
+, Ng, C\BPBI Y.%
+\BCBL {}\ \BBA {} Brook, R\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Response to COVID-19 in Taiwan: big data analytics, new
+  technology, and proactive testing} {Response to covid-19 in taiwan: big data
+  analytics, new technology, and proactive testing}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Jama}{323}{14}{1341--1342}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+H.~Wang%
+, Xu%
+, Fujita%
+\BCBL {}\ \BBA {} Liu%
+}{%
+H.~Wang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Wang2016}
+\APACinsertmetastar {%
+Wang2016}%
+\begin{APACrefauthors}%
+Wang, H.%
+, Xu, Z.%
+, Fujita, H.%
+\BCBL {}\ \BBA {} Liu, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Towards felicitous decision making: An overview on
+  challenges and trends of Big Data} {Towards felicitous decision making: An
+  overview on challenges and trends of big data}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Information Sciences}{367}{}{747-765}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.ins.2016.07.007} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Wirth%
 }{%
 Wirth%
@@ -344,6 +992,41 @@ Wirth, N.%
 \APACjournalVolNumPages{IEEE Annals of the History of Computing}{30}{3}{32-39}.
 \newblock
 \begin{APACrefDOI} \doi{10.1109/mahc.2008.33} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zhang%
+, Liu%
+\BCBL {}\ \BBA {} Feng%
+}{%
+Zhang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+Zhang2019a}
+\APACinsertmetastar {%
+Zhang2019a}%
+\begin{APACrefauthors}%
+Zhang, M.%
+, Liu, J.%
+\BCBL {}\ \BBA {} Feng, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Application of Big Data Technology in Creative
+  Travel} {The application of big data technology in creative travel}{\BBCQ}\
+  [Conference Proceedings].
+\newblock
+\BIn{} \APACrefbtitle {2019 International Conference on Intelligent
+  Transportation, Big Data and Smart City (ICITBS)} {2019 international
+  conference on intelligent transportation, big data and smart city (icitbs)}\
+  (\BPG~317-319).
+\newblock
+\APACaddressPublisher{}{IEEE}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/icitbs.2019.00083} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

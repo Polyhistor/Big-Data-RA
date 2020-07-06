@@ -1,0 +1,36 @@
+INFO: latexindent.pl version 3.8.1, 2020-05-05, a script to indent .tex files
+      latexindent.pl lives here: D:/MikTex/scripts/latexindent/
+      Mon Jul  6 22:31:17 2020
+      Filename: c:/Users/Admin/OneDrive - AUT University/PHD Journey/Chapter 2 - Literature Review/Latex/autthesis-1/includes/__latexindent_temp.tex
+INFO: Processing switches:
+      -y|--yaml: YAML settings specified via command line
+      -c|--cruft: cruft directory
+INFO: Directory for backup files and c:/Users/Admin/OneDrive - AUT University/PHD Journey/Chapter 2 - Literature Review/Latex/autthesis-1//indent.log: c:/Users/Admin/OneDrive - AUT University/PHD Journey/Chapter 2 - Literature Review/Latex/autthesis-1/
+INFO: Perl modules are being loaded from the following directories:
+      D:/Strawberry/perl/lib/FindBin.pm
+      D:/Strawberry/perl/vendor/lib/YAML/Tiny.pm
+      D:/Strawberry/perl/lib/File/Copy.pm
+      D:/Strawberry/perl/lib/File/Basename.pm
+      D:/Strawberry/perl/lib/Getopt/Long.pm
+      D:/Strawberry/perl/vendor/lib/File/HomeDir.pm
+      D:/Strawberry/perl/vendor/lib/Unicode/GCString.pm
+      D:/Strawberry/perl/site/lib/Log/Log4perl.pm
+INFO: Latex Indent perl modules are being loaded from, for example:
+      D:/MikTex/scripts/latexindent/LatexIndent/Document.pm
+INFO: YAML settings read: defaultSettings.yaml
+      Reading defaultSettings.yaml from D:/MikTex/scripts/latexindent/defaultSettings.yaml
+INFO: YAML settings read: indentconfig.yaml or .indentconfig.yaml
+      Home directory is C:\Users\Admin (didn't find either indentconfig.yaml or .indentconfig.yaml)
+      To specify user settings you would put indentconfig.yaml here: C:\Users\Admin/indentconfig.yaml
+      Alternatively, you can use the hidden file .indentconfig.yaml as: C:\Users\Admin/.indentconfig.yaml
+INFO: YAML settings read: -y switch
+      Updating masterSettings with defaultIndent:     
+INFO: Phase 1: searching for objects
+INFO: Phase 2: finding surrounding indentation
+INFO: Phase 3: indenting objects
+INFO: Phase 4: final indentation check
+INFO: Output routine:
+      Not outputting to file; see -w and -o switches for more options.
+      --------------
+INFO: Please direct all communication/issues to:
+      https://github.com/cmhughes/latexindent.pl

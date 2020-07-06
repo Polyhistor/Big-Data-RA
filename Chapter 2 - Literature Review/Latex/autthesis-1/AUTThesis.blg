@@ -34,52 +34,50 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: bibFile.bib
-Warning--I didn't find a database entry for "Alter2002"
-Warning--I didn't find a database entry for "Alter2004"
-Warning--I didn't find a database entry for "Bannon1997"
-Warning--I didn't find a database entry for "Quine2004"
-Warning--I didn't find a database entry for "Peirce1992a"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--`others' not consistent with 6th ed. of the APA Manual
-You've used 12 entries,
+Warning--No journal in Popescu2019
+Warning--No journal in Rada2017
+Warning--No journal in Stats2017
+You've used 34 entries,
             6951 wiz_defined-function locations,
-            1382 strings with 13138 characters,
-and the built_in function-call counts, 20963 in all, are:
-= -- 2645
-> -- 189
-< -- 813
-+ -- 797
-- -- 26
-* -- 1288
-:= -- 3485
-add.period$ -- 54
-call.type$ -- 12
-change.case$ -- 207
+            1537 strings with 17756 characters,
+and the built_in function-call counts, 70238 in all, are:
+= -- 8613
+> -- 630
+< -- 3341
++ -- 3472
+- -- 70
+* -- 4670
+:= -- 12583
+add.period$ -- 147
+call.type$ -- 34
+change.case$ -- 583
 chr.to.int$ -- 0
-cite$ -- 24
-duplicate$ -- 573
-empty$ -- 945
-format.name$ -- 271
-if$ -- 4205
+cite$ -- 71
+duplicate$ -- 2003
+empty$ -- 2749
+format.name$ -- 1024
+if$ -- 13292
 int.to.chr$ -- 0
-int.to.str$ -- 36
+int.to.str$ -- 102
 missing$ -- 0
-newline$ -- 321
-num.names$ -- 96
-pop$ -- 406
+newline$ -- 945
+num.names$ -- 272
+pop$ -- 993
 preamble$ -- 1
-purify$ -- 48
+purify$ -- 136
 quote$ -- 0
-skip$ -- 1496
+skip$ -- 4540
 stack$ -- 0
-substring$ -- 928
-swap$ -- 418
-text.length$ -- 48
+substring$ -- 3861
+swap$ -- 1343
+text.length$ -- 115
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1152
-warning$ -- 1
-while$ -- 95
+type$ -- 3104
+warning$ -- 4
+while$ -- 357
 width$ -- 0
-write$ -- 382
-(There were 6 warnings)
+write$ -- 1182
+(There were 4 warnings)
