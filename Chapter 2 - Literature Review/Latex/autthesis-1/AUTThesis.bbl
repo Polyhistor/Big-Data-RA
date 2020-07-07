@@ -97,6 +97,41 @@ Amatriain, X.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Bates%
+, Saria%
+, Ohno-Machado%
+, Shah%
+\BCBL {}\ \BBA {} Escobar%
+}{%
+Bates%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+Bates2014}
+\APACinsertmetastar {%
+Bates2014}%
+\begin{APACrefauthors}%
+Bates, D\BPBI W.%
+, Saria, S.%
+, Ohno-Machado, L.%
+, Shah, A.%
+\BCBL {}\ \BBA {} Escobar, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Big data in health care: using analytics to identify and
+  manage high-risk and high-cost patients} {Big data in health care: using
+  analytics to identify and manage high-risk and high-cost patients}{\BBCQ}\
+  [Journal Article].
+\newblock
+\APACjournalVolNumPages{Health Affairs}{33}{7}{1123-1131}.
+\newblock
+\begin{APACrefDOI} \doi{10.1377/hlthaff.2014.0041} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Bohlouli%
 , Dalter%
 , Dornhöfer%
@@ -187,11 +222,11 @@ Chainey, S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Chen%
+H.~Chen%
 , Chiang%
 \BCBL {}\ \BBA {} Storey%
 }{%
-Chen%
+H.~Chen%
 \ \protect \BOthers {.}}{%
 {\protect \APACyear {2012}}%
 }]{%
@@ -214,6 +249,38 @@ Chen, H.%
 \APACjournalVolNumPages{MIS quarterly}{36}{4}{1165}.
 \newblock
 \begin{APACrefDOI} \doi{10.2307/41703503} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+M.~Chen%
+\ \protect \BOthers {.}}{%
+M.~Chen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+Chen2018}
+\APACinsertmetastar {%
+Chen2018}%
+\begin{APACrefauthors}%
+Chen, M.%
+, Yang, J.%
+, Zhou, J.%
+, Hao, Y.%
+, Zhang, J.%
+\BCBL {}\ \BBA {} Youn, C\BHBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {5G-smart diabetes: Toward personalized diabetes
+  diagnosis with healthcare big data clouds} {5g-smart diabetes: Toward
+  personalized diabetes diagnosis with healthcare big data clouds}{\BBCQ}\
+  [Journal Article].
+\newblock
+\APACjournalVolNumPages{IEEE Communications Magazine}{56}{4}{16-23}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/mcom.2018.1700788} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -308,6 +375,37 @@ Durahim, A\BPBI O.%
   Change}{99}{}{92-105}.
 \newblock
 \begin{APACrefDOI} \doi{10.1016/j.techfore.2015.06.035} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Firouzi%
+\ \protect \BOthers {.}}{%
+Firouzi%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+firouzi2018internet}
+\APACinsertmetastar {%
+firouzi2018internet}%
+\begin{APACrefauthors}%
+Firouzi, F.%
+, Rahmani, A\BPBI M.%
+, Mankodiya, K.%
+, Badaroglu, M.%
+, Merrett, G\BPBI V.%
+, Wong, P.%
+\BCBL {}\ \BBA {} Farahani, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {Internet-of-Things and big data for smarter healthcare: From
+  device to architecture, applications and analytics.} {Internet-of-things and
+  big data for smarter healthcare: From device to architecture, applications
+  and analytics.}
+\newblock
+\APACaddressPublisher{}{Elsevier}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -570,10 +668,44 @@ Liao, C.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Lin%
+K.~Lin%
+, Xia%
+, Wang%
+, Tian%
+\BCBL {}\ \BBA {} Song%
+}{%
+K.~Lin%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Lin2016}
+\APACinsertmetastar {%
+Lin2016}%
+\begin{APACrefauthors}%
+Lin, K.%
+, Xia, F.%
+, Wang, W.%
+, Tian, D.%
+\BCBL {}\ \BBA {} Song, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {System design for big data application in emotion-aware
+  healthcare} {System design for big data application in emotion-aware
+  healthcare}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{IEEE Access}{4}{}{6901-6909}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/access.2016.2616643} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+R.~Lin%
 \ \BBA {} Utz%
 }{%
-Lin%
+R.~Lin%
 \ \BBA {} Utz%
 }{%
 {\protect \APACyear {2015}}%
@@ -630,6 +762,41 @@ Long, C.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Luo%
+, Wu%
+, Gopukumar%
+\BCBL {}\ \BBA {} Zhao%
+}{%
+Luo%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Luo2016}
+\APACinsertmetastar {%
+Luo2016}%
+\begin{APACrefauthors}%
+Luo, J.%
+, Wu, M.%
+, Gopukumar, D.%
+\BCBL {}\ \BBA {} Zhao, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Big Data Application in Biomedical Research and Health
+  Care: A Literature Review} {Big data application in biomedical research and
+  health care: A literature review}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Biomed Inform Insights}{8}{}{1-10}.
+\newblock
+\begin{APACrefURL} \url{https://www.ncbi.nlm.nih.gov/pubmed/26843812}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.4137/BII.S31559} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Lycett%
 }{%
 Lycett%
@@ -650,7 +817,7 @@ Lycett, M.%
   world} {‘datafication’: making sense of (big) data in a complex world}\
   (\BVOL~22).
 \newblock
-\APACaddressPublisher{}{Taylor and Francis}.
+\APACaddressPublisher{}{Taylor \and Francis}.
 \newblock
 \begin{APACrefDOI} \doi{10.1057/ejis.2013.10} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
@@ -707,6 +874,70 @@ McKinsey, G.%
 \APACjournalVolNumPages{McKinsey Global Institute}{}{}{158-184}.
 \newblock
 \begin{APACrefDOI} \doi{10.7591/9781501734328-007} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mehta%
+\ \BBA {} Pandit%
+}{%
+Mehta%
+\ \BBA {} Pandit%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+Mehta2018}
+\APACinsertmetastar {%
+Mehta2018}%
+\begin{APACrefauthors}%
+Mehta, N.%
+\BCBT {}\ \BBA {} Pandit, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Concurrence of big data analytics and healthcare: A
+  systematic review} {Concurrence of big data analytics and healthcare: A
+  systematic review}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Int J Med Inform}{114}{}{57-65}.
+\newblock
+\begin{APACrefURL} \url{https://www.ncbi.nlm.nih.gov/pubmed/29673604}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.ijmedinf.2018.03.013} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Murdoch%
+\ \BBA {} Detsky%
+}{%
+Murdoch%
+\ \BBA {} Detsky%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Murdoch2013}
+\APACinsertmetastar {%
+Murdoch2013}%
+\begin{APACrefauthors}%
+Murdoch, T\BPBI B.%
+\BCBT {}\ \BBA {} Detsky, A\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The inevitable application of big data to health care}
+  {The inevitable application of big data to health care}{\BBCQ}\ [Journal
+  Article].
+\newblock
+\APACjournalVolNumPages{JAMA}{309}{13}{1351-2}.
+\newblock
+\begin{APACrefURL} \url{https://www.ncbi.nlm.nih.gov/pubmed/23549579}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1001/jama.2013.393} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -859,6 +1090,35 @@ Sagiroglu, S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Srinivasan%
+\ \BBA {} Arunasalam%
+}{%
+Srinivasan%
+\ \BBA {} Arunasalam%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Srinivasan2013}
+\APACinsertmetastar {%
+Srinivasan2013}%
+\begin{APACrefauthors}%
+Srinivasan, U.%
+\BCBT {}\ \BBA {} Arunasalam, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Leveraging big data analytics to reduce healthcare
+  costs} {Leveraging big data analytics to reduce healthcare costs}{\BBCQ}\
+  [Journal Article].
+\newblock
+\APACjournalVolNumPages{IT professional}{15}{6}{21-28}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/mitp.2013.55} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Srivastava%
 }{%
 Srivastava%
@@ -995,11 +1255,11 @@ Wirth, N.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Zhang%
+M.~Zhang%
 , Liu%
 \BCBL {}\ \BBA {} Feng%
 }{%
-Zhang%
+M.~Zhang%
 \ \protect \BOthers {.}}{%
 {\protect \APACyear {2019}}%
 }]{%
@@ -1027,6 +1287,40 @@ Zhang, M.%
 \APACaddressPublisher{}{IEEE}.
 \newblock
 \begin{APACrefDOI} \doi{10.1109/icitbs.2019.00083} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Y.~Zhang%
+, Qiu%
+, Tsai%
+, Hassan%
+\BCBL {}\ \BBA {} Alamri%
+}{%
+Y.~Zhang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Zhang2015}
+\APACinsertmetastar {%
+Zhang2015}%
+\begin{APACrefauthors}%
+Zhang, Y.%
+, Qiu, M.%
+, Tsai, C\BHBI W.%
+, Hassan, M\BPBI M.%
+\BCBL {}\ \BBA {} Alamri, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Health-CPS: Healthcare cyber-physical system assisted by
+  cloud and big data} {Health-cps: Healthcare cyber-physical system assisted by
+  cloud and big data}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{IEEE Systems Journal}{11}{1}{88-95}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/jsyst.2015.2460747} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

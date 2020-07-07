@@ -3855,4 +3855,15 @@
   publisher = {American Medical Association},
 }
 
+@Misc{firouzi2018internet,
+  author    = {Firouzi, Farshad and Rahmani, Amir M and Mankodiya, Kunal and Badaroglu, Mustafa and Merrett, Geoff V and Wong, P and Farahani, Bahar},
+  title     = {Internet-of-Things and big data for smarter healthcare: From device to architecture, applications and analytics},
+  year      = {2018},
+  doi       = {10.1016/j.future.2017.09.016},
+  issn      = {0167-739X},
+  pages     = {583-586},
+  publisher = {Elsevier},
+  volume    = {78},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
