@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.1)  6 JUL 2020 22:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.1)  7 JUL 2020 21:15
 entering extended mode
 **"c:/Users/Admin/OneDrive - AUT University/PHD Journey/Chapter 2 - Literature Review/Latex/autthesis-1/AUTThesis.tex"
 ("c:/Users/Admin/OneDrive - AUT University/PHD Journey/Chapter 2 - Literature Review/Latex/autthesis-1/AUTThesis.tex"
@@ -608,47 +608,53 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 \rotFPbot=\skip102
 \rot@float@box=\box100
 \rot@mess@toks=\toks32
+) (D:\MikTex\tex/latex/multirow\multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip103
+\multirow@cntb=\count308
+\multirow@dima=\skip104
+\bigstrutjot=\dimen192
 ) (D:\MikTex\tex/latex/l3backend\l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-05-05 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count308
+\l__kernel_color_stack_int=\count309
 \l__pdf_internal_box=\box101
 ) ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.aux" ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/intro.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/LitReview.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Method.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Analysis.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Discussion.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Conclusion.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Glossary.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/FirstAppendix.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/SecondAppendix.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/confidentialMaterial.aux"))
 \openout1 = `AUTThesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for LG/cmr/m/n on input line 57.
-LaTeX Font Info:    Trying to load font information for LG+cmr on input line 57.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for LG/cmr/m/n on input line 58.
+LaTeX Font Info:    Trying to load font information for LG+cmr on input line 58.
  (D:\MikTex\tex/latex/lgreek\lgcmr.fd
 File: LGcmr.fd 1995/04/22 v2.3f Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 57.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 58.
  (D:\MikTex\tex/latex/psnfss\t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-LaTeX Info: Redefining \microtypecontext on input line 57.
+LaTeX Info: Redefining \microtypecontext on input line 58.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 57.
+LaTeX Info: Redefining \showhyphens on input line 58.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -656,16 +662,16 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 ) (D:\MikTex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count309
-\scratchdimen=\dimen192
+\scratchcounter=\count310
+\scratchdimen=\dimen193
 \scratchbox=\box102
-\nofMPsegments=\count310
-\nofMParguments=\count311
+\nofMPsegments=\count311
+\nofMParguments=\count312
 \everyMPshowfont=\toks33
-\MPscratchCnt=\count312
-\MPscratchDim=\dimen193
-\MPnumerator=\count313
-\makeMPintoPDFobject=\count314
+\MPscratchCnt=\count313
+\MPscratchDim=\dimen194
+\MPnumerator=\count314
+\makeMPintoPDFobject=\count315
 \everyMPtoPDFconversion=\toks34
 ) (D:\MikTex\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -677,9 +683,9 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 57.
+LaTeX Info: Redefining \selectfont on input line 58.
 \AtBeginShipoutBox=\box103
-Package hyperref Info: Link coloring OFF on input line 57.
+Package hyperref Info: Link coloring OFF on input line 58.
  (D:\MikTex\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (D:\MikTex\tex/latex/refcount\refcount.sty
@@ -687,18 +693,18 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (D:\MikTex\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count315
+\c@section@level=\count316
 LaTeX Info: Redefining \Ref on input line 520.
 )
-LaTeX Info: Redefining \ref on input line 57.
-LaTeX Info: Redefining \pageref on input line 57.
-LaTeX Info: Redefining \nameref on input line 57.
+LaTeX Info: Redefining \ref on input line 58.
+LaTeX Info: Redefining \pageref on input line 58.
+LaTeX Info: Redefining \nameref on input line 58.
  ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.out") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.out")
 \@outlinefile=\write3
 \openout3 = `AUTThesis.out'.
 
-LaTeX Info: Redefining \Ref on input line 57.
-\c@maskedRefs=\count316
+LaTeX Info: Redefining \Ref on input line 58.
+\c@maskedRefs=\count317
  (D:\MikTex\tex/latex/apacite\english.apc
 File: english.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 129.
@@ -738,7 +744,11 @@ File: images/Datocracy.png Graphic file (type png)
 <use images/Datocracy.png>
 Package pdftex.def Info: images/Datocracy.png  used on input line 66.
 (pdftex.def)             Requested size: 227.62204pt x 71.31015pt.
- [7 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Chapter 2 - Literature Review/Latex/autthesis-1/images/Datocracy.png>] [8] [9]) [10] ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.bbl"
+ [7 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Chapter 2 - Literature Review/Latex/autthesis-1/images/Datocracy.png>] [8] [9]
+Overfull \vbox (3.62694pt too high) detected at line 102
+ []
+
+) [10] ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.bbl"
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 277.
  (D:\MikTex\tex/latex/psnfss\t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
@@ -755,26 +765,26 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 ] [33]) [34]
-\c@appendix=\count317
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 184.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 184.
+\c@appendix=\count318
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 185.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 185.
  ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.aux" ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/intro.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/LitReview.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Method.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Analysis.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Discussion.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Conclusion.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/Glossary.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/FirstAppendix.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/SecondAppendix.aux") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\includes/confidentialMaterial.aux"))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 184.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 184.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 185.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 185.
 Package rerunfilecheck Info: File `AUTThesis.out' has not changed.
 (rerunfilecheck)             Checksum: 6C58C9ED7E784BF39100FB752AB462C3;650.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 184.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 185.
  ) 
 Here is how much of TeX's memory you used:
- 15680 strings out of 480795
- 233721 string characters out of 2913778
- 530707 words of memory out of 3000000
- 31041 multiletter control sequences out of 15000+200000
+ 15732 strings out of 480795
+ 234471 string characters out of 2913778
+ 531316 words of memory out of 3000000
+ 31089 multiletter control sequences out of 15000+200000
  594350 words of font info for 237 fonts, out of 3000000 for 9000
  1146 hyphenation exceptions out of 8191
  55i,12n,53p,1668b,460s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/MikTex/fonts/enc/dvips/base/8r.enc}<D:/MikTex/fonts/type1/urw/courier/ucrr8a.pfb><D:/MikTex/fonts/type1/urw/times/utmb8a.pfb><D:/MikTex/fonts/type1/urw/times/utmr8a.pfb><D:/MikTex/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.pdf" (14 pages, 131117 bytes).
+Output written on "c:/Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.pdf" (14 pages, 131242 bytes).
 PDF statistics:
  254 PDF objects out of 1000 (max. 8388607)
  60 named destinations out of 1000 (max. 500000)
