@@ -3866,4 +3866,15 @@
   volume    = {78},
 }
 
+@InProceedings{asur2010predicting,
+  author       = {Asur, Sitaram and Huberman, Bernardo A},
+  booktitle    = {2010 IEEE/WIC/ACM international conference on web intelligence and intelligent agent technology},
+  title        = {Predicting the future with social media},
+  year         = {2010},
+  organization = {IEEE},
+  pages        = {492--499},
+  volume       = {1},
+  doi          = {10.1109/wi-iat.2010.63},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

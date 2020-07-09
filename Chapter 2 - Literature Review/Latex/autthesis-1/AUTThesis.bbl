@@ -33,6 +33,38 @@ Ahmad, W\BPBI S\BPBI H\BPBI M\BPBI W.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Akhtar%
+, Frynas%
+, Mellahi%
+\BCBL {}\ \BBA {} Ullah%
+}{%
+Akhtar%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+Akhtar2019}
+\APACinsertmetastar {%
+Akhtar2019}%
+\begin{APACrefauthors}%
+Akhtar, P.%
+, Frynas, J\BPBI G.%
+, Mellahi, K.%
+\BCBL {}\ \BBA {} Ullah, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Big Data‐Savvy Teams’ Skills, Big Data‐Driven
+  Actions and Business Performance} {Big data‐savvy teams’ skills, big
+  data‐driven actions and business performance}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{British Journal of Management}{30}{2}{252-271}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/1467-8551.12333} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Almaatouq%
 \ \protect \BOthers {.}}{%
 Almaatouq%
@@ -94,6 +126,70 @@ Amatriain, X.%
 \APACaddressPublisher{}{ACM}.
 \newblock
 \begin{APACrefDOI} \doi{10.1145/2505515.2514691} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Asur%
+\ \BBA {} Huberman%
+}{%
+Asur%
+\ \BBA {} Huberman%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+asur2010predicting}
+\APACinsertmetastar {%
+asur2010predicting}%
+\begin{APACrefauthors}%
+Asur, S.%
+\BCBT {}\ \BBA {} Huberman, B\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Predicting the future with social media} {Predicting the
+  future with social media}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2010 IEEE/WIC/ACM international conference on web
+  intelligence and intelligent agent technology} {2010 ieee/wic/acm
+  international conference on web intelligence and intelligent agent
+  technology}\ (\BVOL~1, \BPGS\ 492--499).
+\newblock
+\begin{APACrefDOI} \doi{10.1109/wi-iat.2010.63} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bahrami%
+\ \BBA {} Singhal%
+}{%
+Bahrami%
+\ \BBA {} Singhal%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+Bahrami2015}
+\APACinsertmetastar {%
+Bahrami2015}%
+\begin{APACrefauthors}%
+Bahrami, M.%
+\BCBT {}\ \BBA {} Singhal, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The role of cloud computing architecture in big data}
+  {The role of cloud computing architecture in big data}{\BBCQ}\ [Book
+  Section].
+\newblock
+\BIn{} \APACrefbtitle {Information granularity, big data, and computational
+  intelligence} {Information granularity, big data, and computational
+  intelligence}\ (\BPG~275-295).
+\newblock
+\APACaddressPublisher{}{Springer}.
+\newblock
+\begin{APACrefDOI} \doi{10.1201/9781315155678-8} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -164,6 +260,31 @@ Bohlouli, M.%
 \APACjournalVolNumPages{Journal of Information Science}{41}{6}{779-798}.
 \newblock
 \begin{APACrefDOI} \doi{10.1177/0165551515602846} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Brewer%
+}{%
+Brewer%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+Brewer2012}
+\APACinsertmetastar {%
+Brewer2012}%
+\begin{APACrefauthors}%
+Brewer, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {CAP Twelve years Later: how the} {Cap twelve years
+  later: how the}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Computer}{45}{2}{23-29}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/mc.2012.37} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -252,6 +373,144 @@ Chen, H.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+H\BHBI M.~Chen%
+, Kazman%
+\BCBL {}\ \BBA {} Haziyev%
+}{%
+H\BHBI M.~Chen%
+, Kazman%
+\BCBL {}\ \BBA {} Haziyev%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Chen2016a}
+\APACinsertmetastar {%
+Chen2016a}%
+\begin{APACrefauthors}%
+Chen, H\BHBI M.%
+, Kazman, R.%
+\BCBL {}\ \BBA {} Haziyev, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Agile big data analytics development: An
+  architecture-centric approach} {Agile big data analytics development: An
+  architecture-centric approach}{\BBCQ}\ [Conference Proceedings].
+\newblock
+\BIn{} \APACrefbtitle {2016 49th Hawaii International Conference on System
+  Sciences (HICSS)} {2016 49th hawaii international conference on system
+  sciences (hicss)}\ (\BPG~5378-5387).
+\newblock
+\APACaddressPublisher{}{IEEE}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/hicss.2016.665} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+H\BHBI M.~Chen%
+, Kazman%
+, Haziyev%
+\BCBL {}\ \BBA {} Hrytsay%
+}{%
+H\BHBI M.~Chen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Chen2015}
+\APACinsertmetastar {%
+Chen2015}%
+\begin{APACrefauthors}%
+Chen, H\BHBI M.%
+, Kazman, R.%
+, Haziyev, S.%
+\BCBL {}\ \BBA {} Hrytsay, O.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Big data system development: An embedded case study with
+  a global outsourcing firm} {Big data system development: An embedded case
+  study with a global outsourcing firm}{\BBCQ}\ [Conference Proceedings].
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the First International Workshop on BIG
+  Data Software Engineering} {Proceedings of the first international workshop
+  on big data software engineering}\ (\BPG~44-50).
+\newblock
+\APACaddressPublisher{}{IEEE Press}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/bigdse.2015.15} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+H\BHBI M.~Chen%
+, Kazman%
+\BCBL {}\ \BBA {} Matthes%
+}{%
+H\BHBI M.~Chen%
+, Kazman%
+\BCBL {}\ \BBA {} Matthes%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Chen2016b}
+\APACinsertmetastar {%
+Chen2016b}%
+\begin{APACrefauthors}%
+Chen, H\BHBI M.%
+, Kazman, R.%
+\BCBL {}\ \BBA {} Matthes, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Demystifying big data adoption: Beyond IT fashion and
+  relative advantage} {Demystifying big data adoption: Beyond it fashion and
+  relative advantage}{\BBCQ}\ [Conference Proceedings].
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of Pre-ICIS (International Conference on
+  Information System) DIGIT workshop.} {Proceedings of pre-icis (international
+  conference on information system) digit workshop.}
+\newblock
+\begin{APACrefDOI} \doi{10.1109/hicss.2016.631} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+H\BHBI M.~Chen%
+, Schütz%
+, Kazman%
+\BCBL {}\ \BBA {} Matthes%
+}{%
+H\BHBI M.~Chen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Chen2017}
+\APACinsertmetastar {%
+Chen2017}%
+\begin{APACrefauthors}%
+Chen, H\BHBI M.%
+, Schütz, R.%
+, Kazman, R.%
+\BCBL {}\ \BBA {} Matthes, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {How Lufthansa Capitalized on Big Data for Business Model
+  Renovation} {How lufthansa capitalized on big data for business model
+  renovation}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{MIS Quarterly Executive}{16}{1}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.24251/hicss.2017.713} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 M.~Chen%
 \ \protect \BOthers {.}}{%
 M.~Chen%
@@ -284,6 +543,65 @@ Chen, M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Y\BHBI S.~Chen%
+}{%
+Y\BHBI S.~Chen%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+Chen2018a}
+\APACinsertmetastar {%
+Chen2018a}%
+\begin{APACrefauthors}%
+Chen, Y\BHBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {E-Business and Big Data Strategy in Franchising}
+  {E-business and big data strategy in franchising}{\BBCQ}\ [Book Section].
+\newblock
+\BIn{} \APACrefbtitle {Encyclopedia of Information Science and Technology,
+  Fourth Edition} {Encyclopedia of information science and technology, fourth
+  edition}\ (\BPG~2686-2696).
+\newblock
+\APACaddressPublisher{}{IGI Global}.
+\newblock
+\begin{APACrefDOI} \doi{10.4018/978-1-5225-2255-3.ch234} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Comuzzi%
+\ \BBA {} Patel%
+}{%
+Comuzzi%
+\ \BBA {} Patel%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Comuzzi2016}
+\APACinsertmetastar {%
+Comuzzi2016}%
+\begin{APACrefauthors}%
+Comuzzi, M.%
+\BCBT {}\ \BBA {} Patel, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {How organisations leverage big data: A maturity model}
+  {How organisations leverage big data: A maturity model}{\BBCQ}\ [Journal
+  Article].
+\newblock
+\APACjournalVolNumPages{Industrial management and Data
+  systems}{116}{8}{1468-1492}.
+\newblock
+\begin{APACrefDOI} \doi{10.1108/imds-12-2015-0495} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Crampton%
 }{%
 Crampton%
@@ -307,6 +625,75 @@ Crampton, J\BPBI W.%
 \APACjournalVolNumPages{GeoJournal}{80}{4}{519-531}.
 \newblock
 \begin{APACrefDOI} \doi{10.1177/2053951716661366} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Demchenko%
+, Grosso%
+, De~Laat%
+\BCBL {}\ \BBA {} Membrey%
+}{%
+Demchenko%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Demchenko2013}
+\APACinsertmetastar {%
+Demchenko2013}%
+\begin{APACrefauthors}%
+Demchenko, Y.%
+, Grosso, P.%
+, De~Laat, C.%
+\BCBL {}\ \BBA {} Membrey, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Addressing big data issues in scientific data
+  infrastructure} {Addressing big data issues in scientific data
+  infrastructure}{\BBCQ}\ [Conference Proceedings].
+\newblock
+\BIn{} \APACrefbtitle {2013 International Conference on Collaboration
+  Technologies and Systems (CTS)} {2013 international conference on
+  collaboration technologies and systems (cts)}\ (\BPG~48-55).
+\newblock
+\APACaddressPublisher{}{IEEE}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/cts.2013.6567203} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dezfouli%
+, Shahraki%
+\BCBL {}\ \BBA {} Zamani%
+}{%
+Dezfouli%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+Dezfouli2018}
+\APACinsertmetastar {%
+Dezfouli2018}%
+\begin{APACrefauthors}%
+Dezfouli, M\BPBI B.%
+, Shahraki, M\BPBI H\BPBI N.%
+\BCBL {}\ \BBA {} Zamani, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A Novel Tour Planning Model using Big Data} {A novel
+  tour planning model using big data}{\BBCQ}\ [Conference Proceedings].
+\newblock
+\BIn{} \APACrefbtitle {2018 International Conference on Artificial Intelligence
+  and Data Processing (IDAP)} {2018 international conference on artificial
+  intelligence and data processing (idap)}\ (\BPG~1-6).
+\newblock
+\APACaddressPublisher{}{IEEE}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/idap.2018.8620933} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -378,6 +765,29 @@ Durahim, A\BPBI O.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Elmasri%
+}{%
+Elmasri%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Elmasri2017}
+\APACinsertmetastar {%
+Elmasri2017}%
+\begin{APACrefauthors}%
+Elmasri, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\newblock
+\APACrefbtitle {Fundamentals of database systems} {Fundamentals of database
+  systems}\ [Book].
+\newblock
+\begin{APACrefDOI} \doi{10.1007/978-1-4614-8265-9_80674} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Firouzi%
 \ \protect \BOthers {.}}{%
 Firouzi%
@@ -401,11 +811,13 @@ Firouzi, F.%
 \APACrefYearMonthDay{2018}{}{}.
 \newblock
 \APACrefbtitle {Internet-of-Things and big data for smarter healthcare: From
-  device to architecture, applications and analytics.} {Internet-of-things and
+  device to architecture, applications and analytics} {Internet-of-things and
   big data for smarter healthcare: From device to architecture, applications
-  and analytics.}
+  and analytics}\ (\BVOL~78).
 \newblock
 \APACaddressPublisher{}{Elsevier}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.future.2017.09.016} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -499,6 +911,41 @@ Guo, L.%
 \APACjournalVolNumPages{Mass Communication and Society}{18}{5}{557-576}.
 \newblock
 \begin{APACrefDOI} \doi{10.1080/15205436.2015.1045300} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Han%
+, Haihong%
+, Le%
+\BCBL {}\ \BBA {} Du%
+}{%
+Han%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+Han2011}
+\APACinsertmetastar {%
+Han2011}%
+\begin{APACrefauthors}%
+Han, J.%
+, Haihong, E.%
+, Le, G.%
+\BCBL {}\ \BBA {} Du, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Survey on NoSQL database} {Survey on nosql
+  database}{\BBCQ}\ [Conference Proceedings].
+\newblock
+\BIn{} \APACrefbtitle {2011 6th international conference on pervasive computing
+  and applications} {2011 6th international conference on pervasive computing
+  and applications}\ (\BPG~363-366).
+\newblock
+\APACaddressPublisher{}{IEEE}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/icpca.2011.6106531} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -850,6 +1297,64 @@ Marr, B.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Marz%
+\ \BBA {} Warren%
+}{%
+Marz%
+\ \BBA {} Warren%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+Marz2015}
+\APACinsertmetastar {%
+Marz2015}%
+\begin{APACrefauthors}%
+Marz, N.%
+\BCBT {}\ \BBA {} Warren, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2015}.
+\newblock
+\APACrefbtitle {Big Data: Principles and best practices of scalable real-time
+  data systems} {Big data: Principles and best practices of scalable real-time
+  data systems}\ [Book].
+\newblock
+\APACaddressPublisher{}{New York; Manning Publications Co.}
+\newblock
+\begin{APACrefDOI} \doi{10.1109/tcss.2020.2995497} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+McAfee%
+\ \BBA {} Brynjolfsson%
+}{%
+McAfee%
+\ \BBA {} Brynjolfsson%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+McAfee2012}
+\APACinsertmetastar {%
+McAfee2012}%
+\begin{APACrefauthors}%
+McAfee, A.%
+\BCBT {}\ \BBA {} Brynjolfsson, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Big data: the management revolution} {Big data: the
+  management revolution}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Harv Bus Rev}{90}{10}{60-6, 68, 128}.
+\newblock
+\begin{APACrefURL} \url{https://www.ncbi.nlm.nih.gov/pubmed/23074865}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 McKinsey%
 \ \protect \BOthers {.}}{%
 McKinsey%
@@ -906,6 +1411,69 @@ Mehta, N.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1016/j.ijmedinf.2018.03.013} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mikalef%
+, Pappas%
+, Krogstie%
+\BCBL {}\ \BBA {} Giannakos%
+}{%
+Mikalef%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+Mikalef2018}
+\APACinsertmetastar {%
+Mikalef2018}%
+\begin{APACrefauthors}%
+Mikalef, P.%
+, Pappas, I\BPBI O.%
+, Krogstie, J.%
+\BCBL {}\ \BBA {} Giannakos, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Big data analytics capabilities: a systematic literature
+  review and research agenda} {Big data analytics capabilities: a systematic
+  literature review and research agenda}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Information Systems and e-Business
+  Management}{16}{3}{547-578}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/educon.2018.8363273} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Moniruzzaman%
+\ \BBA {} Hossain%
+}{%
+Moniruzzaman%
+\ \BBA {} Hossain%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Moniruzzaman2013}
+\APACinsertmetastar {%
+Moniruzzaman2013}%
+\begin{APACrefauthors}%
+Moniruzzaman, A.%
+\BCBT {}\ \BBA {} Hossain, S\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Nosql database: New era of databases for big data
+  analytics-classification, characteristics and comparison} {Nosql database:
+  New era of databases for big data analytics-classification, characteristics
+  and comparison}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{arXiv preprint arXiv:1307.0191}{}{}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/icrito.2015.7359207} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -997,6 +1565,70 @@ Popescu, F.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Popovič%
+, Hackney%
+, Tassabehji%
+\BCBL {}\ \BBA {} Castelli%
+}{%
+Popovič%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+Popovic2018}
+\APACinsertmetastar {%
+Popovic2018}%
+\begin{APACrefauthors}%
+Popovič, A.%
+, Hackney, R.%
+, Tassabehji, R.%
+\BCBL {}\ \BBA {} Castelli, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The impact of big data analytics on firms’ high value
+  business performance} {The impact of big data analytics on firms’ high
+  value business performance}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Information Systems Frontiers}{20}{2}{209-222}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.jbusres.2018.12.072} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Qin%
+\ \protect \BOthers {.}}{%
+Qin%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+Qin2019}
+\APACinsertmetastar {%
+Qin2019}%
+\begin{APACrefauthors}%
+Qin, S.%
+, Man, J.%
+, Wang, X.%
+, Li, C.%
+, Dong, H.%
+\BCBL {}\ \BBA {} Ge, X.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Applying Big Data Analytics to Monitor Tourist Flow for
+  the Scenic Area Operation Management} {Applying big data analytics to monitor
+  tourist flow for the scenic area operation management}{\BBCQ}\ [Journal
+  Article].
+\newblock
+\APACjournalVolNumPages{Discrete Dynamics in Nature and Society}{2019}{}{1-11}.
+\newblock
+\begin{APACrefDOI} \doi{10.1155/2019/8239047} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Rad%
 \ \BBA {} Ataei%
 }{%
@@ -1058,6 +1690,61 @@ Rada, B\BPBI B.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Ranjan%
+}{%
+Ranjan%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+Ranjan2019}
+\APACinsertmetastar {%
+Ranjan2019}%
+\begin{APACrefauthors}%
+Ranjan, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The 10 Vs of Big Data framework in the Context of 5
+  Industry Verticals} {The 10 vs of big data framework in the context of 5
+  industry verticals}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Productivity}{59}{4}{324-342}.
+\newblock
+\begin{APACrefDOI} \doi{10.32381/prod.2019.59.04.2} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sadalage%
+\ \BBA {} Fowler%
+}{%
+Sadalage%
+\ \BBA {} Fowler%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Sadalage2013}
+\APACinsertmetastar {%
+Sadalage2013}%
+\begin{APACrefauthors}%
+Sadalage, P\BPBI J.%
+\BCBT {}\ \BBA {} Fowler, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2013}.
+\newblock
+\APACrefbtitle {NoSQL distilled: a brief guide to the emerging world of
+  polyglot persistence} {Nosql distilled: a brief guide to the emerging world
+  of polyglot persistence}\ [Book].
+\newblock
+\APACaddressPublisher{}{Pearson Education}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/aiccsa.2015.7507130} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Sagiroglu%
 \ \BBA {} Sinanc%
 }{%
@@ -1090,6 +1777,63 @@ Sagiroglu, S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Sigala%
+}{%
+Sigala%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+Sigala2019}
+\APACinsertmetastar {%
+Sigala2019}%
+\begin{APACrefauthors}%
+Sigala, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2019}.
+\newblock
+\APACrefbtitle {Big Data and Innovation in Tourism, Travel, and Hospitality:
+  Managerial Approaches, Techniques, and Applications} {Big data and innovation
+  in tourism, travel, and hospitality: Managerial approaches, techniques, and
+  applications}\ [Book].
+\newblock
+\APACaddressPublisher{}{ieeexplore}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/978-981-13-6339-9_4} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Snijders%
+, Matzat%
+\BCBL {}\ \BBA {} Reips%
+}{%
+Snijders%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+Snijders2012}
+\APACinsertmetastar {%
+Snijders2012}%
+\begin{APACrefauthors}%
+Snijders, C.%
+, Matzat, U.%
+\BCBL {}\ \BBA {} Reips, U\BHBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {" Big Data": big gaps of knowledge in the field of
+  internet science} {" big data": big gaps of knowledge in the field of
+  internet science}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{International Journal of Internet Science}{7}{1}{1-5}.
+\newblock
+\begin{APACrefDOI} \doi{10.1037/13620-017} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Srinivasan%
 \ \BBA {} Arunasalam%
 }{%
@@ -1119,9 +1863,42 @@ Srinivasan, U.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Srivastava%
+K.~Srivastava%
+\ \BBA {} Shekokar%
 }{%
-Srivastava%
+K.~Srivastava%
+\ \BBA {} Shekokar%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Srivastava2016}
+\APACinsertmetastar {%
+Srivastava2016}%
+\begin{APACrefauthors}%
+Srivastava, K.%
+\BCBT {}\ \BBA {} Shekokar, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A Polyglot Persistence approach for E-Commerce business
+  model} {A polyglot persistence approach for e-commerce business
+  model}{\BBCQ}\ [Conference Proceedings].
+\newblock
+\BIn{} \APACrefbtitle {2016 International Conference on Information Science
+  (ICIS)} {2016 international conference on information science (icis)}\
+  (\BPG~7-11).
+\newblock
+\APACaddressPublisher{}{IEEE}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/infosci.2016.7845291} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+R.~Srivastava%
+}{%
+R.~Srivastava%
 }{%
 {\protect \APACyear {2018}}%
 }]{%
@@ -1167,6 +1944,101 @@ Stats, I\BPBI L.%
 \APACjournalVolNumPages{}{10}{}{7}.
 \newblock
 \begin{APACrefDOI} \doi{10.3390/fi10010007} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tran%
+\ \protect \BOthers {.}}{%
+Tran%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+Tran2018}
+\APACinsertmetastar {%
+Tran2018}%
+\begin{APACrefauthors}%
+Tran, P\BPBI H.%
+, Tran, K\BPBI P.%
+, Huong, T\BPBI T.%
+, Heuchenne, C.%
+, HienTran, P.%
+\BCBL {}\ \BBA {} Le, T\BPBI M\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Real time data-driven approaches for credit card fraud
+  detection} {Real time data-driven approaches for credit card fraud
+  detection}{\BBCQ}\ [Conference Proceedings].
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 2018 International Conference on
+  E-Business and Applications} {Proceedings of the 2018 international
+  conference on e-business and applications}\ (\BPG~6-9).
+\newblock
+\APACaddressPublisher{}{ACM}.
+\newblock
+\begin{APACrefDOI} \doi{10.1145/3194188.3194196} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+van~den Driest%
+, Sthanunathan%
+\BCBL {}\ \BBA {} Weed%
+}{%
+van~den Driest%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Driest2016}
+\APACinsertmetastar {%
+Driest2016}%
+\begin{APACrefauthors}%
+van~den Driest, F.%
+, Sthanunathan, S.%
+\BCBL {}\ \BBA {} Weed, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Building an insights engine} {Building an insights
+  engine}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Harvard business review}{94}{9}{15}.
+\newblock
+\begin{APACrefDOI} \doi{10.2501/jar-2016-029} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wamba%
+\ \protect \BOthers {.}}{%
+Wamba%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Wamba2017}
+\APACinsertmetastar {%
+Wamba2017}%
+\begin{APACrefauthors}%
+Wamba, S\BPBI F.%
+, Gunasekaran, A.%
+, Akter, S.%
+, Ren, S\BPBI J\BHBI f.%
+, Dubey, R.%
+\BCBL {}\ \BBA {} Childe, S\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Big data analytics and firm performance: Effects of
+  dynamic capabilities} {Big data analytics and firm performance: Effects of
+  dynamic capabilities}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Journal of Business Research}{70}{}{356-365}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.jbusres.2016.08.009} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

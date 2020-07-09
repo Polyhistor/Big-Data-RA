@@ -328,14 +328,21 @@ INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literatur
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\images\Datocracy.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\images\Datocracy.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\images\Datocracy.png
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.bbl
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.bbl
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmri8t.tfm
+INPUT D:\MikTex\fonts\vf\adobe\times\ptmri8t.vf
+INPUT D:\MikTex\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT D:\MikTex\tex\latex\psnfss\ts1ptm.fd
+INPUT D:\MikTex\tex\latex\psnfss\ts1ptm.fd
+INPUT D:\MikTex\fonts\tfm\adobe\times\ptmr8c.tfm
+INPUT D:\MikTex\fonts\tfm\adobe\times\ptmb8t.tfm
+INPUT D:\MikTex\fonts\vf\adobe\times\ptmr8c.vf
+INPUT D:\MikTex\fonts\vf\adobe\times\ptmb8t.vf
+INPUT D:\MikTex\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.bbl
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Chapter 2 - Literature Review\Latex\autthesis-1\AUTThesis.bbl
 INPUT D:\MikTex\tex\latex\psnfss\t1pcr.fd
 INPUT D:\MikTex\tex\latex\psnfss\t1pcr.fd
 INPUT D:\MikTex\fonts\tfm\adobe\courier\pcrr8t.tfm
-INPUT D:\MikTex\fonts\vf\adobe\times\ptmri8t.vf
-INPUT D:\MikTex\fonts\tfm\adobe\times\ptmri8r.tfm
 INPUT D:\MikTex\fonts\vf\adobe\courier\pcrr8t.vf
 INPUT D:\MikTex\fonts\tfm\adobe\courier\pcrr8r.tfm
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmr8t.tfm
